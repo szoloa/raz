@@ -112,11 +112,13 @@ class appliction(tk.Frame):
         root_web = Tk()
         root_web.geometry("500x300+100+200")
         root_web.title("更改搜索引擎")
+        root.iconphoto(True, PhotoImage(file='logo.png'))
         inputW(master=root_web)   
 
 root = Tk()
 root.geometry("500x300+100+200")
 root.title("开启随机主题")
+root.iconphoto(True, PhotoImage(file='logo.png'))
 
 root.lift()
 root.attributes('-topmost',True)
