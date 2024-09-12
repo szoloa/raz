@@ -31,7 +31,6 @@ web_dict = {
 def openWeb(theme):
     webbrowser.open(web % (theme))
 
-
 # 更新搜索引擎
 class inputW(tk.Frame):
     def __init__(self, master = None):
