@@ -13,6 +13,7 @@ import darkdetect
 f = open(r'.\data.txt', encoding='utf-8')
 global theme
 theme = f.readlines()
+f.close()
 
 global web
 web = 'https://search.bilibili.com/all?keyword=%s'
@@ -42,20 +43,23 @@ class inputW(tk.Frame):
     def createFrame(self):
         style = ttk.Style()
         style.configure('TButton', font=("黑体", 11))
-        self.label_web = Label()
+        self.label_web = ttk.Label(self, text='此处输入链接\n内容用%s代替', font=('黑体', 12))
 
         self.v1 = StringVar()
         self.entry_web = ttk.Entry(self, textvariable=self.v1, width=45)
         
         self.button_right = ttk.Button(self, text='确定', command=self.changeWeb)
         
+        self.label_list = ttk.Label(self, text=r'预设搜索引擎', font=('黑体', 12))
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
         for item in reversed(web_dict):
-            self.lsb.insert(0,item)
+            self.lsb.insert(0, item)
         self.button_write = ttk.Button(self, text='填入', command=self.list_write)
 
+        self.label_web.pack()
         self.entry_web.pack()
         self.button_right.pack()
+        self.label_list.pack()
         self.lsb.pack()
         self.button_write.pack()
 
@@ -107,22 +111,26 @@ class UserItem(tk.Frame):
         self.createFrame()
 
     def createFrame(self):
-        style = ttk.Style()
-        style.configure('TButton', font=("黑体", 11))
-        self.button_userFile = ttk.Button(self, text='选择配置文件', command=self.userDo)
+        style01 = ttk.Style()
+        style01.configure('TButton01', font=("黑体", 16))
+
+        self.button_userFile = ttk.Button(self, text='导入配置文件', command=self.userDo, style='TButton')
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
 
+        self.label_tiem = ttk.Label(self, text='当前随机内容\n仅显示前40项', font=('黑体', 12))
         self.entry_item = ttk.Entry(self, width=45)
-        for i in theme[:20]:
+        for i in theme[:40]:
             self.lsb.insert(0, i)
+
 
         self.button_add = ttk.Button(self, text='添加', command=self.addItem)
         self.button_del = ttk.Button(self, text='删除', command=self.delItem)
         self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem)
 
-        self.lsb.pack()
         self.button_userFile.pack()
-
+        self.label_tiem.pack()
+        self.lsb.pack()
+        
         self.entry_item.pack()
         self.button_add.pack()
         self.button_del.pack()
@@ -217,8 +225,9 @@ class appliction(tk.Frame):
 
     def chioceTheme(self):
         chioce = random.choice(theme)
-        self.lsb.insert(0, chioce)
         openWeb(chioce)
+        self.__saveResult(chioce)
+
     
     def openHistoryPage(self):
         temp = self.lsb.get(self.lsb.curselection())
@@ -258,7 +267,13 @@ class appliction(tk.Frame):
     def chioceThemeNotGo(self):
         chioce = random.choice(theme)
         messagebox.showinfo('结果', chioce)
+        self.__saveResult(chioce)
+        
+    def __saveResult(self, chioce):
         self.lsb.insert(0, chioce)
+        with open(r'./hostory.txt', 'a+', encoding='utf-8') as f:
+            f.writelines(chioce)
+
 
 root = tk.Tk()
 
