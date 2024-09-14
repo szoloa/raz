@@ -29,9 +29,54 @@ web_dict = {
     'Yandex' : 'https://yandex.com/search/?text=%s',
 }
 
-def openWeb(theme):
-    webbrowser.open(web % (theme))
+global search_type
+search_type = 'single'
 
+def openWeb(theme):
+    if search_type == 'random':
+        rweb = random.choice(list(web_dict.values()))
+    elif search_type == 'single':
+        rweb = web
+    webbrowser.open(rweb % (theme))
+
+class BetaT(tk.Frame):
+    def __init__(self, master = None):
+        super().__init__(master)
+        self.master = master
+        self.pack()
+        self.createFrame()
+
+    def createFrame(self):
+        self.button_right = ttk.Button(self, text='开始',) # command=self.quickStart)
+        self.button_right.pack()
+        global isKilled
+        isKilled = True
+
+    # def quickStart(self):
+    #     global isKilled
+    #     if not isKilled:
+    #         isKilled = True
+    #     def runKey():
+    #         def press(key):
+    #             if key.char == "j":
+    #                 chioce = random.choice(theme)
+    #                 openWeb(chioce)
+    #             return isKilled
+    #         with keyboard.Listener(on_press = press) as listener:
+    #             listener.join()
+    #     self.thread_01 = Process(target=runKey)
+    #     self.thread_01.start()
+    #     self.button_right['text'] = '结束'
+    #     self.button_right['command'] = self.quickStop
+
+    # def quickStop(self):
+    #     if self.thread_01.is_alive:
+    #         global isKilled
+    #         isKilled = False
+    #         if not self.thread_01.is_alive:
+    #             self.button_right['text'] = '开始'
+    #             self.button_right['command'] = self.quickStart
+        
 # 更新搜索引擎
 class inputW(tk.Frame):
     def __init__(self, master = None):
@@ -48,13 +93,19 @@ class inputW(tk.Frame):
         self.v1 = StringVar()
         self.entry_web = ttk.Entry(self, textvariable=self.v1, width=45)
         
-        self.button_right = ttk.Button(self, text='确定', command=self.changeWeb)
-        
         self.label_list = ttk.Label(self, text=r'预设搜索引擎', font=('黑体', 12))
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
         for item in reversed(web_dict):
             self.lsb.insert(0, item)
         self.button_write = ttk.Button(self, text='填入', command=self.list_write)
+        
+        global search_type
+        if search_type == 'single':
+            self.button_random_web = ttk.Button(self, text='开启随机搜索引擎', command=self.random_web)
+            self.button_right = ttk.Button(self, text='确定', command=self.changeWeb)
+        elif search_type == 'random':
+            self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop)
+            self.button_right = ttk.Button(self, text='确定', command=self.addWeb)
 
         self.label_web.pack()
         self.entry_web.pack()
@@ -62,6 +113,8 @@ class inputW(tk.Frame):
         self.label_list.pack()
         self.lsb.pack()
         self.button_write.pack()
+
+        self.button_random_web.pack()
 
     def changeWeb(self):
         global web
@@ -78,6 +131,17 @@ class inputW(tk.Frame):
             self.master.attributes('-topmost',True)
             self.master.after_idle(root.attributes,'-topmost',False)
 
+    def addWeb(self):
+        global web
+        ipt = self.entry_web.get()
+        if self.checkUrl(ipt):
+            msg = messagebox.askokcancel("确认添加", "将搜索链接添加%s" % (ipt), parent=self)
+        else:
+            msg = messagebox.askokcancel("确认添加", "将搜索链接添加%s，链接好像不可用" % (ipt), parent=self)
+        if msg:
+            web_dict[ipt] = ipt
+            self.lsb.insert(0,ipt)
+        
     def list_write(self):
         item = self.lsb.get(self.lsb.curselection())
         if item == '':
@@ -91,7 +155,7 @@ class inputW(tk.Frame):
             self.master.lift()
             self.master.attributes('-topmost',True)
             self.master.after_idle(root.attributes,'-topmost',False)
-    
+
     def checkUrl(self, url, word='当你'):
         if '%s' not in url:
             return False
@@ -101,6 +165,21 @@ class inputW(tk.Frame):
             return True
         else:
             return False
+    
+    def random_web(self):
+        global search_type
+        search_type = 'random'
+        self.button_right['command'] = self.addWeb
+        self.button_random_web['text'] = '关闭随机搜索引擎'
+        self.button_random_web['command'] = self.random_web_stop
+    
+    def random_web_stop(self):
+        global search_type
+        search_type = 'single'
+        self.button_right['command'] = self.changeWeb
+        self.button_random_web['text'] = '开启随机搜索引擎'
+        self.button_random_web['command'] = self.random_web
+
 
 # 更新配置文件
 class UserItem(tk.Frame):
@@ -137,7 +216,10 @@ class UserItem(tk.Frame):
         self.button_delall.pack()
 
     def userDo(self):
-        path_ = tkinter.filedialog.askopenfilename()
+        path_ = tkinter.filedialog.askopenfilename(
+            title='请选择文件',
+        filetypes=[('文本', '.txt .TXT')])
+
         if path_ == '':
             return
         path_=path_.replace("/","\\\\")
@@ -175,7 +257,7 @@ class appliction(tk.Frame):
         self.master = master
         self.pack()
         self.createFrame()
-
+        
     def createFrame(self):
         style = ttk.Style()
         style.configure('TButton', font=("黑体", 11))
@@ -211,8 +293,16 @@ class appliction(tk.Frame):
 
         self.buttoon_changeWeb = ttk.Button(self, text='更改搜索引擎', command=self.changeWeb, width=16)
 
+        self.buttoon_beta = ttk.Button(self, text='实验性功能', command=self.betaT, width=16)
+
         # 历史记录
         self.lsb = Listbox(self, width=56, font=("黑体", 12)) 
+
+        self.lsb.bind('<Return>', self.openHistoryPage)
+        self.lsb.bind('<Up>', lambda :self.lsb.activate(self.lsb.curselection()-1))
+        self.lsb.bind('<Down>', lambda :self.lsb.activate(self.lsb.curselection()-1))
+
+        self.master.bind_all('<f>', self.chioceTheme)
         
         self.button_rand.grid(row=4, column=0, padx=4, pady=4, columnspan=4)
         self.button_rand_n.grid(row=0, column=0, padx=4, pady=4)
@@ -222,14 +312,15 @@ class appliction(tk.Frame):
         self.button_userDo.grid(row =0, column=2, padx=4, pady=4)
         self.buttoon_changeWeb.grid(row=0, column=3, padx=4, pady=4)
         self.lsb.grid(row=2, column=0, columnspan=4)
+        self.buttoon_beta.grid(row=5, column=0, padx=4, pady=4, columnspan=4)
 
-    def chioceTheme(self):
+    def chioceTheme(self, *args):
         chioce = random.choice(theme)
         openWeb(chioce)
         self.__saveResult(chioce)
 
     
-    def openHistoryPage(self):
+    def openHistoryPage(self, *args):
         temp = self.lsb.get(self.lsb.curselection())
         if temp == '':
             return
@@ -274,6 +365,12 @@ class appliction(tk.Frame):
         with open(r'./hostory.txt', 'a+', encoding='utf-8') as f:
             f.writelines(chioce)
 
+    def betaT(self):
+        root_web = Tk()
+        root_web.geometry("500x400+200+300")
+        root_web.title("实验性功能")
+        # root_web.iconphoto(True, PhotoImage(file='logo.png'))
+        BetaT(master=root_web) 
 
 root = tk.Tk()
 
