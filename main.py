@@ -27,6 +27,7 @@ web_dict = {
     'X(twitter)' : 'https://x.com/search?q=%s',
     'PronHub' : 'https://pornhub.com/video/search?search=%s',
     'Yandex' : 'https://yandex.com/search/?text=%s',
+    'YouTuBe':'https://www.youtube.com/results?search_query=%s',
 }
 
 global search_type
@@ -97,13 +98,14 @@ class inputW(tk.Frame):
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
         for item in reversed(web_dict):
             self.lsb.insert(0, item)
-        self.button_write = ttk.Button(self, text='填入', command=self.list_write)
-        
+             
         global search_type
         if search_type == 'single':
+            self.button_write = ttk.Button(self, text='填入', command=self.list_write)
             self.button_random_web = ttk.Button(self, text='开启随机搜索引擎', command=self.random_web)
             self.button_right = ttk.Button(self, text='确定', command=self.changeWeb)
         elif search_type == 'random':
+            self.button_write = ttk.Button(self, text='删除', command=self.list_write_del)
             self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop)
             self.button_right = ttk.Button(self, text='确定', command=self.addWeb)
 
@@ -156,6 +158,21 @@ class inputW(tk.Frame):
             self.master.attributes('-topmost',True)
             self.master.after_idle(root.attributes,'-topmost',False)
 
+    def list_write_del(self):
+        item = self.lsb.get(self.lsb.curselection())
+        if item == '':
+            return
+        global web_dict
+        msg = messagebox.askokcancel("确认删除", "将从搜索链接列表删除%s" % (item), parent=self)
+        if msg:
+            del web_dict[item]
+            self.lsb.delete(self.lsb.curselection())
+        else:
+            self.master.lift()
+            self.master.attributes('-topmost',True)
+            self.master.after_idle(root.attributes,'-topmost',False)
+        
+
     def checkUrl(self, url, word='当你'):
         if '%s' not in url:
             return False
@@ -172,10 +189,14 @@ class inputW(tk.Frame):
         self.button_right['command'] = self.addWeb
         self.button_random_web['text'] = '关闭随机搜索引擎'
         self.button_random_web['command'] = self.random_web_stop
+        self.button_write['text'] = '删除'
+        self.button_write['command'] = self.list_write_del
     
     def random_web_stop(self):
         global search_type
         search_type = 'single'
+        self.button_write['text'] = '填入'
+        self.button_write['command'] = self.list_write
         self.button_right['command'] = self.changeWeb
         self.button_random_web['text'] = '开启随机搜索引擎'
         self.button_random_web['command'] = self.random_web
@@ -389,10 +410,12 @@ appliction(master=root)
 
 def on_closing():
     if messagebox.askokcancel("退出", "是否要退出程序？"):
+        root.lift()
+        root.attributes('-topmost', True)
+        root.after_idle(root.attributes, '-topmost', False)
         root.quit()
         root.destroy()
         quit()
-
 root.protocol('WM_DELETE_WINDOW', on_closing)
 
 root.mainloop()
