@@ -30,4 +30,5 @@ def on_closing():
         quit()
 root.protocol('WM_DELETE_WINDOW', on_closing)
 
-root.mainloop()
+if __name__ == '__main__':
+    root.mainloop()

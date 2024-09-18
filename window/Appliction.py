@@ -21,7 +21,7 @@ class appliction(tk.Frame):
         style = ttk.Style()
         style.configure('TButton', font=("黑体", 11))
         self.button_rand = ttk.Button(self)
-        self.button_rand['text'] = '随机'
+        self.button_rand['text'] = '> 随机开启一个主题 <'
         self.button_rand['width'] = 64
         self.button_rand['command'] = self.chioceTheme
         
@@ -31,7 +31,7 @@ class appliction(tk.Frame):
         self.button_rand_n['command'] = self.chioceThemeNotGo
 
         self.button_goto = ttk.Button(self)
-        self.button_goto['text'] = '选择'
+        self.button_goto['text'] = '选择跳转此主题'
         self.button_goto['width'] = 64
         self.button_goto['command'] = self.openHistoryPage
         

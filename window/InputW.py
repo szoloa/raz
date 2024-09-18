@@ -7,6 +7,8 @@ import requests
 from tkinter import ttk
 from os import listdir as os_listdir
 import json
+import tkinter.filedialog
+
 
 # 修改搜索引擎
 class inputW(tk.Frame):
@@ -26,6 +28,7 @@ class inputW(tk.Frame):
         
         self.label_list = ttk.Label(self, text=r'预设搜索引擎', font=('黑体', 12))
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
+
         for item in reversed(custom.get_web_dict()):
             self.lsb.insert(0, item)
              
@@ -39,6 +42,9 @@ class inputW(tk.Frame):
             self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop)
             self.button_right = ttk.Button(self, text='确定', command=self.addWeb)
 
+        self.button_save = ttk.Button(self, text='保存', command=self.save_change_dict)
+        self.button_load = ttk.Button(self, text='导入', command=self.load_change_dict)
+
         self.label_web.pack()
         self.entry_web.pack()
         self.button_right.pack()
@@ -47,6 +53,8 @@ class inputW(tk.Frame):
         self.button_write.pack()
 
         self.button_random_web.pack()
+        self.button_save.pack()
+        self.button_load.pack()
 
     def changeWeb(self):
         ipt = self.entry_web.get()
@@ -128,3 +136,27 @@ class inputW(tk.Frame):
         self.button_right['command'] = self.changeWeb
         self.button_random_web['text'] = '开启随机搜索引擎'
         self.button_random_web['command'] = self.random_web
+
+    def save_change_dict(self):
+        j = json.dumps(custom.get_web_dict())
+        f = open('./web.json', 'w')
+        f.write(j)
+        f.close()
+        messagebox.showinfo(title='保存成功', message='搜索引擎配置文件保存成功')
+    
+    def load_change_dict(self):
+        path_ = tkinter.filedialog.askopenfilename(
+            title='请选择文件',
+        filetypes=[('文本', '.json')])
+
+        if path_ == '':
+            return
+        path_ = path_.replace("/","\\\\")
+        f = open(path_, 'r')
+        j = json.loads(f.read())
+        for item in reversed(j):
+            self.lsb.insert(0, item)
+        d = {}
+        d.update(j)      
+        d.update(custom.get_web_dict())
+        custom.set_web_dict(d)

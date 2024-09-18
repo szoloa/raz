@@ -1,16 +1,9 @@
 from .custom import custom
-
-import random
-import webbrowser
 from tkinter import Listbox
 from tkinter import *
-from tkinter import messagebox
 import tkinter as tk
 import tkinter.filedialog
-import requests
 from tkinter import ttk
-import sv_ttk
-import darkdetect
 from os import listdir as os_listdir
 
 # 修改随机配置文件
@@ -39,7 +32,7 @@ class UserItem(tk.Frame):
         self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem)
 
         self.lsb_ls = Listbox(self, font=("黑体", 12), width=36) 
-        for i in os_listdir('./data'):
+        for i in custom.get_Item():
             self.lsb_ls.insert(0, i)
         self.button_ls_right = ttk.Button(self, text='确定', command=self.ls_right)
 
@@ -62,12 +55,18 @@ class UserItem(tk.Frame):
 
         if path_ == '':
             return
-        path_=path_.replace("/","\\\\")
+        path_ = path_.replace("/","\\\\")
         f = open(path_, encoding='utf-8')
         theme = custom.get_theme()
         custom.set_theme(f.readlines())
         for i in theme[:20]:
             self.lsb.insert(0, i)
+
+        self.lsb_ls.insert(0, path_)
+        item = custom.get_Item()
+        item.append(path_)
+        custom.set_Item(item)
+        f.close()
 
     def addItem(self):
         item = self.entry_item.get()
@@ -94,11 +93,11 @@ class UserItem(tk.Frame):
         item = self.lsb_ls.get(self.lsb_ls.curselection())
         if item == '':
             return
-        f = open('.\\data\\%s' % (item), encoding='utf-8')
+        f = open(item, encoding='utf-8')
         theme = custom.get_theme()
         custom.set_theme(f.readlines())
         f.close()
         self.lsb.delete(0, END)
-        for i in theme[:40]:
+        for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
         
