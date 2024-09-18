@@ -1,9 +1,6 @@
 from window.custom import *
 from window.Appliction import appliction
-# 更新搜索引擎
 
-
-# 更新配置文件
 # 主程序
 root = tk.Tk()
 

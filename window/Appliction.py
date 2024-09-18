@@ -1,7 +1,21 @@
-from .custom import *
+from .custom import custom
 from .BetaT import BetaT
 from .InputW import inputW
 from .UserItem import UserItem
+
+import random
+import webbrowser
+from tkinter import Listbox
+from tkinter import *
+from tkinter import messagebox
+import tkinter as tk
+import tkinter.filedialog
+import requests
+from tkinter import ttk
+import sv_ttk
+import darkdetect
+from os import listdir as os_listdir
+import json
 
 # 主程序窗口
 class appliction(tk.Frame):
@@ -68,8 +82,8 @@ class appliction(tk.Frame):
         self.buttoon_beta.grid(row=5, column=0, padx=4, pady=4, columnspan=4)
 
     def chioceTheme(self, *args):
-        chioce = random.choice(theme)
-        openWeb(chioce)
+        chioce = random.choice(custom.get_theme())
+        custom.openWeb(chioce)
         self.__saveResult(chioce)
 
     
@@ -77,11 +91,11 @@ class appliction(tk.Frame):
         temp = self.lsb.get(self.lsb.curselection())
         if temp == '':
             return
-        openWeb(temp)
+        custom.openWeb(temp)
     
     def openMuti(self, time=5):
         for i in range(time):
-            chioce = random.choice(theme)
+            chioce = random.choice(custom.get_theme())
             self.lsb.insert(0, chioce)
 
     def windFront(self):
@@ -109,7 +123,7 @@ class appliction(tk.Frame):
         inputW(master=root_web)   
     
     def chioceThemeNotGo(self):
-        chioce = random.choice(theme)
+        chioce = random.choice(custom.get_theme())
         messagebox.showinfo('结果', chioce)
         self.__saveResult(chioce)
         

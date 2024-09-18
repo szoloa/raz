@@ -1,4 +1,18 @@
-from .custom import *
+from .custom import custom
+
+import random
+import webbrowser
+from tkinter import Listbox
+from tkinter import *
+from tkinter import messagebox
+import tkinter as tk
+import tkinter.filedialog
+import requests
+from tkinter import ttk
+import sv_ttk
+import darkdetect
+from os import listdir as os_listdir
+import json
 
 # 修改随机配置文件
 class UserItem(tk.Frame):
@@ -17,7 +31,7 @@ class UserItem(tk.Frame):
 
         self.label_tiem = ttk.Label(self, text='当前随机内容\n仅显示前40项', font=('黑体', 12))
         self.entry_item = ttk.Entry(self, width=45)
-        for i in theme[:40]:
+        for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
 
 
@@ -51,9 +65,8 @@ class UserItem(tk.Frame):
             return
         path_=path_.replace("/","\\\\")
         f = open(path_, encoding='utf-8')
-        global theme
-        theme = f.readlines()
-
+        theme = custom.get_theme()
+        custom.set_theme(f.readlines())
         for i in theme[:20]:
             self.lsb.insert(0, i)
 
@@ -61,28 +74,30 @@ class UserItem(tk.Frame):
         item = self.entry_item.get()
         if item == '':
             return
-        theme.append(item)
+        theme = custom.get_theme()
+        custom.set_theme(theme.append(item))
         self.lsb.insert(0, item)
         self.entry_item.delete(0, END)
 
     def delItem(self):
+        theme = custom.get_theme()
         item = self.lsb.curselection()
         if self.lsb.get(item) in theme:
             theme.remove(self.lsb.get(item))
         self.lsb.delete(item)
 
     def delAllItem(self):
-        global theme
+        theme = custom.get_theme()
         self.lsb.delete(0, END)
-        theme.clear()
+        custom.set_theme(theme.clear())
 
     def ls_right(self):
         item = self.lsb_ls.get(self.lsb_ls.curselection())
         if item == '':
             return
         f = open('.\\data\\%s' % (item), encoding='utf-8')
-        global theme
-        theme = f.readlines()
+        theme = custom.get_theme()
+        custom.set_theme(f.readlines())
         f.close()
         self.lsb.delete(0, END)
         for i in theme[:40]:
