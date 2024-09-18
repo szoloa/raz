@@ -9,8 +9,10 @@ import requests
 from tkinter import ttk
 import sv_ttk
 import darkdetect
+from os import listdir as os_listdir
+import json
 
-f = open(r'.\data.txt', encoding='utf-8')
+f = open(r'.\data\data.txt', encoding='utf-8')
 global theme
 theme = f.readlines()
 f.close()
@@ -227,6 +229,11 @@ class UserItem(tk.Frame):
         self.button_del = ttk.Button(self, text='删除', command=self.delItem)
         self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem)
 
+        self.lsb_ls = Listbox(self, font=("黑体", 12), width=36) 
+        for i in os_listdir('./data'):
+            self.lsb_ls.insert(0, i)
+        self.button_ls_right = ttk.Button(self, text='确定', command=self.ls_right)
+
         self.button_userFile.pack()
         self.label_tiem.pack()
         self.lsb.pack()
@@ -235,6 +242,9 @@ class UserItem(tk.Frame):
         self.button_add.pack()
         self.button_del.pack()
         self.button_delall.pack()
+
+        self.lsb_ls.pack()
+        self.button_ls_right.pack()
 
     def userDo(self):
         path_ = tkinter.filedialog.askopenfilename(
@@ -270,6 +280,17 @@ class UserItem(tk.Frame):
         self.lsb.delete(0, END)
         theme.clear()
 
+    def ls_right(self):
+        item = self.lsb_ls.get(self.lsb_ls.curselection())
+        if item == '':
+            return
+        f = open('.\\data\\%s' % (item), encoding='utf-8')
+        global theme
+        theme = f.readlines()
+        f.close()
+        self.lsb.delete(0, END)
+        for i in theme[:40]:
+            self.lsb.insert(0, i)
         
 # 主程序
 class appliction(tk.Frame):
@@ -363,7 +384,7 @@ class appliction(tk.Frame):
     # 跳转
     def userDo(self):
         root_web = Tk()
-        root_web.geometry("500x400+200+300")
+        root_web.geometry("500x640+200+300")
         root_web.title("更改随机条目")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         UserItem(master=root_web) 
@@ -412,7 +433,6 @@ def on_closing():
     if messagebox.askokcancel("退出", "是否要退出程序？"):
         root.lift()
         root.attributes('-topmost', True)
-        root.after_idle(root.attributes, '-topmost', False)
         root.quit()
         root.destroy()
         quit()
