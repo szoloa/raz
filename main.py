@@ -1,5 +1,9 @@
 from window.custom import *
 from window.Appliction import appliction
+import tkinter as tk
+import sv_ttk
+import darkdetect
+from tkinter import messagebox, PhotoImage
 
 # 主程序
 root = tk.Tk()

@@ -1,18 +1,6 @@
 from .custom import custom
-
-import random
-import webbrowser
-from tkinter import Listbox
-from tkinter import *
-from tkinter import messagebox
 import tkinter as tk
-import tkinter.filedialog
-import requests
 from tkinter import ttk
-import sv_ttk
-import darkdetect
-from os import listdir as os_listdir
-import json
 
 # 实验性功能
 class BetaT(tk.Frame):

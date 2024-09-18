@@ -12,7 +12,6 @@ from tkinter import ttk
 import sv_ttk
 import darkdetect
 from os import listdir as os_listdir
-import json
 
 # 修改随机配置文件
 class UserItem(tk.Frame):
