@@ -4,7 +4,6 @@ from tkinter import *
 import tkinter as tk
 import tkinter.filedialog
 from tkinter import ttk
-from os import listdir as os_listdir
 
 # 修改随机配置文件
 class UserItem(tk.Frame):
@@ -26,7 +25,6 @@ class UserItem(tk.Frame):
         for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
 
-
         self.button_add = ttk.Button(self, text='添加', command=self.addItem)
         self.button_del = ttk.Button(self, text='删除', command=self.delItem)
         self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem)
@@ -34,9 +32,8 @@ class UserItem(tk.Frame):
         self.lsb_ls = Listbox(self, font=("黑体", 12), width=36) 
         for i in custom.get_Item():
             self.lsb_ls.insert(0, i)
-        self.button_ls_right = ttk.Button(self, text='确定', command=self.ls_right)
+        self.button_ls_right = ttk.Button(self, text='应用随机条目文件', command=self.ls_right)
 
-        self.button_userFile.pack()
         self.label_tiem.pack()
         self.lsb.pack()
         
@@ -47,6 +44,7 @@ class UserItem(tk.Frame):
 
         self.lsb_ls.pack()
         self.button_ls_right.pack()
+        self.button_userFile.pack()
 
     def userDo(self):
         path_ = tkinter.filedialog.askopenfilename(
@@ -73,7 +71,8 @@ class UserItem(tk.Frame):
         if item == '':
             return
         theme = custom.get_theme()
-        custom.set_theme(theme.append(item))
+        theme.append(item)
+        custom.set_theme(theme)
         self.lsb.insert(0, item)
         self.entry_item.delete(0, END)
 
@@ -82,12 +81,14 @@ class UserItem(tk.Frame):
         item = self.lsb.curselection()
         if self.lsb.get(item) in theme:
             theme.remove(self.lsb.get(item))
+            custom.set_theme(theme)
         self.lsb.delete(item)
 
     def delAllItem(self):
         theme = custom.get_theme()
         self.lsb.delete(0, END)
-        custom.set_theme(theme.clear())
+        theme.clear()
+        custom.set_theme(theme)
 
     def ls_right(self):
         item = self.lsb_ls.get(self.lsb_ls.curselection())
@@ -100,4 +101,3 @@ class UserItem(tk.Frame):
         self.lsb.delete(0, END)
         for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
-        

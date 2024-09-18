@@ -5,16 +5,15 @@ from tkinter import messagebox
 import tkinter as tk
 import requests
 from tkinter import ttk
-from os import listdir as os_listdir
 import json
 import tkinter.filedialog
 
-
 # 修改搜索引擎
 class inputW(tk.Frame):
-    def __init__(self, master = None):
+    def __init__(self, master = None, bro = None):
         super().__init__(master)
         self.master = master
+        self.bro = bro
         self.pack()
         self.createFrame()
 
@@ -40,10 +39,10 @@ class inputW(tk.Frame):
         elif search_type == 'random':
             self.button_write = ttk.Button(self, text='删除', command=self.list_write_del)
             self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop)
-            self.button_right = ttk.Button(self, text='确定', command=self.addWeb)
+            self.button_right = ttk.Button(self, text='添加', command=self.addWeb)
 
-        self.button_save = ttk.Button(self, text='保存', command=self.save_change_dict)
-        self.button_load = ttk.Button(self, text='导入', command=self.load_change_dict)
+        self.button_save = ttk.Button(self, text='保存配置文件', command=self.save_change_dict)
+        self.button_load = ttk.Button(self, text='导入配置文件', command=self.load_change_dict)
 
         self.label_web.pack()
         self.entry_web.pack()
@@ -58,17 +57,19 @@ class inputW(tk.Frame):
 
     def changeWeb(self):
         ipt = self.entry_web.get()
-        if self.checkUrl(ipt):
-            msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s" % (ipt), parent=self)
-        else:
-            msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s，链接好像不可用" % (ipt), parent=self)
-        if msg:
-            custom.set_web(ipt)
-            self.master.destroy()
-        else:
-            self.master.lift()
-            self.master.attributes('-topmost',True)
-            self.master.after_idle(self.master.attributes,'-topmost',False)
+        if ipt != '':
+            if self.checkUrl(ipt):
+                msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s" % (ipt), parent=self)
+            else:
+                msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s，链接好像不可用" % (ipt), parent=self)
+            if msg:
+                custom.set_web(ipt)
+                self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
+                self.master.destroy()
+            else:
+                self.master.lift()
+                self.master.attributes('-topmost',True)
+                self.master.after_idle(self.master.attributes,'-topmost',False)
 
     def addWeb(self):
         web_dict = custom.get_web_dict()
@@ -89,6 +90,7 @@ class inputW(tk.Frame):
         msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s" % (item), parent=self)
         if msg:
             custom.set_web(custom.get_web_dict()[item])
+            self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
             self.master.destroy()
         else:
             self.master.lift()
@@ -128,6 +130,8 @@ class inputW(tk.Frame):
         self.button_random_web['command'] = self.random_web_stop
         self.button_write['text'] = '删除'
         self.button_write['command'] = self.list_write_del
+
+        self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
     
     def random_web_stop(self):
         custom.set_search_type('single')
@@ -136,6 +140,8 @@ class inputW(tk.Frame):
         self.button_right['command'] = self.changeWeb
         self.button_random_web['text'] = '开启随机搜索引擎'
         self.button_random_web['command'] = self.random_web
+
+        self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
 
     def save_change_dict(self):
         j = json.dumps(custom.get_web_dict())

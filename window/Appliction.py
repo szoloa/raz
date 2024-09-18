@@ -8,6 +8,7 @@ from tkinter import *
 from tkinter import messagebox
 import tkinter as tk
 from tkinter import ttk
+import clipboard
 
 # 主程序窗口
 class appliction(tk.Frame):
@@ -53,6 +54,13 @@ class appliction(tk.Frame):
         self.buttoon_changeWeb = ttk.Button(self, text='更改搜索引擎', command=self.changeWeb, width=16)
 
         self.buttoon_beta = ttk.Button(self, text='实验性功能', command=self.betaT, width=16)
+        
+        self.label_web = ttk.Label(self, text='当前搜索引擎: %s' %(custom.get_web()), font=('黑体', 12))
+
+        if custom.get_search_type() == 'random':
+            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
+        else:
+            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
 
         # 历史记录
         self.lsb = Listbox(self, width=56, font=("黑体", 12)) 
@@ -72,6 +80,7 @@ class appliction(tk.Frame):
         self.buttoon_changeWeb.grid(row=0, column=3, padx=4, pady=4)
         self.lsb.grid(row=2, column=0, columnspan=4)
         self.buttoon_beta.grid(row=5, column=0, padx=4, pady=4, columnspan=4)
+        self.label_web.grid(row=6, column=0, padx=4, pady=4, columnspan=4)
 
     def chioceTheme(self, *args):
         chioce = random.choice(custom.get_theme())
@@ -112,12 +121,14 @@ class appliction(tk.Frame):
         root_web.geometry("500x400+200+300")
         root_web.title("更改搜索引擎")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
-        inputW(master=root_web)   
+        inputW(master=root_web, bro=self)   
     
     def chioceThemeNotGo(self):
         chioce = random.choice(custom.get_theme())
-        messagebox.showinfo('结果', chioce)
         self.__saveResult(chioce)
+        msg = messagebox.askokcancel("确定或取消", f"随机结果为：{chioce}是否复制到剪切板？")
+        if msg:
+            clipboard.copy(chioce)
         
     def __saveResult(self, chioce):
         self.lsb.insert(0, chioce)
