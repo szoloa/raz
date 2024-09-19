@@ -85,7 +85,7 @@ class appliction(tk.Frame):
     def chioceTheme(self, *args):
         chioce = random.choice(custom.get_theme())
         custom.openWeb(chioce)
-        self.__saveResult(chioce)
+        self.saveResult(chioce)
 
     
     def openHistoryPage(self, *args):
@@ -130,7 +130,7 @@ class appliction(tk.Frame):
         if msg:
             clipboard.copy(chioce)
         
-    def __saveResult(self, chioce):
+    def saveResult(self, chioce):
         self.lsb.insert(0, chioce)
         with open(r'./hostory.txt', 'a+', encoding='utf-8') as f:
             f.writelines(chioce)
@@ -140,5 +140,5 @@ class appliction(tk.Frame):
         root_web.geometry("500x400+200+300")
         root_web.title("实验性功能")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
-        BetaT(master=root_web) 
+        BetaT(master=root_web, bro=self) 
 

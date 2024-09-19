@@ -63,4 +63,7 @@ class Custom():
     def set_web_dict(self, web_dict_s):
         self.__web_dict = web_dict_s
 
+global listener_v
+listener_v = None
+
 custom = Custom()
