@@ -60,7 +60,7 @@ class UserItem(tk.Frame):
 
         if path_ == '':
             return
-        path_ = path_.replace("/","\\\\")
+        path_ = path_.replace("/","////")
         # f = open(path_, encoding='utf-8')
         # theme = custom.get_theme()
         # custom.set_theme(f.readlines())

@@ -6,16 +6,16 @@ import json
 # 作为全局变量
 class Custom():
     def __init__(self) -> None:
-        f = open(r'.\data\data.txt', encoding='utf-8')
+        f = open(r'./data/data.txt', encoding='utf-8')
         self.__theme = f.readlines()
         f.close()
 
-        self.__item_user = ['.\\data\\%s' %(i) for i in os.listdir('./data')]
+        self.__item_user = ['./data/%s' %(i) for i in os.listdir('./data')]
 
         self.__web = 'https://search.bilibili.com/all?keyword=%s'
 
-        if os.path.exists('.\\web.json'):
-            with open('.\\web.json', 'r') as f:
+        if os.path.exists('./web.json'):
+            with open('./web.json', 'r') as f:
                 self.__web_dict = json.loads(f.read())
         else:
             self.__web_dict = {

@@ -157,7 +157,7 @@ class inputW(tk.Frame):
 
         if path_ == '':
             return
-        path_ = path_.replace("/","\\\\")
+        path_ = path_.replace("/","////")
         f = open(path_, 'r')
         j = json.loads(f.read())
         for item in reversed(j):
