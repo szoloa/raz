@@ -64,7 +64,7 @@ class inputW(tk.Frame):
                 msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s，链接好像不可用" % (ipt), parent=self)
             if msg:
                 custom.set_web(ipt)
-                self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
+                self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
                 self.master.destroy()
             else:
                 self.master.lift()
@@ -90,7 +90,7 @@ class inputW(tk.Frame):
         msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s" % (item), parent=self)
         if msg:
             custom.set_web(custom.get_web_dict()[item])
-            self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
+            self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
             self.master.destroy()
         else:
             self.master.lift()
@@ -141,7 +141,7 @@ class inputW(tk.Frame):
         self.button_random_web['text'] = '开启随机搜索引擎'
         self.button_random_web['command'] = self.random_web
 
-        self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
+        self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
 
     def save_change_dict(self):
         j = json.dumps(custom.get_web_dict())

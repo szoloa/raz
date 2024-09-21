@@ -2,6 +2,7 @@ from .custom import custom
 from .BetaT import BetaT
 from .InputW import inputW
 from .UserItem import UserItem
+from .AppSetting import Appset
 import random
 from tkinter import Listbox
 from tkinter import *
@@ -43,24 +44,25 @@ class appliction(tk.Frame):
 
         self.button_front = ttk.Button(self)
         self.button_front['text'] = '置于最前'
-        self.button_front['width'] = 10
+        self.button_front['width'] = 16
         self.button_front['command'] = self.windFront
 
         self.button_userDo = ttk.Button(self)
         self.button_userDo['text'] = '自定义随机文件'
-        self.button_userDo['width'] = 20
+        self.button_userDo['width'] = 16
         self.button_userDo['command'] = self.userDo
 
         self.buttoon_changeWeb = ttk.Button(self, text='更改搜索引擎', command=self.changeWeb, width=16)
 
         self.buttoon_beta = ttk.Button(self, text='实验性功能', command=self.betaT, width=16)
+        self.buttoon_setting = ttk.Button(self, text='设置', command=self.Appsetting, width=16)
         
         self.label_web = ttk.Label(self, text='当前搜索引擎: %s' %(custom.get_web()), font=('黑体', 12))
 
         if custom.get_search_type() == 'random':
             self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
         else:
-            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web())
+            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
 
         # 历史记录
         self.lsb = Listbox(self, width=56, font=("黑体", 12)) 
@@ -79,7 +81,8 @@ class appliction(tk.Frame):
         self.button_userDo.grid(row =0, column=2, padx=4, pady=4)
         self.buttoon_changeWeb.grid(row=0, column=3, padx=4, pady=4)
         self.lsb.grid(row=2, column=0, columnspan=4)
-        self.buttoon_beta.grid(row=5, column=0, padx=4, pady=4, columnspan=4)
+        self.buttoon_beta.grid(row=5, column=0, padx=4, pady=4, columnspan=2)
+        self.buttoon_setting.grid(row=5, column=2, padx=4, pady=4, columnspan=2)
         self.label_web.grid(row=6, column=0, padx=4, pady=4, columnspan=4)
 
     def chioceTheme(self, *args):
@@ -141,4 +144,11 @@ class appliction(tk.Frame):
         root_web.title("实验性功能")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         BetaT(master=root_web, bro=self) 
+    
+    def Appsetting(self):
+        root_set = Tk()
+        root_set.geometry("500x400+200+300")
+        root_set.title("设置")
+        # root_web.iconphoto(True, PhotoImage(file='logo.png'))
+        Appset(master=root_set) 
 

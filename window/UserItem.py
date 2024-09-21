@@ -1,9 +1,10 @@
 from .custom import custom
-from tkinter import Listbox
+from tkinter import Listbox, messagebox
 from tkinter import *
 import tkinter as tk
 import tkinter.filedialog
 from tkinter import ttk
+import requests
 
 # 修改随机配置文件
 class UserItem(tk.Frame):
@@ -34,6 +35,9 @@ class UserItem(tk.Frame):
             self.lsb_ls.insert(0, i)
         self.button_ls_right = ttk.Button(self, text='应用随机条目文件', command=self.ls_right)
 
+        self.entry_internet_item = ttk.Entry(self, width=45)
+        self.button_internet = ttk.Button(self, text='导入网络文件', command=self.internet_catch)
+
         self.label_tiem.pack()
         self.lsb.pack()
         
@@ -46,6 +50,9 @@ class UserItem(tk.Frame):
         self.button_ls_right.pack()
         self.button_userFile.pack()
 
+        self.entry_internet_item.pack()
+        self.button_internet.pack()
+
     def userDo(self):
         path_ = tkinter.filedialog.askopenfilename(
             title='请选择文件',
@@ -54,17 +61,17 @@ class UserItem(tk.Frame):
         if path_ == '':
             return
         path_ = path_.replace("/","\\\\")
-        f = open(path_, encoding='utf-8')
-        theme = custom.get_theme()
-        custom.set_theme(f.readlines())
-        for i in theme[:20]:
-            self.lsb.insert(0, i)
+        # f = open(path_, encoding='utf-8')
+        # theme = custom.get_theme()
+        # custom.set_theme(f.readlines())
+        # for i in theme[:20]:
+        #     self.lsb.insert(0, i)
 
         self.lsb_ls.insert(0, path_)
         item = custom.get_Item()
         item.append(path_)
         custom.set_Item(item)
-        f.close()
+        # f.close()
 
     def addItem(self):
         item = self.entry_item.get()
@@ -101,3 +108,20 @@ class UserItem(tk.Frame):
         self.lsb.delete(0, END)
         for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
+    
+    def internet_catch(self):
+        url = self.entry_internet_item.get()
+        if url == '':
+            return
+        try:
+            r = requests.get(url)
+            theme = r.text.splitlines()
+            custom.set_theme(theme)
+            for i in theme[:20]:
+                self.lsb.insert(0, i)
+            custom.set_theme(theme)
+            self.lsb.delete(0, END)
+            for i in theme[:40]:
+                self.lsb.insert(0, i)
+        except:
+            messagebox.showinfo('失败', '导入失败')

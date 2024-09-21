@@ -3,6 +3,7 @@ import webbrowser
 import os
 import json
 
+# 作为全局变量
 class Custom():
     def __init__(self) -> None:
         f = open(r'.\data\data.txt', encoding='utf-8')
@@ -51,6 +52,10 @@ class Custom():
         return self.__web
     def set_web(self, web_s):
         self.__web = web_s
+    def get_web_name(self):
+        if self.__web in self.__web_dict.values():
+            return [k for k, v in self.__web_dict.items() if v == self.__web][0]
+        return self.__web
 
     def get_search_type(self):
         return self.__search_type
