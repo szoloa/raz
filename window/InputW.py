@@ -69,7 +69,7 @@ class inputW(tk.Frame):
             else:
                 self.master.lift()
                 self.master.attributes('-topmost',True)
-                self.master.after_idle(self.master.attributes,'-topmost',False)
+                #self.master.after_idle(self.master.attributes,'-topmost',False)
 
     def addWeb(self):
         web_dict = custom.get_web_dict()
@@ -95,7 +95,7 @@ class inputW(tk.Frame):
         else:
             self.master.lift()
             self.master.attributes('-topmost',True)
-            self.master.after_idle(self.master.attributes,'-topmost',False)
+            #self.master.after_idle(self.master.attributes,'-topmost',False)
 
     def list_write_del(self):
         item = self.lsb.get(self.lsb.curselection())
@@ -110,7 +110,7 @@ class inputW(tk.Frame):
         else:
             self.master.lift()
             self.master.attributes('-topmost',True)
-            self.master.after_idle(self.master.attributes,'-topmost',False)
+            #self.master.after_idle(self.master.attributes,'-topmost',False)
         
 
     def checkUrl(self, url, word='当你'):

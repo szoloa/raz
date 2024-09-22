@@ -27,7 +27,6 @@ def on_closing():
         root.attributes('-topmost', True)
         root.quit()
         root.destroy()
-        quit()
 root.protocol('WM_DELETE_WINDOW', on_closing)
 
 if __name__ == '__main__':

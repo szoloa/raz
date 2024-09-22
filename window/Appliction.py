@@ -18,6 +18,8 @@ class appliction(tk.Frame):
         self.master = master
         self.pack()
         self.createFrame()
+        self.child_windows = []
+        self.master.protocol("WM_DELETE_WINDOW", self.on_closing)
         
     def createFrame(self):
         style = ttk.Style()
@@ -86,16 +88,28 @@ class appliction(tk.Frame):
         self.label_web.grid(row=6, column=0, padx=4, pady=4, columnspan=4)
 
     def chioceTheme(self, *args):
+        if custom.get_language() != 0:
+            self.button_rand['text'] = '> 跳转中 <'
+            self.update_idletasks()
         chioce = random.choice(custom.get_theme())
         custom.openWeb(chioce)
         self.saveResult(chioce)
+        if custom.get_language() != 0:
+            self.button_rand['text'] = '> 随机开启一个主题 <'
+            self.update_idletasks()
 
     
     def openHistoryPage(self, *args):
         temp = self.lsb.get(self.lsb.curselection())
         if temp == '':
             return
+        if custom.get_language() != 0:
+            self.button_goto['text'] = '跳转中'
+            self.update_idletasks()
         custom.openWeb(temp)
+        if custom.get_language() != 0:
+            self.button_goto['text'] = '选择跳转此主题'
+            self.update_idletasks()
     
     def openMuti(self, time=5):
         for i in range(time):
@@ -112,15 +126,15 @@ class appliction(tk.Frame):
     
     # 跳转
     def userDo(self):
-        root_web = Tk()
+        root_web = Toplevel()
         root_web.geometry("500x640+200+300")
         root_web.title("更改随机条目")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         UserItem(master=root_web) 
-    
+        self.child_windows.append(root_web)
     # 跳转
     def changeWeb(self):
-        root_web = Tk()
+        root_web = Toplevel()
         root_web.geometry("500x400+200+300")
         root_web.title("更改搜索引擎")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
@@ -139,16 +153,23 @@ class appliction(tk.Frame):
             f.writelines(chioce)
 
     def betaT(self):
-        root_web = Tk()
+        root_web = Toplevel()
         root_web.geometry("500x400+200+300")
         root_web.title("实验性功能")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         BetaT(master=root_web, bro=self) 
+        self.child_windows.append(root_web)
     
     def Appsetting(self):
-        root_set = Tk()
+        root_set = Toplevel()
         root_set.geometry("500x400+200+300")
         root_set.title("设置")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         Appset(master=root_set) 
+        self.child_windows.append(root_set)
 
+    def on_closing(self):
+        """当主窗口关闭时，关闭所有子窗口"""
+        for window in self.child_windows:
+            window.destroy()  # 关闭所有子窗口
+        self.master.destroy()  # 最后关闭主窗口

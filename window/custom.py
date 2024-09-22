@@ -2,6 +2,7 @@ import random
 import webbrowser
 import os
 import json
+from translate import Translator
 
 # 作为全局变量
 class Custom():
@@ -13,6 +14,8 @@ class Custom():
         self.__item_user = ['./data/%s' %(i) for i in os.listdir('./data')]
 
         self.__web = 'https://search.bilibili.com/all?keyword=%s'
+
+        self.__language = 0
 
         if os.path.exists('./web.json'):
             with open('./web.json', 'r') as f:
@@ -27,16 +30,41 @@ class Custom():
                 'X(twitter)' : 'https://x.com/search?q=%s',
                 'PronHub' : 'https://pornhub.com/video/search?search=%s',
                 'Yandex' : 'https://yandex.com/search/?text=%s',
-                'YouTuBe':'https://www.youtube.com/results?search_query=%s',
+                'YouTuBe' : 'https://www.youtube.com/results?search_query=%s',
+                'Google' : 'https://www.google.com.hk/search?q=%s',
+                '淘宝' : 'https://ai.taobao.com/search/index.htm?key=%s',
             }
         self.__search_type = 'single'
+        self.__search_type_s = 'theme'
 
-    def openWeb(self, theme):
+    def handle_theme(self, theme_ipt):
+        if self.__language == 0:
+                theme = theme_ipt
+                return theme
+        try:
+            if self.__language == 1:
+                theme = Translator(from_lang="Chinese", to_lang="English").translate(theme_ipt)
+            elif self.__language == 2:
+                theme = Translator(from_lang="English", to_lang="Chinese").translate(theme_ipt)
+            elif self.__language == 3:
+                theme = Translator(from_lang="Chinese", to_lang="Japanese").translate(theme_ipt)
+        except:
+            theme = theme_ipt
+        return theme
+
+    def openWeb(self, theme_ipt):
+        
+        theme = self.handle_theme(theme_ipt)
+
         if self.__search_type == 'random':
             rweb = random.choice(list(self.__web_dict.values()))
+            webbrowser.open(rweb % (theme))
         elif self.__search_type == 'single':
-            rweb = self.__web
-        webbrowser.open(rweb % (theme))
+            if self.__search_type_s == 'theme':
+                rweb = self.__web
+                webbrowser.open(rweb % (theme))
+            elif self.__search_type_s == 'url':
+                webbrowser.open(theme)
 
     def get_Item(self):
         return self.__item_user
@@ -64,9 +92,18 @@ class Custom():
 
     def get_web_dict(self):
         return self.__web_dict
-
     def set_web_dict(self, web_dict_s):
         self.__web_dict = web_dict_s
+
+    def get_search_type_s(self):
+        return self.__search_type_s
+    def set_search_type_s(self, search_typle_s_t):
+        self.__search_type_s = search_typle_s_t
+
+    def get_language(self):
+        return self.__language
+    def set_language(self, language_t):
+        self.__language = language_t
 
 global listener_v
 listener_v = None
