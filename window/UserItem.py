@@ -18,7 +18,7 @@ class UserItem(tk.Frame):
         style01 = ttk.Style()
         style01.configure('TButton01', font=("黑体", 16))
 
-        self.button_userFile = ttk.Button(self, text='导入配置文件', command=self.userDo, style='TButton')
+        self.button_userFile = ttk.Button(self, text='导入配置文件', command=self.userDo, style='TButton', width=16)
         self.lsb = Listbox(self, font=("黑体", 12), width=36) 
 
         self.label_tiem = ttk.Label(self, text='当前随机内容\n仅显示前40项', font=('黑体', 12))
@@ -26,32 +26,32 @@ class UserItem(tk.Frame):
         for i in custom.get_theme()[:40]:
             self.lsb.insert(0, i)
 
-        self.button_add = ttk.Button(self, text='添加', command=self.addItem)
-        self.button_del = ttk.Button(self, text='删除', command=self.delItem)
-        self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem)
+        self.button_add = ttk.Button(self, text='添加', command=self.addItem, width=16)
+        self.button_del = ttk.Button(self, text='删除', command=self.delItem, width=16)
+        self.button_delall = ttk.Button(self, text='清空', command=self.delAllItem, width=16)
 
         self.lsb_ls = Listbox(self, font=("黑体", 12), width=36) 
         for i in custom.get_Item():
             self.lsb_ls.insert(0, i)
-        self.button_ls_right = ttk.Button(self, text='应用随机条目文件', command=self.ls_right)
+        self.button_ls_right = ttk.Button(self, text='应用随机条目文件', command=self.ls_right, width=16)
 
         self.entry_internet_item = ttk.Entry(self, width=45)
-        self.button_internet = ttk.Button(self, text='导入网络文件', command=self.internet_catch)
+        self.button_internet = ttk.Button(self, text='导入网络文件', command=self.internet_catch, width=16)
 
-        self.label_tiem.pack()
-        self.lsb.pack()
+        self.label_tiem.pack(pady=4)
+        self.lsb.pack(pady=4)
         
-        self.entry_item.pack()
-        self.button_add.pack()
-        self.button_del.pack()
-        self.button_delall.pack()
+        self.entry_item.pack(pady=4)
+        self.button_add.pack(pady=4)
+        self.button_del.pack(pady=4)
+        self.button_delall.pack(pady=4)
 
-        self.lsb_ls.pack()
-        self.button_ls_right.pack()
-        self.button_userFile.pack()
+        self.lsb_ls.pack(pady=4)
+        self.button_ls_right.pack(pady=4)
+        self.button_userFile.pack(pady=4)
 
-        self.entry_internet_item.pack()
-        self.button_internet.pack()
+        self.entry_internet_item.pack(pady=4)
+        self.button_internet.pack(pady=4)
 
     def userDo(self):
         path_ = tkinter.filedialog.askopenfilename(

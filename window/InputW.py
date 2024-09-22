@@ -33,27 +33,27 @@ class inputW(tk.Frame):
              
         search_type = custom.get_search_type()
         if search_type == 'single':
-            self.button_write = ttk.Button(self, text='填入', command=self.list_write)
-            self.button_random_web = ttk.Button(self, text='开启随机搜索引擎', command=self.random_web)
-            self.button_right = ttk.Button(self, text='确定', command=self.changeWeb)
+            self.button_write = ttk.Button(self, text='填入', command=self.list_write, width=16)
+            self.button_random_web = ttk.Button(self, text='开启随机搜索引擎', command=self.random_web, width=16)
+            self.button_right = ttk.Button(self, text='确定', command=self.changeWeb, width=16)
         elif search_type == 'random':
-            self.button_write = ttk.Button(self, text='删除', command=self.list_write_del)
-            self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop)
-            self.button_right = ttk.Button(self, text='添加', command=self.addWeb)
+            self.button_write = ttk.Button(self, text='删除', command=self.list_write_del, width=16)
+            self.button_random_web = ttk.Button(self, text='关闭随机搜索引擎', command=self.random_web_stop, width=16)
+            self.button_right = ttk.Button(self, text='添加', command=self.addWeb, width=16)
 
-        self.button_save = ttk.Button(self, text='保存配置文件', command=self.save_change_dict)
-        self.button_load = ttk.Button(self, text='导入配置文件', command=self.load_change_dict)
+        self.button_save = ttk.Button(self, text='保存配置文件', command=self.save_change_dict, width=16)
+        self.button_load = ttk.Button(self, text='导入配置文件', command=self.load_change_dict, width=16)
 
-        self.label_web.pack()
-        self.entry_web.pack()
-        self.button_right.pack()
-        self.label_list.pack()
-        self.lsb.pack()
-        self.button_write.pack()
+        self.label_web.pack(pady=4)
+        self.entry_web.pack(pady=4)
+        self.button_right.pack(pady=4)
+        self.label_list.pack(pady=4)
+        self.lsb.pack(pady=4)
+        self.button_write.pack(pady=4)
 
-        self.button_random_web.pack()
-        self.button_save.pack()
-        self.button_load.pack()
+        self.button_random_web.pack(pady=4)
+        self.button_save.pack(pady=4)
+        self.button_load.pack(pady=4)
 
     def changeWeb(self):
         ipt = self.entry_web.get()

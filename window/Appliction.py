@@ -91,12 +91,15 @@ class appliction(tk.Frame):
         if custom.get_language() != 0:
             self.button_rand['text'] = '> 跳转中 <'
             self.update_idletasks()
-        chioce = random.choice(custom.get_theme())
-        custom.openWeb(chioce)
-        self.saveResult(chioce)
-        if custom.get_language() != 0:
+            chioce = random.choice(custom.get_theme())
+            custom.openWeb(chioce)
+            self.saveResult(chioce)
             self.button_rand['text'] = '> 随机开启一个主题 <'
             self.update_idletasks()
+        else:    
+            chioce = random.choice(custom.get_theme())
+            custom.openWeb(chioce)
+            self.saveResult(chioce)
 
     
     def openHistoryPage(self, *args):
@@ -106,11 +109,12 @@ class appliction(tk.Frame):
         if custom.get_language() != 0:
             self.button_goto['text'] = '跳转中'
             self.update_idletasks()
-        custom.openWeb(temp)
-        if custom.get_language() != 0:
+            custom.openWeb(temp)
             self.button_goto['text'] = '选择跳转此主题'
             self.update_idletasks()
-    
+        else:
+            custom.openWeb(temp)
+
     def openMuti(self, time=5):
         for i in range(time):
             chioce = random.choice(custom.get_theme())
@@ -127,7 +131,7 @@ class appliction(tk.Frame):
     # 跳转
     def userDo(self):
         root_web = Toplevel()
-        root_web.geometry("500x640+200+300")
+        root_web.geometry("500x720+200+300")
         root_web.title("更改随机条目")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         UserItem(master=root_web) 
@@ -135,14 +139,14 @@ class appliction(tk.Frame):
     # 跳转
     def changeWeb(self):
         root_web = Toplevel()
-        root_web.geometry("500x400+200+300")
+        root_web.geometry("500x480+200+300")
         root_web.title("更改搜索引擎")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         inputW(master=root_web, bro=self)   
     
     def chioceThemeNotGo(self):
         chioce = random.choice(custom.get_theme())
-        self.__saveResult(chioce)
+        self.saveResult(chioce)
         msg = messagebox.askokcancel("确定或取消", f"随机结果为：{chioce}是否复制到剪切板？")
         if msg:
             clipboard.copy(chioce)

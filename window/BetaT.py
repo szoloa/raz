@@ -43,14 +43,14 @@ class BetaT(tk.Frame):
         self.radiobutton_language_janpanese = ttk.Radiobutton(self, text='中文转日文', value=3, variable=self.radiobutton_language_var, command=self.changeLanguage)
 
 
-        self.button_right.pack()
-        self.button_u.pack()
+        self.button_right.pack(pady=4)
+        self.button_u.pack(pady=4)
 
-        self.label_language.pack()
-        self.radiobutton_language_origin.pack()
-        self.radiobutton_language_chinese.pack()
-        self.radiobutton_language_english.pack()
-        self.radiobutton_language_janpanese.pack()
+        self.label_language.pack(side='top', pady=4)
+        self.radiobutton_language_origin.pack(side='left')
+        self.radiobutton_language_chinese.pack(side='left')
+        self.radiobutton_language_english.pack(side='left')
+        self.radiobutton_language_janpanese.pack(side='left')
 
     def quickStart(self):
         global listener_v
