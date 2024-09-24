@@ -9,7 +9,7 @@ import json
 import tkinter.filedialog
 
 # 修改搜索引擎
-class inputW(tk.Frame):
+class inputW(ttk.Frame):
     def __init__(self, master = None, bro = None):
         super().__init__(master)
         self.master = master
@@ -21,12 +21,22 @@ class inputW(tk.Frame):
         style = ttk.Style()
         style.configure('TButton', font=("黑体", 11))
         self.label_web = ttk.Label(self, text='此处输入链接\n内容用%s代替', font=('黑体', 12))
-
+        self.frame_lsb = ttk.Frame(self)
         self.v1 = StringVar()
         self.entry_web = ttk.Entry(self, textvariable=self.v1, width=45)
         
         self.label_list = ttk.Label(self, text=r'预设搜索引擎', font=('黑体', 12))
-        self.lsb = Listbox(self, font=("黑体", 12), width=36) 
+        self.lsb = Listbox(self.frame_lsb, 
+                           font=("黑体", 12),
+                           height=10,           # 列表框的高度
+                           width=40,            # 列表框的宽度
+                           bg="#f0f0f0",        # 背景色
+                           fg="#333333",        # 前景色（文本颜色）
+                           selectbackground="#0078d7",  # 选中的背景色
+                           selectforeground="#ffffff",  # 选中的前景色
+                           bd=2,                # 边框宽度
+                           relief="groove"      # 边框样式
+                           ) 
 
         for item in reversed(custom.get_web_dict()):
             self.lsb.insert(0, item)
@@ -44,10 +54,18 @@ class inputW(tk.Frame):
         self.button_save = ttk.Button(self, text='保存配置文件', command=self.save_change_dict, width=16)
         self.button_load = ttk.Button(self, text='导入配置文件', command=self.load_change_dict, width=16)
 
+        
+        self.scrollbar_lsb = ttk.Scrollbar(self.frame_lsb, orient="vertical", command=self.lsb.yview)
+        
+        # 连接 Listbox 和 滚动条
+        self.lsb.config(yscrollcommand=self.scrollbar_lsb.set)
+
+        self.scrollbar_lsb.pack(side="right", fill="y")
         self.label_web.pack(pady=4)
         self.entry_web.pack(pady=4)
         self.button_right.pack(pady=4)
-        self.label_list.pack(pady=4)
+        self.label_list.pack()
+        self.frame_lsb.pack(pady=4)
         self.lsb.pack(pady=4)
         self.button_write.pack(pady=4)
 

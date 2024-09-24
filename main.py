@@ -8,10 +8,19 @@ from tkinter import messagebox, PhotoImage
 # 主程序
 root = tk.Tk()
 
+w = 640
+h = 350
+
+ws = root.winfo_screenwidth()
+hs = root.winfo_screenheight()
+# 计算 x, y 位置
+x = (ws/2) - (w/2)
+y = (hs/2) - (h/2)
+
 sv_ttk.set_theme(darkdetect.theme())
 
 root.resizable(False, False)
-root.geometry("640x350+200+200")
+root.geometry('%dx%d+%d+%d' % (w, h, x, y))
 root.title("开启随机主题")
 root.iconphoto(True, PhotoImage(file='logo.png'))
 

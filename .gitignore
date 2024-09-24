@@ -1,3 +1,5 @@
 window/__pycache__/
 build/
 dist/
+en_zh.argosmodel
+translate-zh_en-1_1.argosmodel

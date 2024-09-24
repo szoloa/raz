@@ -87,15 +87,21 @@ class appliction(tk.Frame):
         self.buttoon_setting.grid(row=5, column=2, padx=4, pady=4, columnspan=2)
         self.label_web.grid(row=6, column=0, padx=4, pady=4, columnspan=4)
 
+    def upUiGoto(self):
+        self.button_rand['text'] = '> 随机开启一个主题 <'
+        self.button_goto['text'] = '选择跳转此主题'
+        self.update_idletasks()
+
     def chioceTheme(self, *args):
+        if self.button_rand['text'] == '> 跳转中 <':
+            return 
+
         if custom.get_language() != 0:
             self.button_rand['text'] = '> 跳转中 <'
             self.update_idletasks()
             chioce = random.choice(custom.get_theme())
-            custom.openWeb(chioce)
+            custom.openWeb(chioce, self)
             self.saveResult(chioce)
-            self.button_rand['text'] = '> 随机开启一个主题 <'
-            self.update_idletasks()
         else:    
             chioce = random.choice(custom.get_theme())
             custom.openWeb(chioce)
@@ -106,12 +112,12 @@ class appliction(tk.Frame):
         temp = self.lsb.get(self.lsb.curselection())
         if temp == '':
             return
+        if self.button_goto['text'] == '跳转中':
+            return
         if custom.get_language() != 0:
             self.button_goto['text'] = '跳转中'
             self.update_idletasks()
-            custom.openWeb(temp)
-            self.button_goto['text'] = '选择跳转此主题'
-            self.update_idletasks()
+            custom.openWeb(temp, self)
         else:
             custom.openWeb(temp)
 
@@ -131,7 +137,16 @@ class appliction(tk.Frame):
     # 跳转
     def userDo(self):
         root_web = Toplevel()
-        root_web.geometry("500x720+200+300")
+
+        root_x = self.master.winfo_x()
+        root_y = self.master.winfo_y()
+        root_width = self.master.winfo_width()
+        root_height = self.master.winfo_height()
+
+        child_x = root_x - 500 - 20 # -    # 主窗口右侧 20 像素
+        child_y = root_y  - root_height // 2  # 垂直居中于主窗口
+
+        root_web.geometry(f"500x720+{child_x}+{child_y}")
         root_web.title("更改随机条目")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         UserItem(master=root_web) 
@@ -139,7 +154,18 @@ class appliction(tk.Frame):
     # 跳转
     def changeWeb(self):
         root_web = Toplevel()
-        root_web.geometry("500x480+200+300")
+    
+        # 获取主窗口的位置和大小
+        root_x = self.master.winfo_x()
+        root_y = self.master.winfo_y()
+        root_width = self.master.winfo_width()
+        root_height = self.master.winfo_height()
+
+        # 计算子窗口的位置（相对于主窗口的右下角）
+        child_x = root_x + root_width + 20  # 主窗口右侧 20 像素
+        child_y = root_y  - root_height // 2  # 垂直居中于主窗口
+
+        root_web.geometry(f"500x720+{child_x}+{child_y}")
         root_web.title("更改搜索引擎")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         inputW(master=root_web, bro=self)   
@@ -158,7 +184,18 @@ class appliction(tk.Frame):
 
     def betaT(self):
         root_web = Toplevel()
-        root_web.geometry("500x400+200+300")
+
+        # 获取主窗口的位置和大小
+        root_x = self.master.winfo_x()
+        root_y = self.master.winfo_y()
+        root_width = self.master.winfo_width()
+        root_height = self.master.winfo_height()
+
+        # 计算子窗口的位置（相对于主窗口的右下角）
+        child_x = root_x + 70 # + root_width // 2 # 20  # 主窗口右侧 20 像素
+        child_y = root_y  - 200 - 20 # root_height // 2  # 垂直居中于主窗口
+
+        root_web.geometry(f"500x160+{child_x}+{child_y}")
         root_web.title("实验性功能")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
         BetaT(master=root_web, bro=self) 
