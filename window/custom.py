@@ -29,6 +29,9 @@ class Custom():
         self.__search_type = 'single'
         self.__search_type_s = 'theme'
 
+        self.__width = 640
+        self.__height = 350
+
         fs = open('setting.json')
         try:
             setting_user = json.loads(fs.read())
@@ -38,7 +41,9 @@ class Custom():
             'web': self.__web, 
             'language' : self.__language,
             'search_type' : self.__search_type,
-            'search_type_s' : self.__search_type_s
+            'search_type_s' : self.__search_type_s,
+            'width' : self.__width,
+            'height' : self.__height
         }
         fs.close()
 
@@ -52,6 +57,10 @@ class Custom():
             self.__search_type = setting_user['search_type']
         if 'search_type_s' in setting_user.keys(): 
             self.__search_type_s = setting_user['search_type_s']
+        if 'width' in setting_user.keys(): 
+            self.__width = setting_user['width']
+        if 'height' in setting_user.keys():
+            self.__height = setting_user['height']
 
         if os.path.exists('./web.json'):
             with open('./web.json', 'r') as f:
@@ -114,7 +123,9 @@ class Custom():
             'web': self.__web, 
             'language' : self.__language,
             'search_type' : self.__search_type,
-            'search_type_s' : self.__search_type_s
+            'search_type_s' : self.__search_type_s,
+            'width' : self.__width,
+            'height' : self.__height
         }
 
         f.write(json.dumps(setting_user))
@@ -158,6 +169,15 @@ class Custom():
         return self.__language
     def set_language(self, language_t):
         self.__language = language_t
+
+    def get_width(self):
+        return self.__width
+    def set_width(self, w):
+        self.__width = w
+    def get_height(self):
+        return self.__height
+    def set_height(self, h):
+        self.__height = h
 
 global listener_v
 listener_v = None

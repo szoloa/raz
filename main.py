@@ -8,8 +8,8 @@ from tkinter import messagebox, PhotoImage
 # 主程序
 root = tk.Tk()
 
-w = 640
-h = 350
+w = custom.get_width()
+h = custom.get_height()
 
 ws = root.winfo_screenwidth()
 hs = root.winfo_screenheight()
