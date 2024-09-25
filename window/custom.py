@@ -19,12 +19,39 @@ class Custom():
         f = open(r'./data/data.txt', encoding='utf-8')
         self.__theme = f.readlines()
         f.close()
-
+        
         self.__item_user = ['./data/%s' %(i) for i in os.listdir('./data')]
 
         self.__web = 'https://search.bilibili.com/all?keyword=%s'
 
         self.__language = 0
+
+        self.__search_type = 'single'
+        self.__search_type_s = 'theme'
+
+        fs = open('setting.json')
+        try:
+            setting_user = json.loads(fs.read())
+        except:
+            setting_user = {
+            'item_user' : self.__item_user, 
+            'web': self.__web, 
+            'language' : self.__language,
+            'search_type' : self.__search_type,
+            'search_type_s' : self.__search_type_s
+        }
+        fs.close()
+
+        if 'item_user' in setting_user.keys(): 
+            self.__item_user = setting_user['item_user']
+        if 'web' in setting_user.keys(): 
+            self.__web = setting_user['web']
+        if 'language' in setting_user.keys(): 
+            self.__language = setting_user['language']
+        if 'search_type' in setting_user.keys(): 
+            self.__search_type = setting_user['search_type']
+        if 'search_type_s' in setting_user.keys(): 
+            self.__search_type_s = setting_user['search_type_s']
 
         if os.path.exists('./web.json'):
             with open('./web.json', 'r') as f:
@@ -43,34 +70,29 @@ class Custom():
                 'Google' : 'https://www.google.com.hk/search?q=%s',
                 '淘宝' : 'https://ai.taobao.com/search/index.htm?key=%s',
             }
-        self.__search_type = 'single'
-        self.__search_type_s = 'theme'
-
-    def handle_theme(self, theme_ipt, callback, obj):
+        
+    def handle_theme(self, theme_ipt, obj):
         if self.__language == 0:
                 theme = theme_ipt
-                callback(theme)
-        def Translate():       
-            try:
-                
-                if self.__language == 1:
-                    theme = Translator(from_lang="Chinese", to_lang="English").translate(theme_ipt)
-                elif self.__language == 2:
-                    theme = Translator(from_lang="English", to_lang="Chinese").translate(theme_ipt)
-                elif self.__language == 3:
-                    theme = Translator(from_lang="Chinese", to_lang="Japanese").translate(theme_ipt)
-            except Exception as e:
-                theme = theme_ipt
-                print(f"Translation error: {e}")
-            callback(theme)
-            obj.after(0, obj.upUiGoto())
-        thread_trans = threading.Thread(target=Translate)
-        thread_trans.start()
+                self.__openWeb(theme)
+        else:
+            def Translate():       
+                try:
+                    if self.__language == 1:
+                        theme = Translator(from_lang="Chinese", to_lang="English").translate(theme_ipt)
+                    elif self.__language == 2:
+                        theme = Translator(from_lang="English", to_lang="Chinese").translate(theme_ipt)
+                    elif self.__language == 3:
+                        theme = Translator(from_lang="Chinese", to_lang="Japanese").translate(theme_ipt)
+                except Exception as e:
+                    theme = theme_ipt
+                    print(f"Translation error: {e}")
+                self.__openWeb(theme)
+                obj.after(0, obj.upUiGoto())
+            thread_trans = threading.Thread(target=Translate)
+            thread_trans.start()
 
-    def __openWeb(self, theme_ipt):
-        
-        theme = theme_ipt
-
+    def __openWeb(self, theme):
         if self.__search_type == 'random':
             rweb = random.choice(list(self.__web_dict.values()))
             webbrowser.open(rweb % (theme))
@@ -82,8 +104,22 @@ class Custom():
                 webbrowser.open(theme)
 
     def openWeb(self, theme_ipt, obj = None):
-        self.handle_theme(theme_ipt, self.__openWeb, obj)
+        self.handle_theme(theme_ipt, obj)
 
+    def save_setting(self):
+        f = open('setting.json', 'w')
+
+        setting_user = {
+            'item_user' : self.__item_user, 
+            'web': self.__web, 
+            'language' : self.__language,
+            'search_type' : self.__search_type,
+            'search_type_s' : self.__search_type_s
+        }
+
+        f.write(json.dumps(setting_user))
+        f.close()
+        
     def get_Item(self):
         return self.__item_user
     def set_Item(self, item):
