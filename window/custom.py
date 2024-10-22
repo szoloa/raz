@@ -17,7 +17,7 @@ else:
 class Custom():
     def __init__(self) -> None:
         f = open(r'./data/data.txt', encoding='utf-8')
-        self.__theme = f.readlines()
+        self.__theme = [i.replace('\n','').replace('\r','') for i in f.readlines()]
         f.close()
         
         self.__item_user = ['./data/%s' %(i) for i in os.listdir('./data')]
