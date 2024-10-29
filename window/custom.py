@@ -5,12 +5,13 @@ import json
 from translate import Translator
 import threading
 
+from translate import Translator
 
-opti = False
-if opti:
-    from .optional import Translator
-else:
-    from translate import Translator
+# opti = False
+# if opti:
+#     from .optional import Translator
+# else:
+#     from translate import Translator
 
 
 # 作为全局变量
