@@ -76,11 +76,16 @@ class BetaT(tk.Frame):
     def NoneUrl(self):
         custom.set_search_type_s('url')
         self.button_u['text'] = '使用搜索引擎'
+        self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type_s())
         self.button_u['command'] = self.UnNoneUrl
     
     def UnNoneUrl(self):
         custom.set_search_type_s('theme')
         self.button_u['text'] = '关闭搜索引擎'
+        if custom.get_search_type() == 'random':
+            self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
+        elif custom.get_search_type() == 'single':
+            self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
         self.button_u['command'] = self.NoneUrl
 
     def changeLanguage(self):

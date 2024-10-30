@@ -82,6 +82,7 @@ class inputW(ttk.Frame):
                 msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s，链接好像不可用" % (ipt), parent=self)
             if msg:
                 custom.set_web(ipt)
+                custom.set_search_type_s('theme')
                 self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
                 self.master.destroy()
             else:
@@ -108,6 +109,7 @@ class inputW(ttk.Frame):
         msg = messagebox.askokcancel("确认修改", "将搜索链接修改为%s" % (item), parent=self)
         if msg:
             custom.set_web(custom.get_web_dict()[item])
+            custom.set_search_type_s('theme')
             self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
             self.master.destroy()
         else:
@@ -148,6 +150,7 @@ class inputW(ttk.Frame):
         self.button_random_web['command'] = self.random_web_stop
         self.button_write['text'] = '删除'
         self.button_write['command'] = self.list_write_del
+        custom.set_search_type_s('theme')
 
         self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
     
@@ -158,6 +161,7 @@ class inputW(ttk.Frame):
         self.button_right['command'] = self.changeWeb
         self.button_random_web['text'] = '开启随机搜索引擎'
         self.button_random_web['command'] = self.random_web
+        custom.set_search_type_s('theme')
 
         self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
 

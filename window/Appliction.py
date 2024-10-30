@@ -61,10 +61,13 @@ class appliction(tk.Frame):
         
         self.label_web = ttk.Label(self, text='当前搜索引擎: %s' %(custom.get_web()), font=('黑体', 12))
 
-        if custom.get_search_type() == 'random':
-            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
+        if custom.get_search_type_s() == 'url':
+            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type_s())
         else:
-            self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
+            if custom.get_search_type() == 'random':
+                self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_search_type())
+            elif custom.get_search_type() == 'single':
+                self.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
 
         # 历史记录
         self.lsb = Listbox(self, width=56, font=("黑体", 12)) 
@@ -99,12 +102,12 @@ class appliction(tk.Frame):
         if custom.get_language() != 0:
             self.button_rand['text'] = '> 跳转中 <'
             self.update_idletasks()
-            chioce = random.choice(custom.get_theme())
-            custom.openWeb(chioce, self)
+            chioce = custom.get_theme()
+            custom.openWeb(chioce.url, self)
             self.saveResult(chioce)
         else:    
-            chioce = random.choice(custom.get_theme())
-            custom.openWeb(chioce)
+            chioce = custom.get_theme()
+            custom.openWeb(chioce.url)
             self.saveResult(chioce)
 
     
@@ -171,16 +174,16 @@ class appliction(tk.Frame):
         inputW(master=root_web, bro=self)   
     
     def chioceThemeNotGo(self):
-        chioce = random.choice(custom.get_theme())
+        chioce = custom.get_theme()
         self.saveResult(chioce)
-        msg = messagebox.askokcancel("确定或取消", f"随机结果为：{chioce}是否复制到剪切板？")
+        msg = messagebox.askokcancel("确定或取消", f"随机结果为：{chioce.text}是否复制到剪切板？")
         if msg:
-            clipboard.copy(chioce)
+            clipboard.copy(chioce.text)
         
     def saveResult(self, chioce):
-        self.lsb.insert(0, chioce)
+        self.lsb.insert(0, chioce.text)
         with open(r'./hostory.txt', 'a+', encoding='utf-8') as f:
-            f.writelines(chioce)
+            f.writelines(f'{str(chioce)}\n')
 
     def betaT(self):
         root_web = Toplevel()

@@ -12,6 +12,21 @@ if opti:
 else:
     from translate import Translator
 
+class chioce:
+    def __init__(self, content, type='theme'):
+        self.content = content
+        if content[:5] == 'JSON:':
+            temj = json.loads(content[6:])
+            self.text = temj['text']
+            if type=='url':
+                self.url = temj['url']
+            else:
+                self.url = temj['text']
+        else:
+            self.text = content
+            self.url = content
+    def __str__(self):
+        return self.content
 
 # 作为全局变量
 class Custom():
@@ -43,7 +58,8 @@ class Custom():
             'search_type' : self.__search_type,
             'search_type_s' : self.__search_type_s,
             'width' : self.__width,
-            'height' : self.__height
+            'height' : self.__height,
+            'theme' : self.__theme
         }
         fs.close()
 
@@ -61,6 +77,8 @@ class Custom():
             self.__width = setting_user['width']
         if 'height' in setting_user.keys():
             self.__height = setting_user['height']
+        if 'theme' in setting_user.keys():
+            self.__theme = setting_user['theme']
 
         if os.path.exists('./web.json'):
             with open('./web.json', 'r') as f:
@@ -102,15 +120,16 @@ class Custom():
             thread_trans.start()
 
     def __openWeb(self, theme):
-        if self.__search_type == 'random':
+        if self.__search_type_s == 'url':
+                webbrowser.open(theme)
+        elif self.__search_type == 'random':
             rweb = random.choice(list(self.__web_dict.values()))
             webbrowser.open(rweb % (theme))
         elif self.__search_type == 'single':
             if self.__search_type_s == 'theme':
                 rweb = self.__web
                 webbrowser.open(rweb % (theme))
-            elif self.__search_type_s == 'url':
-                webbrowser.open(theme)
+            
 
     def openWeb(self, theme_ipt, obj = None):
         self.handle_theme(theme_ipt, obj)
@@ -125,7 +144,8 @@ class Custom():
             'search_type' : self.__search_type,
             'search_type_s' : self.__search_type_s,
             'width' : self.__width,
-            'height' : self.__height
+            'height' : self.__height,
+            'theme' : self.__theme
         }
 
         f.write(json.dumps(setting_user))
@@ -137,6 +157,10 @@ class Custom():
         self.__item_user = item
 
     def get_theme(self):
+        chi = random.choice(self.__theme)
+        tempchi = chioce(chi, self.__search_type_s)
+        return tempchi
+    def get_theme_list(self):
         return self.__theme
     def set_theme(self, theme_s):
         self.__theme = theme_s
