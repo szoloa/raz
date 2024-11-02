@@ -1,0 +1,671 @@
+JSON: {"text": "【北京清华大学】普通生物学", "url": "https://www.bilibili.com/video/BV1ns411B7g8/"}
+JSON: {"text": "【中文讲解】细胞的结构及功能详解-3D动画演示-生物学", "url": "https://www.bilibili.com/video/BV1QT411N7NL/"}
+JSON: {"text": "【Nucleus Biology】最好的生物学动画", "url": "https://www.bilibili.com/video/BV1vb4y1v7e1/"}
+JSON: {"text": "【北京大学】生物学概念与途径（全66讲）饶毅", "url": "https://www.bilibili.com/video/BV1Zv411h7nb/"}
+JSON: {"text": "生物学专业的所有结局（27个结局）", "url": "https://www.bilibili.com/video/BV1yZ421t7z5/"}
+JSON: {"text": "【1543-2021】生物学发展编年史", "url": "https://www.bilibili.com/video/BV1WT4y1X7Q4/"}
+JSON: {"text": "【生物动画】高中生物必修1  精选动画合集", "url": "https://www.bilibili.com/video/BV1S7411F7Dq/"}
+JSON: {"text": "【生物科学类】学生想学生物，张老师讲生物专业。", "url": "https://www.bilibili.com/video/BV1Xj421U7vf/"}
+JSON: {"text": "【初中生物必看视频】精子与卵细胞相遇的过程", "url": "https://www.bilibili.com/video/BV1pW4y1j7uP/"}
+JSON: {"text": "【公开课】斯坦福大学: 从生物学看人类行为", "url": "https://www.bilibili.com/video/BV1c741167Wx/"}
+JSON: {"text": "【普生】普通生物学 2020-2021", "url": "https://www.bilibili.com/video/BV1mA41157eD/"}
+JSON: {"text": "【100集】可爱的生物学动画-中英cc字幕-生物学-医学-科普-英语听力口语单词听力语法", "url": "https://www.bilibili.com/video/BV1Y84y1473j/"}
+JSON: {"text": "四川大学-普通生物学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1fJ41137XV/"}
+JSON: {"text": "【500集全集】生物医学3D动画第二期-第51至80集-中英cc字幕-生物医学英语-持续更新中", "url": "https://www.bilibili.com/video/BV1GG411h7p7/"}
+JSON: {"text": "【3D生物学|医学】DNA、染色体、基因、蛋白质、细胞、真菌、细菌、病毒、免疫、肿瘤、身体器官都在这里！！！", "url": "https://www.bilibili.com/video/BV1S64y1Z7JN/"}
+JSON: {"text": "13岁女画家，如何颠覆生物学对变态的认知？【透明的她 01】", "url": "https://www.bilibili.com/video/BV1pG4y187fD/"}
+JSON: {"text": "普通生物学-清华大学", "url": "https://www.bilibili.com/video/BV14E41127Gr/"}
+JSON: {"text": "【中字】吸血鬼的生物学解释_吸血鬼的科学", "url": "https://www.bilibili.com/video/BV1NF4m1P7hp/"}
+JSON: {"text": "神的禁令，写在20号染色体上，神究竟禁止人类做什么【生物实验室异闻录】", "url": "https://www.bilibili.com/video/BV1zg4y187WG/"}
+JSON: {"text": "人生本来就没有任何意义！自私的基因，颠覆你对生命的认知【思维实验室】第十一期", "url": "https://www.bilibili.com/video/BV1ub411L7TY/"}
+JSON: {"text": "你不一定是人类,你只拥有43%的人类属性剩下的是你不愿接受的事实", "url": "https://www.bilibili.com/video/BV1a44y1a7t3/"}
+JSON: {"text": "高一生物 必修一 生物 分子与细胞 2023新人教版 部编版统编版 高中生物必修第一册生物2019新教材新课标高一生物上册生物学 生物 必修1 含课件", "url": "https://www.bilibili.com/video/BV1wZ4y1T7Uz/"}
+JSON: {"text": "【35集全集】美国生物学-遗传学课程-中英cc字幕-英语听力口语单词-科普", "url": "https://www.bilibili.com/video/BV1KG4y1a74r/"}
+JSON: {"text": "【普通生物学】南开大学-张金红", "url": "https://www.bilibili.com/video/BV1PW411v7i9/"}
+JSON: {"text": "【Ted-ED】中字·你应该知道的生物学常识", "url": "https://www.bilibili.com/video/BV1q4411D7in/"}
+JSON: {"text": "《 原 神 生 物 学 》", "url": "https://www.bilibili.com/video/BV1K24y197fj/"}
+JSON: {"text": "生物学（英音中字）已翻译-可汗学院公开课", "url": "https://www.bilibili.com/video/BV1Ht411t7Fz/"}
+JSON: {"text": "古生物学 - 南京大学（国家精品课）", "url": "https://www.bilibili.com/video/BV1K44y1t7WQ/"}
+JSON: {"text": "【中国农业大学】植物学 刘朝辉 孟雷（88讲）", "url": "https://www.bilibili.com/video/BV1D54y137bk/"}
+JSON: {"text": "陈阅增 普通生物学 第四版 考研生物学超级精讲 复习带背", "url": "https://www.bilibili.com/video/BV13Y4y177r5/"}
+JSON: {"text": "【2024重录】高中生物选修1合集稳态与调节 正课同步习题真题新教材选择性必修1选修一选必1新人教版新课标新高考网课生物学内环境神经体液免疫调节植物激素", "url": "https://www.bilibili.com/video/BV1T5411G7Q8/"}
+JSON: {"text": "【Nature Video】最好的生物学动画", "url": "https://www.bilibili.com/video/BV1wi4y1R79K/"}
+JSON: {"text": "[熟肉]  十分钟生物学  Crash Course Biology", "url": "https://www.bilibili.com/video/BV1Px41117N2/"}
+JSON: {"text": "【中英双字】都是树状？为什么分形(FRACTALS)在生物学中无处不在", "url": "https://www.bilibili.com/video/BV1ag4y1Q7Le/"}
+JSON: {"text": "“改兽狂魔”用一生改造一种动物，温暖的故事～", "url": "https://www.bilibili.com/video/BV1W14y1m7eP/"}
+JSON: {"text": "学生物的高压瞬间", "url": "https://www.bilibili.com/video/BV1gz421S7Li/"}
+JSON: {"text": "陈阅增 普通生物学 第四版 考研生物学超级精讲 复习带背", "url": "https://www.bilibili.com/video/BV13Y4y177r5/"}
+JSON: {"text": "【35集全集】美国生物学-遗传学课程-中英cc字幕-英语听力口语单词-科普", "url": "https://www.bilibili.com/video/BV1KG4y1a74r/"}
+JSON: {"text": "颜宁的生物学笔记", "url": "https://www.bilibili.com/video/BV1n4411c7qf/"}
+JSON: {"text": "生物学67集全 Crash Course Biology", "url": "https://www.bilibili.com/video/BV1LJ411X71i/"}
+JSON: {"text": "【100集】可爱的生物学动画-中英cc字幕-生物学-医学-科普-英语听力口语单词听力语法", "url": "https://www.bilibili.com/video/BV1Y84y1473j/"}
+JSON: {"text": "吴相钰《陈阅增普通生物学》知识点详解", "url": "https://www.bilibili.com/video/BV1nL4y1a79e/"}
+JSON: {"text": "【南京大学】分子生物学", "url": "https://www.bilibili.com/video/BV1h741157zC/"}
+JSON: {"text": "[熟肉]  十分钟生物学  Crash Course Biology", "url": "https://www.bilibili.com/video/BV1Px41117N2/"}
+JSON: {"text": "微生物学 陈向东", "url": "https://www.bilibili.com/video/BV1Ds41137Hg/"}
+JSON: {"text": "人生本来就没有任何意义！自私的基因，颠覆你对生命的认知【思维实验室】第十一期", "url": "https://www.bilibili.com/video/BV1ub411L7TY/"}
+JSON: {"text": "初一生物七年级生物上册 人教版 2024新版 初中生物7年级生物上册七年级上册7年级上册生物学七年级 含课件", "url": "https://www.bilibili.com/video/BV1wz4y1Z7NW/"}
+JSON: {"text": "施一公的生物学笔记", "url": "https://www.bilibili.com/video/BV124411A76J/"}
+JSON: {"text": "古生物学 - 南京大学（国家精品课）", "url": "https://www.bilibili.com/video/BV1K44y1t7WQ/"}
+JSON: {"text": "高一生物 必修一 生物 分子与细胞 2023新人教版 部编版统编版 高中生物必修第一册生物2019新教材新课标高一生物上册生物学 生物 必修1 含课件", "url": "https://www.bilibili.com/video/BV1wZ4y1T7Uz/"}
+JSON: {"text": "【25集】美国生物化学全套课程-中英cc字幕-生物学-化学-医学", "url": "https://www.bilibili.com/video/BV1DV4y1T7Gv/"}
+JSON: {"text": "【哈尔滨医科大学】肿瘤生物学", "url": "https://www.bilibili.com/video/BV1ss411q7de/"}
+JSON: {"text": "神的禁令，写在20号染色体上，神究竟禁止人类做什么【生物实验室异闻录】", "url": "https://www.bilibili.com/video/BV1zg4y187WG/"}
+JSON: {"text": "【华中科技大学】生物化学与分子生物学（全145讲）杨广笑〈附刘不言〉", "url": "https://www.bilibili.com/video/BV1io4y127dJ/"}
+JSON: {"text": "四川大学-细胞生物学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1V4411U7WZ/"}
+JSON: {"text": "【高中生物学必修1】细胞的结构和功能", "url": "https://www.bilibili.com/video/BV13v411377G/"}
+JSON: {"text": "【华中科技大学】生物化学与分子生物学", "url": "https://www.bilibili.com/video/BV1Ss411i7Mm/"}
+JSON: {"text": "【Nature Video】最好的生物学动画", "url": "https://www.bilibili.com/video/BV1wi4y1R79K/"}
+JSON: {"text": "13岁女画家，如何颠覆生物学对变态的认知？【透明的她 01】", "url": "https://www.bilibili.com/video/BV1pG4y187fD/"}
+JSON: {"text": "【华中科技大学】《生物化学与分子生物学》孙军等", "url": "https://www.bilibili.com/video/BV1fJ411U72Z/"}
+JSON: {"text": "【中字】吸血鬼的生物学解释_吸血鬼的科学", "url": "https://www.bilibili.com/video/BV1NF4m1P7hp/"}
+JSON: {"text": "【可汗学院】生物学 Biology | 美国原汁原味课程（61集）", "url": "https://www.bilibili.com/video/BV14g411G7Yv/"}
+JSON: {"text": "【中英双字】都是树状？为什么分形(FRACTALS)在生物学中无处不在", "url": "https://www.bilibili.com/video/BV1ag4y1Q7Le/"}
+JSON: {"text": "【中国农业大学】植物生物学", "url": "https://www.bilibili.com/video/BV12s411i7bn/"}
+JSON: {"text": "《我爱学生物》", "url": "https://www.bilibili.com/video/BV1QK421x7B4/"}
+JSON: {"text": "狼人生物学解释:狼人的科学（机翻熟）", "url": "https://www.bilibili.com/video/BV1ZG411U7xH/"}
+JSON: {"text": "【Nature Video】最好的生物学动画", "url": "https://www.bilibili.com/video/BV1wi4y1R79K/"}
+JSON: {"text": "【华中科技大学】《生物化学与分子生物学》孙军等", "url": "https://www.bilibili.com/video/BV1fJ411U72Z/"}
+JSON: {"text": "【中字】吸血鬼的生物学解释_吸血鬼的科学", "url": "https://www.bilibili.com/video/BV1NF4m1P7hp/"}
+JSON: {"text": "【中英双字】都是树状？为什么分形(FRACTALS)在生物学中无处不在", "url": "https://www.bilibili.com/video/BV1ag4y1Q7Le/"}
+JSON: {"text": "【中国农业大学】植物生物学", "url": "https://www.bilibili.com/video/BV12s411i7bn/"}
+JSON: {"text": "狼人生物学解释:狼人的科学（机翻熟）", "url": "https://www.bilibili.com/video/BV1ZG411U7xH/"}
+JSON: {"text": "【高中生物学必修1】细胞的结构和功能", "url": "https://www.bilibili.com/video/BV13v411377G/"}
+JSON: {"text": "【MIT麻省理工精品课程】分子生物学系列第一部分：DNA复制与修复【全中英字幕】", "url": "https://www.bilibili.com/video/BV1Kt4y1k7Aw/"}
+JSON: {"text": "因为他，分子生物学被划分为两个时代【凯利·穆利斯】", "url": "https://www.bilibili.com/video/BV19m4y1K7ZN/"}
+JSON: {"text": "【500集全集】生物医学3D动画第二期-第51至80集-中英cc字幕-生物医学英语-持续更新中", "url": "https://www.bilibili.com/video/BV1GG411h7p7/"}
+JSON: {"text": "【25集】美国生物化学全套课程-中英cc字幕-生物学-化学-医学", "url": "https://www.bilibili.com/video/BV1DV4y1T7Gv/"}
+JSON: {"text": "世界最前沿生物学   ibiology", "url": "https://www.bilibili.com/video/BV1pE411v7vm/"}
+JSON: {"text": "你不一定是人类,你只拥有43%的人类属性剩下的是你不愿接受的事实", "url": "https://www.bilibili.com/video/BV1a44y1a7t3/"}
+JSON: {"text": "《我爱学生物》", "url": "https://www.bilibili.com/video/BV1QK421x7B4/"}
+JSON: {"text": "神的禁令，写在20号染色体上，神究竟禁止人类做什么【生物实验室异闻录】", "url": "https://www.bilibili.com/video/BV1zg4y187WG/"}
+JSON: {"text": "《 原 神 生 物 学 》", "url": "https://www.bilibili.com/video/BV1K24y197fj/"}
+JSON: {"text": "13岁女画家，如何颠覆生物学对变态的认知？【透明的她 01】", "url": "https://www.bilibili.com/video/BV1pG4y187fD/"}
+JSON: {"text": "一滴水里的动物园 ，单细胞也可以是大聪明", "url": "https://www.bilibili.com/video/BV1g34y1H7Vp/"}
+JSON: {"text": "学生物的高压瞬间", "url": "https://www.bilibili.com/video/BV1gz421S7Li/"}
+JSON: {"text": "【华中科技大学】生物化学与分子生物学", "url": "https://www.bilibili.com/video/BV1Ss411i7Mm/"}
+JSON: {"text": "啥是科学？为什么学生物救不了生物学！", "url": "https://www.bilibili.com/video/BV1vh411T7zu/"}
+JSON: {"text": "【人教版】八年级生物学上册同步视频课程，初中二年级上册生物优质课程，人民教育出版社初中生物八年级名师空中课堂，初中生物八年级知识点讲解，初二生物名师教程网络课堂", "url": "https://www.bilibili.com/video/BV1YM4y137o9/"}
+JSON: {"text": "【可汗学院】生物学 Biology | 美国原汁原味课程（61集）", "url": "https://www.bilibili.com/video/BV14g411G7Yv/"}
+JSON: {"text": "【生物】细胞生物学基础（清华大学）", "url": "https://www.bilibili.com/video/BV1vW411V7Lx/"}
+JSON: {"text": "【50集】真人器官解剖合集—第二期—中英cc字幕-医学生物学科普——英语听力单词语法口语", "url": "https://www.bilibili.com/video/BV1s24y1W7mU/"}
+JSON: {"text": "【细胞】细胞生物学 2020-2021", "url": "https://www.bilibili.com/video/BV1oV411h75y/"}
+JSON: {"text": "【可汗学院】生物学 Biology | 美国原汁原味课程（61集）", "url": "https://www.bilibili.com/video/BV14g411G7Yv/"}
+JSON: {"text": "世界最前沿生物学   ibiology", "url": "https://www.bilibili.com/video/BV1pE411v7vm/"}
+JSON: {"text": "【生物】细胞生物学基础（清华大学）", "url": "https://www.bilibili.com/video/BV1vW411V7Lx/"}
+JSON: {"text": "【毕导】气 抖 冷 ！学化学的比不过学生物的？诺贝尔化学奖为何总颁给生物？", "url": "https://www.bilibili.com/video/BV1ti4y177SH/"}
+JSON: {"text": "狼人生物学解释:狼人的科学（机翻熟）", "url": "https://www.bilibili.com/video/BV1ZG411U7xH/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列02】", "url": "https://www.bilibili.com/video/BV1z3411L7ku/"}
+JSON: {"text": "2021哈佛大学生物信息学与计算生物学（全175集）—— 中英双字", "url": "https://www.bilibili.com/video/BV1yS4y1Z721/"}
+JSON: {"text": "eva生物体结构剖析：拘束器的工作原理是什么？", "url": "https://www.bilibili.com/video/BV1Pw411P7vj/"}
+JSON: {"text": "【话奥21】赛文演化史-越来越弱的一生", "url": "https://www.bilibili.com/video/BV1gf4y1U7VY/"}
+JSON: {"text": "【生物】生理学 中南大学 罗自强主讲", "url": "https://www.bilibili.com/video/BV1Et411D7qf/"}
+JSON: {"text": "【生物统计学】-南农盖钧镒院士团队（附完整课件）", "url": "https://www.bilibili.com/video/BV1uo4y1f73M/"}
+JSON: {"text": "啥是科学？为什么学生物救不了生物学！", "url": "https://www.bilibili.com/video/BV1vh411T7zu/"}
+JSON: {"text": "大脑中的“叛徒”，所有生物学中最奇怪的东西", "url": "https://www.bilibili.com/video/BV1Ei4y1Y7DH/"}
+JSON: {"text": "冥王星合集【太阳系的天体球】", "url": "https://www.bilibili.com/video/BV1qN4y1z76h/"}
+JSON: {"text": "【人教版】八年级生物学上册同步视频课程，初中二年级上册生物优质课程，人民教育出版社初中生物八年级名师空中课堂，初中生物八年级知识点讲解，初二生物名师教程网络课堂", "url": "https://www.bilibili.com/video/BV1YM4y137o9/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列05】", "url": "https://www.bilibili.com/video/BV1pU4y1v7cb/"}
+JSON: {"text": "丧尸的生物学解释_丧尸的科学（中字熟肉）", "url": "https://www.bilibili.com/video/BV1dc411z7cC/"}
+JSON: {"text": "【北京大学】分子生物学朱玉贤", "url": "https://www.bilibili.com/video/BV1db411E7aj/"}
+JSON: {"text": "啥是科学？为什么学生物救不了生物学！", "url": "https://www.bilibili.com/video/BV1vh411T7zu/"}
+JSON: {"text": "【人教版】八年级生物学上册同步视频课程，初中二年级上册生物优质课程，人民教育出版社初中生物八年级名师空中课堂，初中生物八年级知识点讲解，初二生物名师教程网络课堂", "url": "https://www.bilibili.com/video/BV1YM4y137o9/"}
+JSON: {"text": "高中生物必修一开更啦！第1章:走进细胞（知识）|0基础救星！", "url": "https://www.bilibili.com/video/BV1TS4y147k5/"}
+JSON: {"text": "吸血鬼的生物学解释_吸血鬼的科学（机翻）", "url": "https://www.bilibili.com/video/BV1hu4y1j7Po/"}
+JSON: {"text": "eva生物体结构剖析：拘束器的工作原理是什么？", "url": "https://www.bilibili.com/video/BV1Pw411P7vj/"}
+JSON: {"text": "【50集】真人器官解剖合集—第二期—中英cc字幕-医学生物学科普——英语听力单词语法口语", "url": "https://www.bilibili.com/video/BV1s24y1W7mU/"}
+JSON: {"text": "【细胞】细胞生物学 2020-2021", "url": "https://www.bilibili.com/video/BV1oV411h75y/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列01】", "url": "https://www.bilibili.com/video/BV1i3411h7As/"}
+JSON: {"text": "小伙白天和师傅学技术，晚上却进屋和师娘学生物知识", "url": "https://www.bilibili.com/video/BV17e4y1X7ed/"}
+JSON: {"text": "【生物】生理学 中南大学 罗自强主讲", "url": "https://www.bilibili.com/video/BV1Et411D7qf/"}
+JSON: {"text": "教资学科知识科目三高中生物", "url": "https://www.bilibili.com/video/BV1sf4y1b7Eu/"}
+JSON: {"text": "宝 答应我不要学生物好吗", "url": "https://www.bilibili.com/video/BV17q4y1q7mj/"}
+JSON: {"text": "【人教版】七年级生物学上册同步视频课程，初中一年级上册生物优质课程，教育部统编人教版初中七年级名师空中课堂，初中七年级生物知识点讲解，初二生物名师教程网络云课堂", "url": "https://www.bilibili.com/video/BV1M34y1Q7px/"}
+JSON: {"text": "当细菌掌握了人类语言，它们预测出了2050年的世界！科幻小说《将语》", "url": "https://www.bilibili.com/video/BV1TP4y1c7iR/"}
+JSON: {"text": "2021哈佛大学生物信息学与计算生物学（全175集）—— 中英双字", "url": "https://www.bilibili.com/video/BV1yS4y1Z721/"}
+JSON: {"text": "【国家精品课程】四川大学 细胞生物学 （教材：翟中和《细胞生物学》）", "url": "https://www.bilibili.com/video/BV1qb411G7x1/"}
+JSON: {"text": "【龙女生物学】人类欠我半条命 昆虫给我交房租", "url": "https://www.bilibili.com/video/BV1tL411g7n7/"}
+JSON: {"text": "吸血鬼的生物学解释_吸血鬼的科学（机翻）", "url": "https://www.bilibili.com/video/BV1hu4y1j7Po/"}
+JSON: {"text": "eva生物体结构剖析：拘束器的工作原理是什么？", "url": "https://www.bilibili.com/video/BV1Pw411P7vj/"}
+JSON: {"text": "[科普动画]Kurzgesagt 视频全集，上知数学物理天文，下知化学生物地理", "url": "https://www.bilibili.com/video/BV1Ua4y1t7Ei/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列01】", "url": "https://www.bilibili.com/video/BV1i3411h7As/"}
+JSON: {"text": "分子生物学实验（第二次开课）-北京师范大学", "url": "https://www.bilibili.com/video/BV1T4411g7pW/"}
+JSON: {"text": "【生物】生理学 中南大学 罗自强主讲", "url": "https://www.bilibili.com/video/BV1Et411D7qf/"}
+JSON: {"text": "宝 答应我不要学生物好吗", "url": "https://www.bilibili.com/video/BV17q4y1q7mj/"}
+JSON: {"text": "初一生物全44集趣味动画 看动画学生物，孩子一看就懂的动画课堂 七年级生物初中生物上下全册 2023版人教版", "url": "https://www.bilibili.com/video/BV1Ru4y1C7wu/"}
+JSON: {"text": "（已完结课程）《生物化学与分子生物学》张宏等", "url": "https://www.bilibili.com/video/BV1Z341167yt/"}
+JSON: {"text": "2021哈佛大学生物信息学与计算生物学（全175集）—— 中英双字", "url": "https://www.bilibili.com/video/BV1yS4y1Z721/"}
+JSON: {"text": "【国家精品课程】四川大学 细胞生物学 （教材：翟中和《细胞生物学》）", "url": "https://www.bilibili.com/video/BV1qb411G7x1/"}
+JSON: {"text": "【龙女生物学】人类欠我半条命 昆虫给我交房租", "url": "https://www.bilibili.com/video/BV1tL411g7n7/"}
+JSON: {"text": "单细胞生物能长多大？", "url": "https://www.bilibili.com/video/BV1kg41197Ds/"}
+JSON: {"text": "【话奥21】赛文演化史-越来越弱的一生", "url": "https://www.bilibili.com/video/BV1gf4y1U7VY/"}
+JSON: {"text": "组织学与胚胎学-哈尔滨医科大学", "url": "https://www.bilibili.com/video/BV1Db411y7DY/"}
+JSON: {"text": "初二生物八年级生物上册 人教版 2023新版 初中生物8年级生物上册八年级上册8年级上册生物初二生物初2生物上册人教版生物学 含课件", "url": "https://www.bilibili.com/video/BV1JA411J7rG/"}
+JSON: {"text": "医学微生物学", "url": "https://www.bilibili.com/video/BV1gy4y187LF/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列05】", "url": "https://www.bilibili.com/video/BV1pU4y1v7cb/"}
+JSON: {"text": "已完结！！！求臻25普通生物学-陈阅增普通生物学考研-高分笔记精讲课-全部免费更新！", "url": "https://www.bilibili.com/video/BV1Ky421q71t/"}
+JSON: {"text": "【2023重录】高中生物必修1分子与细胞合集新教材必修一人教版新高考新课标网课走近细胞组成细胞的分子酶主动运输细胞呼吸作用光合作用有丝分裂", "url": "https://www.bilibili.com/video/BV1th411i7J9/"}
+JSON: {"text": "高一生物 必修一 生物学 分子与细胞 高中生物必修第一册生物2019新教材新课标 2022新人教版 部编版统编版 高一生物上册生物学 生物 必修1", "url": "https://www.bilibili.com/video/BV1CN4y1M7Xf/"}
+JSON: {"text": "为何大自然中蓝色动物很稀少? | 天天观世界(探秘,生物学,未解之谜,物理学,科普,蓝色蝴蝶,色素,颜色,知识)", "url": "https://www.bilibili.com/video/BV1Kx4y1Z7LR/"}
+JSON: {"text": "组织学与胚胎学-哈尔滨医科大学", "url": "https://www.bilibili.com/video/BV1Db411y7DY/"}
+JSON: {"text": "【毕导】气 抖 冷 ！学化学的比不过学生物的？诺贝尔化学奖为何总颁给生物？", "url": "https://www.bilibili.com/video/BV1ti4y177SH/"}
+JSON: {"text": "女生为什么学生物后不身材焦虑了", "url": "https://www.bilibili.com/video/BV1zZ421U7en/"}
+JSON: {"text": "新冠来袭，看免疫系统如何应战", "url": "https://www.bilibili.com/video/BV1GU4y1P7Pv/"}
+JSON: {"text": "初一生物全44集趣味动画 看动画学生物，孩子一看就懂的动画课堂 七年级生物初中生物上下全册 2023版人教版", "url": "https://www.bilibili.com/video/BV1Ru4y1C7wu/"}
+JSON: {"text": "20分钟搞定蛋白质计算!  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1i14y1h7oh/"}
+JSON: {"text": "八大细胞器来袭，准备好接招了吗？  | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1UP411P7Gy/"}
+JSON: {"text": "【瞻云】器官演化系列：你的嘴为啥5亿年都是上下开口，而不是左右开合？", "url": "https://www.bilibili.com/video/BV1um411R73D/"}
+JSON: {"text": "学生物的硕博生每天都在干嘛？剪个视频告诉爸妈我假期为什么不回家。科研民工的日常之一：吃时间的细胞间", "url": "https://www.bilibili.com/video/BV1NR4y1N7q2/"}
+JSON: {"text": "小伙白天和师傅学技术，晚上却进屋和师娘学生物知识", "url": "https://www.bilibili.com/video/BV17e4y1X7ed/"}
+JSON: {"text": "当细菌掌握了人类语言，它们预测出了2050年的世界！科幻小说《将语》", "url": "https://www.bilibili.com/video/BV1TP4y1c7iR/"}
+JSON: {"text": "【中国医科大学】生物化学与分子生物学【57讲】", "url": "https://www.bilibili.com/video/BV1Jx411h7r3/"}
+JSON: {"text": "血族的生物学解释_血族的科学(机翻熟)", "url": "https://www.bilibili.com/video/BV1PC4y1y79x/"}
+JSON: {"text": "生物化学与分子生物学（更新完）", "url": "https://www.bilibili.com/video/BV1nz411v7qN/"}
+JSON: {"text": "细胞生物学-考研细胞生物学-翟中和-第四版-第五版-24考研", "url": "https://www.bilibili.com/video/BV1Pu411i7Pd/"}
+JSON: {"text": "【西北农林科技大学】植物学", "url": "https://www.bilibili.com/video/BV1H7411J7Gf/"}
+JSON: {"text": "【生物实验】解剖一条鲫鱼的正确姿势（50名高中生就是这样上了北大清华）", "url": "https://www.bilibili.com/video/BV1HW411X7P7/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列02】", "url": "https://www.bilibili.com/video/BV1z3411L7ku/"}
+JSON: {"text": "小伙白天和师傅学技术，晚上却进屋和师娘学生物知识", "url": "https://www.bilibili.com/video/BV17e4y1X7ed/"}
+JSON: {"text": "当细菌掌握了人类语言，它们预测出了2050年的世界！科幻小说《将语》", "url": "https://www.bilibili.com/video/BV1TP4y1c7iR/"}
+JSON: {"text": "冥王星合集【太阳系的天体球】", "url": "https://www.bilibili.com/video/BV1qN4y1z76h/"}
+JSON: {"text": "【中国医科大学】生物化学与分子生物学【57讲】", "url": "https://www.bilibili.com/video/BV1Jx411h7r3/"}
+JSON: {"text": "血族的生物学解释_血族的科学(机翻熟)", "url": "https://www.bilibili.com/video/BV1PC4y1y79x/"}
+JSON: {"text": "生物化学与分子生物学（更新完）", "url": "https://www.bilibili.com/video/BV1nz411v7qN/"}
+JSON: {"text": "高中生物选择性必修三《生物技术与工程》系列视频课", "url": "https://www.bilibili.com/video/BV1KG411w7MY/"}
+JSON: {"text": "单细胞生物能长多大？", "url": "https://www.bilibili.com/video/BV1kg41197Ds/"}
+JSON: {"text": "初中生物八年级全册人教版生物八年级全册生物", "url": "https://www.bilibili.com/video/BV17V411U7hM/"}
+JSON: {"text": "水手在大洋中央意外发现这个令人毛骨悚然的巨物，在社媒疯传", "url": "https://www.bilibili.com/video/BV19m411o7ZD/"}
+JSON: {"text": "运动增强长高的表达（新生物学的启示）", "url": "https://www.bilibili.com/video/BV1jS4y1E7S5/"}
+JSON: {"text": "【选择性必修1】体液免疫调节特异性免疫过程抗原抗体结合高中生物学网课基础生物新高考动画教学", "url": "https://www.bilibili.com/video/BV1tY411n7gq/"}
+JSON: {"text": "[科普动画]Kurzgesagt 视频全集，上知数学物理天文，下知化学生物地理", "url": "https://www.bilibili.com/video/BV1Ua4y1t7Ei/"}
+JSON: {"text": "【一生】蛋白质的计算，包教包会！|高中生物重难点", "url": "https://www.bilibili.com/video/BV1iv411u7mu/"}
+JSON: {"text": "“改兽狂魔”用一生改造一种动物，温暖的故事～", "url": "https://www.bilibili.com/video/BV1W14y1m7eP/"}
+JSON: {"text": "性开放的生物学后果（暨南大学张弓教授2019.7.）", "url": "https://www.bilibili.com/video/BV1T44y1e71S/"}
+JSON: {"text": "为何大自然中蓝色动物很稀少? | 天天观世界(探秘,生物学,未解之谜,物理学,科普,蓝色蝴蝶,色素,颜色,知识)", "url": "https://www.bilibili.com/video/BV1Kx4y1Z7LR/"}
+JSON: {"text": "八年级下册生物学 第19期 基因的显性和隐性", "url": "https://www.bilibili.com/video/BV15L411N7TX/"}
+JSON: {"text": "初二生物八年级生物上册 人教版 2023新版 初中生物8年级生物上册八年级上册8年级上册生物初二生物初2生物上册人教版生物学 含课件", "url": "https://www.bilibili.com/video/BV1JA411J7rG/"}
+JSON: {"text": "女生为什么学生物后不身材焦虑了", "url": "https://www.bilibili.com/video/BV1zZ421U7en/"}
+JSON: {"text": "分子生物学实验（第二次开课）-北京师范大学", "url": "https://www.bilibili.com/video/BV1T4411g7pW/"}
+JSON: {"text": "教资学科知识科目三高中生物", "url": "https://www.bilibili.com/video/BV1sf4y1b7Eu/"}
+JSON: {"text": "高一生物 必修一 生物学 分子与细胞 高中生物必修第一册生物2019新教材新课标 2022新人教版 部编版统编版 高一生物上册生物学 生物 必修1", "url": "https://www.bilibili.com/video/BV1CN4y1M7Xf/"}
+JSON: {"text": "【选择性必修1】体液免疫调节特异性免疫过程抗原抗体结合高中生物学网课基础生物新高考动画教学", "url": "https://www.bilibili.com/video/BV1tY411n7gq/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列01】", "url": "https://www.bilibili.com/video/BV1i3411h7As/"}
+JSON: {"text": "【全44集】初中生物趣味讲解 七年级生物   看动画学生物 初中数学 上下册  初中生物考点", "url": "https://www.bilibili.com/video/BV13w41197Ub/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——天使", "url": "https://www.bilibili.com/video/BV15G411T7Di/"}
+JSON: {"text": "【全程回顾】2022 诺贝尔生理学或医学奖·奖项解读", "url": "https://www.bilibili.com/video/BV1FN4y1N7um/"}
+JSON: {"text": "【生物实验】解剖一条鲫鱼的正确姿势（50名高中生就是这样上了北大清华）", "url": "https://www.bilibili.com/video/BV1HW411X7P7/"}
+JSON: {"text": "为何大自然中蓝色动物很稀少? | 天天观世界(探秘,生物学,未解之谜,物理学,科普,蓝色蝴蝶,色素,颜色,知识)", "url": "https://www.bilibili.com/video/BV1Kx4y1Z7LR/"}
+JSON: {"text": "八年级下册生物学 第19期 基因的显性和隐性", "url": "https://www.bilibili.com/video/BV15L411N7TX/"}
+JSON: {"text": "【MIT麻省理工学院】分子生物学第一部分：DNA复制与修复", "url": "https://www.bilibili.com/video/BV1Lx411H71y/"}
+JSON: {"text": "教资学科知识科目三高中生物", "url": "https://www.bilibili.com/video/BV1sf4y1b7Eu/"}
+JSON: {"text": "女生为什么学生物后不身材焦虑了", "url": "https://www.bilibili.com/video/BV1zZ421U7en/"}
+JSON: {"text": "【龙女生物学】人类欠我半条命 昆虫给我交房租", "url": "https://www.bilibili.com/video/BV1tL411g7n7/"}
+JSON: {"text": "（已完结课程）《生物化学与分子生物学》张宏等", "url": "https://www.bilibili.com/video/BV1Z341167yt/"}
+JSON: {"text": "医学微生物学——西安交通大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1Jv411N7oB/"}
+JSON: {"text": "细胞生物学创意视频——《一个细胞的癌变之路》", "url": "https://www.bilibili.com/video/BV1Tu411S729/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——恶魔", "url": "https://www.bilibili.com/video/BV1ov4y197je/"}
+JSON: {"text": "七年级生物学实验——观察种子的结构", "url": "https://www.bilibili.com/video/BV1sU4y1T7Zw/"}
+JSON: {"text": "【500集全集】生物医学3D动画第三期-第81至140集-科普-英语听力口语单词", "url": "https://www.bilibili.com/video/BV1oD4y1z74t/"}
+JSON: {"text": "细胞生物学创意视频——《一个细胞的癌变之路》", "url": "https://www.bilibili.com/video/BV1Tu411S729/"}
+JSON: {"text": "【推荐课程】北京大学生物信息学:学习方法(完整带课件）", "url": "https://www.bilibili.com/video/BV13t411G7oh/"}
+JSON: {"text": "用生物学来看奥特曼？鉴定下泰罗奥特曼里的怪兽原型！", "url": "https://www.bilibili.com/video/BV12y421q7J7/"}
+JSON: {"text": "【瞻云】器官演化系列：你的嘴为啥5亿年都是上下开口，而不是左右开合？", "url": "https://www.bilibili.com/video/BV1um411R73D/"}
+JSON: {"text": "【国家精品课程】四川大学 细胞生物学 （教材：翟中和《细胞生物学》）", "url": "https://www.bilibili.com/video/BV1qb411G7x1/"}
+JSON: {"text": "新冠来袭，看免疫系统如何应战", "url": "https://www.bilibili.com/video/BV1GU4y1P7Pv/"}
+JSON: {"text": "已完结！！！求臻25普通生物学-陈阅增普通生物学考研-高分笔记精讲课-全部免费更新！", "url": "https://www.bilibili.com/video/BV1Ky421q71t/"}
+JSON: {"text": "“改兽狂魔”用一生改造一种动物，温暖的故事～", "url": "https://www.bilibili.com/video/BV1W14y1m7eP/"}
+JSON: {"text": "【网络热门神秘生物3】CCTV-10的童年阴影！？传说中的吸血怪物真的存在吗？", "url": "https://www.bilibili.com/video/BV1Nq4y1B7Fq/"}
+JSON: {"text": "20分钟搞定蛋白质计算!  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1i14y1h7oh/"}
+JSON: {"text": "听到670的张雪峰：卧槽！听到想学生物的张雪峰：呵呵！", "url": "https://www.bilibili.com/video/BV1dL411m775/"}
+JSON: {"text": "新型冠状病毒有多狡猾？谁能活到最后？【思维实验室】27期 武汉加油!", "url": "https://www.bilibili.com/video/BV1K7411x7rW/"}
+JSON: {"text": "20分钟搞定蛋白质计算!  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1i14y1h7oh/"}
+JSON: {"text": "医学细胞生物学-湖北科技学院", "url": "https://www.bilibili.com/video/BV1Jb411y7by/"}
+JSON: {"text": "听到670的张雪峰：卧槽！听到想学生物的张雪峰：呵呵！", "url": "https://www.bilibili.com/video/BV1dL411m775/"}
+JSON: {"text": "【2024重录】高中生物选修2合集 生物与环境 正课习题新教材选修二人教版新课标生物学选择性必修2新高考网课生态学种群落生态系统能量流动生态工程", "url": "https://www.bilibili.com/video/BV1FL4y1q7ey/"}
+JSON: {"text": "高中生物选择性必修三《生物技术与工程》系列视频课", "url": "https://www.bilibili.com/video/BV1KG411w7MY/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 观察洋葱鳞片叶内表皮细胞", "url": "https://www.bilibili.com/video/BV1mB4y127mo/"}
+JSON: {"text": "【生命熄灭那一刻寂静又凄美】四分钟人体内旅行，从生到死。", "url": "https://www.bilibili.com/video/BV17J411X7fm/"}
+JSON: {"text": "生物化学与分子生物学（更新完）", "url": "https://www.bilibili.com/video/BV1nz411v7qN/"}
+JSON: {"text": "实验题重灾区——酶，它来啦！ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1n841187NN/"}
+JSON: {"text": "我发现可以用生物学知识证明哥德巴赫猜想", "url": "https://www.bilibili.com/video/BV1XM4y1A7t3/"}
+JSON: {"text": "初一生物七年级生物上册+下册 人教版 2020新版 部编版 统编版 下册生物7年级生物初一生物初1生物学 七年级上册生物七年级下册", "url": "https://www.bilibili.com/video/BV1q7411C7S7/"}
+JSON: {"text": "初中生物八年级全册人教版生物八年级全册生物", "url": "https://www.bilibili.com/video/BV17V411U7hM/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——天使", "url": "https://www.bilibili.com/video/BV15G411T7Di/"}
+JSON: {"text": "高二生物 选择性必修3 生物技术与工程 2023新版 人教版 高中生物学 选择性必修三 选修三 选必三 必选3 选修1 生物技术实践 现代生物科技专题 新人教版", "url": "https://www.bilibili.com/video/BV1DY41157b3/"}
+JSON: {"text": "【生命熄灭那一刻寂静又凄美】四分钟人体内旅行，从生到死。", "url": "https://www.bilibili.com/video/BV17J411X7fm/"}
+JSON: {"text": "实验题重灾区——酶，它来啦！ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1n841187NN/"}
+JSON: {"text": "学生物和不学生物的都沉默了", "url": "https://www.bilibili.com/video/BV1RS4y1477t/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列04】", "url": "https://www.bilibili.com/video/BV1KL4y1T7Wp/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——天使", "url": "https://www.bilibili.com/video/BV15G411T7Di/"}
+JSON: {"text": "生化化学与分子生物学-考研生物化学与分子生物学-医学生化第九版-基础", "url": "https://www.bilibili.com/video/BV18F411t7z9/"}
+JSON: {"text": "腌酸菜的生物学老师用科学说服不了东北的母亲", "url": "https://www.bilibili.com/video/BV1jT4y1d7iY/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列03】", "url": "https://www.bilibili.com/video/BV1sS4y1873a/"}
+JSON: {"text": "【网络热门神秘生物3】CCTV-10的童年阴影！？传说中的吸血怪物真的存在吗？", "url": "https://www.bilibili.com/video/BV1Nq4y1B7Fq/"}
+JSON: {"text": "七年级生物学实验——观察种子的结构", "url": "https://www.bilibili.com/video/BV1sU4y1T7Zw/"}
+JSON: {"text": "【MIT麻省理工学院】分子生物学第一部分：DNA复制与修复", "url": "https://www.bilibili.com/video/BV1Lx411H71y/"}
+JSON: {"text": "医学微生物学——西安交通大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1Jv411N7oB/"}
+JSON: {"text": "【500集全集】生物医学3D动画第三期-第81至140集-科普-英语听力口语单词", "url": "https://www.bilibili.com/video/BV1oD4y1z74t/"}
+JSON: {"text": "【全程回顾】2022 诺贝尔生理学或医学奖·奖项解读", "url": "https://www.bilibili.com/video/BV1FN4y1N7um/"}
+JSON: {"text": "剑桥A-Level 9700 AS 生物学课程合集", "url": "https://www.bilibili.com/video/BV1RF411A7YX/"}
+JSON: {"text": "2021年重庆市高中生物优质课大赛一等奖   遗传与进化部分", "url": "https://www.bilibili.com/video/BV18h411e7f7/"}
+JSON: {"text": "你的细胞如何呼吸，不来了解一下么？ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV12d4y1t7F2/"}
+JSON: {"text": "学生物和不学生物的都沉默了", "url": "https://www.bilibili.com/video/BV1RS4y1477t/"}
+JSON: {"text": "初中生物八年级全册人教版生物八年级全册生物", "url": "https://www.bilibili.com/video/BV17V411U7hM/"}
+JSON: {"text": "生化化学与分子生物学-考研生物化学与分子生物学-医学生化第九版-基础", "url": "https://www.bilibili.com/video/BV18F411t7z9/"}
+JSON: {"text": "微生物组学研究-16s测序 从建库到数据分析全流程解析", "url": "https://www.bilibili.com/video/BV1Mi4y1M7vY/"}
+JSON: {"text": "腌酸菜的生物学老师用科学说服不了东北的母亲", "url": "https://www.bilibili.com/video/BV1jT4y1d7iY/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列03】", "url": "https://www.bilibili.com/video/BV1sS4y1873a/"}
+JSON: {"text": "【网络热门神秘生物3】CCTV-10的童年阴影！？传说中的吸血怪物真的存在吗？", "url": "https://www.bilibili.com/video/BV1Nq4y1B7Fq/"}
+JSON: {"text": "医学微生物学——西安交通大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1Jv411N7oB/"}
+JSON: {"text": "七年级生物学实验——观察种子的结构", "url": "https://www.bilibili.com/video/BV1sU4y1T7Zw/"}
+JSON: {"text": "【MIT麻省理工学院】分子生物学第一部分：DNA复制与修复", "url": "https://www.bilibili.com/video/BV1Lx411H71y/"}
+JSON: {"text": "【全程回顾】2022 诺贝尔生理学或医学奖·奖项解读", "url": "https://www.bilibili.com/video/BV1FN4y1N7um/"}
+JSON: {"text": "【500集全集】生物医学3D动画第三期-第81至140集-科普-英语听力口语单词", "url": "https://www.bilibili.com/video/BV1oD4y1z74t/"}
+JSON: {"text": "要不是我生物学的好，就被这些营销号忽悠了！", "url": "https://www.bilibili.com/video/BV1S64y1D7B2/"}
+JSON: {"text": "2021年重庆市高中生物优质课大赛一等奖   遗传与进化部分", "url": "https://www.bilibili.com/video/BV18h411e7f7/"}
+JSON: {"text": "【参考信息第202期】人类生物学；现实世界不存在了？", "url": "https://www.bilibili.com/video/BV1bF4m177Ew/"}
+JSON: {"text": "你的细胞如何呼吸，不来了解一下么？ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV12d4y1t7F2/"}
+JSON: {"text": "【2019生物学】基因指导蛋白质的合成-基因的表达（转录+翻译）", "url": "https://www.bilibili.com/video/BV17N411P7fu/"}
+JSON: {"text": "水手在大洋中央意外发现这个令人毛骨悚然的巨物，在社媒疯传", "url": "https://www.bilibili.com/video/BV19m411o7ZD/"}
+JSON: {"text": "高二生物 选择性必修一 稳态与调节 2023新人教版 部编版统编版高中生物必选一生物2019新教材新课标高二生物上册生物学", "url": "https://www.bilibili.com/video/BV1V54y127jJ/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列06】", "url": "https://www.bilibili.com/video/BV1Hv4y1z7Kx/"}
+JSON: {"text": "细胞生物学-考研细胞生物学-翟中和-第四版-第五版-24考研", "url": "https://www.bilibili.com/video/BV1Pu411i7Pd/"}
+JSON: {"text": "新型冠状病毒有多狡猾？谁能活到最后？【思维实验室】27期 武汉加油!", "url": "https://www.bilibili.com/video/BV1K7411x7rW/"}
+JSON: {"text": "【黄鸭兄】跳出学科，重新认识世界：谈两本生物学书籍", "url": "https://www.bilibili.com/video/BV1Ur4y117LA/"}
+JSON: {"text": "从生物学角度分析中年“王心凌男孩”的狂欢", "url": "https://www.bilibili.com/video/BV1394y1m7xL/"}
+JSON: {"text": "【必修1教学素材】物质的跨膜运输方式 主动运输被动运输自由扩散易化扩散胞吞胞吐人教版统编教材高中生物学2019新课改新课标", "url": "https://www.bilibili.com/video/BV1Ck4y1q7QS/"}
+JSON: {"text": "【黄鸭兄】跳出学科，重新认识世界：谈两本生物学书籍", "url": "https://www.bilibili.com/video/BV1Ur4y117LA/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列08】", "url": "https://www.bilibili.com/video/BV1GG411z7ZS/"}
+JSON: {"text": "【蒲慕明的课】神经生物学 (弹幕版) 2020年", "url": "https://www.bilibili.com/video/BV1i7411j7iD/"}
+JSON: {"text": "实验题重灾区——酶，它来啦！ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1n841187NN/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——血魔", "url": "https://www.bilibili.com/video/BV1Td4y1E7V7/"}
+JSON: {"text": "Q&A｜27岁读德本？为什么学生物？德国压力大吗？感情经历？怎么学德语？专注力", "url": "https://www.bilibili.com/video/BV1gZ421J7yY/"}
+JSON: {"text": "光合作用知识详解 | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1q44y1m7sW/"}
+JSON: {"text": "【2024重录】高中生物选修2合集 生物与环境 正课习题新教材选修二人教版新课标生物学选择性必修2新高考网课生态学种群落生态系统能量流动生态工程", "url": "https://www.bilibili.com/video/BV1FL4y1q7ey/"}
+JSON: {"text": "【高中生物课程】人教版高二生物学选择性必修一名师同步课程，高中二年级上册生物选修1名师课堂（附配套PPT课件教学设计下载），2021年最新高二生物选修1视频课程", "url": "https://www.bilibili.com/video/BV1ih411t7ZN/"}
+JSON: {"text": "如果把行星按大小重新排列会怎样？其二【太阳系的天体球】", "url": "https://www.bilibili.com/video/BV1D142127Yv/"}
+JSON: {"text": "初中生物七年级全册人教版生物七年级全册生物", "url": "https://www.bilibili.com/video/BV1Zt4y1U7Q2/"}
+JSON: {"text": "细胞信号通路合集: Wnt, mTOR, MAPK, Hippo, JAK/STAT, RAS, Notch, PI3K, NF-κB, ER, TGFβ...", "url": "https://www.bilibili.com/video/BV1d44y1D7Lf/"}
+JSON: {"text": "学生物和不学生物的都沉默了", "url": "https://www.bilibili.com/video/BV1RS4y1477t/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——血魔", "url": "https://www.bilibili.com/video/BV1Td4y1E7V7/"}
+JSON: {"text": "Q&A｜27岁读德本？为什么学生物？德国压力大吗？感情经历？怎么学德语？专注力", "url": "https://www.bilibili.com/video/BV1gZ421J7yY/"}
+JSON: {"text": "性开放的生物学后果（暨南大学张弓教授2019.7.）", "url": "https://www.bilibili.com/video/BV1T44y1e71S/"}
+JSON: {"text": "初中生物七年级全册人教版生物七年级全册生物", "url": "https://www.bilibili.com/video/BV1Zt4y1U7Q2/"}
+JSON: {"text": "张雪峰：那孩子要学生物，我说这是天坑，她说“不，我非要学”", "url": "https://www.bilibili.com/video/BV1s5411B75S/"}
+JSON: {"text": "分子生物学[南京大学·郑伟娟]", "url": "https://www.bilibili.com/video/BV1hk4y1R7To/"}
+JSON: {"text": "水豚：情绪稳定，为什么它有“治愈心灵”的魔力？ 四种猜想，一大现象，原来这是一个十分有趣的生物学故事……|自说自话的总裁", "url": "https://www.bilibili.com/video/BV1vp421o73K/"}
+JSON: {"text": "【MIT麻省理工学院】分子生物学第二部分：转录和转座（中文字幕）", "url": "https://www.bilibili.com/video/BV1Xx411J7bJ/"}
+JSON: {"text": "【龙女生物学】我们地球的垃圾太好吃辣！我长得比航母都大", "url": "https://www.bilibili.com/video/BV1LP4y1a7se/"}
+JSON: {"text": "【参考信息第202期】人类生物学；现实世界不存在了？", "url": "https://www.bilibili.com/video/BV1bF4m177Ew/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列04】", "url": "https://www.bilibili.com/video/BV1KL4y1T7Wp/"}
+JSON: {"text": "光合作用知识详解 | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1q44y1m7sW/"}
+JSON: {"text": "微生物组学研究-16s测序 从建库到数据分析全流程解析", "url": "https://www.bilibili.com/video/BV1Mi4y1M7vY/"}
+JSON: {"text": "【选择性必修3】2.3.1胚胎工程的理论基础 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1yT4y1Y7cT/"}
+JSON: {"text": "【龙女生物学】我们地球的垃圾太好吃辣！我长得比航母都大", "url": "https://www.bilibili.com/video/BV1LP4y1a7se/"}
+JSON: {"text": "【参考信息第202期】人类生物学；现实世界不存在了？", "url": "https://www.bilibili.com/video/BV1bF4m177Ew/"}
+JSON: {"text": "网络热门生物学视频鉴定【鉴定系列04】", "url": "https://www.bilibili.com/video/BV1KL4y1T7Wp/"}
+JSON: {"text": "光合作用知识详解 | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1q44y1m7sW/"}
+JSON: {"text": "微生物组学研究-16s测序 从建库到数据分析全流程解析", "url": "https://www.bilibili.com/video/BV1Mi4y1M7vY/"}
+JSON: {"text": "【选择性必修3】2.3.1胚胎工程的理论基础 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1yT4y1Y7cT/"}
+JSON: {"text": "医学细胞生物学-湖北科技学院", "url": "https://www.bilibili.com/video/BV1Jb411y7by/"}
+JSON: {"text": "微生物学 沈萍 第8版 微生物学考研", "url": "https://www.bilibili.com/video/BV1wm4y1q7ts/"}
+JSON: {"text": "高二生物 选择性必修3 生物技术与工程 2023新版 人教版 高中生物学 选择性必修三 选修三 选必三 必选3 选修1 生物技术实践 现代生物科技专题 新人教版", "url": "https://www.bilibili.com/video/BV1DY41157b3/"}
+JSON: {"text": "生物学博士：21世纪是生命科学的世纪！为什么生物行业就业这么惨？生物行业的潜力在哪里？", "url": "https://www.bilibili.com/video/BV1a7411x7P4/"}
+JSON: {"text": "如果把行星按大小重新排列会怎样？其二【太阳系的天体球】", "url": "https://www.bilibili.com/video/BV1D142127Yv/"}
+JSON: {"text": "【生物学网课必修1正课】1.1 细胞是生命活动的基本单位分子与细胞新人教版统编教材高中生物学202021新高考新课改新教材", "url": "https://www.bilibili.com/video/BV1Wa4y1v7vi/"}
+JSON: {"text": "令人头秃的 质壁分离实验和 渗透装置分析来啦！  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1xd4y1w71m/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 练习使用显微镜", "url": "https://www.bilibili.com/video/BV1uZ4y117Um/"}
+JSON: {"text": "【高中生物学必修1】细胞周期和有丝分裂", "url": "https://www.bilibili.com/video/BV1zQ4y1v7jT/"}
+JSON: {"text": "【公开课】【中文字幕】感觉神经系统 麻省理工学院 生物学：神经科学 认知科学 本科 Kanwisher教授", "url": "https://www.bilibili.com/video/BV1vb4y1e7L6/"}
+JSON: {"text": "同类相食，可耻但有用！", "url": "https://www.bilibili.com/video/BV16P411v75s/"}
+JSON: {"text": "令人头秃的 质壁分离实验和 渗透装置分析来啦！  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1xd4y1w71m/"}
+JSON: {"text": "德国生物学博士3块3 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1f7421K7Kd/"}
+JSON: {"text": "【选择性必修3】3.3基因工程的应用 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1W3411T7CL/"}
+JSON: {"text": "生物统计学", "url": "https://www.bilibili.com/video/BV1tZ4y1V7Qs/"}
+JSON: {"text": "喜欢放p的ATP来喽~ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1484y117Mv/"}
+JSON: {"text": "丁明孝-第五版-细胞生物学-全程班", "url": "https://www.bilibili.com/video/BV15u411t7A6/"}
+JSON: {"text": "张雪峰：那孩子要学生物，我说这是天坑，她说“不，我非要学”", "url": "https://www.bilibili.com/video/BV1s5411B75S/"}
+JSON: {"text": "蛋仔派对：在蛋仔中也能学生物？这地图直接把教科书搬上来了！", "url": "https://www.bilibili.com/video/BV1Q94y1j7GF/"}
+JSON: {"text": "水豚：情绪稳定，为什么它有“治愈心灵”的魔力？ 四种猜想，一大现象，原来这是一个十分有趣的生物学故事……|自说自话的总裁", "url": "https://www.bilibili.com/video/BV1vp421o73K/"}
+JSON: {"text": "细胞生物学-考研细胞生物学-翟中和，丁明孝-第四版第五版", "url": "https://www.bilibili.com/video/BV1nM4y1d7vT/"}
+JSON: {"text": "2021年重庆市高中生物优质课大赛一等奖   遗传与进化部分", "url": "https://www.bilibili.com/video/BV18h411e7f7/"}
+JSON: {"text": "【选择性必修3】3.3基因工程的应用 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1W3411T7CL/"}
+JSON: {"text": "德国生物学博士3块3 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1f7421K7Kd/"}
+JSON: {"text": "生物统计学", "url": "https://www.bilibili.com/video/BV1tZ4y1V7Qs/"}
+JSON: {"text": "喜欢放p的ATP来喽~ | 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1484y117Mv/"}
+JSON: {"text": "用生物学来看奥特曼？鉴定一下赛文奥特曼里的水生怪兽原型！", "url": "https://www.bilibili.com/video/BV1RC4y1f7Cs/"}
+JSON: {"text": "张雪峰：那孩子要学生物，我说这是天坑，她说“不，我非要学”", "url": "https://www.bilibili.com/video/BV1s5411B75S/"}
+JSON: {"text": "蛋仔派对：在蛋仔中也能学生物？这地图直接把教科书搬上来了！", "url": "https://www.bilibili.com/video/BV1Q94y1j7GF/"}
+JSON: {"text": "水豚：情绪稳定，为什么它有“治愈心灵”的魔力？ 四种猜想，一大现象，原来这是一个十分有趣的生物学故事……|自说自话的总裁", "url": "https://www.bilibili.com/video/BV1vp421o73K/"}
+JSON: {"text": "细胞生物学-考研细胞生物学-翟中和，丁明孝-第四版第五版", "url": "https://www.bilibili.com/video/BV1nM4y1d7vT/"}
+JSON: {"text": "2021年重庆市高中生物优质课大赛一等奖   遗传与进化部分", "url": "https://www.bilibili.com/video/BV18h411e7f7/"}
+JSON: {"text": "福宝的两位爷爷竟然是生物学博士～这么卷的吗～福宝以后怕不是博士后了吧", "url": "https://www.bilibili.com/video/BV1ds4y1P7xq/"}
+JSON: {"text": "哈佛细胞生物学动画：电子传递链，ATP合酶，线粒体，三羧酸循环……", "url": "https://www.bilibili.com/video/BV1JR4y1C7vW/"}
+JSON: {"text": "生物必修第2册 生物必修二 遗传与进化 人教版 2023新版 高中生物必修2高一生物必修二生物学 2019版新课标", "url": "https://www.bilibili.com/video/BV1jK4y187VF/"}
+JSON: {"text": "五分钟背下磷酸戊糖途径｜生化三大代谢背诵口诀方法｜生物化学带背 3", "url": "https://www.bilibili.com/video/BV1yK41137ys/"}
+JSON: {"text": "华中科技大学 生物化学与分子生物学 全145讲 主讲-杨广笑 视频教程", "url": "https://www.bilibili.com/video/BV17x411z7uG/"}
+JSON: {"text": "福宝的两位爷爷竟然是生物学博士～这么卷的吗～福宝以后怕不是博士后了吧", "url": "https://www.bilibili.com/video/BV1ds4y1P7xq/"}
+JSON: {"text": "生物必修第2册 生物必修二 遗传与进化 人教版 2023新版 高中生物必修2高一生物必修二生物学 2019版新课标", "url": "https://www.bilibili.com/video/BV1jK4y187VF/"}
+JSON: {"text": "哈佛细胞生物学动画：电子传递链，ATP合酶，线粒体，三羧酸循环……", "url": "https://www.bilibili.com/video/BV1JR4y1C7vW/"}
+JSON: {"text": "【高中生物课程】人教版高二生物学选择性必修一名师同步课程，高中二年级上册生物选修1名师课堂（附配套PPT课件教学设计下载），2021年最新高二生物选修1视频课程", "url": "https://www.bilibili.com/video/BV1ih411t7ZN/"}
+JSON: {"text": "五分钟背下磷酸戊糖途径｜生化三大代谢背诵口诀方法｜生物化学带背 3", "url": "https://www.bilibili.com/video/BV1yK41137ys/"}
+JSON: {"text": "学生物的和学音乐的都沉默了。。。", "url": "https://www.bilibili.com/video/BV1Kj411w7QB/"}
+JSON: {"text": "【植物细胞】叶绿体遇到强光后竟然会凝聚成一团！", "url": "https://www.bilibili.com/video/BV1NB4y1x7UQ/"}
+JSON: {"text": "好莱坞真学霸的含金量！这大姐真是神经生物学博士啊！", "url": "https://www.bilibili.com/video/BV1uA4m1F7aF/"}
+JSON: {"text": "【生物必修1常考重要实验】绿叶中色素的提取和分离 叶绿素的提取丙酮石油醚人教版统编教材高中生物学2019新课改新课标", "url": "https://www.bilibili.com/video/BV1Lz4y1D73u/"}
+JSON: {"text": "初中生物七年级全册人教版生物七年级全册生物", "url": "https://www.bilibili.com/video/BV1Zt4y1U7Q2/"}
+JSON: {"text": "我复现了一个能预测98.5%人类蛋白质的AI——为什么说AlphaFold足以改变全人类？一次始于AI的生物学飞跃", "url": "https://www.bilibili.com/video/BV1B34y1J7B2/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 练习使用显微镜", "url": "https://www.bilibili.com/video/BV1uZ4y117Um/"}
+JSON: {"text": "AI让生物学界变了天，98.5%人类蛋白质结构被预测出来，到底意味着什么？", "url": "https://www.bilibili.com/video/BV1Xh411q7Zf/"}
+JSON: {"text": "【选择性必修3】3.1-2限制酶怎么切质粒目的基因标记基因DNA粗提取 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1Di4y1r7EU/"}
+JSON: {"text": "舟亢| 高中生物 | 理科适用 | 知识太杂？高效刷题？笔记整理？| 无保留分享", "url": "https://www.bilibili.com/video/BV1Fp4y197Qc/"}
+JSON: {"text": "【选择性必修3】3.2-3目的基因导入检测与鉴定dna片段扩增与电泳鉴定选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考", "url": "https://www.bilibili.com/video/BV1BS4y1Y7sZ/"}
+JSON: {"text": "用生物学来看奥特曼？鉴定一下赛文奥特曼里的水生怪兽原型！", "url": "https://www.bilibili.com/video/BV1RC4y1f7Cs/"}
+JSON: {"text": "语文老师为了报复，怂恿学生和英语老师好上，真让英语老师教了生物学", "url": "https://www.bilibili.com/video/BV1zY411o7HN/"}
+JSON: {"text": "【三体科学照进现实】用生物学打开三体", "url": "https://www.bilibili.com/video/BV1R24y1f7FX/"}
+JSON: {"text": "德国生物学博士3块3 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1f7421K7Kd/"}
+JSON: {"text": "微生物学 沈萍 第8版 微生物学考研", "url": "https://www.bilibili.com/video/BV1wm4y1q7ts/"}
+JSON: {"text": "同类相食，可耻但有用！", "url": "https://www.bilibili.com/video/BV16P411v75s/"}
+JSON: {"text": "【生物学网课必修1正课】1.1 细胞是生命活动的基本单位分子与细胞新人教版统编教材高中生物学202021新高考新课改新教材", "url": "https://www.bilibili.com/video/BV1Wa4y1v7vi/"}
+JSON: {"text": "现代分子生物学-朱玉贤5版，四版-考研分子生物学", "url": "https://www.bilibili.com/video/BV16Y411P7La/"}
+JSON: {"text": "【必修1新实验】用高倍显微镜观察叶绿体和细胞质的流动 人教版统编教材高中生物学2019新课改新课标", "url": "https://www.bilibili.com/video/BV11p4y1S7kz/"}
+JSON: {"text": "【植物细胞】叶绿体遇到强光后竟然会凝聚成一团！", "url": "https://www.bilibili.com/video/BV1NB4y1x7UQ/"}
+JSON: {"text": "微生物的培养和纯化", "url": "https://www.bilibili.com/video/BV1Yq4y1c7kv/"}
+JSON: {"text": "【高中生物一轮复习】4.1-4.2细胞的增殖有丝分裂 实验 高中新高考生物学步步高复习课", "url": "https://www.bilibili.com/video/BV1bd4y1M7ti/"}
+JSON: {"text": "细胞信号通路合集: Wnt, mTOR, MAPK, Hippo, JAK/STAT, RAS, Notch, PI3K, NF-κB, ER, TGFβ...", "url": "https://www.bilibili.com/video/BV1d44y1D7Lf/"}
+JSON: {"text": "用生物学来看奥特曼？ 鉴定一下艾斯奥特曼里的水生怪兽原型！", "url": "https://www.bilibili.com/video/BV1Ww411x7fH/"}
+JSON: {"text": "它违背了生物学常识仅凭一己之力完成了生命的进化虽然这种进化可能有点偏离了方向？", "url": "https://www.bilibili.com/video/BV178411v7Ra/"}
+JSON: {"text": "古生物学有初中课本了！", "url": "https://www.bilibili.com/video/BV1c24y1p7og/"}
+JSON: {"text": "【选择性必修3】3.2-3目的基因导入检测与鉴定dna片段扩增与电泳鉴定选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考", "url": "https://www.bilibili.com/video/BV1BS4y1Y7sZ/"}
+JSON: {"text": "【三体科学照进现实】用生物学打开三体", "url": "https://www.bilibili.com/video/BV1R24y1f7FX/"}
+JSON: {"text": "生物统计学", "url": "https://www.bilibili.com/video/BV1tZ4y1V7Qs/"}
+JSON: {"text": "德国生物学博士3块3 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1f7421K7Kd/"}
+JSON: {"text": "同类相食，可耻但有用！", "url": "https://www.bilibili.com/video/BV16P411v75s/"}
+JSON: {"text": "微生物学 沈萍 第8版 微生物学考研", "url": "https://www.bilibili.com/video/BV1wm4y1q7ts/"}
+JSON: {"text": "【必修1新实验】用高倍显微镜观察叶绿体和细胞质的流动 人教版统编教材高中生物学2019新课改新课标", "url": "https://www.bilibili.com/video/BV11p4y1S7kz/"}
+JSON: {"text": "现代分子生物学-朱玉贤5版，四版-考研分子生物学", "url": "https://www.bilibili.com/video/BV16Y411P7La/"}
+JSON: {"text": "【生物必修1】第5章第4节光合作用与能量转化【2】光合作用的原理人教版统编教材高中生物学2020新课改新课标新高考理综分子与细胞", "url": "https://www.bilibili.com/video/BV1rA411x7ho/"}
+JSON: {"text": "初二生物八年级上册生物 北师大版 初中生物8年级上册生物北师版上册八年级上册8年级上册北京师范大学出版社生物学", "url": "https://www.bilibili.com/video/BV1Mz4y1C7R3/"}
+JSON: {"text": "微生物的培养和纯化", "url": "https://www.bilibili.com/video/BV1Yq4y1c7kv/"}
+JSON: {"text": "微生物学教程 周德庆 考研微生物学复习", "url": "https://www.bilibili.com/video/BV1m14y1o7UJ/"}
+JSON: {"text": "用生物学来看奥特曼？ 鉴定一下艾斯奥特曼里的水生怪兽原型！", "url": "https://www.bilibili.com/video/BV1Ww411x7fH/"}
+JSON: {"text": "细胞信号通路合集: Wnt, mTOR, MAPK, Hippo, JAK/STAT, RAS, Notch, PI3K, NF-κB, ER, TGFβ...", "url": "https://www.bilibili.com/video/BV1d44y1D7Lf/"}
+JSON: {"text": "【含2023真题】【高中生物一轮复习新高考全国可用合集】新教材人教版生物学新高考新课标网课必修1必修2选择性必修123人教版选修", "url": "https://www.bilibili.com/video/BV1x5411h7SV/"}
+JSON: {"text": "它违背了生物学常识仅凭一己之力完成了生命的进化虽然这种进化可能有点偏离了方向？", "url": "https://www.bilibili.com/video/BV178411v7Ra/"}
+JSON: {"text": "生物学的差距！400米接力最后一棒，女生领先了5秒，然后神奇一幕发生了", "url": "https://www.bilibili.com/video/BV1Ea4y1z7Kh/"}
+JSON: {"text": "五分钟背下磷酸戊糖途径｜生化三大代谢背诵口诀方法｜生物化学带背 3", "url": "https://www.bilibili.com/video/BV1yK41137ys/"}
+JSON: {"text": "八年级下册生物学期末知识点速记提分", "url": "https://www.bilibili.com/video/BV1L14y1K7Qd/"}
+JSON: {"text": "【选择性必修3】3.3基因工程的应用 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1W3411T7CL/"}
+JSON: {"text": "春晚《锦鲤》反生物学???我爹都看不下去了", "url": "https://www.bilibili.com/video/BV13Z421y7GF/"}
+JSON: {"text": "初一生物七年级上册生物 北师大版 初中生物7年级上册生物北师版上册七年级上册7年级上册北京师范大学出版社生物学", "url": "https://www.bilibili.com/video/BV1Ta411c7Cp/"}
+JSON: {"text": "学生物的和学音乐的都沉默了。。。", "url": "https://www.bilibili.com/video/BV1Kj411w7QB/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——蒙古马", "url": "https://www.bilibili.com/video/BV1gg411b7y6/"}
+JSON: {"text": "【含2023真题】【高中生物一轮复习新高考全国可用合集】新教材人教版生物学新高考新课标网课必修1必修2选择性必修123人教版选修", "url": "https://www.bilibili.com/video/BV1x5411h7SV/"}
+JSON: {"text": "它违背了生物学常识仅凭一己之力完成了生命的进化虽然这种进化可能有点偏离了方向？", "url": "https://www.bilibili.com/video/BV178411v7Ra/"}
+JSON: {"text": "生物学的差距！400米接力最后一棒，女生领先了5秒，然后神奇一幕发生了", "url": "https://www.bilibili.com/video/BV1Ea4y1z7Kh/"}
+JSON: {"text": "八年级下册生物学期末知识点速记提分", "url": "https://www.bilibili.com/video/BV1L14y1K7Qd/"}
+JSON: {"text": "【选择性必修3】3.3基因工程的应用 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1W3411T7CL/"}
+JSON: {"text": "春晚《锦鲤》反生物学???我爹都看不下去了", "url": "https://www.bilibili.com/video/BV13Z421y7GF/"}
+JSON: {"text": "学生物的和学音乐的都沉默了。。。", "url": "https://www.bilibili.com/video/BV1Kj411w7QB/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——蒙古马", "url": "https://www.bilibili.com/video/BV1gg411b7y6/"}
+JSON: {"text": "好莱坞真学霸的含金量！这大姐真是神经生物学博士啊！", "url": "https://www.bilibili.com/video/BV1uA4m1F7aF/"}
+JSON: {"text": "游戏和女友不可兼得嘛？从生物学底层逻辑出发，还原男女大脑差异和思维方式的不同，并送上一生受用的解法！", "url": "https://www.bilibili.com/video/BV1Q64y1W7nG/"}
+JSON: {"text": "为救儿子，高中学历的父亲把自己逼成生物学专家！", "url": "https://www.bilibili.com/video/BV1Y3411L7os/"}
+JSON: {"text": "【选择性必修3】3.2-4完琼脂糖凝胶电泳PCR习题选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1BS4y1Y7C1/"}
+JSON: {"text": "秽土转生，这次连生物学都不存在了！——速度与激情10", "url": "https://www.bilibili.com/video/BV1jm4y187gL/"}
+JSON: {"text": "【生物】药剂学 沈阳药科大学 方亮等主讲", "url": "https://www.bilibili.com/video/BV1sJ411h7qy/"}
+JSON: {"text": "【胆小者慎入】什么是恐怖谷效应？", "url": "https://www.bilibili.com/video/BV1N54y1H7GE/"}
+JSON: {"text": "AI让生物学界变了天，98.5%人类蛋白质结构被预测出来，到底意味着什么？", "url": "https://www.bilibili.com/video/BV1Xh411q7Zf/"}
+JSON: {"text": "初中生物趣味动画全34集，看动画学生物，轻轻松松拿满分", "url": "https://www.bilibili.com/video/BV17k4y1n79e/"}
+JSON: {"text": "【选择性必修3】3.3基因工程的应用 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1W3411T7CL/"}
+JSON: {"text": "医学免疫学 第五章_01 补体的组成与生物学特性", "url": "https://www.bilibili.com/video/BV1MZ4y1M7Dj/"}
+JSON: {"text": "学生物的和学音乐的都沉默了。。。", "url": "https://www.bilibili.com/video/BV1Kj411w7QB/"}
+JSON: {"text": "【空中课堂】高一生物学（人教版）-合格考复习（合集)", "url": "https://www.bilibili.com/video/BV1SV41167qo/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——蒙古马", "url": "https://www.bilibili.com/video/BV1gg411b7y6/"}
+JSON: {"text": "为救儿子，高中学历的父亲把自己逼成生物学专家！", "url": "https://www.bilibili.com/video/BV1Y3411L7os/"}
+JSON: {"text": "好莱坞真学霸的含金量！这大姐真是神经生物学博士啊！", "url": "https://www.bilibili.com/video/BV1uA4m1F7aF/"}
+JSON: {"text": "游戏和女友不可兼得嘛？从生物学底层逻辑出发，还原男女大脑差异和思维方式的不同，并送上一生受用的解法！", "url": "https://www.bilibili.com/video/BV1Q64y1W7nG/"}
+JSON: {"text": "【生物】药剂学 沈阳药科大学 方亮等主讲", "url": "https://www.bilibili.com/video/BV1sJ411h7qy/"}
+JSON: {"text": "【胆小者慎入】什么是恐怖谷效应？", "url": "https://www.bilibili.com/video/BV1N54y1H7GE/"}
+JSON: {"text": "AI让生物学界变了天，98.5%人类蛋白质结构被预测出来，到底意味着什么？", "url": "https://www.bilibili.com/video/BV1Xh411q7Zf/"}
+JSON: {"text": "初中生物趣味动画全34集，看动画学生物，轻轻松松拿满分", "url": "https://www.bilibili.com/video/BV17k4y1n79e/"}
+JSON: {"text": "学生物赚得少没出路？清北学霸在线劝退？生物专业就业去向分享 | 高考考研报志愿必看", "url": "https://www.bilibili.com/video/BV1254y1a7Nd/"}
+JSON: {"text": "德国生物学博士不到3块的伙食费 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1vz421R7Qr/"}
+JSON: {"text": "自由组合定律刷题儿题儿 — 高一到高三都能看的高考真题 ~", "url": "https://www.bilibili.com/video/BV1454y1c7Ri/"}
+JSON: {"text": "邓铁涛：中医没有微生物学，最初非典不让中医参加", "url": "https://www.bilibili.com/video/BV1t7411L7qk/"}
+JSON: {"text": "《高深的生物学》《懒得理你》《爸爸骗我》", "url": "https://www.bilibili.com/video/BV1iL411e7Cb/"}
+JSON: {"text": "初中生物趣味动画全34集，看动画学生物，轻轻松松拿满分", "url": "https://www.bilibili.com/video/BV17k4y1n79e/"}
+JSON: {"text": "【木鱼说 81】越喝越困？告诉你喝咖啡的正确姿势！", "url": "https://www.bilibili.com/video/BV18W411k7vH/"}
+JSON: {"text": "【张雪峰】英语50分还学生物？学个啥", "url": "https://www.bilibili.com/video/BV162421w7Mg/"}
+JSON: {"text": "我复现了一个能预测98.5%人类蛋白质的AI——为什么说AlphaFold足以改变全人类？一次始于AI的生物学飞跃", "url": "https://www.bilibili.com/video/BV1B34y1J7B2/"}
+JSON: {"text": "学生物赚得少没出路？清北学霸在线劝退？生物专业就业去向分享 | 高考考研报志愿必看", "url": "https://www.bilibili.com/video/BV1254y1a7Nd/"}
+JSON: {"text": "德国生物学博士不到3块的伙食费 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1vz421R7Qr/"}
+JSON: {"text": "【生物动画】高中生物必修2 精选动画合集", "url": "https://www.bilibili.com/video/BV1JE411n7NC/"}
+JSON: {"text": "光合呼吸曲线分析及生物基本代谢类型 | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1JM41127pZ/"}
+JSON: {"text": "邓铁涛：中医没有微生物学，最初非典不让中医参加", "url": "https://www.bilibili.com/video/BV1t7411L7qk/"}
+JSON: {"text": "容祖儿《悲观生物学》", "url": "https://www.bilibili.com/video/BV1aA411L72o/"}
+JSON: {"text": "神秘洞穴隐藏着“终极”，一部包含了物理学、生物学、哲学等元素的科幻佳作！", "url": "https://www.bilibili.com/video/BV1ot411W7dz/"}
+JSON: {"text": "语文老师为了报复，怂恿学生和英语老师好上，真让英语老师教了生物学", "url": "https://www.bilibili.com/video/BV1zY411o7HN/"}
+JSON: {"text": "古生物学有初中课本了！", "url": "https://www.bilibili.com/video/BV1c24y1p7og/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 观察玉米种子的结构", "url": "https://www.bilibili.com/video/BV1Yr4y1b7dc/"}
+JSON: {"text": "【高中生物一轮复习】4.1-4.2细胞的增殖有丝分裂 实验 高中新高考生物学步步高复习课", "url": "https://www.bilibili.com/video/BV1bd4y1M7ti/"}
+JSON: {"text": "干货撇你面前你都不要？？？八上生物总复习，这次有详解！！！", "url": "https://www.bilibili.com/video/BV1Gt4y1178z/"}
+JSON: {"text": "生物必修第2册 生物必修二 遗传与进化 人教版 2023新版 高中生物必修2高一生物必修二生物学 2019版新课标", "url": "https://www.bilibili.com/video/BV1jK4y187VF/"}
+JSON: {"text": "初中生物 济南版 七年级上册 教学视频 初一生物学 7年级上册 七年级 上册 7年级 下册", "url": "https://www.bilibili.com/video/BV14Q4y1f7PP/"}
+JSON: {"text": "【高中生物必修一】动物细胞的有丝分裂动画演示视频", "url": "https://www.bilibili.com/video/BV1bv411K7Ju/"}
+JSON: {"text": "医学免疫学 第五章_01 补体的组成与生物学特性", "url": "https://www.bilibili.com/video/BV1MZ4y1M7Dj/"}
+JSON: {"text": "初二生物八年级上册生物 北师大版 初中生物8年级上册生物北师版上册八年级上册8年级上册北京师范大学出版社生物学", "url": "https://www.bilibili.com/video/BV1Mz4y1C7R3/"}
+JSON: {"text": "【高中生物一轮复习】4.1-4.2细胞的增殖有丝分裂 实验 高中新高考生物学步步高复习课", "url": "https://www.bilibili.com/video/BV1bd4y1M7ti/"}
+JSON: {"text": "【生物必修1】第5章第4节光合作用与能量转化【2】光合作用的原理人教版统编教材高中生物学2020新课改新课标新高考理综分子与细胞", "url": "https://www.bilibili.com/video/BV1rA411x7ho/"}
+JSON: {"text": "干货撇你面前你都不要？？？八上生物总复习，这次有详解！！！", "url": "https://www.bilibili.com/video/BV1Gt4y1178z/"}
+JSON: {"text": "生物必修第2册 生物必修二 遗传与进化 人教版 2023新版 高中生物必修2高一生物必修二生物学 2019版新课标", "url": "https://www.bilibili.com/video/BV1jK4y187VF/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——蒙古马", "url": "https://www.bilibili.com/video/BV1gg411b7y6/"}
+JSON: {"text": "医学免疫学 第五章_01 补体的组成与生物学特性", "url": "https://www.bilibili.com/video/BV1MZ4y1M7Dj/"}
+JSON: {"text": "微生物学教程 周德庆 考研微生物学复习", "url": "https://www.bilibili.com/video/BV1m14y1o7UJ/"}
+JSON: {"text": "细胞生命历程题型总结 | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1oY41117mC/"}
+JSON: {"text": "快来捡漏！一个视频搞定元素化合物高频考点题型  | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1wg411v7sD/"}
+JSON: {"text": "鳄鱼之眼：生物学上的奇迹", "url": "https://www.bilibili.com/video/BV1QM411r7Uc/"}
+JSON: {"text": "《神话故事？生物学or天体学故事✓》全网聊天对抗路冬季总决赛，现在开始！", "url": "https://www.bilibili.com/video/BV11M411H7d8/"}
+JSON: {"text": "初一生物七年级上册生物 北师大版 初中生物7年级上册生物北师版上册七年级上册7年级上册北京师范大学出版社生物学", "url": "https://www.bilibili.com/video/BV1Ta411c7Cp/"}
+JSON: {"text": "应粉丝要求-具有生物学学识学位的最美cosplay的惊奇队长诞生了", "url": "https://www.bilibili.com/video/BV1GM411N7X9/"}
+JSON: {"text": "生物学硕士来教你做白米饭，我这20多年白过了！", "url": "https://www.bilibili.com/video/BV1fB4y1X7er/"}
+JSON: {"text": "累了，毁灭吧，生物学不存在了！", "url": "https://www.bilibili.com/video/BV1ML411q74b/"}
+JSON: {"text": "【空中课堂】高一生物学（人教版）-合格考复习（合集)", "url": "https://www.bilibili.com/video/BV1SV41167qo/"}
+JSON: {"text": "给丈育主播科普生物学", "url": "https://www.bilibili.com/video/BV1nx4y1k7Uz/"}
+JSON: {"text": "累了，毁灭吧，生物学不存在了！", "url": "https://www.bilibili.com/video/BV1ML411q74b/"}
+JSON: {"text": "【木鱼说 81】越喝越困？告诉你喝咖啡的正确姿势！", "url": "https://www.bilibili.com/video/BV18W411k7vH/"}
+JSON: {"text": "《高深的生物学》《懒得理你》《爸爸骗我》", "url": "https://www.bilibili.com/video/BV1iL411e7Cb/"}
+JSON: {"text": "【生物动画】高中生物选择性必修3（下）精选动画合集", "url": "https://www.bilibili.com/video/BV17i4y1t7aC/"}
+JSON: {"text": "干货撇你面前你都不要？？？八上生物总复习，这次有详解！！！", "url": "https://www.bilibili.com/video/BV1Gt4y1178z/"}
+JSON: {"text": "不惧开学考，喵喵来帮忙！高一生物-助力开学考（下）", "url": "https://www.bilibili.com/video/BV1BD4y1E78J/"}
+JSON: {"text": "为救儿子，高中学历的父亲把自己逼成生物学专家！", "url": "https://www.bilibili.com/video/BV1Y3411L7os/"}
+JSON: {"text": "神秘洞穴隐藏着“终极”，一部包含了物理学、生物学、哲学等元素的科幻佳作！", "url": "https://www.bilibili.com/video/BV1ot411W7dz/"}
+JSON: {"text": "光合呼吸曲线分析及生物基本代谢类型 | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1JM41127pZ/"}
+JSON: {"text": "【张雪峰】英语50分还学生物？学个啥", "url": "https://www.bilibili.com/video/BV162421w7Mg/"}
+JSON: {"text": "鳄鱼之眼：生物学上的奇迹", "url": "https://www.bilibili.com/video/BV1QM411r7Uc/"}
+JSON: {"text": "德国生物学博士不到3块的伙食费 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1vz421R7Qr/"}
+JSON: {"text": "海绵宝宝中的生物学问题（2） 这个童年阴影竟然在现实生活中存在？还很普遍？", "url": "https://www.bilibili.com/video/BV15W411A7Uu/"}
+JSON: {"text": "快来学生物拉了", "url": "https://www.bilibili.com/video/BV1xh4y1V7XF/"}
+JSON: {"text": "【选择性必修3】3.4蛋白质工程复习与提高 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1FF41137xg/"}
+JSON: {"text": "【选择性必修3】3.4蛋白质工程复习与提高 选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1FF41137xg/"}
+JSON: {"text": "初中生物 济南版 七年级上册 教学视频 初一生物学 7年级上册 七年级 上册 7年级 下册", "url": "https://www.bilibili.com/video/BV14Q4y1f7PP/"}
+JSON: {"text": "【高中生物必修1】蛋白质相关计算 氨基酸肽键氨基羧基人教版统编教材高中生物学2019新课改新课标高考理综", "url": "https://www.bilibili.com/video/BV1PK4y1E7js/"}
+JSON: {"text": "有一个精通生物学的朋友，有多悲催？.mp4", "url": "https://www.bilibili.com/video/BV15P41137TD/"}
+JSON: {"text": "细胞呼吸 进阶题型就这么考！ | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1JP4y1Q7zt/"}
+JSON: {"text": "分离定律刷题儿题儿—高考真题 | 考点精华【高中生物必修2】", "url": "https://www.bilibili.com/video/BV1DR4y1e7Rc/"}
+JSON: {"text": "快来学生物拉了", "url": "https://www.bilibili.com/video/BV1xh4y1V7XF/"}
+JSON: {"text": "【高中生物必修1】蛋白质相关计算 氨基酸肽键氨基羧基人教版统编教材高中生物学2019新课改新课标高考理综", "url": "https://www.bilibili.com/video/BV1PK4y1E7js/"}
+JSON: {"text": "【科普】过个春节，新冠病毒怎么消失了？共存成功？生物学，用数据说话——非人观", "url": "https://www.bilibili.com/video/BV1Yd4y1H76q/"}
+JSON: {"text": "《满级生物学》《我是太平羊》《我要当爸爸了》《他在踢我》《孩子他爸》《我鄙视你》", "url": "https://www.bilibili.com/video/BV11d4y1a7Qv/"}
+JSON: {"text": "生物学硕士来教你做白米饭，我这20多年白过了！", "url": "https://www.bilibili.com/video/BV1fB4y1X7er/"}
+JSON: {"text": "有一个精通生物学的朋友，有多悲催？.mp4", "url": "https://www.bilibili.com/video/BV15P41137TD/"}
+JSON: {"text": "应粉丝要求-具有生物学学识学位的最美cosplay的惊奇队长诞生了", "url": "https://www.bilibili.com/video/BV1GM411N7X9/"}
+JSON: {"text": "特朗普这是……要重新定义生物学？", "url": "https://www.bilibili.com/video/BV1xt41157DC/"}
+JSON: {"text": "考研细胞生物学，重新整理了一下内容，换了思维导图的模式分享给大家，希望能帮助到考研的小伙伴们", "url": "https://www.bilibili.com/video/BV1zz411b7Vi/"}
+JSON: {"text": "《神话故事？生物学or天体学故事✓》全网聊天对抗路冬季总决赛，现在开始！", "url": "https://www.bilibili.com/video/BV11M411H7d8/"}
+JSON: {"text": "【脑渲】生物学的高级想象力测试", "url": "https://www.bilibili.com/video/BV1iJ4m1h7se/"}
+JSON: {"text": "【沃玛生物学】当我尝试科学地解释沃玛的生物 第一期", "url": "https://www.bilibili.com/video/BV1d7411F7Ev/"}
+JSON: {"text": "【陈子悠miu】论生物学博士的可怕性", "url": "https://www.bilibili.com/video/BV1mK411q7Pi/"}
+JSON: {"text": "高一生物大题来挑战之 基因分离定律", "url": "https://www.bilibili.com/video/BV1or4y1z7n5/"}
+JSON: {"text": "【选择性必修3】3.2-2基因表达载体的构建PCR习题选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1F44y157VX/"}
+JSON: {"text": "【陈子悠miu】论生物学博士的可怕性", "url": "https://www.bilibili.com/video/BV1mK411q7Pi/"}
+JSON: {"text": "2023四省联考生物 — 题目详解【新教材 老高考】", "url": "https://www.bilibili.com/video/BV1LM411j7ih/"}
+JSON: {"text": "高中生物 选必一里的那位姐姐", "url": "https://www.bilibili.com/video/BV1JF41177vJ/"}
+JSON: {"text": "修复基础代谢，提高新陈代谢，超全攻略！           数据来自《食品与健康2006》《美国人类生物学杂志》《cell》等，别骂别杠，不会改不在乎也不回复。", "url": "https://www.bilibili.com/video/BV1MP4y1E7Gd/"}
+JSON: {"text": "【科普】过个春节，新冠病毒怎么消失了？共存成功？生物学，用数据说话——非人观", "url": "https://www.bilibili.com/video/BV1Yd4y1H76q/"}
+JSON: {"text": "【脑渲】生物学的中级想象力测试（补档1", "url": "https://www.bilibili.com/video/BV1rS421N7cd/"}
+JSON: {"text": "【沃玛生物学】当我尝试科学地解释沃玛的生物 第一期", "url": "https://www.bilibili.com/video/BV1d7411F7Ev/"}
+JSON: {"text": "高一生物大题来挑战之 基因分离定律", "url": "https://www.bilibili.com/video/BV1or4y1z7n5/"}
+JSON: {"text": "高二生物-助力开学考-下【生态系统】", "url": "https://www.bilibili.com/video/BV1rD4y1T79b/"}
+JSON: {"text": "NMIXX教你学生物", "url": "https://www.bilibili.com/video/BV1pM411g7n7/"}
+JSON: {"text": "开工！空间辐射生物学装置出舱", "url": "https://www.bilibili.com/video/BV1aW4y1D7yj/"}
+JSON: {"text": "揭秘梭子蟹骗局背后的生物学原理和经济逻辑，把亏吃明白，这当我们不能白上", "url": "https://www.bilibili.com/video/BV1pM411r7HE/"}
+JSON: {"text": "NMIXX教你学生物", "url": "https://www.bilibili.com/video/BV1pM411g7n7/"}
+JSON: {"text": "修复基础代谢，提高新陈代谢，超全攻略！           数据来自《食品与健康2006》《美国人类生物学杂志》《cell》等，别骂别杠，不会改不在乎也不回复。", "url": "https://www.bilibili.com/video/BV1MP4y1E7Gd/"}
+JSON: {"text": "分离定律刷题儿题儿—高考真题 | 考点精华【高中生物必修2】", "url": "https://www.bilibili.com/video/BV1DR4y1e7Rc/"}
+JSON: {"text": "《学 生 物 前 vs 学 生 物 后》", "url": "https://www.bilibili.com/video/BV1Bu411i7bh/"}
+JSON: {"text": "【选择性必修3】3.2-2基因表达载体的构建PCR习题选修3生物技术与工程人教版统编教材高中生物学2020新课改新课标新高考理综", "url": "https://www.bilibili.com/video/BV1F44y157VX/"}
+JSON: {"text": "揭秘梭子蟹骗局背后的生物学原理和经济逻辑，把亏吃明白，这当我们不能白上", "url": "https://www.bilibili.com/video/BV1pM411r7HE/"}
+JSON: {"text": "2023四省联考生物 — 题目详解【新教材 老高考】", "url": "https://www.bilibili.com/video/BV1LM411j7ih/"}
+JSON: {"text": "【橙子miu】知道夏彦学生物后的橙子?", "url": "https://www.bilibili.com/video/BV1V3411c7WJ/"}
+JSON: {"text": "高二生物-助力开学考-下【生态系统】", "url": "https://www.bilibili.com/video/BV1rD4y1T79b/"}
+JSON: {"text": "【脑渲】生物学的中级想象力测试（补档1", "url": "https://www.bilibili.com/video/BV1rS421N7cd/"}
+JSON: {"text": "特朗普这是……要重新定义生物学？", "url": "https://www.bilibili.com/video/BV1xt41157DC/"}
+JSON: {"text": "【逆天梗图#204】生物学不及格的作者", "url": "https://www.bilibili.com/video/BV1Km411y7nn/"}
+JSON: {"text": "NMIXX教你学生物", "url": "https://www.bilibili.com/video/BV1pM411g7n7/"}
+JSON: {"text": "普生考研必看系列【陈阅增普通生物学】分章节知识点巩固 | 你值得拥有", "url": "https://www.bilibili.com/video/BV1zh411m7bK/"}
+JSON: {"text": "英伟达领袖黄仁勋谈未来，计算机时代已结束，生物学将颠覆一切！", "url": "https://www.bilibili.com/video/BV1FH4y1J7yK/"}
+JSON: {"text": "阮梅教你生物学", "url": "https://www.bilibili.com/video/BV1eQ4y1j7XW/"}
+JSON: {"text": "【180万播放推荐~】高中生物选修3合集 生物技术与工程新教材选修三人教版新高考网课选择性必修3新高考网课1.1-1发酵工程传统发酵技术的应用", "url": "https://www.bilibili.com/video/BV15R4y1c7Kx/"}
+JSON: {"text": "【乐乐课堂初中生物】在动画中学习生物知识（有全集）轻松学会生物赢在起跑线预习复习好帮手不再惧怕生物知识", "url": "https://www.bilibili.com/video/BV11V4y1K7Zf/"}
+JSON: {"text": "想学生物竞赛？10道题劝退你！", "url": "https://www.bilibili.com/video/BV1kK4y1i7NB/"}
+JSON: {"text": "开工！空间辐射生物学装置出舱", "url": "https://www.bilibili.com/video/BV1aW4y1D7yj/"}
+JSON: {"text": "【MyGO生物学】乐奈的行为逻辑分析", "url": "https://www.bilibili.com/video/BV13N411n7Cv/"}
+JSON: {"text": "备战高中生物学考/合格考！2021年广东学考卷全解！", "url": "https://www.bilibili.com/video/BV1NA4y1o7Gs/"}
+JSON: {"text": "【橙子miu】知道夏彦学生物后的橙子?", "url": "https://www.bilibili.com/video/BV1V3411c7WJ/"}
+JSON: {"text": "【医学微生物学期末复习必备②】38种病毒A3版式超大表格整理--25页两万五千字up主纯手工打字整理总结---By呼同学", "url": "https://www.bilibili.com/video/BV1p54y1Q7ob/"}
+JSON: {"text": "张雪峰老师：生物学专业在考研中，有一个专业课必须学好，生物化学", "url": "https://www.bilibili.com/video/BV1r64y1d7EW/"}
+JSON: {"text": "如何用生物学的方式来表达你对阮梅的喜欢？", "url": "https://www.bilibili.com/video/BV1wa4y1q7sf/"}
+JSON: {"text": "【MyGO生物学】乐奈的行为逻辑分析", "url": "https://www.bilibili.com/video/BV13N411n7Cv/"}
+JSON: {"text": "【逆天梗图#204】生物学不及格的作者", "url": "https://www.bilibili.com/video/BV1Km411y7nn/"}
+JSON: {"text": "英伟达领袖黄仁勋谈未来，计算机时代已结束，生物学将颠覆一切！", "url": "https://www.bilibili.com/video/BV1FH4y1J7yK/"}
+JSON: {"text": "阮梅教你生物学", "url": "https://www.bilibili.com/video/BV1eQ4y1j7XW/"}
+JSON: {"text": "【180万播放推荐~】高中生物选修3合集 生物技术与工程新教材选修三人教版新高考网课选择性必修3新高考网课1.1-1发酵工程传统发酵技术的应用", "url": "https://www.bilibili.com/video/BV15R4y1c7Kx/"}
+JSON: {"text": "【乐乐课堂初中生物】在动画中学习生物知识（有全集）轻松学会生物赢在起跑线预习复习好帮手不再惧怕生物知识", "url": "https://www.bilibili.com/video/BV11V4y1K7Zf/"}
+JSON: {"text": "想学生物竞赛？10道题劝退你！", "url": "https://www.bilibili.com/video/BV1kK4y1i7NB/"}
+JSON: {"text": "开工！空间辐射生物学装置出舱", "url": "https://www.bilibili.com/video/BV1aW4y1D7yj/"}
+JSON: {"text": "备战高中生物学考/合格考！2021年广东学考卷全解！", "url": "https://www.bilibili.com/video/BV1NA4y1o7Gs/"}
+JSON: {"text": "【医学微生物学期末复习必备②】38种病毒A3版式超大表格整理--25页两万五千字up主纯手工打字整理总结---By呼同学", "url": "https://www.bilibili.com/video/BV1p54y1Q7ob/"}
+JSON: {"text": "张雪峰老师：生物学专业在考研中，有一个专业课必须学好，生物化学", "url": "https://www.bilibili.com/video/BV1r64y1d7EW/"}
+JSON: {"text": "【明日方舟】【熟肉】《源石分子与细胞生物学》维多利亚国立大学医学院精品网课 第一节  号称挂科率55%的分子细胞生物学  炎国语字幕已经有啦，打开字幕就能看到啦", "url": "https://www.bilibili.com/video/BV1Wb4y1J7Yb/"}
+JSON: {"text": "学习篇——本科毕业答辩|神经生物学/生理学Ⅰ5min汇报+3min提问|全程只答不辩|被导师拒绝评价|嘴瓢实录", "url": "https://www.bilibili.com/video/BV1tg411379X/"}
+JSON: {"text": "用生物学诠释和生物学没关系的设定—【终远的威尔修】测评（下）", "url": "https://www.bilibili.com/video/BV1LL411Q7Pn/"}
+JSON: {"text": "【高中生物选必1】免疫失调+免疫学应用（知识）|0基础救星！", "url": "https://www.bilibili.com/video/BV1Eg411r7MV/"}
+JSON: {"text": "高一生物-助力期中考【期中真题演练-大题】", "url": "https://www.bilibili.com/video/BV1Dm4y1m716/"}
+JSON: {"text": "缝合怪警告！星露谷+宝可梦的双厨狂喜——《神奇生物学》！一款关于我（你？）上大学被导师PUA养动物干苦力的游戏", "url": "https://www.bilibili.com/video/BV1bq4y1u7qf/"}
+JSON: {"text": "如何用生物学的方式来表达你对阮梅的喜欢？", "url": "https://www.bilibili.com/video/BV1wa4y1q7sf/"}
+JSON: {"text": "【脑渲】生物学的基础想象力测试", "url": "https://www.bilibili.com/video/BV1fx4y1k7Sz/"}
+JSON: {"text": "“博士乘组”开工啦！在轨进行空间辐射生物学装置出舱工作", "url": "https://www.bilibili.com/video/BV1yh4y1g768/"}
+JSON: {"text": "生物学奇迹", "url": "https://www.bilibili.com/video/BV1UU4y1R7sH/"}
+JSON: {"text": "用生物学诠释和生物学没关系的设定—【终远的威尔修】测评（下）", "url": "https://www.bilibili.com/video/BV1LL411Q7Pn/"}
+JSON: {"text": "【高中生物选必1】免疫失调+免疫学应用（知识）|0基础救星！", "url": "https://www.bilibili.com/video/BV1Eg411r7MV/"}
+JSON: {"text": "高一生物-助力期中考【期中真题演练-大题】", "url": "https://www.bilibili.com/video/BV1Dm4y1m716/"}
+JSON: {"text": "缝合怪警告！星露谷+宝可梦的双厨狂喜——《神奇生物学》！一款关于我（你？）上大学被导师PUA养动物干苦力的游戏", "url": "https://www.bilibili.com/video/BV1bq4y1u7qf/"}
+JSON: {"text": "如何用生物学的方式来表达你对阮梅的喜欢？", "url": "https://www.bilibili.com/video/BV1wa4y1q7sf/"}
+JSON: {"text": "【脑渲】生物学的基础想象力测试", "url": "https://www.bilibili.com/video/BV1fx4y1k7Sz/"}
+JSON: {"text": "“博士乘组”开工啦！在轨进行空间辐射生物学装置出舱工作", "url": "https://www.bilibili.com/video/BV1yh4y1g768/"}
+JSON: {"text": "生物学奇迹", "url": "https://www.bilibili.com/video/BV1UU4y1R7sH/"}
+JSON: {"text": "【生物统计学】生物统计学期末考试突击课", "url": "https://www.bilibili.com/video/BV1s14y1F7fF/"}
+JSON: {"text": "好消息！在我的频道也可以学生物了！", "url": "https://www.bilibili.com/video/BV1QL4y1G7W8/"}
+JSON: {"text": "动物界真实存在杀弱保强。这在生物学里叫“杀婴行为”。", "url": "https://www.bilibili.com/video/BV1BK4y167YF/"}
+JSON: {"text": "肿瘤分子生物学专家、中国工程院院士顾健人，于2022年9月27日病逝。顾健人是中国癌相关基因及基因治疗研究的奠基人之一，提出肿瘤是一种系统性疾病的概念。他非常关", "url": "https://www.bilibili.com/video/BV1SW4y1Y7xx/"}
+JSON: {"text": "【推荐课程】山东大学生物信息学（高清原版课程带全套课件）", "url": "https://www.bilibili.com/video/BV13t411372E/"}
+JSON: {"text": "普通生物学考研最最最精华知识点带背！！！（陈阅增 第四版）", "url": "https://www.bilibili.com/video/BV1GU4y1M79v/"}
+JSON: {"text": "干货 | 高中生物学考知识点总结（完整版）！", "url": "https://www.bilibili.com/video/BV1Yh41147YR/"}
+JSON: {"text": "逆袭!40岁凤姐入读名校！学习分子生物学和微积分", "url": "https://www.bilibili.com/video/BV1YY4y1g7FL/"}
+JSON: {"text": "肿瘤分子生物学专家、中国工程院院士顾健人，于2022年9月27日病逝。顾健人是中国癌相关基因及基因治疗研究的奠基人之一，提出肿瘤是一种系统性疾病的概念。他非常关", "url": "https://www.bilibili.com/video/BV1SW4y1Y7xx/"}
+JSON: {"text": "【推荐课程】山东大学生物信息学（高清原版课程带全套课件）", "url": "https://www.bilibili.com/video/BV13t411372E/"}
+JSON: {"text": "普通生物学考研最最最精华知识点带背！！！（陈阅增 第四版）", "url": "https://www.bilibili.com/video/BV1GU4y1M79v/"}
+JSON: {"text": "干货 | 高中生物学考知识点总结（完整版）！", "url": "https://www.bilibili.com/video/BV1Yh41147YR/"}
+JSON: {"text": "逆袭!40岁凤姐入读名校！学习分子生物学和微积分", "url": "https://www.bilibili.com/video/BV1YY4y1g7FL/"}
+JSON: {"text": "丧尸的生物学解释（机翻熟）", "url": "https://www.bilibili.com/video/BV1Fw411N78v/"}
+JSON: {"text": "高中生物学危险程度", "url": "https://www.bilibili.com/video/BV1iu411H7oY/"}
+JSON: {"text": "【十分钟生物学】1.1 孟德尔的豌豆杂交实验（一）-1", "url": "https://www.bilibili.com/video/BV1vX4y1G78g/"}
+JSON: {"text": "【高中生物必修1】走进细胞 题型总结！", "url": "https://www.bilibili.com/video/BV1vV4y1p7L1/"}
+JSON: {"text": "用生物学来看奥特曼？ 奥特曼水生怪兽现实原型！ 初代奥特曼篇", "url": "https://www.bilibili.com/video/BV1H8411d7MV/"}
+JSON: {"text": "【哈尔滨医科大学】医学微生物学【带字幕】", "url": "https://www.bilibili.com/video/BV1Y3411U7hF/"}
+JSON: {"text": "【高中生物3D动画】从DNA到蛋白质（转录，翻译）", "url": "https://www.bilibili.com/video/BV1xb4114722/"}
+JSON: {"text": "德国生物学博士3块3的伙食费 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1uC411Y7on/"}
+JSON: {"text": "制药专业转行老师，不建议学生学生物制药", "url": "https://www.bilibili.com/video/BV18a41127E4/"}
+JSON: {"text": "想学生物、同声传译，张雪峰拯救了一个670分学霸", "url": "https://www.bilibili.com/video/BV1uN4y1m7mx/"}
+JSON: {"text": "高中生物学危险程度", "url": "https://www.bilibili.com/video/BV1iu411H7oY/"}
+JSON: {"text": "【十分钟生物学】1.1 孟德尔的豌豆杂交实验（一）-1", "url": "https://www.bilibili.com/video/BV1vX4y1G78g/"}
+JSON: {"text": "【高中生物必修1】走进细胞 题型总结！", "url": "https://www.bilibili.com/video/BV1vV4y1p7L1/"}
+JSON: {"text": "用生物学来看奥特曼？ 奥特曼水生怪兽现实原型！ 初代奥特曼篇", "url": "https://www.bilibili.com/video/BV1H8411d7MV/"}
+JSON: {"text": "【哈尔滨医科大学】医学微生物学【带字幕】", "url": "https://www.bilibili.com/video/BV1Y3411U7hF/"}
+JSON: {"text": "【高中生物3D动画】从DNA到蛋白质（转录，翻译）", "url": "https://www.bilibili.com/video/BV1xb4114722/"}
+JSON: {"text": "德国生物学博士3块3的伙食费 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1uC411Y7on/"}
+JSON: {"text": "制药专业转行老师，不建议学生学生物制药", "url": "https://www.bilibili.com/video/BV18a41127E4/"}
+JSON: {"text": "想学生物、同声传译，张雪峰拯救了一个670分学霸", "url": "https://www.bilibili.com/video/BV1uN4y1m7mx/"}
+JSON: {"text": "【求臻24版】细胞生物学考研基础+强化 翟中和第四版 丁明孝第五版均适用", "url": "https://www.bilibili.com/video/BV1m44y1975B/"}
+JSON: {"text": "德国生物学博士3块5 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1t5411i7wK/"}
+JSON: {"text": "“自从学了生物竞赛，高考生物越学越差！”| 有哪些事情，是你学过生物竞赛后发现的……", "url": "https://www.bilibili.com/video/BV1Ub4y1j7PG/"}
+JSON: {"text": "《生物化学与分子生物学》- 全145讲前100讲 - 杨广笑 华中科技大学", "url": "https://www.bilibili.com/video/BV16J411J7RC/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 观察双子叶植物种子（芸豆）的结构", "url": "https://www.bilibili.com/video/BV1CY4y1r7HV/"}
+JSON: {"text": "中医没有微生物学最初非典不让中医参加", "url": "https://www.bilibili.com/video/BV17j421Z7tT/"}
+JSON: {"text": "20分钟搞定有丝分裂！| 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1jK411q746/"}
+JSON: {"text": "神经生物学概论[复旦大学·俞洪波]", "url": "https://www.bilibili.com/video/BV1Hg4y1z7p1/"}
+JSON: {"text": "沉浸式做实验|手把手教你学会构建质粒·分子克隆入门", "url": "https://www.bilibili.com/video/BV19W4y1X79X/"}
+JSON: {"text": "尖端生物学如何"复活"冰冻大脑？用干细胞和脑科学解释《三体》云天明的宇宙奥德赛", "url": "https://www.bilibili.com/video/BV1EM41127QN/"}
+JSON: {"text": "烤雀儿学生物课 Cardi B:我从不拿她的教育开玩笑", "url": "https://www.bilibili.com/video/BV1aT411Q7pk/"}
+JSON: {"text": "初中生物学中考实验操作演示 - 观察双子叶植物种子（芸豆）的结构", "url": "https://www.bilibili.com/video/BV1CY4y1r7HV/"}
+JSON: {"text": "中医没有微生物学最初非典不让中医参加", "url": "https://www.bilibili.com/video/BV17j421Z7tT/"}
+JSON: {"text": "20分钟搞定有丝分裂！| 知识【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1jK411q746/"}
+JSON: {"text": "神经生物学概论[复旦大学·俞洪波]", "url": "https://www.bilibili.com/video/BV1Hg4y1z7p1/"}
+JSON: {"text": "沉浸式做实验|手把手教你学会构建质粒·分子克隆入门", "url": "https://www.bilibili.com/video/BV19W4y1X79X/"}
+JSON: {"text": "尖端生物学如何"复活"冰冻大脑？用干细胞和脑科学解释《三体》云天明的宇宙奥德赛", "url": "https://www.bilibili.com/video/BV1EM41127QN/"}
+JSON: {"text": "烤雀儿学生物课 Cardi B:我从不拿她的教育开玩笑", "url": "https://www.bilibili.com/video/BV1aT411Q7pk/"}
+JSON: {"text": "外刊逐句精读｜《经济学人》：诺贝尔生理学奖与神奇的「第六感」｜CATTI一级译员外刊精读｜MTI考研备考实用表达", "url": "https://www.bilibili.com/video/BV1bh411b7mZ/"}
+JSON: {"text": "你可能不知道的莓莓的10件事!!!【秋风麦块生物学】", "url": "https://www.bilibili.com/video/BV1H44y1o7Ys/"}
+JSON: {"text": "开学考来了，假期却带走了记忆~别怕！高一生物-助力开学考（上）", "url": "https://www.bilibili.com/video/BV1kY411D771/"}
+JSON: {"text": "高二生物-助力开学考【植物激素 种群 群落】", "url": "https://www.bilibili.com/video/BV1Je4y1N72D/"}
+JSON: {"text": "你可能不知道的莓莓的10件事!!!【秋风麦块生物学】", "url": "https://www.bilibili.com/video/BV1H44y1o7Ys/"}
+JSON: {"text": "开学考来了，假期却带走了记忆~别怕！高一生物-助力开学考（上）", "url": "https://www.bilibili.com/video/BV1kY411D771/"}
+JSON: {"text": "高二生物-助力开学考【植物激素 种群 群落】", "url": "https://www.bilibili.com/video/BV1Je4y1N72D/"}
+JSON: {"text": "【救救小河】生物学教授对小河现状的看法", "url": "https://www.bilibili.com/video/BV1z8411p7fQ/"}
+JSON: {"text": "德国生物学博士2块7 在德国大学食堂里能吃啥？", "url": "https://www.bilibili.com/video/BV1mK411x7fF/"}
+JSON: {"text": "[反讽]感谢日本排放核污水，佐证了很多生物学观点！", "url": "https://www.bilibili.com/video/BV1zC4y1P7rt/"}
+JSON: {"text": "用生物学来看奥特曼?鉴定下布莱泽奥特曼里的怪兽原型！", "url": "https://www.bilibili.com/video/BV1sZ4y1n7L7/"}
+JSON: {"text": "献给明天就要参加全国生物学奥赛的中学生朋友", "url": "https://www.bilibili.com/video/BV1AM4y1t766/"}
+JSON: {"text": "【植物生理学】叶片内部光合作用", "url": "https://www.bilibili.com/video/BV1Hk4y1T7fZ/"}
+JSON: {"text": "【EVA】即使满是伤痕，仍以最大的善意对待他人！！eva形而上生物学、哲学分析！！", "url": "https://www.bilibili.com/video/BV1mB4y1Y7Xx/"}
+JSON: {"text": "神经生物学实验牛蛙坐骨神经", "url": "https://www.bilibili.com/video/BV1N7411H7cd/"}
+JSON: {"text": "Cell：重磅！从真菌微生物组重新定义癌症", "url": "https://www.bilibili.com/video/BV1he4y1q7Tk/"}
+JSON: {"text": "听歌也能学生物？太卷了吧", "url": "https://www.bilibili.com/video/BV1LW4y1h76E/"}
+JSON: {"text": "病毒越变越强了？听学分子生物学的曹操给你讲", "url": "https://www.bilibili.com/video/BV1DG4y1w7ti/"}
+JSON: {"text": "用生物学来看奥特曼?鉴定下布莱泽奥特曼里的怪兽原型！", "url": "https://www.bilibili.com/video/BV1sZ4y1n7L7/"}
+JSON: {"text": "献给明天就要参加全国生物学奥赛的中学生朋友", "url": "https://www.bilibili.com/video/BV1AM4y1t766/"}
+JSON: {"text": "【植物生理学】叶片内部光合作用", "url": "https://www.bilibili.com/video/BV1Hk4y1T7fZ/"}
+JSON: {"text": "【EVA】即使满是伤痕，仍以最大的善意对待他人！！eva形而上生物学、哲学分析！！", "url": "https://www.bilibili.com/video/BV1mB4y1Y7Xx/"}
+JSON: {"text": "神经生物学实验牛蛙坐骨神经", "url": "https://www.bilibili.com/video/BV1N7411H7cd/"}
+JSON: {"text": "Cell：重磅！从真菌微生物组重新定义癌症", "url": "https://www.bilibili.com/video/BV1he4y1q7Tk/"}
+JSON: {"text": "听歌也能学生物？太卷了吧", "url": "https://www.bilibili.com/video/BV1LW4y1h76E/"}
+JSON: {"text": "病毒越变越强了？听学分子生物学的曹操给你讲", "url": "https://www.bilibili.com/video/BV1DG4y1w7ti/"}
+JSON: {"text": "【生物】蛋白质的合成（翻译）过程 自制中英字幕", "url": "https://www.bilibili.com/video/BV1uS4y1b7R7/"}
+JSON: {"text": "有一个精通生物学的朋友是种什么体验？", "url": "https://www.bilibili.com/video/BV1Vq4y1Z75Z/"}
+JSON: {"text": "爆笑盘点国产烂剧中的“生物学奇迹”，负4岁生娃不是梦！", "url": "https://www.bilibili.com/video/BV1sK4y1S7TA/"}
+JSON: {"text": "你们天生大聪明，却在高速路上拥堵，我无奈被逼到一条小路，却发现这里一片坦途！", "url": "https://www.bilibili.com/video/BV1Mv4y1779k/"}
+JSON: {"text": "有一个精通生物学的朋友是种什么体验？", "url": "https://www.bilibili.com/video/BV1Vq4y1Z75Z/"}
+JSON: {"text": "爆笑盘点国产烂剧中的“生物学奇迹”，负4岁生娃不是梦！", "url": "https://www.bilibili.com/video/BV1sK4y1S7TA/"}
+JSON: {"text": "你们天生大聪明，却在高速路上拥堵，我无奈被逼到一条小路，却发现这里一片坦途！", "url": "https://www.bilibili.com/video/BV1Mv4y1779k/"}
+JSON: {"text": "初二生物上册 八年级生物上册 人教版 同步教程 2021新版 初中生物8年级生物上册八年级上册8年级上册生物初二生物初2生物上册人教版生物学", "url": "https://www.bilibili.com/video/BV1vG41137kb/"}
+JSON: {"text": "初中生物 济南版 八年级上册 教学视频 初二生物学 8年级上册 八年级 上册 8年级 下册", "url": "https://www.bilibili.com/video/BV1V3411r7L1/"}
+JSON: {"text": "光合作用基础题及色素提取和分离实验 | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1G24y1D7Lp/"}
+JSON: {"text": "AI设计地球上不存在的全新蛋白质 万物皆可编程 生物学也进入编程时代#人工智能 #蛋白质设计 #黑科", "url": "https://www.bilibili.com/video/BV1hb4y1M7eZ/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——温迪戈", "url": "https://www.bilibili.com/video/BV1ve4y127ti/"}
+JSON: {"text": "细胞呼吸 基础题型就这么考！ | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1b24y1k71e/"}
+JSON: {"text": "初中生物 济南版 八年级上册 教学视频 初二生物学 8年级上册 八年级 上册 8年级 下册", "url": "https://www.bilibili.com/video/BV1V3411r7L1/"}
+JSON: {"text": "光合作用基础题及色素提取和分离实验 | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1G24y1D7Lp/"}
+JSON: {"text": "AI设计地球上不存在的全新蛋白质 万物皆可编程 生物学也进入编程时代#人工智能 #蛋白质设计 #黑科", "url": "https://www.bilibili.com/video/BV1hb4y1M7eZ/"}
+JSON: {"text": "【泰拉生物学】带你深度了解泰拉种族——温迪戈", "url": "https://www.bilibili.com/video/BV1ve4y127ti/"}
+JSON: {"text": "细胞呼吸 基础题型就这么考！ | 题型总结【高中生物必修1】", "url": "https://www.bilibili.com/video/BV1b24y1k71e/"}
