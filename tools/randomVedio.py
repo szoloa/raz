@@ -9,16 +9,28 @@ import time
 
 # Bilibili base URL
 host = 'https:'
-key = 'MAD'
+key = 'AMV'
 opt = '%s.txt' % (key)
+
+
+a1 = "2015-5-10 23:40:00"
+a2 = "2020-5-10 23:40:00"
+# 先转换为时间数组
+timeArray1 = time.strptime(a1, "%Y-%m-%d %H:%M:%S")
+timeArray2 = time.strptime(a2, "%Y-%m-%d %H:%M:%S")
+
+url = f'https://search.bilibili.com/all?keyword={key}&pubtime_begin_s={int(time.mktime(timeArray1))}&pubtime_end_s={int(time.mktime(timeArray2))}'
+
+# url = 'https://space.bilibili.com/3493277087042285/video'
 
 # Chrome driver configuration with headless mode disabled for debugging
 chrome_options = Options()
 # Uncomment below line to run in headless mode
 # chrome_options.add_argument('--headless')
 # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-driver = webdriver.Chrome(service=ChromeService('/usr/bin/chromedriver'), options=chrome_options)
-driver.get(f'https://search.bilibili.com/all?keyword={key}')
+# driver = webdriver.Chrome(service=ChromeService('/usr/bin/chromedriver'), options=chrome_options)
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(url)
 
 def scrape_page():
     """
@@ -73,5 +85,5 @@ def navigate_and_scrape():
 # Start scraping
 navigate_and_scrape()
 
-# Close the driver after scraping is complete
+# Close the driver after scraping is complete 
 driver.quit()

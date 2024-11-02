@@ -5,6 +5,7 @@ import tkinter as tk
 import tkinter.filedialog
 from tkinter import ttk
 import requests
+import os
 
 # 修改随机配置文件
 class UserItem(tk.Frame):
@@ -40,7 +41,7 @@ class UserItem(tk.Frame):
         # 加载主题列表
         self.lsb_ls = Listbox(self, font=("黑体", 12), width=36, height=10)
         for i in custom.get_Item():
-            self.lsb_ls.insert(0, i)
+            self.lsb_ls.insert(0, os.path.basename(i).split('.')[0])
 
         # 应用随机条目按钮
         self.button_ls_right = ttk.Button(self, text='应用随机条目文件', command=self.ls_right, style='TButton', width=16)
@@ -115,6 +116,7 @@ class UserItem(tk.Frame):
         item = self.lsb_ls.get(self.lsb_ls.curselection())
         if item == '':
             return
+        item = custom.get_Item()[-self.lsb_ls.curselection()[0]-1]
         f = open(item, encoding='utf-8')
         theme = custom.get_theme_list()
         custom.set_theme([i.replace('\n','').replace('\r','') for i in f.readlines()])

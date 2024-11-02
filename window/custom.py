@@ -44,10 +44,10 @@ class Custom():
         self.__search_type = 'single'
         self.__search_type_s = 'theme'
 
-        self.__width = 640
-        self.__height = 350
+        self.__width = 840
+        self.__height = 500
 
-        fs = open('setting.json')
+        fs = open('setting.json', 'a')
         try:
             setting_user = json.loads(fs.read())
         except:

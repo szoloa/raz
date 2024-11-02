@@ -38,11 +38,6 @@ class appliction(tk.Frame):
         self.button_goto['text'] = '选择跳转此主题'
         self.button_goto['width'] = 64
         self.button_goto['command'] = self.openHistoryPage
-        
-        self.button_muti = ttk.Button(self)
-        self.button_muti['text'] = '随机多个'
-        self.button_muti['width'] = 6
-        self.button_muti['command'] = self.openMuti
 
         self.button_front = ttk.Button(self)
         self.button_front['text'] = '置于最前'
@@ -124,11 +119,6 @@ class appliction(tk.Frame):
         else:
             custom.openWeb(temp)
 
-    def openMuti(self, time=5):
-        for i in range(time):
-            chioce = random.choice(custom.get_theme())
-            self.lsb.insert(0, chioce)
-
     def windFront(self):
         if self.button_front['text'] == '置于最前':
             self.master.attributes('-topmost', 1)
@@ -209,7 +199,7 @@ class appliction(tk.Frame):
         root_set.geometry("500x400+200+300")
         root_set.title("设置")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
-        Appset(master=root_set) 
+        Appset(master=root_set, bro=self) 
         self.child_windows.append(root_set)
 
     def on_closing(self):
