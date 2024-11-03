@@ -196,10 +196,25 @@ class appliction(tk.Frame):
     
     def Appsetting(self):
         root_set = Toplevel()
-        root_set.geometry("500x400+200+300")
+        root_set.geometry("500x800+200+300")
         root_set.title("设置")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
-        Appset(master=root_set, bro=self) 
+
+        canvas=Canvas(root_set)
+
+        def myfunction(event):
+            canvas.configure(scrollregion=canvas.bbox("all"), width=500, height=800)
+
+        myscrollbar=Scrollbar(root_set, orient="vertical", command=canvas.yview)      #创建滚动条
+        myscrollbar.place(x=480, y=0, height=800)
+        canvas.configure(yscrollcommand=myscrollbar.set)
+
+        appset = Appset(master=canvas, bro=self) 
+
+        canvas.create_window((0,0), window=appset, anchor='nw')    # 要用create_window才能跟随画布滚动
+        appset.bind("<Configure>", myfunction)
+        canvas.pack()
+
         self.child_windows.append(root_set)
 
     def on_closing(self):

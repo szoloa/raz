@@ -9,19 +9,23 @@ import time
 
 
 class vedioSpider:
-    def __init__(self, key):
+    def __init__(self, key, year1 = 2009, yaer2 = 2025):
         # Bilibili base URL
         self.host = 'https:'
         self.opt = '%s.txt' % (key)
 
 
-        a1 = "2010-5-10 23:40:00"
-        a2 = "2024-5-10 23:40:00"
+        a1 = f"{year1}-1-1 00:00:00" 
+        a2 = f"{yaer2}-12-31 00:00:00"
         # 先转换为时间数组
         timeArray1 = time.strptime(a1, "%Y-%m-%d %H:%M:%S")
         timeArray2 = time.strptime(a2, "%Y-%m-%d %H:%M:%S")
 
-        self.url = f'https://search.bilibili.com/all?keyword={key}&pubtime_begin_s={int(time.mktime(timeArray1))}&pubtime_end_s={int(time.mktime(timeArray2))}'
+        sjc1 = max(int(time.mktime(timeArray1)), 1245945600)
+
+        sjc2 = miin(int(time.mktime(timeArray2)), time.time())
+
+        self.url = f'https://search.bilibili.com/all?keyword={key}&pubtime_begin_s={sjc1}&pubtime_end_s={sjc2}'
 
         # url = 'https://space.bilibili.com/3493277087042285/video'
 

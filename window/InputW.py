@@ -84,7 +84,7 @@ class inputW(ttk.Frame):
                 custom.set_web(ipt)
                 custom.set_search_type_s('theme')
                 self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
-                self.master.destroy()
+                # self.master.destroy()
             else:
                 self.master.lift()
                 self.master.attributes('-topmost',True)
@@ -111,7 +111,7 @@ class inputW(ttk.Frame):
             custom.set_web(custom.get_web_dict()[item])
             custom.set_search_type_s('theme')
             self.bro.label_web['text'] = '当前搜索引擎: %s' %(custom.get_web_name())
-            self.master.destroy()
+            # self.master.destroy()
         else:
             self.master.lift()
             self.master.attributes('-topmost',True)

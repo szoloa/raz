@@ -3,6 +3,8 @@ from .custom import custom, listener_v
 from tkinter import ttk, messagebox
 from pynput import keyboard
 import random
+from .InputW import inputW
+from .UserItem import UserItem
 
 class Appset(tk.Frame):
     def __init__(self, master = None, bro = None):
@@ -11,6 +13,9 @@ class Appset(tk.Frame):
         self.bro = bro
         self.pack()
         self.createFrame()
+        inputW(master=self, bro=bro) 
+        UserItem(master=self) 
+
 
     def createFrame(self):
         style = ttk.Style()
@@ -60,6 +65,8 @@ class Appset(tk.Frame):
         self.button_save = ttk.Button(frame_button, text='保存设置', command=self.__save_setting)
 
         self.button_save.pack(side='right')
+
+        
 
     def __save_setting(self):
         custom.save_setting()

@@ -384,3 +384,6 @@ Leather crafting
 旅行
 木雕
 淡水生物学
+海缸
+JSON: {"text": "【AMV】东京食尸鬼「喰种的血统」", "url": "https://www.bilibili.com/video/BV1vx411K7PT/"}
+JSON: {"text": "【俄语遮羞/MAD】《多余的解释》“她只是我的妹妹～”", "url": "https://www.bilibili.com/video/BV1PdbseCEjG/"}
