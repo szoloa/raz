@@ -18,7 +18,7 @@ class chioce:
         if content[:5] == 'JSON:':
             temj = json.loads(content[6:])
             self.text = temj['text']
-            if type=='url':
+            if type == 'url':
                 self.url = temj['url']
             else:
                 self.url = temj['text']

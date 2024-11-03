@@ -3,6 +3,7 @@ from .BetaT import BetaT
 from .InputW import inputW
 from .UserItem import UserItem
 from .AppSetting import Appset
+from .RandomVedioWinows import RandomVedioWinows
 import random
 from tkinter import Listbox
 from tkinter import *
@@ -45,11 +46,12 @@ class appliction(tk.Frame):
         self.button_front['command'] = self.windFront
 
         self.button_userDo = ttk.Button(self)
-        self.button_userDo['text'] = '自定义随机文件'
+        self.button_userDo['text'] = '广告位招租'
         self.button_userDo['width'] = 16
-        self.button_userDo['command'] = self.userDo
+        # self.button_userDo['command'] = self.userDo
 
-        self.buttoon_changeWeb = ttk.Button(self, text='更改搜索引擎', command=self.changeWeb, width=16)
+        # self.buttoon_changeWeb = ttk.Button(self, text='更改搜索引擎', command=self.changeWeb, width=16)
+        self.buttoon_changeWeb = ttk.Button(self, text='深度探索', command=self.randomVedioWinows, width=16)
 
         self.buttoon_beta = ttk.Button(self, text='实验性功能', command=self.betaT, width=16)
         self.buttoon_setting = ttk.Button(self, text='设置', command=self.Appsetting, width=16)
@@ -196,18 +198,34 @@ class appliction(tk.Frame):
     
     def Appsetting(self):
         root_set = Toplevel()
-        root_set.geometry("500x800+200+300")
+
+        root_x = self.master.winfo_x()
+        root_y = self.master.winfo_y()
+        root_width = self.master.winfo_width()
+        root_height = self.master.winfo_height()
+
+        # 计算子窗口的位置（相对于主窗口的右下角）
+        child_x = root_x + 70 # + root_width // 2 # 20  # 主窗口右侧 20 像素
+        child_y = root_y  - 200 - 20 # root_height // 2  # 垂直居中于主窗口
+
+        root_set.geometry(f"550x800+{child_x}+{child_y}")
         root_set.title("设置")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
 
         canvas=Canvas(root_set)
 
         def myfunction(event):
-            canvas.configure(scrollregion=canvas.bbox("all"), width=500, height=800)
+            canvas.configure(scrollregion=canvas.bbox("all"), width=550, height=800)
 
         myscrollbar=Scrollbar(root_set, orient="vertical", command=canvas.yview)      #创建滚动条
-        myscrollbar.place(x=480, y=0, height=800)
+        myscrollbar.place(x=540, y=0, height=800)
         canvas.configure(yscrollcommand=myscrollbar.set)
+
+        def on_mouse_wheel(event):
+            canvas.yview_scroll(-1 * int(event.delta / 120), "units")
+
+        # 将滚轮绑定到画布
+        canvas.bind_all("<MouseWheel>", on_mouse_wheel)
 
         appset = Appset(master=canvas, bro=self) 
 
@@ -217,8 +235,35 @@ class appliction(tk.Frame):
 
         self.child_windows.append(root_set)
 
+    def randomVedioWinows(self):
+        temp = self.lsb.get(self.lsb.curselection())
+        if custom.get_web_name() != 'bilibili':
+            messagebox.showinfo('注意','搜索引擎只支持bilibili')
+            return
+        if temp == '':
+            messagebox.showinfo('注意','未选择任何内容')
+            return
+        
+        root = Toplevel()
+
+        # 获取主窗口的位置和大小
+        root_x = self.master.winfo_x()
+        root_y = self.master.winfo_y()
+        root_width = self.master.winfo_width()
+        root_height = self.master.winfo_height()
+
+        # 计算子窗口的位置（相对于主窗口的右下角）
+        child_x = root_x + 70 # + root_width // 2 # 20  # 主窗口右侧 20 像素
+        child_y = root_y  - 200 - 20 # root_height // 2  # 垂直居中于主窗口
+
+        root.geometry(f"500x160+{child_x}+{child_y}")
+        root.title("深入探索")
+        # root_web.iconphoto(True, PhotoImage(file='logo.png'))
+        RandomVedioWinows(master=root, theme=temp, bro=self)
+        self.child_windows.append(root)
+
     def on_closing(self):
-        """当主窗口关闭时，关闭所有子窗口"""
-        for window in self.child_windows:
-            window.destroy()  # 关闭所有子窗口
-        self.master.destroy()  # 最后关闭主窗口
+            """当主窗口关闭时，关闭所有子窗口"""
+            for window in self.child_windows:
+                window.destroy()  # 关闭所有子窗口
+            self.master.destroy()  # 最后关闭主窗口

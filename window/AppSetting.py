@@ -12,9 +12,9 @@ class Appset(tk.Frame):
         self.master = master
         self.bro = bro
         self.pack()
-        self.createFrame()
         inputW(master=self, bro=bro) 
         UserItem(master=self) 
+        self.createFrame()
 
 
     def createFrame(self):

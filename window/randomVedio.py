@@ -9,11 +9,12 @@ import time
 
 
 class vedioSpider:
-    def __init__(self, key, year1 = 2009, yaer2 = 2025):
+    def __init__(self, key, handle = print, year1 = 2009, yaer2 = 2025):
         # Bilibili base URL
         self.host = 'https:'
-        self.opt = '%s.txt' % (key)
+        self.opt = './data/%s.txt' % (key)
 
+        self.handle = handle
 
         a1 = f"{year1}-1-1 00:00:00" 
         a2 = f"{yaer2}-12-31 00:00:00"
@@ -23,7 +24,7 @@ class vedioSpider:
 
         sjc1 = max(int(time.mktime(timeArray1)), 1245945600)
 
-        sjc2 = miin(int(time.mktime(timeArray2)), time.time())
+        sjc2 = min(int(time.mktime(timeArray2)), time.time())
 
         self.url = f'https://search.bilibili.com/all?keyword={key}&pubtime_begin_s={sjc1}&pubtime_end_s={sjc2}'
 
@@ -68,7 +69,7 @@ class vedioSpider:
                                 video_link = self.host + t.get('href')
                                 if 'www.bilibili.com/video' in video_link:
                                     f.write("""JSON: {"text": "%s", "url": "%s"}\n""" % (title, video_link))
-                                    print(f"Saved: {title} - {video_link}")
+                                    self.handle(f"Saved: {title}")
                                     break
 
                     except Exception as inner_e:
@@ -95,5 +96,5 @@ class vedioSpider:
             except Exception as e:
                 print(f"Error navigating to the next page: {e}")
                 break
-
-vedioSpider('生物学')
+if __name__ == '__main__':
+    vedioSpider('生物学')

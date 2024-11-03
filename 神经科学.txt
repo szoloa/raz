@@ -1,0 +1,611 @@
+JSON: {"text": "【中英字幕播客】斯坦福教授讲解 神经系统如何控制我们的感知、改善睡眠以及健康 – Huberman Lab Podcast", "url": "https://www.bilibili.com/video/BV1nL4y1N7TN/"}
+JSON: {"text": "【公开课】【中文字幕】感觉神经系统 麻省理工学院 生物学：神经科学 认知科学 本科 Kanwisher教授", "url": "https://www.bilibili.com/video/BV1vb4y1e7L6/"}
+JSON: {"text": "【中英文字幕】神经解剖学视频", "url": "https://www.bilibili.com/video/BV1rg411w7e3/"}
+JSON: {"text": "【中英字幕】美国犹他大学神经解剖学系列", "url": "https://www.bilibili.com/video/BV1yM4y1g7cu/"}
+JSON: {"text": "【认知神经科学：脑与心智】台湾清华大学公开课，焦传金教授中文讲解", "url": "https://www.bilibili.com/video/BV1m54y1v7pv/"}
+JSON: {"text": "【中英双语伴读】认知神经科学 Cognitive Neuroscience 中文版 3rd + 英文版5th Gazzaniga", "url": "https://www.bilibili.com/video/BV1Dr4y1F7D9/"}
+JSON: {"text": "认知神经科学：思维与行为——洪兰教授", "url": "https://www.bilibili.com/video/BV1uF411z7kT/"}
+JSON: {"text": "【鬼谷说】神经演化（其五）：脑智三分 所归于一", "url": "https://www.bilibili.com/video/BV13G411b7aH/"}
+JSON: {"text": "《当代认知神经科学：脑与心智》（2021年版）--焦传金教授【更新完毕】", "url": "https://www.bilibili.com/video/BV1gh411b7nU/"}
+JSON: {"text": "神经生物学：大脑与认知科学", "url": "https://www.bilibili.com/video/BV1hK4y1C7mm/"}
+JSON: {"text": "【科学八卦史】他劈开了大脑 却连接起了一个时代", "url": "https://www.bilibili.com/video/BV18v411K7K9/"}
+JSON: {"text": "【脑科学】多巴胺：觉醒1（脑神经学家的一生）", "url": "https://www.bilibili.com/video/BV1Ju41117WF/"}
+JSON: {"text": "【哈佛大学】神经科学基础第一部分：神经元的电特性", "url": "https://www.bilibili.com/video/BV1ZW411k7VU/"}
+JSON: {"text": "山东大学-神经病学37集全", "url": "https://www.bilibili.com/video/BV13F411J7cj/"}
+JSON: {"text": "【超深度】高潮？恋足？和脑科学家聊聊性 ft. 尹璐萍｜TIANYU2FM - E085", "url": "https://www.bilibili.com/video/BV1Va4y1X71o/"}
+JSON: {"text": "【科学八卦史】他劈开了大脑 却连接起了一个时代", "url": "https://www.bilibili.com/video/BV18v411K7K9/"}
+JSON: {"text": "立刻提升专注、学习力、生产力！40hz双声道音频，一个半小时纯享版 | Dr. Andrew Huberman x Virtusan", "url": "https://www.bilibili.com/video/BV1Ky421i7kY/"}
+JSON: {"text": "【鬼谷说】神经演化（其五）：脑智三分 所归于一", "url": "https://www.bilibili.com/video/BV13G411b7aH/"}
+JSON: {"text": "清醒开颅手术：切除侵犯大脑中掌管慈悲部分的肿瘤", "url": "https://www.bilibili.com/video/BV1gqarerEru/"}
+JSON: {"text": "神经生物学：大脑与认知科学", "url": "https://www.bilibili.com/video/BV1hK4y1C7mm/"}
+JSON: {"text": "【脑科学】多巴胺：觉醒1（脑神经学家的一生）", "url": "https://www.bilibili.com/video/BV1Ju41117WF/"}
+JSON: {"text": "大脑可塑性最新研究发现，智力可以像肌肉一样增长", "url": "https://www.bilibili.com/video/BV1Kt421u7oB/"}
+JSON: {"text": "细胞战场纪录片 Curiosity: Battlefield Cell【1080P】", "url": "https://www.bilibili.com/video/BV1QP4y1q7yH/"}
+JSON: {"text": "你的大脑，配置到底有多强悍？", "url": "https://www.bilibili.com/video/BV1NY411p7Fj/"}
+JSON: {"text": "人类的性演化，为何我们进化出这么多快感？【进化论】", "url": "https://www.bilibili.com/video/BV1Mt421E7Mt/"}
+JSON: {"text": "【麻省理工】脑与认知科学-感知系统（中英双语）", "url": "https://www.bilibili.com/video/BV1Ff4y1A7AU/"}
+JSON: {"text": "【前额叶活性化音乐】提升：记忆力 ,专注力,海马体刺激，大脑活跃度", "url": "https://www.bilibili.com/video/BV1bE411g7y7/"}
+JSON: {"text": "山东大学-神经病学37集全", "url": "https://www.bilibili.com/video/BV13F411J7cj/"}
+JSON: {"text": "【耶鲁大学】《心理学》知名公开课（全20集）适合每一个人学习！", "url": "https://www.bilibili.com/video/BV1qo4y167dz/"}
+JSON: {"text": "【纪录片】大卫·埃格曼的脑科学【中文字幕】", "url": "https://www.bilibili.com/video/BV1pg4y1z7rA/"}
+JSON: {"text": "生物学和神经科学 2023年最重大的突破（Quanta杂志）【中英】", "url": "https://www.bilibili.com/video/BV1WT4y1s7zu/"}
+JSON: {"text": "【科普】所有人都在说冥想，但你知道为什么冥想么？冥想的神经科学原理。", "url": "https://www.bilibili.com/video/BV1e14y1t7EM/"}
+JSON: {"text": "一只老鼠右脑大半被人类神经细胞占据，这是它的行为和智能发生的变化", "url": "https://www.bilibili.com/video/BV1uG4y1n7G3/"}
+JSON: {"text": "过目不忘的代价有多可怕？人类为什么会遗忘？【思维实验室】", "url": "https://www.bilibili.com/video/BV1jG4y1v7cZ/"}
+JSON: {"text": "大脑如何不动声色的认识并改变世界？关于人脑的结构、功能和相关疾病", "url": "https://www.bilibili.com/video/BV1jm4y1N7Hs/"}
+JSON: {"text": "压力会通过皮肤泄漏,只靠想象也能长肌肉,神经学家揭露大脑的秘密", "url": "https://www.bilibili.com/video/BV1s4xGePELn/"}
+JSON: {"text": "【耶鲁大学】《心理学》知名公开课（全20集）适合每一个人学习！", "url": "https://www.bilibili.com/video/BV1qo4y167dz/"}
+JSON: {"text": "【纪录片】大卫·埃格曼的脑科学【中文字幕】", "url": "https://www.bilibili.com/video/BV1pg4y1z7rA/"}
+JSON: {"text": "生物学和神经科学 2023年最重大的突破（Quanta杂志）【中英】", "url": "https://www.bilibili.com/video/BV1WT4y1s7zu/"}
+JSON: {"text": "一只老鼠右脑大半被人类神经细胞占据，这是它的行为和智能发生的变化", "url": "https://www.bilibili.com/video/BV1uG4y1n7G3/"}
+JSON: {"text": "【科普】所有人都在说冥想，但你知道为什么冥想么？冥想的神经科学原理。", "url": "https://www.bilibili.com/video/BV1e14y1t7EM/"}
+JSON: {"text": "过目不忘的代价有多可怕？人类为什么会遗忘？【思维实验室】", "url": "https://www.bilibili.com/video/BV1jG4y1v7cZ/"}
+JSON: {"text": "大脑如何不动声色的认识并改变世界？关于人脑的结构、功能和相关疾病", "url": "https://www.bilibili.com/video/BV1jm4y1N7Hs/"}
+JSON: {"text": "压力会通过皮肤泄漏,只靠想象也能长肌肉,神经学家揭露大脑的秘密", "url": "https://www.bilibili.com/video/BV1s4xGePELn/"}
+JSON: {"text": "【公开课】耶鲁大学：哲学-死亡", "url": "https://www.bilibili.com/video/BV1P7411C7Gz/"}
+JSON: {"text": "大脑的专注力机制，如何崩坏？", "url": "https://www.bilibili.com/video/BV1sy421Y7Yg/"}
+JSON: {"text": "【哈佛大学】神经科学基础第一部分：神经元的电特性", "url": "https://www.bilibili.com/video/BV1ZW411k7VU/"}
+JSON: {"text": "人类意识令人不安的真相 | 裂脑实验", "url": "https://www.bilibili.com/video/BV18k4y1S7dc/"}
+JSON: {"text": "【科技史】神经操控（下）：两根鞭毛搅起的十年神经科学乱象", "url": "https://www.bilibili.com/video/BV1Ti4y1M7sG/"}
+JSON: {"text": "学不会？做题做不出来？脑科学最强提升智力的方法！", "url": "https://www.bilibili.com/video/BV1PP4y157d5/"}
+JSON: {"text": "【科技史】神经操控（上）：我们已经到哪一步了", "url": "https://www.bilibili.com/video/BV1Pv41147z8/"}
+JSON: {"text": "神经竟可被这样缝合修复", "url": "https://www.bilibili.com/video/BV1my4y1Q74T/"}
+JSON: {"text": "从入侵到入土，病毒在你身体里经历了啥？", "url": "https://www.bilibili.com/video/BV1FM411e7S5/"}
+JSON: {"text": "[脑外]脑瘤剥除", "url": "https://www.bilibili.com/video/BV1gf421X7Yy/"}
+JSON: {"text": "【超深度】和北大脑科学博士聊聊情绪与激素 ft. 曾健智｜TIANYU2FM - E093", "url": "https://www.bilibili.com/video/BV1Wm411f7Ze/"}
+JSON: {"text": "激活100％的大脑潜力-天才大脑频率-Beta波（Brainwaves）", "url": "https://www.bilibili.com/video/BV1bE411g7D8/"}
+JSON: {"text": "人类意识令人不安的真相 | 裂脑实验", "url": "https://www.bilibili.com/video/BV18k4y1S7dc/"}
+JSON: {"text": "学不会？做题做不出来？脑科学最强提升智力的方法！", "url": "https://www.bilibili.com/video/BV1PP4y157d5/"}
+JSON: {"text": "【科技史】神经操控（上）：我们已经到哪一步了", "url": "https://www.bilibili.com/video/BV1Pv41147z8/"}
+JSON: {"text": "神经竟可被这样缝合修复", "url": "https://www.bilibili.com/video/BV1my4y1Q74T/"}
+JSON: {"text": "从入侵到入土，病毒在你身体里经历了啥？", "url": "https://www.bilibili.com/video/BV1FM411e7S5/"}
+JSON: {"text": "[脑外]脑瘤剥除", "url": "https://www.bilibili.com/video/BV1gf421X7Yy/"}
+JSON: {"text": "【超深度】和北大脑科学博士聊聊情绪与激素 ft. 曾健智｜TIANYU2FM - E093", "url": "https://www.bilibili.com/video/BV1Wm411f7Ze/"}
+JSON: {"text": "激活100％的大脑潜力-天才大脑频率-Beta波（Brainwaves）", "url": "https://www.bilibili.com/video/BV1bE411g7D8/"}
+JSON: {"text": "【精校】“我们基于心理创伤吸引他人”第一神经学家解释如何实现爱的吸引 | Dr Tara Swart访谈 2024.6", "url": "https://www.bilibili.com/video/BV1qx4y1t7ii/"}
+JSON: {"text": "中南大学—精神病学（国家级）", "url": "https://www.bilibili.com/video/BV1oE41147Jc/"}
+JSON: {"text": "脑科学博士告诉你：怎样科学地变聪明——这期内容很高能！", "url": "https://www.bilibili.com/video/BV18m411y7U6/"}
+JSON: {"text": "ADHD七小时超长集中注意力&专注学习&舒缓压力背景音｜脑波音乐", "url": "https://www.bilibili.com/video/BV1884y137AZ/"}
+JSON: {"text": "【鬼谷说】神经演化（其四）：欲练此功 必先……", "url": "https://www.bilibili.com/video/BV13W4y1274W/"}
+JSON: {"text": "【公开课】耶鲁大学：心理学导论", "url": "https://www.bilibili.com/video/BV1gJ41157Yh/"}
+JSON: {"text": "一个视频了解免疫系统 | 你的身体，是宇宙最大图书馆！【歌白】", "url": "https://www.bilibili.com/video/BV1Jr4y1o7Mg/"}
+JSON: {"text": "这个人类最难的问题，如今有答案了吗？", "url": "https://www.bilibili.com/video/BV1pJ4m1578c/"}
+JSON: {"text": "【自律第一步】7天就能重置你被玩坏的大脑，重新掌控你的生活，多巴胺戒断亲测有效，希望大数据推送给所有沉迷娱乐无法自拔的人都能看到！", "url": "https://www.bilibili.com/video/BV1cB4y1v7QH/"}
+JSON: {"text": "如何根据神经科学原理快速放松", "url": "https://www.bilibili.com/video/BV1tu4y1B7x5/"}
+JSON: {"text": "脑科学博士告诉你：怎样科学地变聪明——这期内容很高能！", "url": "https://www.bilibili.com/video/BV18m411y7U6/"}
+JSON: {"text": "ADHD七小时超长集中注意力&专注学习&舒缓压力背景音｜脑波音乐", "url": "https://www.bilibili.com/video/BV1884y137AZ/"}
+JSON: {"text": "【公开课】耶鲁大学：心理学导论", "url": "https://www.bilibili.com/video/BV1gJ41157Yh/"}
+JSON: {"text": "【鬼谷说】神经演化（其四）：欲练此功 必先……", "url": "https://www.bilibili.com/video/BV13W4y1274W/"}
+JSON: {"text": "一个视频了解免疫系统 | 你的身体，是宇宙最大图书馆！【歌白】", "url": "https://www.bilibili.com/video/BV1Jr4y1o7Mg/"}
+JSON: {"text": "这个人类最难的问题，如今有答案了吗？", "url": "https://www.bilibili.com/video/BV1pJ4m1578c/"}
+JSON: {"text": "如何根据神经科学原理快速放松", "url": "https://www.bilibili.com/video/BV1tu4y1B7x5/"}
+JSON: {"text": "【自律第一步】7天就能重置你被玩坏的大脑，重新掌控你的生活，多巴胺戒断亲测有效，希望大数据推送给所有沉迷娱乐无法自拔的人都能看到！", "url": "https://www.bilibili.com/video/BV1cB4y1v7QH/"}
+JSON: {"text": "从神经科学的角度看如何让大脑变得更聪明？【爱德华莫泽】", "url": "https://www.bilibili.com/video/BV1yG411W7yJ/"}
+JSON: {"text": "从脑科学角度帮你，重塑大脑", "url": "https://www.bilibili.com/video/BV16p4y1w7eW/"}
+JSON: {"text": "我们脑子内部是空心的还是实心的？最全的人脑解剖将刷新你的认知", "url": "https://www.bilibili.com/video/BV1wf421S7Wa/"}
+JSON: {"text": "突触：兴奋在神经元之间的传递", "url": "https://www.bilibili.com/video/BV1nM4m1a7YD/"}
+JSON: {"text": "多巴胺 动力、专注力&满足感【Huberman Lab Ep. 39】", "url": "https://www.bilibili.com/video/BV1nB4y1Y7jW/"}
+JSON: {"text": "精神病：抑郁 双相 分裂 让十亿人饱受折磨的隐疾【精神病系列01】", "url": "https://www.bilibili.com/video/BV1e2421T7Kt/"}
+JSON: {"text": "【双语字幕】哈佛大学《心理学导论》课程(2021) by Steven Pinker", "url": "https://www.bilibili.com/video/BV1hZ4y1w7kd/"}
+JSON: {"text": "变态心理学 北京大学", "url": "https://www.bilibili.com/video/BV1ut411n7Bd/"}
+JSON: {"text": "大脑的结构以及部位的功能", "url": "https://www.bilibili.com/video/BV1H4411X7kp/"}
+JSON: {"text": "【绘画解剖学 神经】脑的解剖", "url": "https://www.bilibili.com/video/BV1Sv411y7TY/"}
+JSON: {"text": "【绘画解剖学 神经】自主神经系统：交感与副交感", "url": "https://www.bilibili.com/video/BV1T341147n4/"}
+JSON: {"text": "多巴胺 动力、专注力&满足感【Huberman Lab Ep. 39】", "url": "https://www.bilibili.com/video/BV1nB4y1Y7jW/"}
+JSON: {"text": "精神病：抑郁 双相 分裂 让十亿人饱受折磨的隐疾【精神病系列01】", "url": "https://www.bilibili.com/video/BV1e2421T7Kt/"}
+JSON: {"text": "【双语字幕】哈佛大学《心理学导论》课程(2021) by Steven Pinker", "url": "https://www.bilibili.com/video/BV1hZ4y1w7kd/"}
+JSON: {"text": "变态心理学 北京大学", "url": "https://www.bilibili.com/video/BV1ut411n7Bd/"}
+JSON: {"text": "大脑的结构以及部位的功能", "url": "https://www.bilibili.com/video/BV1H4411X7kp/"}
+JSON: {"text": "【绘画解剖学 神经】脑的解剖", "url": "https://www.bilibili.com/video/BV1Sv411y7TY/"}
+JSON: {"text": "【绘画解剖学 神经】自主神经系统：交感与副交感", "url": "https://www.bilibili.com/video/BV1T341147n4/"}
+JSON: {"text": "这是一个非常正经的神经病视频", "url": "https://www.bilibili.com/video/BV1pK4y1Z7e1/"}
+JSON: {"text": "《神经解剖学》系列课程30讲完整版-来听老师深入浅出地讲解，看完包会！", "url": "https://www.bilibili.com/video/BV1R8411W7E8/"}
+JSON: {"text": "这是我看过最好的运动科普书｜《运动改造大脑》｜文森说书", "url": "https://www.bilibili.com/video/BV1fZ421T76W/"}
+JSON: {"text": "【神经病学】【转载】【多P完结】 神经内科 神经解剖 神经系统总论（上）", "url": "https://www.bilibili.com/video/BV1EW411J786/"}
+JSON: {"text": "【绘画解剖学 神经】12对脑神经（上）", "url": "https://www.bilibili.com/video/BV1X54y1L7DW/"}
+JSON: {"text": "100%纯阿尔法脑波音乐 激活大脑 提高学习能力 专注力 冥想音乐 需要耳机", "url": "https://www.bilibili.com/video/BV1wD4y1Q7rn/"}
+JSON: {"text": "我花3个月研究了钱学森的理论讲的到底是什么？【钱学森下】【正经比比】", "url": "https://www.bilibili.com/video/BV1U14y1K7Ko/"}
+JSON: {"text": "这是一个非常正经的神经病视频", "url": "https://www.bilibili.com/video/BV1pK4y1Z7e1/"}
+JSON: {"text": "《神经解剖学》系列课程30讲完整版-来听老师深入浅出地讲解，看完包会！", "url": "https://www.bilibili.com/video/BV1R8411W7E8/"}
+JSON: {"text": "这是我看过最好的运动科普书｜《运动改造大脑》｜文森说书", "url": "https://www.bilibili.com/video/BV1fZ421T76W/"}
+JSON: {"text": "【神经病学】【转载】【多P完结】 神经内科 神经解剖 神经系统总论（上）", "url": "https://www.bilibili.com/video/BV1EW411J786/"}
+JSON: {"text": "【绘画解剖学 神经】12对脑神经（上）", "url": "https://www.bilibili.com/video/BV1X54y1L7DW/"}
+JSON: {"text": "100%纯阿尔法脑波音乐 激活大脑 提高学习能力 专注力 冥想音乐 需要耳机", "url": "https://www.bilibili.com/video/BV1wD4y1Q7rn/"}
+JSON: {"text": "重塑大脑真能逆天改命！变聪明的10个微习惯，让你思维敏捷效率暴增", "url": "https://www.bilibili.com/video/BV1AE42157ca/"}
+JSON: {"text": "我花3个月研究了钱学森的理论讲的到底是什么？【钱学森下】【正经比比】", "url": "https://www.bilibili.com/video/BV1U14y1K7Ko/"}
+JSON: {"text": "你必须知道的脑科学实验！人生逆袭变聪明的科学方法！", "url": "https://www.bilibili.com/video/BV1PU4y1Z71C/"}
+JSON: {"text": "【脑电图】基础课程", "url": "https://www.bilibili.com/video/BV1TA411H7SE/"}
+JSON: {"text": "【中国医科大学】系统解剖学（全59讲）霍琨", "url": "https://www.bilibili.com/video/BV1YQ4y1d7AB/"}
+JSON: {"text": "拖更一月！为什么我们无法控制自己？潜意识与命运？心流-ADHD与猎人基因？多巴胺“迷信”？从脑科学深度剖析随机性、黑天鹅与反脆弱【载脑体】2期", "url": "https://www.bilibili.com/video/BV14V4y1J7Uc/"}
+JSON: {"text": "【我珍藏的大学公开课】中国人民公安大学《犯罪心理解析》", "url": "https://www.bilibili.com/video/BV1EZ4y1C7qT/"}
+JSON: {"text": "脑电信号处理与特征提取", "url": "https://www.bilibili.com/video/BV1Sg411775g/"}
+JSON: {"text": "人体最繁忙的器官？你的肝很少喊疼，但小心它化身沉默的杀手", "url": "https://www.bilibili.com/video/BV1ts4y1R7rk/"}
+JSON: {"text": "你必须知道的脑科学实验！人生逆袭变聪明的科学方法！", "url": "https://www.bilibili.com/video/BV1PU4y1Z71C/"}
+JSON: {"text": "【脑电图】基础课程", "url": "https://www.bilibili.com/video/BV1TA411H7SE/"}
+JSON: {"text": "【中国医科大学】系统解剖学（全59讲）霍琨", "url": "https://www.bilibili.com/video/BV1YQ4y1d7AB/"}
+JSON: {"text": "拖更一月！为什么我们无法控制自己？潜意识与命运？心流-ADHD与猎人基因？多巴胺“迷信”？从脑科学深度剖析随机性、黑天鹅与反脆弱【载脑体】2期", "url": "https://www.bilibili.com/video/BV14V4y1J7Uc/"}
+JSON: {"text": "【我珍藏的大学公开课】中国人民公安大学《犯罪心理解析》", "url": "https://www.bilibili.com/video/BV1EZ4y1C7qT/"}
+JSON: {"text": "脑电信号处理与特征提取", "url": "https://www.bilibili.com/video/BV1Sg411775g/"}
+JSON: {"text": "人体最繁忙的器官？你的肝很少喊疼，但小心它化身沉默的杀手", "url": "https://www.bilibili.com/video/BV1ts4y1R7rk/"}
+JSON: {"text": "中枢神经系统概述（神经元、神经胶质细胞、白质与灰质、神经系统的发生与发育）", "url": "https://www.bilibili.com/video/BV1BZ4y1R7mw/"}
+JSON: {"text": "神经系统解剖学【9集 完结】", "url": "https://www.bilibili.com/video/BV1NY4y127T8/"}
+JSON: {"text": "做梦时，你的大脑到底在干嘛？", "url": "https://www.bilibili.com/video/BV17s4y187Ei/"}
+JSON: {"text": "厦医高洪泉老师：系统解剖学（神经系统）——2中枢神经系统", "url": "https://www.bilibili.com/video/BV1Fa411e7zh/"}
+JSON: {"text": "额叶切除手术有多可怕？诺贝尔奖永远的黑历史，30万人失去情感！", "url": "https://www.bilibili.com/video/BV1t84y1y7va/"}
+JSON: {"text": "告别人大哲学教授朱锐，听他谈死亡", "url": "https://www.bilibili.com/video/BV12ia2emEwi/"}
+JSON: {"text": "比啃书效果好多了！复旦大学邱锡鹏教授的《神经网络与深度学习》终于出视频教程了！！草履虫都能看懂！", "url": "https://www.bilibili.com/video/BV1P3411u7c1/"}
+JSON: {"text": "心理学大师教你如何用多巴胺自律上瘾？【T酱说心理】", "url": "https://www.bilibili.com/video/BV1iG4y1b7Np/"}
+JSON: {"text": "【反心流】没热情？易疲倦？是大脑中了Debuff", "url": "https://www.bilibili.com/video/BV16a4y1C7Qz/"}
+JSON: {"text": "切断的神经可以再生吗？【答疑&补充】", "url": "https://www.bilibili.com/video/BV1Xf4y1Z7Cn/"}
+JSON: {"text": "【北京大学】生物学概念与途径（全66讲）饶毅", "url": "https://www.bilibili.com/video/BV1Zv411h7nb/"}
+JSON: {"text": "做梦时，你的大脑到底在干嘛？", "url": "https://www.bilibili.com/video/BV17s4y187Ei/"}
+JSON: {"text": "厦医高洪泉老师：系统解剖学（神经系统）——2中枢神经系统", "url": "https://www.bilibili.com/video/BV1Fa411e7zh/"}
+JSON: {"text": "额叶切除手术有多可怕？诺贝尔奖永远的黑历史，30万人失去情感！", "url": "https://www.bilibili.com/video/BV1t84y1y7va/"}
+JSON: {"text": "告别人大哲学教授朱锐，听他谈死亡", "url": "https://www.bilibili.com/video/BV12ia2emEwi/"}
+JSON: {"text": "比啃书效果好多了！复旦大学邱锡鹏教授的《神经网络与深度学习》终于出视频教程了！！草履虫都能看懂！", "url": "https://www.bilibili.com/video/BV1P3411u7c1/"}
+JSON: {"text": "心理学大师教你如何用多巴胺自律上瘾？【T酱说心理】", "url": "https://www.bilibili.com/video/BV1iG4y1b7Np/"}
+JSON: {"text": "【反心流】没热情？易疲倦？是大脑中了Debuff", "url": "https://www.bilibili.com/video/BV16a4y1C7Qz/"}
+JSON: {"text": "【北京大学】生物学概念与途径（全66讲）饶毅", "url": "https://www.bilibili.com/video/BV1Zv411h7nb/"}
+JSON: {"text": "切断的神经可以再生吗？【答疑&补充】", "url": "https://www.bilibili.com/video/BV1Xf4y1Z7Cn/"}
+JSON: {"text": "【央视】《人体的微观世界》【全8集 1080P+】", "url": "https://www.bilibili.com/video/BV13F411N77G/"}
+JSON: {"text": "【神经科学101】27 连发17篇Nature·单个神经元的分子特征与形态多样性", "url": "https://www.bilibili.com/video/BV1bT4y1f7h4/"}
+JSON: {"text": "五分钟秒懂神经网络原理，机器学习入门教程", "url": "https://www.bilibili.com/video/BV1mu411x7VD/"}
+JSON: {"text": "世界最前沿生物学   ibiology", "url": "https://www.bilibili.com/video/BV1pE411v7vm/"}
+JSON: {"text": "为什么免疫系统拥有宇宙中所有病原体的特征库？【生物起源系列番外篇】", "url": "https://www.bilibili.com/video/BV1wo4y1K7KW/"}
+JSON: {"text": "【心脑】拒绝被洗脑，多巴胺让你触摸生命的真谛，活出人生的意义。", "url": "https://www.bilibili.com/video/BV1oE421c7Vd/"}
+JSON: {"text": "【蒲慕明的课】神经生物学 (弹幕版) 2020年", "url": "https://www.bilibili.com/video/BV1i7411j7iD/"}
+JSON: {"text": "B站最全心理学知识图谱，送给大学的你，也送给一位故去的朋友", "url": "https://www.bilibili.com/video/BV1AF41127BL/"}
+JSON: {"text": "麻省理工博士后：每天30分钟，这件事他坚持了11年", "url": "https://www.bilibili.com/video/BV1JytSeNEUG/"}
+JSON: {"text": "19岁确诊“老年痴呆”？阿尔茨海默为什么是最残酷的疾病？｜失忆、降智，比死亡更可怕", "url": "https://www.bilibili.com/video/BV1op421y7x7/"}
+JSON: {"text": "世界最前沿生物学   ibiology", "url": "https://www.bilibili.com/video/BV1pE411v7vm/"}
+JSON: {"text": "【心脑】拒绝被洗脑，多巴胺让你触摸生命的真谛，活出人生的意义。", "url": "https://www.bilibili.com/video/BV1oE421c7Vd/"}
+JSON: {"text": "为什么免疫系统拥有宇宙中所有病原体的特征库？【生物起源系列番外篇】", "url": "https://www.bilibili.com/video/BV1wo4y1K7KW/"}
+JSON: {"text": "【蒲慕明的课】神经生物学 (弹幕版) 2020年", "url": "https://www.bilibili.com/video/BV1i7411j7iD/"}
+JSON: {"text": "B站最全心理学知识图谱，送给大学的你，也送给一位故去的朋友", "url": "https://www.bilibili.com/video/BV1AF41127BL/"}
+JSON: {"text": "麻省理工博士后：每天30分钟，这件事他坚持了11年", "url": "https://www.bilibili.com/video/BV1JytSeNEUG/"}
+JSON: {"text": "19岁确诊“老年痴呆”？阿尔茨海默为什么是最残酷的疾病？｜失忆、降智，比死亡更可怕", "url": "https://www.bilibili.com/video/BV1op421y7x7/"}
+JSON: {"text": "听歌身体能变好？朋友，干了这碗电子中药吧", "url": "https://www.bilibili.com/video/BV16k2ZYpEEJ/"}
+JSON: {"text": "【老奇】核磁共振为何知道", "url": "https://www.bilibili.com/video/BV1di4y1y7au/"}
+JSON: {"text": "【哈佛大学】积极心理学 Talben Shahar（全23讲）", "url": "https://www.bilibili.com/video/BV1Ka411w7qd/"}
+JSON: {"text": "【量子波|α脑波】根治学习效率低、走神、拖延，真的太管用了！！！", "url": "https://www.bilibili.com/video/BV1RK4y1L7xU/"}
+JSON: {"text": "神内医生的5倍速成长之路，复旦大学大佬汇集，30天成长训练营！", "url": "https://www.bilibili.com/video/BV15X4y187PJ/"}
+JSON: {"text": "功耗相差10000倍，类脑计算是啥？【硬核揭秘】神经形态芯片【类脑计算系列第2期】", "url": "https://www.bilibili.com/video/BV1zT4y1n74q/"}
+JSON: {"text": "原来我们可以通过训练大脑，来解锁大脑潜能", "url": "https://www.bilibili.com/video/BV1T94y1w7Se/"}
+JSON: {"text": "黑色素瘤是一种非常致命的皮肤癌，皮肤癌也常常源于黑色素细胞中发生的突变 。", "url": "https://www.bilibili.com/video/BV1ix411X7Uz/"}
+JSON: {"text": "【绘画解剖学 神经】神经系统解剖概述", "url": "https://www.bilibili.com/video/BV19t4y1U7mn/"}
+JSON: {"text": "【哈佛大学】积极心理学 Talben Shahar（全23讲）", "url": "https://www.bilibili.com/video/BV1Ka411w7qd/"}
+JSON: {"text": "【量子波|α脑波】根治学习效率低、走神、拖延，真的太管用了！！！", "url": "https://www.bilibili.com/video/BV1RK4y1L7xU/"}
+JSON: {"text": "原来我们可以通过训练大脑，来解锁大脑潜能", "url": "https://www.bilibili.com/video/BV1T94y1w7Se/"}
+JSON: {"text": "神内医生的5倍速成长之路，复旦大学大佬汇集，30天成长训练营！", "url": "https://www.bilibili.com/video/BV15X4y187PJ/"}
+JSON: {"text": "功耗相差10000倍，类脑计算是啥？【硬核揭秘】神经形态芯片【类脑计算系列第2期】", "url": "https://www.bilibili.com/video/BV1zT4y1n74q/"}
+JSON: {"text": "黑色素瘤是一种非常致命的皮肤癌，皮肤癌也常常源于黑色素细胞中发生的突变 。", "url": "https://www.bilibili.com/video/BV1ix411X7Uz/"}
+JSON: {"text": "【绘画解剖学 神经】神经系统解剖概述", "url": "https://www.bilibili.com/video/BV19t4y1U7mn/"}
+JSON: {"text": "锻炼颈阔肌科学消除双下巴！只需抬头的三分钟懒人训练法【Mandell博士】", "url": "https://www.bilibili.com/video/BV1dy4y1p7di/"}
+JSON: {"text": "北京大学-实验心理学（国家精品课）完整", "url": "https://www.bilibili.com/video/BV1Qt41137Kv/"}
+JSON: {"text": "感觉意识是如何产生的？意识是世界内秉的属性吗？【意识起源第二期】", "url": "https://www.bilibili.com/video/BV1Mm411y7Q2/"}
+JSON: {"text": "【48集】解剖学-生理学速成班-中英cc字幕-英语单词听力口语-医学", "url": "https://www.bilibili.com/video/BV1Se411M7XA/"}
+JSON: {"text": "人体的中枢神经系统", "url": "https://www.bilibili.com/video/BV1eF4m1M783/"}
+JSON: {"text": "【50集】真人器官解剖合集—第二期—中英cc字幕-医学生物学科普——英语听力单词语法口语", "url": "https://www.bilibili.com/video/BV1s24y1W7mU/"}
+JSON: {"text": "会玩游戏的神经元", "url": "https://www.bilibili.com/video/BV1gD42177fT/"}
+JSON: {"text": "“压力与神经可塑性" 顶级神经科学家Tara Swart访谈【中英】", "url": "https://www.bilibili.com/video/BV1RC4y1P7xu/"}
+JSON: {"text": "浅谈意识（1）：感知与全脑激活理论（Stanislas Dehaene）【蒲慕明院士】", "url": "https://www.bilibili.com/video/BV1ze411L712/"}
+JSON: {"text": "大脑可以移植吗？【蒲慕明院士】", "url": "https://www.bilibili.com/video/BV1NB4y1D7d3/"}
+JSON: {"text": "【脑神经】--三叉神经的走形及分支", "url": "https://www.bilibili.com/video/BV1Zg411579L/"}
+JSON: {"text": "人体的中枢神经系统", "url": "https://www.bilibili.com/video/BV1eF4m1M783/"}
+JSON: {"text": "【50集】真人器官解剖合集—第二期—中英cc字幕-医学生物学科普——英语听力单词语法口语", "url": "https://www.bilibili.com/video/BV1s24y1W7mU/"}
+JSON: {"text": "会玩游戏的神经元", "url": "https://www.bilibili.com/video/BV1gD42177fT/"}
+JSON: {"text": "“压力与神经可塑性" 顶级神经科学家Tara Swart访谈【中英】", "url": "https://www.bilibili.com/video/BV1RC4y1P7xu/"}
+JSON: {"text": "浅谈意识（1）：感知与全脑激活理论（Stanislas Dehaene）【蒲慕明院士】", "url": "https://www.bilibili.com/video/BV1ze411L712/"}
+JSON: {"text": "大脑可以移植吗？【蒲慕明院士】", "url": "https://www.bilibili.com/video/BV1NB4y1D7d3/"}
+JSON: {"text": "【脑神经】--三叉神经的走形及分支", "url": "https://www.bilibili.com/video/BV1Zg411579L/"}
+JSON: {"text": "哈佛教授：揭露关于运动、睡眠、跑步、癌症和糖的 7 大谎言！！！", "url": "https://www.bilibili.com/video/BV1Rk4y1P7PS/"}
+JSON: {"text": "一个视频掌握颅脑CT", "url": "https://www.bilibili.com/video/BV1bi4y1B7Vv/"}
+JSON: {"text": "【帅谈】专访UP主耿同学讲故事，耿同学详细答观众问题｜学术造假｜学术打假｜论文｜生物｜科研｜就业", "url": "https://www.bilibili.com/video/BV1pYS9Y9ERM/"}
+JSON: {"text": "【Kur科普】100集+全网最全Kurzgesagt视频全辑（中英字幕）", "url": "https://www.bilibili.com/video/BV1Ga411A71Z/"}
+JSON: {"text": "神经病学", "url": "https://www.bilibili.com/video/BV1DY411t7FP/"}
+JSON: {"text": "【3D演示】神经元的结构组成（原版+字幕版）", "url": "https://www.bilibili.com/video/BV1jx411U7Wu/"}
+JSON: {"text": "贺银城神经病学", "url": "https://www.bilibili.com/video/BV1Xs4y1372w/"}
+JSON: {"text": "探索神奇而又复杂的人体系统，看完真的很震撼", "url": "https://www.bilibili.com/video/BV1kF4m1M7ML/"}
+JSON: {"text": "【Osmosis合集】精神与行为障碍（更至12P｜中英）", "url": "https://www.bilibili.com/video/BV1nZ4y1N7Bd/"}
+JSON: {"text": "如何提高记忆力？目前B站最完整的记忆力训练教程 最强大脑冠军教练亲授！不要假努力！|从此告别死记硬背|快速提高学习成绩|提高记忆力|记忆力训练方法|如何快速记忆", "url": "https://www.bilibili.com/video/BV1qtbVeAEY7/"}
+JSON: {"text": "神经病学", "url": "https://www.bilibili.com/video/BV1DY411t7FP/"}
+JSON: {"text": "【Kur科普】100集+全网最全Kurzgesagt视频全辑（中英字幕）", "url": "https://www.bilibili.com/video/BV1Ga411A71Z/"}
+JSON: {"text": "【3D演示】神经元的结构组成（原版+字幕版）", "url": "https://www.bilibili.com/video/BV1jx411U7Wu/"}
+JSON: {"text": "贺银城神经病学", "url": "https://www.bilibili.com/video/BV1Xs4y1372w/"}
+JSON: {"text": "【Osmosis合集】精神与行为障碍（更至12P｜中英）", "url": "https://www.bilibili.com/video/BV1nZ4y1N7Bd/"}
+JSON: {"text": "如何提高记忆力？目前B站最完整的记忆力训练教程 最强大脑冠军教练亲授！不要假努力！|从此告别死记硬背|快速提高学习成绩|提高记忆力|记忆力训练方法|如何快速记忆", "url": "https://www.bilibili.com/video/BV1qtbVeAEY7/"}
+JSON: {"text": "探索神奇而又复杂的人体系统，看完真的很震撼", "url": "https://www.bilibili.com/video/BV1kF4m1M7ML/"}
+JSON: {"text": "【北京大学】发展心理学（全78讲）苏彦捷", "url": "https://www.bilibili.com/video/BV175411E7VV/"}
+JSON: {"text": "人类的第二个大脑？你的肠子到底有多重要？", "url": "https://www.bilibili.com/video/BV1vP411Z7bB/"}
+JSON: {"text": "【没动力？没热情？】《认知觉醒》深度解析｜成长你所需要知道的事情", "url": "https://www.bilibili.com/video/BV1Ei421o7yC/"}
+JSON: {"text": "【北京师范大学】普通心理学（全学年123讲）陈宝国", "url": "https://www.bilibili.com/video/BV1Fy4y1i79C/"}
+JSON: {"text": "【100集】可爱的生物学动画-中英cc字幕-生物学-医学-科普-英语听力口语单词听力语法", "url": "https://www.bilibili.com/video/BV1Y84y1473j/"}
+JSON: {"text": "如果你想更好地活着，就一定要了解医学！", "url": "https://www.bilibili.com/video/BV1Lr421F7Xd/"}
+JSON: {"text": "当事人爆料：不为人知的特异功能实验，507所、749局当年都做了些什么", "url": "https://www.bilibili.com/video/BV1e84y197c7/"}
+JSON: {"text": "只有高度敏感的人群才能理解的烦恼", "url": "https://www.bilibili.com/video/BV1s54y1i7SG/"}
+JSON: {"text": "【InPsy】【双语字幕】探索心理学.Discovering.Psychology-系列【1-26集全】【合辑】", "url": "https://www.bilibili.com/video/BV15s411X7Ms/"}
+JSON: {"text": "人类的第二个大脑？你的肠子到底有多重要？", "url": "https://www.bilibili.com/video/BV1vP411Z7bB/"}
+JSON: {"text": "【北京大学】发展心理学（全78讲）苏彦捷", "url": "https://www.bilibili.com/video/BV175411E7VV/"}
+JSON: {"text": "【北京师范大学】普通心理学（全学年123讲）陈宝国", "url": "https://www.bilibili.com/video/BV1Fy4y1i79C/"}
+JSON: {"text": "【100集】可爱的生物学动画-中英cc字幕-生物学-医学-科普-英语听力口语单词听力语法", "url": "https://www.bilibili.com/video/BV1Y84y1473j/"}
+JSON: {"text": "当事人爆料：不为人知的特异功能实验，507所、749局当年都做了些什么", "url": "https://www.bilibili.com/video/BV1e84y197c7/"}
+JSON: {"text": "如果你想更好地活着，就一定要了解医学！", "url": "https://www.bilibili.com/video/BV1Lr421F7Xd/"}
+JSON: {"text": "只有高度敏感的人群才能理解的烦恼", "url": "https://www.bilibili.com/video/BV1s54y1i7SG/"}
+JSON: {"text": "【InPsy】【双语字幕】探索心理学.Discovering.Psychology-系列【1-26集全】【合辑】", "url": "https://www.bilibili.com/video/BV15s411X7Ms/"}
+JSON: {"text": "多巴胺，内啡肽，血清素…5种神经物质，彻底搞懂精力管理（附操作手册）", "url": "https://www.bilibili.com/video/BV1224y1C7SK/"}
+JSON: {"text": "【科学八卦史】一个精神病医生是怎么酿成近代最大医学惨剧的", "url": "https://www.bilibili.com/video/BV1vQ4y1y7bW/"}
+JSON: {"text": "多巴胺篇②懒惰抑郁动力涣散原因与改善方法,多巴胺核心作用【脑科学】", "url": "https://www.bilibili.com/video/BV1fs4y167Ka/"}
+JSON: {"text": "最重要的生命通道？串联所有器官与组织，你的脊柱有多辛苦？", "url": "https://www.bilibili.com/video/BV1iS411P7kB/"}
+JSON: {"text": "艾氏解剖（最受大家欢迎的人体解剖学）", "url": "https://www.bilibili.com/video/BV1zm4y1j7yV/"}
+JSON: {"text": "为什么你应该每天看太阳5分钟？ ► 神经科学教授 Dr Andrew Huberman 安德鲁．休伯曼博士（中英字幕）", "url": "https://www.bilibili.com/video/BV1BP4y1v7jg/"}
+JSON: {"text": "【医学传奇1】手术刀下的奇才：现代外科学教父的传奇人生", "url": "https://www.bilibili.com/video/BV1ha411G7Sq/"}
+JSON: {"text": "创伤制造ADHD注意力障碍?多巴胺封锁会加重多动症抑郁焦虑反应", "url": "https://www.bilibili.com/video/BV1pK421e7AC/"}
+JSON: {"text": "【北京清华大学】普通生物学", "url": "https://www.bilibili.com/video/BV1ns411B7g8/"}
+JSON: {"text": "【25集】美国生物化学全套课程-中英cc字幕-生物学-化学-医学", "url": "https://www.bilibili.com/video/BV1DV4y1T7Gv/"}
+JSON: {"text": "【科学八卦史】我飙车 嗑药 还有神经病 但我是个好医生", "url": "https://www.bilibili.com/video/BV1jq4y1t7CL/"}
+JSON: {"text": "脑雾原因与改善方案,会出现状态糟糕痴呆和抑郁类似状态反应【脑科学】", "url": "https://www.bilibili.com/video/BV1YF411U7Nu/"}
+JSON: {"text": "神经科学博主告诉你：别作妖！这三件事会伤害大脑", "url": "https://www.bilibili.com/video/BV14z4y1E7oY/"}
+JSON: {"text": "【华东师范大学】实验心理学（全72讲）郭秀艳", "url": "https://www.bilibili.com/video/BV1Lf4y1e751/"}
+JSON: {"text": "每天玩手机超过6小时，大脑是如何一步步变《浅薄》的，智能陷阱对大脑思维、专注力、记忆力的影响", "url": "https://www.bilibili.com/video/BV1784y1s74t/"}
+JSON: {"text": "为什么你应该每天看太阳5分钟？ ► 神经科学教授 Dr Andrew Huberman 安德鲁．休伯曼博士（中英字幕）", "url": "https://www.bilibili.com/video/BV1BP4y1v7jg/"}
+JSON: {"text": "【医学传奇1】手术刀下的奇才：现代外科学教父的传奇人生", "url": "https://www.bilibili.com/video/BV1ha411G7Sq/"}
+JSON: {"text": "创伤制造ADHD注意力障碍?多巴胺封锁会加重多动症抑郁焦虑反应", "url": "https://www.bilibili.com/video/BV1pK421e7AC/"}
+JSON: {"text": "【北京清华大学】普通生物学", "url": "https://www.bilibili.com/video/BV1ns411B7g8/"}
+JSON: {"text": "艾氏解剖（最受大家欢迎的人体解剖学）", "url": "https://www.bilibili.com/video/BV1zm4y1j7yV/"}
+JSON: {"text": "【科学八卦史】我飙车 嗑药 还有神经病 但我是个好医生", "url": "https://www.bilibili.com/video/BV1jq4y1t7CL/"}
+JSON: {"text": "【25集】美国生物化学全套课程-中英cc字幕-生物学-化学-医学", "url": "https://www.bilibili.com/video/BV1DV4y1T7Gv/"}
+JSON: {"text": "脑雾原因与改善方案,会出现状态糟糕痴呆和抑郁类似状态反应【脑科学】", "url": "https://www.bilibili.com/video/BV1YF411U7Nu/"}
+JSON: {"text": "神经科学博主告诉你：别作妖！这三件事会伤害大脑", "url": "https://www.bilibili.com/video/BV14z4y1E7oY/"}
+JSON: {"text": "【华东师范大学】实验心理学（全72讲）郭秀艳", "url": "https://www.bilibili.com/video/BV1Lf4y1e751/"}
+JSON: {"text": "每天玩手机超过6小时，大脑是如何一步步变《浅薄》的，智能陷阱对大脑思维、专注力、记忆力的影响", "url": "https://www.bilibili.com/video/BV1784y1s74t/"}
+JSON: {"text": "纪录片《大脑深处》 全6集", "url": "https://www.bilibili.com/video/BV1mo4y1G78F/"}
+JSON: {"text": "医学心理学 - 北京大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1dL411W7L6/"}
+JSON: {"text": "【塔哥专访孙储琳】传奇特异功能人讲述科学实验经历，意念的力量，不可思议！", "url": "https://www.bilibili.com/video/BV1L3411a73Y/"}
+JSON: {"text": "来了解一下人类的神经系统", "url": "https://www.bilibili.com/video/BV1gW42197zZ/"}
+JSON: {"text": "戒色本质是了解色情内容改造大脑神经,要避免焦虑强迫式行为【脑科学】", "url": "https://www.bilibili.com/video/BV1iB4y1f7tD/"}
+JSON: {"text": "【灵魂拷问篇-06问】人到底有没有自由意志？", "url": "https://www.bilibili.com/video/BV1ze411U7Ne/"}
+JSON: {"text": "【精神疾病里被忽略的真相】一门开发人体超能力的远古科技|魔道 | 陀宇宙 | 未解之谜 | 战争与祭祀 | 远古科技", "url": "https://www.bilibili.com/video/BV19G4y1h73B/"}
+JSON: {"text": "在伊朗遭遇持刀抢劫！被刺伤侥幸存活，我需要你们的帮助！！！", "url": "https://www.bilibili.com/video/BV1zjSzYuEry/"}
+JSON: {"text": "纪录片《大脑深处》 全6集", "url": "https://www.bilibili.com/video/BV1mo4y1G78F/"}
+JSON: {"text": "医学心理学 - 北京大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1dL411W7L6/"}
+JSON: {"text": "【塔哥专访孙储琳】传奇特异功能人讲述科学实验经历，意念的力量，不可思议！", "url": "https://www.bilibili.com/video/BV1L3411a73Y/"}
+JSON: {"text": "来了解一下人类的神经系统", "url": "https://www.bilibili.com/video/BV1gW42197zZ/"}
+JSON: {"text": "戒色本质是了解色情内容改造大脑神经,要避免焦虑强迫式行为【脑科学】", "url": "https://www.bilibili.com/video/BV1iB4y1f7tD/"}
+JSON: {"text": "【灵魂拷问篇-06问】人到底有没有自由意志？", "url": "https://www.bilibili.com/video/BV1ze411U7Ne/"}
+JSON: {"text": "【精神疾病里被忽略的真相】一门开发人体超能力的远古科技|魔道 | 陀宇宙 | 未解之谜 | 战争与祭祀 | 远古科技", "url": "https://www.bilibili.com/video/BV19G4y1h73B/"}
+JSON: {"text": "静息态功能磁共振成像(rs-fMRI)原理与数据分析,DPABI教程", "url": "https://www.bilibili.com/video/BV1U5411s7kg/"}
+JSON: {"text": "在伊朗遭遇持刀抢劫！被刺伤侥幸存活，我需要你们的帮助！！！", "url": "https://www.bilibili.com/video/BV1zjSzYuEry/"}
+JSON: {"text": "自我设限的人生到底有多可怕 | 如何实现精神自由和健康自由 | 吸引力法则与冥想的科学示现 | 量子物理学和神经科学擦出的火花", "url": "https://www.bilibili.com/video/BV16y4y1g7Kt/"}
+JSON: {"text": "【分享我的考研背书武器】专业课和阿尔法脑波音乐更配哦！", "url": "https://www.bilibili.com/video/BV12k4y1T7Gx/"}
+JSON: {"text": "【麻省理工-人工智能入门课】这真的是不花钱能看的内容吗！MIT世界顶级人工智能课程分享！【机器学习、深度学习】", "url": "https://www.bilibili.com/video/BV1dM411U7qK/"}
+JSON: {"text": "小学生都能看懂的芯片工作原理，看完能手搓芯片哦【芯片系列科普第一期】", "url": "https://www.bilibili.com/video/BV1gM411e74r/"}
+JSON: {"text": "为什么大多数人都没有三四岁以前的记忆?有的人却有出生记忆", "url": "https://www.bilibili.com/video/BV1GP4y1H7ee/"}
+JSON: {"text": "南开大学-社会心理学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1Dt41137fy/"}
+JSON: {"text": "脑声常谈丨技术咖第1期：结合光遗传与膜片钳电生理技术探究突触连接与突触可塑性（刘明哲，冷泉港实验室李波组博士后）", "url": "https://www.bilibili.com/video/BV1wD421H7wn/"}
+JSON: {"text": "【硬核社会学】心理疾病的社会学本质是什么？（上）", "url": "https://www.bilibili.com/video/BV1cS4y1Y7Cz/"}
+JSON: {"text": "1.解剖不挂科系列丨速成系列丨第1期（绪论＋骨学）", "url": "https://www.bilibili.com/video/BV1Q94y1P7Li/"}
+JSON: {"text": "【干货】成瘾始于痛苦，戒瘾终于平衡！深度解读多巴胺机制，用身体“内稳态”禁欲、戒瘾，保持自律", "url": "https://www.bilibili.com/video/BV1Vm4y1x7JF/"}
+JSON: {"text": "【麻省理工-人工智能入门课】这真的是不花钱能看的内容吗！MIT世界顶级人工智能课程分享！【机器学习、深度学习】", "url": "https://www.bilibili.com/video/BV1dM411U7qK/"}
+JSON: {"text": "小学生都能看懂的芯片工作原理，看完能手搓芯片哦【芯片系列科普第一期】", "url": "https://www.bilibili.com/video/BV1gM411e74r/"}
+JSON: {"text": "为什么大多数人都没有三四岁以前的记忆?有的人却有出生记忆", "url": "https://www.bilibili.com/video/BV1GP4y1H7ee/"}
+JSON: {"text": "南开大学-社会心理学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1Dt41137fy/"}
+JSON: {"text": "脑声常谈丨技术咖第1期：结合光遗传与膜片钳电生理技术探究突触连接与突触可塑性（刘明哲，冷泉港实验室李波组博士后）", "url": "https://www.bilibili.com/video/BV1wD421H7wn/"}
+JSON: {"text": "【硬核社会学】心理疾病的社会学本质是什么？（上）", "url": "https://www.bilibili.com/video/BV1cS4y1Y7Cz/"}
+JSON: {"text": "1.解剖不挂科系列丨速成系列丨第1期（绪论＋骨学）", "url": "https://www.bilibili.com/video/BV1Q94y1P7Li/"}
+JSON: {"text": "血清素导致抑郁的人多巴胺停不下来,戒断会丧失动力焦虑不安【脑科学】", "url": "https://www.bilibili.com/video/BV1zL411z7VB/"}
+JSON: {"text": "【干货】成瘾始于痛苦，戒瘾终于平衡！深度解读多巴胺机制，用身体“内稳态”禁欲、戒瘾，保持自律", "url": "https://www.bilibili.com/video/BV1Vm4y1x7JF/"}
+JSON: {"text": "我们的一切行动都是提前预定的吗？（里贝特实验）", "url": "https://www.bilibili.com/video/BV1DH4y1a7me/"}
+JSON: {"text": "【人解三分钟】用“脱单”解释大脑功能区：语言中枢的障碍会如何影响脱单？大脑的其他功能区在哪呢？", "url": "https://www.bilibili.com/video/BV1Fy4y1i7Da/"}
+JSON: {"text": "积极心理学-哈佛公开课-中英字幕", "url": "https://www.bilibili.com/video/BV1TL4y1874X/"}
+JSON: {"text": "朝阳行业？一个视频讲透心理学类所有专业！【框框的b站大学-心理学类】心理学、应用心理学", "url": "https://www.bilibili.com/video/BV1jJ4m137sR/"}
+JSON: {"text": "主流科学界永远不会告诉你的秘密！为什么这些逆天技术会被禁止？谁在控制着人类科技发展的脚步？三个让你脊背发凉的真实故事，1小时中间无广告合集", "url": "https://www.bilibili.com/video/BV1as421M7Ch/"}
+JSON: {"text": "【中山大学】医学影像学（全90讲）孟悛非", "url": "https://www.bilibili.com/video/BV1d5411u768/"}
+JSON: {"text": "【不正经研究】脑控患者，中国最神秘的精神病群体", "url": "https://www.bilibili.com/video/BV1US4y1U7Se/"}
+JSON: {"text": "精神分析，经典入门，心理学必学，教主推荐~", "url": "https://www.bilibili.com/video/BV12G4y1Q77g/"}
+JSON: {"text": "【重启大脑】20min躺平冥想，恢复脑力，行动力提升 | 专注系列03", "url": "https://www.bilibili.com/video/BV1q24y1o7JB/"}
+JSON: {"text": "【诺贝尔奖黑历史：脑叶切除手术】1940年 患者手术前后录像（cc字幕）", "url": "https://www.bilibili.com/video/BV1ib411i7dJ/"}
+JSON: {"text": "【Osmosis合集】神经系统疾病（更至18P｜中英）", "url": "https://www.bilibili.com/video/BV1rC4y187K7/"}
+JSON: {"text": "【油管心理学】人格心理学20集完整版，人格的概念、理论和人格测验", "url": "https://www.bilibili.com/video/BV1U7411r7gH/"}
+JSON: {"text": "朝阳行业？一个视频讲透心理学类所有专业！【框框的b站大学-心理学类】心理学、应用心理学", "url": "https://www.bilibili.com/video/BV1jJ4m137sR/"}
+JSON: {"text": "【人解三分钟】用“脱单”解释大脑功能区：语言中枢的障碍会如何影响脱单？大脑的其他功能区在哪呢？", "url": "https://www.bilibili.com/video/BV1Fy4y1i7Da/"}
+JSON: {"text": "【不正经研究】脑控患者，中国最神秘的精神病群体", "url": "https://www.bilibili.com/video/BV1US4y1U7Se/"}
+JSON: {"text": "【中山大学】医学影像学（全90讲）孟悛非", "url": "https://www.bilibili.com/video/BV1d5411u768/"}
+JSON: {"text": "主流科学界永远不会告诉你的秘密！为什么这些逆天技术会被禁止？谁在控制着人类科技发展的脚步？三个让你脊背发凉的真实故事，1小时中间无广告合集", "url": "https://www.bilibili.com/video/BV1as421M7Ch/"}
+JSON: {"text": "积极心理学-哈佛公开课-中英字幕", "url": "https://www.bilibili.com/video/BV1TL4y1874X/"}
+JSON: {"text": "【重启大脑】20min躺平冥想，恢复脑力，行动力提升 | 专注系列03", "url": "https://www.bilibili.com/video/BV1q24y1o7JB/"}
+JSON: {"text": "精神分析，经典入门，心理学必学，教主推荐~", "url": "https://www.bilibili.com/video/BV12G4y1Q77g/"}
+JSON: {"text": "【诺贝尔奖黑历史：脑叶切除手术】1940年 患者手术前后录像（cc字幕）", "url": "https://www.bilibili.com/video/BV1ib411i7dJ/"}
+JSON: {"text": "【油管心理学】人格心理学20集完整版，人格的概念、理论和人格测验", "url": "https://www.bilibili.com/video/BV1U7411r7gH/"}
+JSON: {"text": "【Osmosis合集】神经系统疾病（更至18P｜中英）", "url": "https://www.bilibili.com/video/BV1rC4y187K7/"}
+JSON: {"text": "尝试这几个缓解压力的按摩动作，刺激交感神经释放愉悦荷尔蒙【Mandell博士】", "url": "https://www.bilibili.com/video/BV1yf4y1g7vc/"}
+JSON: {"text": "鼻子上有黑头怎么办？其实并不难，做好这些，让你轻松去黑头！", "url": "https://www.bilibili.com/video/BV1G64y1z7FG/"}
+JSON: {"text": "霍琨-系统解剖学-人体解剖学全集（高清字幕版）更新完结", "url": "https://www.bilibili.com/video/BV18C4y1275J/"}
+JSON: {"text": "最好的休息竟不是睡觉？神经科学实验证明，排在第一的活动出人意料！", "url": "https://www.bilibili.com/video/BV15R4y1S7T5/"}
+JSON: {"text": "神级纪录片【合集】", "url": "https://www.bilibili.com/video/BV1w54y1q7EB/"}
+JSON: {"text": "【速成课：人工智能】Ai - [21集全/中英双语] - Artificial Intelligence", "url": "https://www.bilibili.com/video/BV1P7411r7Dw/"}
+JSON: {"text": "霍琨-系统解剖学-人体解剖学全集（高清字幕版）更新完结", "url": "https://www.bilibili.com/video/BV18C4y1275J/"}
+JSON: {"text": "最好的休息竟不是睡觉？神经科学实验证明，排在第一的活动出人意料！", "url": "https://www.bilibili.com/video/BV15R4y1S7T5/"}
+JSON: {"text": "【速成课：人工智能】Ai - [21集全/中英双语] - Artificial Intelligence", "url": "https://www.bilibili.com/video/BV1P7411r7Dw/"}
+JSON: {"text": "神级纪录片【合集】", "url": "https://www.bilibili.com/video/BV1w54y1q7EB/"}
+JSON: {"text": "妈妈产后经历的  (不动脑细胞的云端月子🤰)", "url": "https://www.bilibili.com/video/BV1QgS6YwETd/"}
+JSON: {"text": "人在思考时，神经元在干这些...", "url": "https://www.bilibili.com/video/BV1Lf4y1u7sZ/"}
+JSON: {"text": "犯罪心理学  西南政法大学 梅传强 【慕课版】", "url": "https://www.bilibili.com/video/BV1w54y1q7uu/"}
+JSON: {"text": "清华大学公开课---《心理学与生活》", "url": "https://www.bilibili.com/video/BV1j14y147QJ/"}
+JSON: {"text": "【生物】生物化学原理 南京大学 杨荣武主讲", "url": "https://www.bilibili.com/video/BV1iW411m7wz/"}
+JSON: {"text": "【生物】生理学 中南大学 罗自强主讲", "url": "https://www.bilibili.com/video/BV1Et411D7qf/"}
+JSON: {"text": "从早晨开启一天的完美步骤是什么？>斯坦福大学医学院神经科学家Andrew Huberman", "url": "https://www.bilibili.com/video/BV1Cy421v7tj/"}
+JSON: {"text": "人在思考时，神经元在干这些...", "url": "https://www.bilibili.com/video/BV1Lf4y1u7sZ/"}
+JSON: {"text": "犯罪心理学  西南政法大学 梅传强 【慕课版】", "url": "https://www.bilibili.com/video/BV1w54y1q7uu/"}
+JSON: {"text": "清华大学公开课---《心理学与生活》", "url": "https://www.bilibili.com/video/BV1j14y147QJ/"}
+JSON: {"text": "【生物】生物化学原理 南京大学 杨荣武主讲", "url": "https://www.bilibili.com/video/BV1iW411m7wz/"}
+JSON: {"text": "【生物】生理学 中南大学 罗自强主讲", "url": "https://www.bilibili.com/video/BV1Et411D7qf/"}
+JSON: {"text": "从早晨开启一天的完美步骤是什么？>斯坦福大学医学院神经科学家Andrew Huberman", "url": "https://www.bilibili.com/video/BV1Cy421v7tj/"}
+JSON: {"text": "18个锻炼大脑的方法让你变聪明", "url": "https://www.bilibili.com/video/BV1WsWre3EU6/"}
+JSON: {"text": "[原创] 10分钟搞懂 细胞的信号转导（依据各大机构老师总结&九版生理学）", "url": "https://www.bilibili.com/video/BV1j44y1G75g/"}
+JSON: {"text": "抑郁症是如何改变大脑的？并让患者如张国荣梵高等自杀的？", "url": "https://www.bilibili.com/video/BV1QN411q72j/"}
+JSON: {"text": "为什么肾脏在黑市上最受欢迎 ？肾脏的结构、功能和相关疾病【器官科普】", "url": "https://www.bilibili.com/video/BV1qG411d7iY/"}
+JSON: {"text": "色情毁掉你大脑的五种方式", "url": "https://www.bilibili.com/video/BV184421f7ZS/"}
+JSON: {"text": "尝试这个20秒使用舌头的小技巧，科学改善头部前倾的不良姿势【Mandell博士】", "url": "https://www.bilibili.com/video/BV1z44y1p7rQ/"}
+JSON: {"text": "网上常说的“ADHD”到底是什么？（非典型大脑发展", "url": "https://www.bilibili.com/video/BV117421f7Nh/"}
+JSON: {"text": "【硬核科普】一次看懂人工智能", "url": "https://www.bilibili.com/video/BV1134y1d72L/"}
+JSON: {"text": "市面上这么多牛奶，什么才是真正的纯牛奶？我们该怎么选？", "url": "https://www.bilibili.com/video/BV1VU4y137A4/"}
+JSON: {"text": "【斯坦福大学】深度学习（全192讲）吴恩达", "url": "https://www.bilibili.com/video/BV1ev4y1U7j2/"}
+JSON: {"text": "抑郁症最好的心理治疗-认知行为治疗(CBT)", "url": "https://www.bilibili.com/video/BV1n3411d7yD/"}
+JSON: {"text": "【生物科学类】学生想学生物，张老师讲生物专业。", "url": "https://www.bilibili.com/video/BV1Xj421U7vf/"}
+JSON: {"text": "如果长期缺乏锻炼或者长期卧床休息，静脉血流量就会减慢，可能会增加形成血栓的风险", "url": "https://www.bilibili.com/video/BV1ax411R7Eb/"}
+JSON: {"text": "【鬼谷说】神经演化（其一）：风起青萍之末", "url": "https://www.bilibili.com/video/BV14F411b7vm/"}
+JSON: {"text": "尝试这个20秒使用舌头的小技巧，科学改善头部前倾的不良姿势【Mandell博士】", "url": "https://www.bilibili.com/video/BV1z44y1p7rQ/"}
+JSON: {"text": "色情毁掉你大脑的五种方式", "url": "https://www.bilibili.com/video/BV184421f7ZS/"}
+JSON: {"text": "网上常说的“ADHD”到底是什么？（非典型大脑发展", "url": "https://www.bilibili.com/video/BV117421f7Nh/"}
+JSON: {"text": "18个锻炼大脑的方法让你变聪明", "url": "https://www.bilibili.com/video/BV1WsWre3EU6/"}
+JSON: {"text": "【硬核科普】一次看懂人工智能", "url": "https://www.bilibili.com/video/BV1134y1d72L/"}
+JSON: {"text": "市面上这么多牛奶，什么才是真正的纯牛奶？我们该怎么选？", "url": "https://www.bilibili.com/video/BV1VU4y137A4/"}
+JSON: {"text": "【斯坦福大学】深度学习（全192讲）吴恩达", "url": "https://www.bilibili.com/video/BV1ev4y1U7j2/"}
+JSON: {"text": "抑郁症最好的心理治疗-认知行为治疗(CBT)", "url": "https://www.bilibili.com/video/BV1n3411d7yD/"}
+JSON: {"text": "【生物科学类】学生想学生物，张老师讲生物专业。", "url": "https://www.bilibili.com/video/BV1Xj421U7vf/"}
+JSON: {"text": "如果长期缺乏锻炼或者长期卧床休息，静脉血流量就会减慢，可能会增加形成血栓的风险", "url": "https://www.bilibili.com/video/BV1ax411R7Eb/"}
+JSON: {"text": "【鬼谷说】神经演化（其一）：风起青萍之末", "url": "https://www.bilibili.com/video/BV14F411b7vm/"}
+JSON: {"text": "【硬核干货合集】百万收藏！不自律、自卑、迷茫...看这个合集就够了！", "url": "https://www.bilibili.com/video/BV16f4y1F7QQ/"}
+JSON: {"text": "【TED演讲】你的自学能力决定了你人生的高度 ！学霸一年时间内完成了麻省理工学院四年计算机专业的33门本科课程，方法和诀窍都在这个视频里啦。不能错过，马住！", "url": "https://www.bilibili.com/video/BV1Vt421g7TU/"}
+JSON: {"text": "揭秘性器官振动感知器的神经科学-雌性密度是雄性的15倍", "url": "https://www.bilibili.com/video/BV1VJ4m1u7QB/"}
+JSON: {"text": "数学专业的所有结局（超全22个结局）", "url": "https://www.bilibili.com/video/BV1V1yDYnE4s/"}
+JSON: {"text": "迈尔斯-社会心理学(1-100)集", "url": "https://www.bilibili.com/video/BV1aG41177Td/"}
+JSON: {"text": "【Starling ASMR】最不可预测的颅神经检查焦点测试✨ | 角色扮演 -20220131（机翻字幕）", "url": "https://www.bilibili.com/video/BV1PX4y1v7Eh/"}
+JSON: {"text": "只需30s的简单物理方法，使用两个勺子刺激大脑神经缓解耳鸣【Mandell博士】", "url": "https://www.bilibili.com/video/BV1C341147Xt/"}
+JSON: {"text": "学心理学有出路吗？张老师苦口婆心", "url": "https://www.bilibili.com/video/BV1GM4m127UT/"}
+JSON: {"text": "揭秘性器官振动感知器的神经科学-雌性密度是雄性的15倍", "url": "https://www.bilibili.com/video/BV1VJ4m1u7QB/"}
+JSON: {"text": "数学专业的所有结局（超全22个结局）", "url": "https://www.bilibili.com/video/BV1V1yDYnE4s/"}
+JSON: {"text": "【TED演讲】你的自学能力决定了你人生的高度 ！学霸一年时间内完成了麻省理工学院四年计算机专业的33门本科课程，方法和诀窍都在这个视频里啦。不能错过，马住！", "url": "https://www.bilibili.com/video/BV1Vt421g7TU/"}
+JSON: {"text": "迈尔斯-社会心理学(1-100)集", "url": "https://www.bilibili.com/video/BV1aG41177Td/"}
+JSON: {"text": "【Starling ASMR】最不可预测的颅神经检查焦点测试✨ | 角色扮演 -20220131（机翻字幕）", "url": "https://www.bilibili.com/video/BV1PX4y1v7Eh/"}
+JSON: {"text": "只需30s的简单物理方法，使用两个勺子刺激大脑神经缓解耳鸣【Mandell博士】", "url": "https://www.bilibili.com/video/BV1C341147Xt/"}
+JSON: {"text": "学心理学有出路吗？张老师苦口婆心", "url": "https://www.bilibili.com/video/BV1GM4m127UT/"}
+JSON: {"text": "熬夜者福音！尝试这些科学自然的方法消除黑眼圈【Mandell博士】", "url": "https://www.bilibili.com/video/BV1fR4y177LH/"}
+JSON: {"text": "四川大学-细胞生物学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1V4411U7WZ/"}
+JSON: {"text": "【人类阳痿史】男人不行，全怪女人？勃起≠男子气概", "url": "https://www.bilibili.com/video/BV1cw4m1Q7zs/"}
+JSON: {"text": "【科技史】史上最强致幻剂LSD的魔幻往事", "url": "https://www.bilibili.com/video/BV11f4y1B7qC/"}
+JSON: {"text": "90分钟！清华博士带你一口气搞懂人工智能和神经网络", "url": "https://www.bilibili.com/video/BV1atCRYsE7x/"}
+JSON: {"text": "CT入门教学（二）：脑梗死怎么看？脑室周围白质内低密度影，是什么？", "url": "https://www.bilibili.com/video/BV1aG411H777/"}
+JSON: {"text": "【不要乱用】艾宾浩斯遗忘曲线的正确用法！", "url": "https://www.bilibili.com/video/BV1ia411A7mD/"}
+JSON: {"text": "【山东大学|华中科大】组织学与胚胎学（合66讲）马保华 李和", "url": "https://www.bilibili.com/video/BV1664y1175M/"}
+JSON: {"text": "被寄生虫病支配的，非洲人的一生【世界疾病地图01】", "url": "https://www.bilibili.com/video/BV1AS411w71f/"}
+JSON: {"text": "脊柱博士后来了！奥运特聘脊医专家哦！", "url": "https://www.bilibili.com/video/BV1VK421Y7oL/"}
+JSON: {"text": "四川大学-细胞生物学（国家级精品课）", "url": "https://www.bilibili.com/video/BV1V4411U7WZ/"}
+JSON: {"text": "【人类阳痿史】男人不行，全怪女人？勃起≠男子气概", "url": "https://www.bilibili.com/video/BV1cw4m1Q7zs/"}
+JSON: {"text": "【科技史】史上最强致幻剂LSD的魔幻往事", "url": "https://www.bilibili.com/video/BV11f4y1B7qC/"}
+JSON: {"text": "90分钟！清华博士带你一口气搞懂人工智能和神经网络", "url": "https://www.bilibili.com/video/BV1atCRYsE7x/"}
+JSON: {"text": "CT入门教学（二）：脑梗死怎么看？脑室周围白质内低密度影，是什么？", "url": "https://www.bilibili.com/video/BV1aG411H777/"}
+JSON: {"text": "【不要乱用】艾宾浩斯遗忘曲线的正确用法！", "url": "https://www.bilibili.com/video/BV1ia411A7mD/"}
+JSON: {"text": "【山东大学|华中科大】组织学与胚胎学（合66讲）马保华 李和", "url": "https://www.bilibili.com/video/BV1664y1175M/"}
+JSON: {"text": "被寄生虫病支配的，非洲人的一生【世界疾病地图01】", "url": "https://www.bilibili.com/video/BV1AS411w71f/"}
+JSON: {"text": "脊柱博士后来了！奥运特聘脊医专家哦！", "url": "https://www.bilibili.com/video/BV1VK421Y7oL/"}
+JSON: {"text": "手机成瘾危害大脑！直接戒只会起反作用", "url": "https://www.bilibili.com/video/BV1PG411d7hJ/"}
+JSON: {"text": "精读好书《津巴多普通心理学》① | 比小说还好看的心理学入门经典", "url": "https://www.bilibili.com/video/BV1tK41117hP/"}
+JSON: {"text": "Nature发布2024年可能引领变革的七大技术 | 一起读顶刊", "url": "https://www.bilibili.com/video/BV13i4y1p7sq/"}
+JSON: {"text": "【强化学习的数学原理】课程：从零开始到透彻理解（完结）", "url": "https://www.bilibili.com/video/BV1sd4y167NS/"}
+JSON: {"text": "40hz疗愈音乐｜增强注意力 提高记忆力 预防阿尔茨海默 40赫兹", "url": "https://www.bilibili.com/video/BV1Gr421W7h9/"}
+JSON: {"text": "人类寿命即将翻倍？!【诺贝尔奖2024】", "url": "https://www.bilibili.com/video/BV18cmMYwEtj/"}
+JSON: {"text": "神经科学实验操作教程 小鼠ECOG电极植入手术", "url": "https://www.bilibili.com/video/BV1d94y1x7nF/"}
+JSON: {"text": "脚臭怎么办？其实很简单，试试这个方法！", "url": "https://www.bilibili.com/video/BV1Wf4y1L73P/"}
+JSON: {"text": "【美国大选】特朗普 vs 哈里斯 经济政策有什么不一样？", "url": "https://www.bilibili.com/video/BV1a9DAYFEqo/"}
+JSON: {"text": "解读2023诺贝尔生理学奖：碱基修饰与mRNA疫苗", "url": "https://www.bilibili.com/video/BV11w411h7rw/"}
+JSON: {"text": "【国家精品课程】四川大学 细胞生物学 （教材：翟中和《细胞生物学》）", "url": "https://www.bilibili.com/video/BV1qb411G7x1/"}
+JSON: {"text": "【强化学习的数学原理】课程：从零开始到透彻理解（完结）", "url": "https://www.bilibili.com/video/BV1sd4y167NS/"}
+JSON: {"text": "40hz疗愈音乐｜增强注意力 提高记忆力 预防阿尔茨海默 40赫兹", "url": "https://www.bilibili.com/video/BV1Gr421W7h9/"}
+JSON: {"text": "Nature发布2024年可能引领变革的七大技术 | 一起读顶刊", "url": "https://www.bilibili.com/video/BV13i4y1p7sq/"}
+JSON: {"text": "人类寿命即将翻倍？!【诺贝尔奖2024】", "url": "https://www.bilibili.com/video/BV18cmMYwEtj/"}
+JSON: {"text": "脚臭怎么办？其实很简单，试试这个方法！", "url": "https://www.bilibili.com/video/BV1Wf4y1L73P/"}
+JSON: {"text": "神经科学实验操作教程 小鼠ECOG电极植入手术", "url": "https://www.bilibili.com/video/BV1d94y1x7nF/"}
+JSON: {"text": "【美国大选】特朗普 vs 哈里斯 经济政策有什么不一样？", "url": "https://www.bilibili.com/video/BV1a9DAYFEqo/"}
+JSON: {"text": "【国家精品课程】四川大学 细胞生物学 （教材：翟中和《细胞生物学》）", "url": "https://www.bilibili.com/video/BV1qb411G7x1/"}
+JSON: {"text": "解读2023诺贝尔生理学奖：碱基修饰与mRNA疫苗", "url": "https://www.bilibili.com/video/BV11w411h7rw/"}
+JSON: {"text": "计算机视觉与深度学习 北京邮电大学 鲁鹏 清晰版合集（完整版）", "url": "https://www.bilibili.com/video/BV1V54y1B7K3/"}
+JSON: {"text": "只要是瘾就能戒！彻底了解多巴胺", "url": "https://www.bilibili.com/video/BV1sm421N7bF/"}
+JSON: {"text": "【复旦大学-药理学】-程能能【65集全】国家精品教程", "url": "https://www.bilibili.com/video/BV1dv411V7cw/"}
+JSON: {"text": "70万粉丝感谢，什么都不用做的“戒瘾”方法（基于海浪的规律", "url": "https://www.bilibili.com/video/BV1cp4y1J769/"}
+JSON: {"text": "焦虑为什么会成为流行病？它是一种正常的情绪，也是一种特别的能力！", "url": "https://www.bilibili.com/video/BV19J4m1n7cE/"}
+JSON: {"text": "药理学", "url": "https://www.bilibili.com/video/BV1bP4y1P76R/"}
+JSON: {"text": "啊？ —— 【类人群星闪耀时】", "url": "https://www.bilibili.com/video/BV1NPDwY2EAv/"}
+JSON: {"text": "真是离了个大谱！10吨“偷”来的遗体", "url": "https://www.bilibili.com/video/BV1A8DAYmEvt/"}
+JSON: {"text": "人，无论走到哪里，都要留下自己的墨迹【张香桐】", "url": "https://www.bilibili.com/video/BV1TN4y1Z73i/"}
+JSON: {"text": "大漂亮如何选“坐馆”——基础知识篇。", "url": "https://www.bilibili.com/video/BV1fPSyYQEGT/"}
+JSON: {"text": "当你处于低能量时，请狂做这4件事来救自己。", "url": "https://www.bilibili.com/video/BV19p1WY5EJw/"}
+JSON: {"text": "【3D演示】神经冲动传播的原理（原版+字幕版），附精美动画", "url": "https://www.bilibili.com/video/BV1sx411v7QA/"}
+JSON: {"text": "国内外生物抽象合集鉴赏#16", "url": "https://www.bilibili.com/video/BV12jSBYJE26/"}
+JSON: {"text": "70万粉丝感谢，什么都不用做的“戒瘾”方法（基于海浪的规律", "url": "https://www.bilibili.com/video/BV1cp4y1J769/"}
+JSON: {"text": "焦虑为什么会成为流行病？它是一种正常的情绪，也是一种特别的能力！", "url": "https://www.bilibili.com/video/BV19J4m1n7cE/"}
+JSON: {"text": "【复旦大学-药理学】-程能能【65集全】国家精品教程", "url": "https://www.bilibili.com/video/BV1dv411V7cw/"}
+JSON: {"text": "啊？ —— 【类人群星闪耀时】", "url": "https://www.bilibili.com/video/BV1NPDwY2EAv/"}
+JSON: {"text": "人，无论走到哪里，都要留下自己的墨迹【张香桐】", "url": "https://www.bilibili.com/video/BV1TN4y1Z73i/"}
+JSON: {"text": "药理学", "url": "https://www.bilibili.com/video/BV1bP4y1P76R/"}
+JSON: {"text": "真是离了个大谱！10吨“偷”来的遗体", "url": "https://www.bilibili.com/video/BV1A8DAYmEvt/"}
+JSON: {"text": "大漂亮如何选“坐馆”——基础知识篇。", "url": "https://www.bilibili.com/video/BV1fPSyYQEGT/"}
+JSON: {"text": "当你处于低能量时，请狂做这4件事来救自己。", "url": "https://www.bilibili.com/video/BV19p1WY5EJw/"}
+JSON: {"text": "【3D演示】神经冲动传播的原理（原版+字幕版），附精美动画", "url": "https://www.bilibili.com/video/BV1sx411v7QA/"}
+JSON: {"text": "【+2000集全】纯英文教学 基础医学专业～外教精讲", "url": "https://www.bilibili.com/video/BV1Vz41187Bx/"}
+JSON: {"text": "【3D演示】神经系统（原版+字幕版）", "url": "https://www.bilibili.com/video/BV1hx411m7TH/"}
+JSON: {"text": "普通心理学（第六版）磨耳朵（完结版）", "url": "https://www.bilibili.com/video/BV1bx4y1t7Du/"}
+JSON: {"text": "脑部修复 | 脑部发育完全、修复脑部损伤、恢复正常脑处理功能的能量场", "url": "https://www.bilibili.com/video/BV1Gi421v7aH/"}
+JSON: {"text": "洪兰教授合集", "url": "https://www.bilibili.com/video/BV17t411s7q8/"}
+JSON: {"text": "周志华老师亲讲-西瓜书全网最详尽讲解-1080p高清原版《机器学习初步》", "url": "https://www.bilibili.com/video/BV1gG411f7zX/"}
+JSON: {"text": "生理学全集-罗自强-国家精品课程", "url": "https://www.bilibili.com/video/BV12g411u7GW/"}
+JSON: {"text": "【禁毒科普】冰毒 4.0：前世今生", "url": "https://www.bilibili.com/video/BV17e4y1C76M/"}
+JSON: {"text": "普通心理学（第六版）磨耳朵（完结版）", "url": "https://www.bilibili.com/video/BV1bx4y1t7Du/"}
+JSON: {"text": "脑部修复 | 脑部发育完全、修复脑部损伤、恢复正常脑处理功能的能量场", "url": "https://www.bilibili.com/video/BV1Gi421v7aH/"}
+JSON: {"text": "洪兰教授合集", "url": "https://www.bilibili.com/video/BV17t411s7q8/"}
+JSON: {"text": "周志华老师亲讲-西瓜书全网最详尽讲解-1080p高清原版《机器学习初步》", "url": "https://www.bilibili.com/video/BV1gG411f7zX/"}
+JSON: {"text": "生理学全集-罗自强-国家精品课程", "url": "https://www.bilibili.com/video/BV12g411u7GW/"}
+JSON: {"text": "【禁毒科普】冰毒 4.0：前世今生", "url": "https://www.bilibili.com/video/BV17e4y1C76M/"}
+JSON: {"text": "【188】压力 脂肪 皮肤与显化背后的科学 | 顶尖神经科学家", "url": "https://www.bilibili.com/video/BV1NN2FYYEtn/"}
+JSON: {"text": "这才是学习的底层原理！平民逆袭，精英哭泣【认知科学&知识焦虑乱谈】", "url": "https://www.bilibili.com/video/BV1vE411e7R3/"}
+JSON: {"text": "大体老师---人体背部肌肉解剖", "url": "https://www.bilibili.com/video/BV1k841167kg/"}
+JSON: {"text": "真实人体标本，请谨慎观看！人体背部肌肉讲解", "url": "https://www.bilibili.com/video/BV1t94y1b7zN/"}
+JSON: {"text": "哈佛大学教授：解密关于锻炼，跑步，睡眠，癌症和糖的7个谎言！——Dr. Daniel E. Lieberman【中英字幕】", "url": "https://www.bilibili.com/video/BV1aWCXYJEhJ/"}
+JSON: {"text": "一个视频了解十八层地狱！（尺度稍大，胆小慎入）", "url": "https://www.bilibili.com/video/BV1LUDAYvEVN/"}
+JSON: {"text": "神经病学12讲（中国医科大学）", "url": "https://www.bilibili.com/video/BV1MW411M7GZ/"}
+JSON: {"text": "当一个情绪稳定的成年人真的太爽了！Neuriva健脑真的不是智商税！健康的身体头脑才是追梦路上的原动力！", "url": "https://www.bilibili.com/video/BV1sH4y1U7fo/"}
+JSON: {"text": "(超爽中英!) 2024公认最好的【吴恩达机器学习】教程！附课件代码 Machine Learning Specialization", "url": "https://www.bilibili.com/video/BV1Bq421A74G/"}
+JSON: {"text": "生理学（移山师兄）", "url": "https://www.bilibili.com/video/BV1Ws421G7KH/"}
+JSON: {"text": "大体老师---人体背部肌肉解剖", "url": "https://www.bilibili.com/video/BV1k841167kg/"}
+JSON: {"text": "真实人体标本，请谨慎观看！人体背部肌肉讲解", "url": "https://www.bilibili.com/video/BV1t94y1b7zN/"}
+JSON: {"text": "哈佛大学教授：解密关于锻炼，跑步，睡眠，癌症和糖的7个谎言！——Dr. Daniel E. Lieberman【中英字幕】", "url": "https://www.bilibili.com/video/BV1aWCXYJEhJ/"}
+JSON: {"text": "一个视频了解十八层地狱！（尺度稍大，胆小慎入）", "url": "https://www.bilibili.com/video/BV1LUDAYvEVN/"}
+JSON: {"text": "神经病学12讲（中国医科大学）", "url": "https://www.bilibili.com/video/BV1MW411M7GZ/"}
+JSON: {"text": "当一个情绪稳定的成年人真的太爽了！Neuriva健脑真的不是智商税！健康的身体头脑才是追梦路上的原动力！", "url": "https://www.bilibili.com/video/BV1sH4y1U7fo/"}
+JSON: {"text": "(超爽中英!) 2024公认最好的【吴恩达机器学习】教程！附课件代码 Machine Learning Specialization", "url": "https://www.bilibili.com/video/BV1Bq421A74G/"}
+JSON: {"text": "生理学（移山师兄）", "url": "https://www.bilibili.com/video/BV1Ws421G7KH/"}
+JSON: {"text": "【191】哈佛教授揭示运动、睡眠、跑步、癌症、糖的七大谎言", "url": "https://www.bilibili.com/video/BV1Mv12YvEzW/"}
+JSON: {"text": "强迫努力后果有多可怕?毒压力促发创伤产生抑郁的背后原理", "url": "https://www.bilibili.com/video/BV1p1421R7md/"}
+JSON: {"text": "【脊骨神经博士教你】3+3！把富贵包，颈椎曲度变直，肩颈酸痛安排得明明白白！", "url": "https://www.bilibili.com/video/BV1SY411a7QR/"}
+JSON: {"text": "《精神分析引论》导读 复旦大学公开课 （全46集）", "url": "https://www.bilibili.com/video/BV1Jb411t7QQ/"}
+JSON: {"text": "8小时｜多动症缓解音乐｜ADHD Relief Music｜工作学习专注背景音乐（自用）", "url": "https://www.bilibili.com/video/BV1iX4y1s78i/"}
+JSON: {"text": "心理学上的微行为3", "url": "https://www.bilibili.com/video/BV1xzyKY2E6Y/"}
+JSON: {"text": "多巴胺篇①脑内贫困是懒惰真相,动力抑郁与脑内货币深刻联系【脑科学】", "url": "https://www.bilibili.com/video/BV1iV411g7pB/"}
+JSON: {"text": "生理学本科教学及考研基础课", "url": "https://www.bilibili.com/video/BV1va4y1J72r/"}
+JSON: {"text": "11脊膜瘤", "url": "https://www.bilibili.com/video/BV1qDtJemEz3/"}
+JSON: {"text": "【禁毒科普】阿普唑仑、安定：成瘾性、中间神经元", "url": "https://www.bilibili.com/video/BV1iY411s7BV/"}
+JSON: {"text": "强烈令人集中注意力的脑波音乐！双声道！ADHD可用（Isochronic Tones）", "url": "https://www.bilibili.com/video/BV1gt41187Jv/"}
+JSON: {"text": "心理学上的微行为3", "url": "https://www.bilibili.com/video/BV1xzyKY2E6Y/"}
+JSON: {"text": "8小时｜多动症缓解音乐｜ADHD Relief Music｜工作学习专注背景音乐（自用）", "url": "https://www.bilibili.com/video/BV1iX4y1s78i/"}
+JSON: {"text": "多巴胺篇①脑内贫困是懒惰真相,动力抑郁与脑内货币深刻联系【脑科学】", "url": "https://www.bilibili.com/video/BV1iV411g7pB/"}
+JSON: {"text": "生理学本科教学及考研基础课", "url": "https://www.bilibili.com/video/BV1va4y1J72r/"}
+JSON: {"text": "11脊膜瘤", "url": "https://www.bilibili.com/video/BV1qDtJemEz3/"}
+JSON: {"text": "强烈令人集中注意力的脑波音乐！双声道！ADHD可用（Isochronic Tones）", "url": "https://www.bilibili.com/video/BV1gt41187Jv/"}
+JSON: {"text": "【禁毒科普】阿普唑仑、安定：成瘾性、中间神经元", "url": "https://www.bilibili.com/video/BV1iY411s7BV/"}
+JSON: {"text": "医学免疫学 第一章_01 绪论", "url": "https://www.bilibili.com/video/BV1C5411h77N/"}
+JSON: {"text": "【全程高燃】好莱坞精英 VS 铁锈带平民、2024川普背水一战！", "url": "https://www.bilibili.com/video/BV1jpDwYeEdH/"}
+JSON: {"text": "《最高级大脑休息音乐》no：2 全球播放过亿次的最高级脑波音乐，听5分钟可快速睡眠方法，缓解脑压神工具，帮助睡眠-改善失眠-大脑放松-冥想开智-改善健康的音乐。", "url": "https://www.bilibili.com/video/BV13q4y1K75k/"}
+JSON: {"text": "康复医学——南方医科大学", "url": "https://www.bilibili.com/video/BV1Tf4y1A73t/"}
+JSON: {"text": "[中英字幕]吴恩达机器学习系列课程", "url": "https://www.bilibili.com/video/BV164411b7dx/"}
+JSON: {"text": "全世界最大的“骗局”是什么？", "url": "https://www.bilibili.com/video/BV1aUSBYtEA5/"}
+JSON: {"text": "医学八大天王来了，看还有谁不认识的，哈哈哈！", "url": "https://www.bilibili.com/video/BV1Ww411z7ao/"}
+JSON: {"text": "焦虑症来练！惊恐发作来练！渐进性肌肉放松练习~", "url": "https://www.bilibili.com/video/BV1sg411j7d6/"}
+JSON: {"text": "【178】我们根据心理创伤吸引他人 | 顶尖神经科学家", "url": "https://www.bilibili.com/video/BV18DxMewEgo/"}
+JSON: {"text": "医学微生物学——西安交通大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1Jv411N7oB/"}
+JSON: {"text": "【戒酒】酒精成瘾：沉迷于大量饮酒【大脑GABA系统：成瘾、失去判断力】【脑科学垂直科普】", "url": "https://www.bilibili.com/video/BV1qr4y1N7Gr/"}
+JSON: {"text": "康复医学——南方医科大学", "url": "https://www.bilibili.com/video/BV1Tf4y1A73t/"}
+JSON: {"text": "[中英字幕]吴恩达机器学习系列课程", "url": "https://www.bilibili.com/video/BV164411b7dx/"}
+JSON: {"text": "全世界最大的“骗局”是什么？", "url": "https://www.bilibili.com/video/BV1aUSBYtEA5/"}
+JSON: {"text": "医学八大天王来了，看还有谁不认识的，哈哈哈！", "url": "https://www.bilibili.com/video/BV1Ww411z7ao/"}
+JSON: {"text": "焦虑症来练！惊恐发作来练！渐进性肌肉放松练习~", "url": "https://www.bilibili.com/video/BV1sg411j7d6/"}
+JSON: {"text": "【178】我们根据心理创伤吸引他人 | 顶尖神经科学家", "url": "https://www.bilibili.com/video/BV18DxMewEgo/"}
+JSON: {"text": "【戒酒】酒精成瘾：沉迷于大量饮酒【大脑GABA系统：成瘾、失去判断力】【脑科学垂直科普】", "url": "https://www.bilibili.com/video/BV1qr4y1N7Gr/"}
+JSON: {"text": "医学微生物学——西安交通大学（国家精品课程）", "url": "https://www.bilibili.com/video/BV1Jv411N7oB/"}
+JSON: {"text": "啥都能干？一个视频讲透生物医学工程类所有专业！【框框的b站大学-生物医学工程类】生物医学工程、假肢矫形工程、康复工程", "url": "https://www.bilibili.com/video/BV1Ps421M7U8/"}
+JSON: {"text": "大王眼树莲也叫玉荷包，拥有非常奇怪的囊状变态叶，这些中空的囊状叶可以用来作蒸烤糯米饭的容器。", "url": "https://www.bilibili.com/video/BV1TnDAY9EYQ/"}
+JSON: {"text": "怨恨自己脑回路是怎么来的?成功靠自我批评否定解决消极抑郁?", "url": "https://www.bilibili.com/video/BV1LH4y1K7ts/"}
+JSON: {"text": "换心脏！缝神经！看医生和“死神”的极限拉扯！【闪闪的儿科医生2 reaction】", "url": "https://www.bilibili.com/video/BV1W4x9e5EML/"}
+JSON: {"text": "BLG vs T1 Faker绝境李相赫觉醒！赛拉斯锁链乱舞强行Carry！ Game 4 | 2024 S14世界赛", "url": "https://www.bilibili.com/video/BV1dNS6YvE3t/"}
+JSON: {"text": "我居然3小时学懂了深度学习神经网络入门到实战，多亏了这个课程，看不懂你打我！！！GAN/RNN/CNN神经网络/人工智能/计算机视觉/深度学习/AI机器学习", "url": "https://www.bilibili.com/video/BV1K94y1Z7wn/"}
+JSON: {"text": "海军究竟能有多烧钱？", "url": "https://www.bilibili.com/video/BV17BDcYeEjC/"}
+JSON: {"text": "Nature—违反直觉的发现！多巴胺释放调控奖赏行为，但不调控运动行为？", "url": "https://www.bilibili.com/video/BV1yMCfY9EQL/"}
+JSON: {"text": "神经专科查体", "url": "https://www.bilibili.com/video/BV1V14y1S7PC/"}
+JSON: {"text": "换心脏！缝神经！看医生和“死神”的极限拉扯！【闪闪的儿科医生2 reaction】", "url": "https://www.bilibili.com/video/BV1W4x9e5EML/"}
+JSON: {"text": "【硬核】工科生苦傅里叶久矣！傅里叶变换原理究极入门，工科生的必修课，看不懂的来找我算账！【喵星考拉】傅里叶变换究极入门课程", "url": "https://www.bilibili.com/video/BV1oz1eYVECp/"}
+JSON: {"text": "BLG vs T1 Faker绝境李相赫觉醒！赛拉斯锁链乱舞强行Carry！ Game 4 | 2024 S14世界赛", "url": "https://www.bilibili.com/video/BV1dNS6YvE3t/"}
+JSON: {"text": "我居然3小时学懂了深度学习神经网络入门到实战，多亏了这个课程，看不懂你打我！！！GAN/RNN/CNN神经网络/人工智能/计算机视觉/深度学习/AI机器学习", "url": "https://www.bilibili.com/video/BV1K94y1Z7wn/"}
+JSON: {"text": "海军究竟能有多烧钱？", "url": "https://www.bilibili.com/video/BV17BDcYeEjC/"}
+JSON: {"text": "Nature—违反直觉的发现！多巴胺释放调控奖赏行为，但不调控运动行为？", "url": "https://www.bilibili.com/video/BV1yMCfY9EQL/"}
+JSON: {"text": "神经专科查体", "url": "https://www.bilibili.com/video/BV1V14y1S7PC/"}
+JSON: {"text": "看似不能持有！实际上是完全合法携带的自卫武器～", "url": "https://www.bilibili.com/video/BV1TpDAYpE3N/"}
+JSON: {"text": "心理学人必看！！值得N刷的八部心理学纪录片", "url": "https://www.bilibili.com/video/BV1GJ4m1u75p/"}
+JSON: {"text": "食品包装上的营养成分表怎么看？", "url": "https://www.bilibili.com/video/BV1ZzDAY6EZD/"}
+JSON: {"text": "【脑科学】抑郁症：曲唑酮，“精神疼痛”假说（16）", "url": "https://www.bilibili.com/video/BV1bU4y177fC/"}
+JSON: {"text": "【徐静雨】t1夺得s14总冠军，faker当之无愧英雄联盟的神！", "url": "https://www.bilibili.com/video/BV1x6SzYXE6a/"}
+JSON: {"text": "大结局！T1 3-2 BLG 赛后数据雷达图+虎扑现状 | S14全球总决赛-决赛", "url": "https://www.bilibili.com/video/BV1t6SzYXEj7/"}
+JSON: {"text": "Uzi看Faker加里奥击败BLG拿下第五冠 仿佛看到了S7的自己！", "url": "https://www.bilibili.com/video/BV1vWSzYeEnx/"}
+JSON: {"text": "换气扇的百叶窗为啥波浪式开闭？揭秘旋转失速现象", "url": "https://www.bilibili.com/video/BV1JzDAYrEY6/"}
+JSON: {"text": "【高等数学(上)】3小时不挂|微积分|高数", "url": "https://www.bilibili.com/video/BV1JK4y1e7Ue/"}
+JSON: {"text": "《底层原理1988》1 人类大脑与血清素系统：抑郁症与强迫症的机制，人类首创单胺氧化酶抑制剂MAOI，现代选择性血清素再摄取抑制剂SSRI抗抑郁药的作用靶点", "url": "https://www.bilibili.com/video/BV1rJ411k7pr/"}
+JSON: {"text": "11月为什么会刮大台风，超强台风康妮到底极端到了什么程度？", "url": "https://www.bilibili.com/video/BV1oBSBYNEXm/"}
+JSON: {"text": "形形色色保鲜膜，如何挑拣最稳妥？", "url": "https://www.bilibili.com/video/BV1tZSBYHEmb/"}
+JSON: {"text": "【徐静雨】t1夺得s14总冠军，faker当之无愧英雄联盟的神！", "url": "https://www.bilibili.com/video/BV1x6SzYXE6a/"}
+JSON: {"text": "大结局！T1 3-2 BLG 赛后数据雷达图+虎扑现状 | S14全球总决赛-决赛", "url": "https://www.bilibili.com/video/BV1t6SzYXEj7/"}
+JSON: {"text": "艾氏人体解剖学（中英字幕）", "url": "https://www.bilibili.com/video/BV1AY4y1R7pc/"}
+JSON: {"text": "换气扇的百叶窗为啥波浪式开闭？揭秘旋转失速现象", "url": "https://www.bilibili.com/video/BV1JzDAYrEY6/"}
+JSON: {"text": "Uzi看Faker加里奥击败BLG拿下第五冠 仿佛看到了S7的自己！", "url": "https://www.bilibili.com/video/BV1vWSzYeEnx/"}
+JSON: {"text": "【高等数学(上)】3小时不挂|微积分|高数", "url": "https://www.bilibili.com/video/BV1JK4y1e7Ue/"}
+JSON: {"text": "韩国人kpop越来越遭人厌的理由 公司报告书究竟讲了什么？ seventeen夫胜宽发声被骂？aespa blackpink newjeans unis", "url": "https://www.bilibili.com/video/BV1kGDwYgENX/"}
+JSON: {"text": "11月为什么会刮大台风，超强台风康妮到底极端到了什么程度？", "url": "https://www.bilibili.com/video/BV1oBSBYNEXm/"}
+JSON: {"text": "形形色色保鲜膜，如何挑拣最稳妥？", "url": "https://www.bilibili.com/video/BV1tZSBYHEmb/"}
+JSON: {"text": "不愧是公认最好的【图神经网络GNN/GCN教程】，从基础到进阶再到实战，一个合集全部到位！-人工智能/神经网络/图神经网络/深度学习。", "url": "https://www.bilibili.com/video/BV1184y1x71H/"}
+JSON: {"text": "借你号玩玩是什么梗【梗指南】", "url": "https://www.bilibili.com/video/BV1UoDcYnEGm/"}
+JSON: {"text": "魔王の觉醒！Faker开启二阶段独C击溃BLG，德云色：你怎么还赖着不走啊啊啊！", "url": "https://www.bilibili.com/video/BV1KkSzYHELs/"}
+JSON: {"text": "2024年美国总统大选最新预测：基于最新提前投票数据、民调及胜算 | 哈里斯 vs 特朗普", "url": "https://www.bilibili.com/video/BV1mZDcYSEEc/"}
+JSON: {"text": "机器学习入门到精通！不愧是公认的讲的最好的【机器学习全套教程】同济大佬12小时带你从入门到进阶（机器学习/线性代数/人工智能/Python）", "url": "https://www.bilibili.com/video/BV1PN4y1V7d9/"}
+JSON: {"text": "【哈尔滨医科大学】医学微生物学【带字幕】", "url": "https://www.bilibili.com/video/BV1Y3411U7hF/"}
+JSON: {"text": "BLG vs T1 见证历史！ Faker五冠魔王传奇不死！ T1原阵容夺冠再创新的皇朝！ Game 5 | 2024 S14世界赛", "url": "https://www.bilibili.com/video/BV15xSzYAENk/"}
+JSON: {"text": "【十大产业】中国装备制造业：不要停下，直到怒火击穿痛苦，直到泪水流入心脏", "url": "https://www.bilibili.com/video/BV1MwDPYdE1s/"}
+JSON: {"text": "「笔记分享」医学生本科学习笔记分享｜临床查床前复习｜系解、内外妇儿、诊断学、皮肤病、神经科学、口腔医学、心理学等", "url": "https://www.bilibili.com/video/BV1ru411z7Py/"}
+JSON: {"text": "借你号玩玩是什么梗【梗指南】", "url": "https://www.bilibili.com/video/BV1UoDcYnEGm/"}
+JSON: {"text": "魔王の觉醒！Faker开启二阶段独C击溃BLG，德云色：你怎么还赖着不走啊啊啊！", "url": "https://www.bilibili.com/video/BV1KkSzYHELs/"}
+JSON: {"text": "2024年美国总统大选最新预测：基于最新提前投票数据、民调及胜算 | 哈里斯 vs 特朗普", "url": "https://www.bilibili.com/video/BV1mZDcYSEEc/"}
+JSON: {"text": "机器学习入门到精通！不愧是公认的讲的最好的【机器学习全套教程】同济大佬12小时带你从入门到进阶（机器学习/线性代数/人工智能/Python）", "url": "https://www.bilibili.com/video/BV1PN4y1V7d9/"}
+JSON: {"text": "【哈尔滨医科大学】医学微生物学【带字幕】", "url": "https://www.bilibili.com/video/BV1Y3411U7hF/"}
+JSON: {"text": "【十大产业】中国装备制造业：不要停下，直到怒火击穿痛苦，直到泪水流入心脏", "url": "https://www.bilibili.com/video/BV1MwDPYdE1s/"}
+JSON: {"text": "BLG vs T1 见证历史！ Faker五冠魔王传奇不死！ T1原阵容夺冠再创新的皇朝！ Game 5 | 2024 S14世界赛", "url": "https://www.bilibili.com/video/BV15xSzYAENk/"}
+JSON: {"text": "「笔记分享」医学生本科学习笔记分享｜临床查床前复习｜系解、内外妇儿、诊断学、皮肤病、神经科学、口腔医学、心理学等", "url": "https://www.bilibili.com/video/BV1ru411z7Py/"}
+JSON: {"text": "Doinb看BLG没夺冠透露会直接影响LPL明年生态：所有人都在求着BLG夺冠！", "url": "https://www.bilibili.com/video/BV1KkSzYHEoz/"}
+JSON: {"text": "【2024全球总决赛】11月2日决赛 BLG vs T1", "url": "https://www.bilibili.com/video/BV1fiS6Y5Ex1/"}
+JSON: {"text": "再次失去摇摆州，特朗普可能真的失望了", "url": "https://www.bilibili.com/video/BV1qJDwYvEBN/"}
+JSON: {"text": "“这牌子立的，不知道的还以为她考上清华了呢”", "url": "https://www.bilibili.com/video/BV15uSkYrEVp/"}
+JSON: {"text": "“这牌子立的，不知道的还以为她考上清华了呢”", "url": "https://www.bilibili.com/video/BV15uSkYrEVp/"}
+JSON: {"text": "晚安", "url": "https://www.bilibili.com/video/BV1UESkYeEQW/"}
+JSON: {"text": "晚安", "url": "https://www.bilibili.com/video/BV1UESkYeEQW/"}
+JSON: {"text": "【人解三分钟】视觉传导通路：视野缺损+对光反射，视神经视交叉视束视幅射，画画图就懂", "url": "https://www.bilibili.com/video/BV1264y1o789/"}
+JSON: {"text": "【深度学习保姆级教学】草履虫都能看懂！理论到实战、入门到起飞！人工智能基础入门必看！【ML机器学习|DL深度学习|CV计算机视觉|NLP自然语言处理】", "url": "https://www.bilibili.com/video/BV15t4y1G7kq/"}
+JSON: {"text": "人类的神经系统被设计的有多先进？", "url": "https://www.bilibili.com/video/BV1ZbyGYmEcX/"}
+JSON: {"text": "人类无法抗拒的十大心理学效应", "url": "https://www.bilibili.com/video/BV1ba4y1278q/"}
+JSON: {"text": "【中英文字幕】神经解剖学视频", "url": "https://www.bilibili.com/video/BV1rg411w7e3/"}
+JSON: {"text": "【丧瘾纪元】“虚假的快乐”是怎么控制你的？", "url": "https://www.bilibili.com/video/BV1fV4y1R7Kg/"}
+JSON: {"text": "修复大脑，只需6步！——lman Gadzhi【中英字幕】", "url": "https://www.bilibili.com/video/BV1zN41137TS/"}
+JSON: {"text": "两个神经元相互感知并试图连接", "url": "https://www.bilibili.com/video/BV1tu4y127yP/"}
+JSON: {"text": "人类的神经系统被设计的有多先进？", "url": "https://www.bilibili.com/video/BV1ZbyGYmEcX/"}
+JSON: {"text": "人类无法抗拒的十大心理学效应", "url": "https://www.bilibili.com/video/BV1ba4y1278q/"}
+JSON: {"text": "【中英文字幕】神经解剖学视频", "url": "https://www.bilibili.com/video/BV1rg411w7e3/"}
+JSON: {"text": "【丧瘾纪元】“虚假的快乐”是怎么控制你的？", "url": "https://www.bilibili.com/video/BV1fV4y1R7Kg/"}
+JSON: {"text": "修复大脑，只需6步！——lman Gadzhi【中英字幕】", "url": "https://www.bilibili.com/video/BV1zN41137TS/"}
+JSON: {"text": "两个神经元相互感知并试图连接", "url": "https://www.bilibili.com/video/BV1tu4y127yP/"}
+JSON: {"text": "什么是神经网络？看一个动画，就全明白了", "url": "https://www.bilibili.com/video/BV1Hr4y1q7Y1/"}
+JSON: {"text": "【科学60秒】边睡边学真的可行", "url": "https://www.bilibili.com/video/BV1Bp4y1872h/"}
+JSON: {"text": "【中英字幕】9分钟搞懂神经系统", "url": "https://www.bilibili.com/video/BV1X7411o7YS/"}
+JSON: {"text": "什么是人工智能/机器学习/深度学习/神经网络?", "url": "https://www.bilibili.com/video/BV1vJ41147QU/"}
+JSON: {"text": "【中英字幕】吴恩达深度学习课程第一课 — 神经网络与深度学习", "url": "https://www.bilibili.com/video/BV164411m79z/"}
+JSON: {"text": "【10分钟速成课：解剖与生理】第11集 - 中枢神经系统", "url": "https://www.bilibili.com/video/BV1vs411D7AE/"}
+JSON: {"text": "23岁开始精神差、脑子不灵光，吃鱼油有用吗？", "url": "https://www.bilibili.com/video/BV1VP411m7d3/"}
+JSON: {"text": "一个视频搞懂多巴胺 | 是瘾就能戒，用多巴胺自律上瘾！【白实验】", "url": "https://www.bilibili.com/video/BV1SN41117oY/"}
+JSON: {"text": "迷走神经与副交感神经有何区别？两者可以混用吗？", "url": "https://www.bilibili.com/video/BV1qV4y1f7Dg/"}
+JSON: {"text": "【什么是CNN？】浙大大佬教你怎么卷CNN，卷积神经网络CNN从入门到实战，通俗易懂草履虫听了都点头(人工智能、深度学习、机器学习、计算机视觉)", "url": "https://www.bilibili.com/video/BV1zF411V7xu/"}
+JSON: {"text": "【科学60秒】边睡边学真的可行", "url": "https://www.bilibili.com/video/BV1Bp4y1872h/"}
+JSON: {"text": "【中英字幕】9分钟搞懂神经系统", "url": "https://www.bilibili.com/video/BV1X7411o7YS/"}
+JSON: {"text": "什么是人工智能/机器学习/深度学习/神经网络?", "url": "https://www.bilibili.com/video/BV1vJ41147QU/"}
+JSON: {"text": "【中英字幕】吴恩达深度学习课程第一课 — 神经网络与深度学习", "url": "https://www.bilibili.com/video/BV164411m79z/"}
+JSON: {"text": "【10分钟速成课：解剖与生理】第11集 - 中枢神经系统", "url": "https://www.bilibili.com/video/BV1vs411D7AE/"}
+JSON: {"text": "23岁开始精神差、脑子不灵光，吃鱼油有用吗？", "url": "https://www.bilibili.com/video/BV1VP411m7d3/"}
+JSON: {"text": "一个视频搞懂多巴胺 | 是瘾就能戒，用多巴胺自律上瘾！【白实验】", "url": "https://www.bilibili.com/video/BV1SN41117oY/"}
+JSON: {"text": "迷走神经与副交感神经有何区别？两者可以混用吗？", "url": "https://www.bilibili.com/video/BV1qV4y1f7Dg/"}
+JSON: {"text": "【什么是CNN？】浙大大佬教你怎么卷CNN，卷积神经网络CNN从入门到实战，通俗易懂草履虫听了都点头(人工智能、深度学习、机器学习、计算机视觉)", "url": "https://www.bilibili.com/video/BV1zF411V7xu/"}
+JSON: {"text": "半个月前，中国科学家发现16万种新病毒，这意味着什么？", "url": "https://www.bilibili.com/video/BV1b5yDYrECj/"}
+JSON: {"text": "高敏感人群确有其事吗？看看神经科学怎么说", "url": "https://www.bilibili.com/video/BV1JU4y1K7rP/"}
+JSON: {"text": "从“卷积”、到“图像卷积操作”、再到“卷积神经网络”，“卷积”意义的3次改变", "url": "https://www.bilibili.com/video/BV1VV411478E/"}
+JSON: {"text": "心理学专业的所有结局", "url": "https://www.bilibili.com/video/BV1zC4y1E74p/"}

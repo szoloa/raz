@@ -1,0 +1,34 @@
+JSON: {"text": "刷了1000多道算法题，分享我的心得。希望这个视频能帮助你学习算法、坚持下来", "url": "https://www.bilibili.com/video/BV1Ku411z7VT/"}
+JSON: {"text": "北大未名超算队 高性能计算入门讲座（一）:概论", "url": "https://www.bilibili.com/video/BV1814y1g7YC/"}
+JSON: {"text": "短期内成为一个性能调优高手？——看马士兵老师的JVM性能调优、多线程与高并发训练营就够了！", "url": "https://www.bilibili.com/video/BV1Hr4y1t7i5/"}
+JSON: {"text": "十分钟学会编程的本质【收藏级】", "url": "https://www.bilibili.com/video/BV1AF411s78P/"}
+JSON: {"text": "4分钟搞懂, 算法是什么", "url": "https://www.bilibili.com/video/BV1u34y1Q72h/"}
+JSON: {"text": "30分钟零基础程序员（前端）速成，我收藏了", "url": "https://www.bilibili.com/video/BV1ZW42197oE/"}
+JSON: {"text": "15分钟C语言零基础速成课", "url": "https://www.bilibili.com/video/BV1Z94y1h7Gx/"}
+JSON: {"text": "【录播】现代C++中的高性能并行编程与优化（持续更新中）", "url": "https://www.bilibili.com/video/BV1fa411r7zp/"}
+JSON: {"text": "GPU并行计算与CUDA编程", "url": "https://www.bilibili.com/video/BV15Y4y1F7tE/"}
+JSON: {"text": "什么代码让程序员之神感叹“卧槽”？改变游戏行业的平方根倒数算法", "url": "https://www.bilibili.com/video/BV18j411i7bp/"}
+JSON: {"text": "4分钟搞懂, 算法是什么", "url": "https://www.bilibili.com/video/BV1u34y1Q72h/"}
+JSON: {"text": "北大未名超算队 高性能计算入门讲座（一）:概论", "url": "https://www.bilibili.com/video/BV1814y1g7YC/"}
+JSON: {"text": "【录播】现代C++中的高性能并行编程与优化（持续更新中）", "url": "https://www.bilibili.com/video/BV1fa411r7zp/"}
+JSON: {"text": "一分钟记住所有算法", "url": "https://www.bilibili.com/video/BV1AV4y1B7pV/"}
+JSON: {"text": "高精度算法全套（加，减，乘，除，全网最详细）", "url": "https://www.bilibili.com/video/BV1LA411v7mt/"}
+JSON: {"text": "8分钟讲懂一个算法", "url": "https://www.bilibili.com/video/BV1G441187Qg/"}
+JSON: {"text": "如何不断优化你的代码效率？", "url": "https://www.bilibili.com/video/BV1LZ4y167Us/"}
+JSON: {"text": "8分钟讲懂一个算法", "url": "https://www.bilibili.com/video/BV1G441187Qg/"}
+JSON: {"text": "如何不断优化你的代码效率？", "url": "https://www.bilibili.com/video/BV1LZ4y167Us/"}
+JSON: {"text": "十分钟学会编程的本质【收藏级】", "url": "https://www.bilibili.com/video/BV1AF411s78P/"}
+JSON: {"text": "【性能优化】往数组里写入0为何比写入1更快？详解缓存的工作机制", "url": "https://www.bilibili.com/video/BV1gu41117bW/"}
+JSON: {"text": "为什么这么多大厂都要求算法能力？", "url": "https://www.bilibili.com/video/BV1TY41187gp/"}
+JSON: {"text": "高通X Elite深度分析：年度最自信CPU", "url": "https://www.bilibili.com/video/BV1jJSzYTEbr/"}
+JSON: {"text": "90分钟！清华博士带你一口气搞懂人工智能和神经网络", "url": "https://www.bilibili.com/video/BV1atCRYsE7x/"}
+JSON: {"text": "刷了1000多道算法题，分享我的心得。希望这个视频能帮助你学习算法、坚持下来", "url": "https://www.bilibili.com/video/BV1Ku411z7VT/"}
+JSON: {"text": "北大未名超算队 高性能计算入门讲座（一）:概论", "url": "https://www.bilibili.com/video/BV1814y1g7YC/"}
+JSON: {"text": "短期内成为一个性能调优高手？——看马士兵老师的JVM性能调优、多线程与高并发训练营就够了！", "url": "https://www.bilibili.com/video/BV1Hr4y1t7i5/"}
+JSON: {"text": "十分钟学会编程的本质【收藏级】", "url": "https://www.bilibili.com/video/BV1AF411s78P/"}
+JSON: {"text": "4分钟搞懂, 算法是什么", "url": "https://www.bilibili.com/video/BV1u34y1Q72h/"}
+JSON: {"text": "什么代码让程序员之神感叹“卧槽”？改变游戏行业的平方根倒数算法", "url": "https://www.bilibili.com/video/BV18j411i7bp/"}
+JSON: {"text": "30分钟零基础程序员（前端）速成，我收藏了", "url": "https://www.bilibili.com/video/BV1ZW42197oE/"}
+JSON: {"text": "15分钟C语言零基础速成课", "url": "https://www.bilibili.com/video/BV1Z94y1h7Gx/"}
+JSON: {"text": "【录播】现代C++中的高性能并行编程与优化（持续更新中）", "url": "https://www.bilibili.com/video/BV1fa411r7zp/"}
+JSON: {"text": "GPU并行计算与CUDA编程", "url": "https://www.bilibili.com/video/BV15Y4y1F7tE/"}
