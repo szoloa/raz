@@ -35,7 +35,7 @@ class vedioSpider:
         # Uncomment below line to run in headless mode
         # chrome_options.add_argument('--headless')
         # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-        self.driver = webdriver.Chrome(service=ChromeService('/usr/bin/chromedriver'), options=chrome_options)
+        self.driver = webdriver.Chrome(service=ChromeService('./chromedriver.exe'), options=chrome_options)
         # driver = webdriver.Chrome(options=chrome_options)
         self.driver.get(self.url)
         # Start scraping

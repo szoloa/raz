@@ -96,6 +96,11 @@ class Custom():
                 'YouTuBe' : 'https://www.youtube.com/results?search_query=%s',
                 'Google' : 'https://www.google.com.hk/search?q=%s',
                 '淘宝' : 'https://ai.taobao.com/search/index.htm?key=%s',
+                '小红书' : 'https://www.xiaohongshu.com/search_result?keyword=%s',
+                '微博' : 'https://s.weibo.com/weibo?q=%s',
+                '知乎' : 'https://www.zhihu.com/search?type=content&q=%s',
+                '百度百科' : 'https://baike.baidu.com/item/%s',
+                'Wikipedia' : 'https://zh.wikipedia.org/wiki/%s',
             }
         
     def handle_theme(self, theme_ipt, obj):
