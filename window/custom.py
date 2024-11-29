@@ -44,8 +44,8 @@ class Custom():
         self.__search_type = 'single'
         self.__search_type_s = 'theme'
 
-        self.__width = 840
-        self.__height = 500
+        self.__width = 640
+        self.__height = 360
 
         fs = open('setting.json', 'a')
         try:
@@ -98,9 +98,12 @@ class Custom():
                 '淘宝' : 'https://ai.taobao.com/search/index.htm?key=%s',
                 '小红书' : 'https://www.xiaohongshu.com/search_result?keyword=%s',
                 '微博' : 'https://s.weibo.com/weibo?q=%s',
+                'Lofter' : 'https://www.lofter.com/front/homesite/search?type=post&q=%s',
                 '知乎' : 'https://www.zhihu.com/search?type=content&q=%s',
                 '百度百科' : 'https://baike.baidu.com/item/%s',
                 'Wikipedia' : 'https://zh.wikipedia.org/wiki/%s',
+                'Riddit' : 'https://www.reddit.com/search/?q=%s', 
+                'E-hentai' : 'https://e-hentai.org/?f_search=%s',
             }
         
     def handle_theme(self, theme_ipt, obj):
