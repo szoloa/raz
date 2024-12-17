@@ -1,7 +1,0 @@
-JSON: {"text": "【究极缝合怪】感受一下，近几年在全球许多地区流行的新运动：Pickleball（匹克球）—— 融合了乒乓球，网球，羽毛球的特点。", "url": "https://www.bilibili.com/video/BV1eT411s7Cr/"}
-JSON: {"text": "3分钟快速了解匹克球运动", "url": "https://www.bilibili.com/video/BV1nH4y1w7s6/"}
-JSON: {"text": "第一次打匹克球，不懂我这能算什么水平？", "url": "https://www.bilibili.com/video/BV1ZAHgeTEqa/"}
-JSON: {"text": "暴力扣杀 吓坏观众", "url": "https://www.bilibili.com/video/BV1mGspe8EwV/"}
-JSON: {"text": "匹克球北美突然爆火，一条视频说清楚背后原因和潜在商机", "url": "https://www.bilibili.com/video/BV1Es421G7YD/"}
-JSON: {"text": "央视报道 火爆全球的匹克球", "url": "https://www.bilibili.com/video/BV1jM4y127in/"}
-JSON: {"text": "火爆全球的“匹克球”来星执了！3分钟带你入门这项潮流运动", "url": "https://www.bilibili.com/video/BV1dK4y1q7PQ/"}

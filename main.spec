@@ -2,7 +2,7 @@
 from PyInstaller.utils.hooks import collect_data_files
 
 datas = []
-datas += collect_data_files('sv_ttk')
+datas += collect_data_files('sv-ttk')
 
 
 a = Analysis(
@@ -39,5 +39,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['logo.png'],
+    icon=['img\\logo.png'],
 )

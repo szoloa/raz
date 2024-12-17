@@ -3,7 +3,7 @@ from .BetaT import BetaT
 from .InputW import inputW
 from .UserItem import UserItem
 from .AppSetting import Appset
-# from .RandomVedioWinows import RandomVedioWinows
+from .RandomVedioWinows import RandomVedioWinows
 import random
 from tkinter import Listbox
 from tkinter import *
@@ -259,7 +259,7 @@ class appliction(tk.Frame):
         root.geometry(f"500x160+{child_x}+{child_y}")
         root.title("深入探索")
         # root_web.iconphoto(True, PhotoImage(file='logo.png'))
-        # RandomVedioWinows(master=root, theme=temp, bro=self) 
+        RandomVedioWinows(master=root, theme=temp, bro=self) 
         self.child_windows.append(root)
 
     def on_closing(self):

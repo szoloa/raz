@@ -31,7 +31,7 @@ class chioce:
 # 作为全局变量
 class Custom():
     def __init__(self) -> None:
-        f = open(r'./data/data.txt', encoding='utf-8')
+        f = open(r'./data/默认.txt', encoding='utf-8')
         self.__theme = [i.replace('\n','').replace('\r','') for i in f.readlines()]
         f.close()
         
