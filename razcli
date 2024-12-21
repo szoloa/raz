@@ -1,0 +1,3 @@
+cd $HOME/temp/raz
+source ../raz-python/bin/activate
+python razcli.py

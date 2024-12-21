@@ -44,13 +44,8 @@ class Custom():
         self.__search_type = 'single'
         self.__search_type_s = 'theme'
 
-<<<<<<< Updated upstream
         self.__width = 640
         self.__height = 360
-=======
-        self.__width = 1000
-        self.__height = 640
->>>>>>> Stashed changes
 
         fs = open('setting.json', 'a')
         try:
