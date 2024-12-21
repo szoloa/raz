@@ -1,0 +1,1184 @@
+JSON: {"text": "//深夜循环// “看惯了世间的罗生门 变得好像陌生人” 《罗生门》(无损音质) 每日推歌 带上耳机进入深夜Emo单曲循环时刻", "url": "https://www.bilibili.com/video/BV1S94y1A7Ce/"}
+JSON: {"text": "【时长6小时31分】值得你单曲循环的100首宝藏热歌合集（戴上耳机 ♪ 原地起飞）", "url": "https://www.bilibili.com/video/BV1fS4y1P7uM/"}
+JSON: {"text": "【单曲循环】“你喜欢海风咸咸的气息……”‖《海底》", "url": "https://www.bilibili.com/video/BV1ZC4y1j78m/"}
+JSON: {"text": "【单曲循环】“音乐一响  be感瞬间拉满”‖周深《若梦》", "url": "https://www.bilibili.com/video/BV1vc411Q7RT/"}
+JSON: {"text": "循环日推丨“我想，生命这卷书，落款应是亭亭长青树.”《我的纸飞机（治愈版））》无损音质", "url": "https://www.bilibili.com/video/BV1P34y1F7Ly/"}
+JSON: {"text": "【单循推荐】《Duvet》“人为什么不能循环待在自己喜欢的时间里”（无损音质）", "url": "https://www.bilibili.com/video/BV1Pz4y1j7N7/"}
+JSON: {"text": "【单曲循环】“不过是上山的人 怎么嘲笑下山的神”‖《半山腰》", "url": "https://www.bilibili.com/video/BV1Le411X7mc/"}
+JSON: {"text": "【单循推荐】《悬溺》“悬溺一响，纯爱登场”（无损音质）", "url": "https://www.bilibili.com/video/BV1nh4y1Y7gr/"}
+JSON: {"text": "【时长6小时36分】值得你单曲循环的100首宝藏热歌合集！可后台播放", "url": "https://www.bilibili.com/video/BV1sw411971F/"}
+JSON: {"text": "循环日推丨“你终将会尽情绽放，甚至成为他人的一束光。”《玫瑰少年（小提琴版）》无损音质", "url": "https://www.bilibili.com/video/BV13G411C7KV/"}
+JSON: {"text": "【单曲循环】“滚烫的青春不需要用恋爱来证明”‖超燃英文歌《Catch My Breath》", "url": "https://www.bilibili.com/video/BV1pM411f7mg/"}
+JSON: {"text": "【单曲循环】“Senbonzakura听完我燃起来了”", "url": "https://www.bilibili.com/video/BV19G411e7aT/"}
+JSON: {"text": "【电音循环】《All My People》“领域展开，坐杀搏徒”（无损音质）", "url": "https://www.bilibili.com/video/BV1oc411U7N8/"}
+JSON: {"text": "【单循推荐】《新地球》“这歌发布的时候都觉得太超前了，现在才听得懂”（无损音质）", "url": "https://www.bilibili.com/video/BV1jh4y1K78Z/"}
+JSON: {"text": "【推荐循环】《危险派对》“你的光芒闪耀像是gold，逐渐入侵了我眼眸”（无损音质）", "url": "https://www.bilibili.com/video/BV1kw411h7mf/"}
+JSON: {"text": "【单循推荐】《年轮》“可惜你从未心疼，我的笨”（无损音质）", "url": "https://www.bilibili.com/video/BV1zF41117Fp/"}
+JSON: {"text": "【单曲循环】“与其坐以待毙   不如放手一搏”", "url": "https://www.bilibili.com/video/BV1sQ4y1u7ge/"}
+JSON: {"text": "【推荐循环】《晚风》“一个人漫无目的，迷失在晚风里”（无损音质）", "url": "https://www.bilibili.com/video/BV1rc411q7Gz/"}
+JSON: {"text": "英文推歌 || 《Try》是一首超励志的歌，世界上没有一个女生会拒绝的旋律！！！", "url": "https://www.bilibili.com/video/BV11V4y1H7ag/"}
+JSON: {"text": "【单循推荐】《大雨还在下》“大雨还在下，我的心里好害怕”（无损音质）", "url": "https://www.bilibili.com/video/BV1M84y1Q78K/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首中文歌曲合集，值得你单曲循环的100首经典音乐合集！开车/作业/运动", "url": "https://www.bilibili.com/video/BV1Dd4y1U7AE/"}
+JSON: {"text": "【单循推荐】《把回忆拼好给你》“你对我说的情话，像转瞬即逝的烟花”（无损音质）", "url": "https://www.bilibili.com/video/BV1Xh4y1A7Rz/"}
+JSON: {"text": "【单循推荐】《折风渡夜》“我折一缕清风渡落雪的夜 ，深白脚印徘徊谁家房檐”（无损音质）", "url": "https://www.bilibili.com/video/BV1hH4y167JW/"}
+JSON: {"text": "【单循推荐】《秋殇别恋》“思念被拒之门外，你给的爱太苍白”（无损音质）", "url": "https://www.bilibili.com/video/BV1YV411w7KM/"}
+JSON: {"text": "【单循推荐】《Void》“我这一生如履薄冰,你说我能走到对岸吗”（无损音质）", "url": "https://www.bilibili.com/video/BV1nc411d7N1/"}
+JSON: {"text": "循环日推丨“个人感觉，这首歌应该是近几年的emo天花板吧？”《断线》无损音质", "url": "https://www.bilibili.com/video/BV1BH4y167Fm/"}
+JSON: {"text": "循环歌单|“你就是我的唯一”|《Heaven》--Ailee", "url": "https://www.bilibili.com/video/BV1Qu4y1L7tD/"}
+JSON: {"text": "【单循推荐】《寂寞烟火》“我曾经走过多遥远的路，跨越过多少海洋去看你”（无损音质）", "url": "https://www.bilibili.com/video/BV1x94y1b7vw/"}
+JSON: {"text": "只要听10秒，保证你爱上这首歌《7 Years》", "url": "https://www.bilibili.com/video/BV1Na411J7Jh/"}
+JSON: {"text": "【单曲循环】“我听闻你始终一个人”‖emo歌曲《烟花易冷0.8x》", "url": "https://www.bilibili.com/video/BV1cu4y1h7yW/"}
+JSON: {"text": "循环日推丨“我从未如此相信，如此确定，谁会是我的宿命，直到你降临.”《直到你降临》无损音质", "url": "https://www.bilibili.com/video/BV1WN411V7N6/"}
+JSON: {"text": "【单曲循环】“当年喊麦神曲”‖《起伏压声0.9x》", "url": "https://www.bilibili.com/video/BV1JH4y117Dg/"}
+JSON: {"text": "顶级烟嗓男音合集，句句唱出了男人心声！每一首歌都是你深夜的单曲循环！", "url": "https://www.bilibili.com/video/BV1fo4y1c74x/"}
+JSON: {"text": "循环日推丨“制止不了就放任，这欲望与绝望之争。”《悬溺》无损音质", "url": "https://www.bilibili.com/video/BV12p4y1773D/"}
+JSON: {"text": "【单曲循环】“我站在雾里分不清你是谁”‖《雾里》", "url": "https://www.bilibili.com/video/BV1du4y1L7gP/"}
+JSON: {"text": "【单曲循环】极致电音神曲《洪荒之力（NGẪU HỨNG）》", "url": "https://www.bilibili.com/video/BV12e411B78j/"}
+JSON: {"text": "【单循推荐】《凄美地》“让我坠落，在这凄美地”（无损音质）", "url": "https://www.bilibili.com/video/BV1Z8411q75w/"}
+JSON: {"text": "【单循推荐】《江湖之间》“逃不过相忘江湖之间，忘不了惊鸿一眼”（无损音质）", "url": "https://www.bilibili.com/video/BV1y84y1d7f3/"}
+JSON: {"text": "循环日推丨“铭记你，好几百年。”《心许百年》无损音质", "url": "https://www.bilibili.com/video/BV1kp4y1E7TB/"}
+JSON: {"text": "【单循推荐】《BABYDOLL》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1Me411d7Rt/"}
+JSON: {"text": "//深夜循环// “你想要的是现在 而不是那遥远的未来” 《哪里都是你》- 队长 每日推歌 带上耳机进入深夜Emo单曲循环时刻", "url": "https://www.bilibili.com/video/BV1u64y1W7Vt/"}
+JSON: {"text": "【单循推荐】《我记得》“希望你不要只在听歌的时候才理解妈妈”（无损音质）", "url": "https://www.bilibili.com/video/BV14u4y1L7bW/"}
+JSON: {"text": "循环日推丨“制止不了就放任，这欲望与绝望之争。”《悬溺》无损音质", "url": "https://www.bilibili.com/video/BV12p4y1773D/"}
+JSON: {"text": "循环日推丨“你终将会尽情绽放，甚至成为他人的一束光。”《玫瑰少年（小提琴版）》无损音质", "url": "https://www.bilibili.com/video/BV13G411C7KV/"}
+JSON: {"text": "//深夜循环// “你想要的是现在 而不是那遥远的未来” 《哪里都是你》- 队长 每日推歌 带上耳机进入深夜Emo单曲循环时刻", "url": "https://www.bilibili.com/video/BV1u64y1W7Vt/"}
+JSON: {"text": "【单曲循环】极致电音神曲《洪荒之力（NGẪU HỨNG）》", "url": "https://www.bilibili.com/video/BV12e411B78j/"}
+JSON: {"text": "【推荐循环】《危险派对》“你的光芒闪耀像是gold，逐渐入侵了我眼眸”（无损音质）", "url": "https://www.bilibili.com/video/BV1kw411h7mf/"}
+JSON: {"text": "【单循推荐】《把回忆拼好给你》“你对我说的情话，像转瞬即逝的烟花”（无损音质）", "url": "https://www.bilibili.com/video/BV1Xh4y1A7Rz/"}
+JSON: {"text": "【emo循环】《Letting Go》“我终于舍得为你放开手，因为爱你爱到我心痛”（无损音质）", "url": "https://www.bilibili.com/video/BV1q64y1j7qm/"}
+JSON: {"text": "【单循推荐】《Lose Control》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV16z4y1P7x8/"}
+JSON: {"text": "【纯音循环】《Are You Lost》“全网超火纯音乐”（无损音质）", "url": "https://www.bilibili.com/video/BV1ic411i7dr/"}
+JSON: {"text": "【单循推荐】《Void》“我这一生如履薄冰,你说我能走到对岸吗”（无损音质）", "url": "https://www.bilibili.com/video/BV1nc411d7N1/"}
+JSON: {"text": "【无损音质 高音质歌单】精选100首2023年超好听的中文歌曲合集 值得你单曲循环的经典音乐合集！", "url": "https://www.bilibili.com/video/BV17V4y1k7oB/"}
+JSON: {"text": "【单曲循环】“我听闻你始终一个人”‖emo歌曲《烟花易冷0.8x》", "url": "https://www.bilibili.com/video/BV1cu4y1h7yW/"}
+JSON: {"text": "【单循推荐】《【FREE】lucky》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1hC4y1U7qV/"}
+JSON: {"text": "【单循推荐】《BABYDOLL》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1Me411d7Rt/"}
+JSON: {"text": "【单曲循环】“南风知我意，吹梦到西洲”", "url": "https://www.bilibili.com/video/BV1S94y1773m/"}
+JSON: {"text": "【时长7小时】高质量歌单 网易云评论过10W+的歌曲合集 值得收藏 单曲循环中.....", "url": "https://www.bilibili.com/video/BV1Kg4y1J7BR/"}
+JSON: {"text": "【单曲循环】“这首歌承载了我们太多的回忆”", "url": "https://www.bilibili.com/video/BV1tN4y1a7ZQ/"}
+JSON: {"text": "【推荐循环】《shots》“全网超火氛围感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1JN4y147Zq/"}
+JSON: {"text": "【单循推荐】《罗生门》“我们看惯了世间的罗生门，变得好像陌生人”（无损音质）", "url": "https://www.bilibili.com/video/BV16j411Y7Ls/"}
+JSON: {"text": "【单循推荐】《Melody》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV17j41147ge/"}
+JSON: {"text": "【单循推荐】《我记得》“希望你不要只在听歌的时候才理解妈妈”（无损音质）", "url": "https://www.bilibili.com/video/BV14u4y1L7bW/"}
+JSON: {"text": "【单循推荐】《凄美地》“让我坠落，在这凄美地”（无损音质）", "url": "https://www.bilibili.com/video/BV1Z8411q75w/"}
+JSON: {"text": "值得你单曲循环的100首宝藏热歌合集！每一首都是经典之作！可后台播放", "url": "https://www.bilibili.com/video/BV1NY4y197ut/"}
+JSON: {"text": "【单循推荐】《The Nights》“总有一天你将会离开这个世界，所以活出一个值得你铭记的人生”（无损音质）", "url": "https://www.bilibili.com/video/BV1Tu4y1y7t6/"}
+JSON: {"text": "【单循推荐】《寂寞烟火》“我曾经走过多遥远的路，跨越过多少海洋去看你”（无损音质）", "url": "https://www.bilibili.com/video/BV1x94y1b7vw/"}
+JSON: {"text": "【单曲循环】“据说真的有神是一个孤家寡人”", "url": "https://www.bilibili.com/video/BV1TN4y127Jb/"}
+JSON: {"text": "【单曲循环】“30年前，50年后”‖《精卫》", "url": "https://www.bilibili.com/video/BV1r94y1H7za/"}
+JSON: {"text": "【单循推荐】《天若有情》“天若有情亦无情，爱到最后要分离”（无损音质）", "url": "https://www.bilibili.com/video/BV1gN411H793/"}
+JSON: {"text": "【单循推荐】《Apex》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV12j411E77h/"}
+JSON: {"text": "【单循推荐】《新地球》“这歌发布的时候都觉得太超前了，现在才听得懂”（无损音质）", "url": "https://www.bilibili.com/video/BV1jh4y1K78Z/"}
+JSON: {"text": "【单曲循环】“到底是什么样的结局  才配的上这一路的颠沛流离”", "url": "https://www.bilibili.com/video/BV1s94y1c7yn/"}
+JSON: {"text": "【单曲循环】“台下看官攒动只为睹佳人惊鸿”‖《难却DJ》0.9x", "url": "https://www.bilibili.com/video/BV1xC4y1n7pe/"}
+JSON: {"text": "【单曲循环】“或许我们都擅长伪装”‖《好想爱这个世界啊》", "url": "https://www.bilibili.com/video/BV1Ke411o7LB/"}
+JSON: {"text": "【emo循环】《哪里都是你》“换不同的场景 但哪里都是你”（无损音质）", "url": "https://www.bilibili.com/video/BV1sb4y1L7cm/"}
+JSON: {"text": "【单曲循环】“当年喊麦神曲”‖《起伏压声0.9x》", "url": "https://www.bilibili.com/video/BV1JH4y117Dg/"}
+JSON: {"text": "循环日推丨“个人感觉，这首歌应该是近几年的emo天花板吧？”《断线》无损音质", "url": "https://www.bilibili.com/video/BV1BH4y167Fm/"}
+JSON: {"text": "【emo循环】《红色高跟鞋》“你像窝在被子里的舒服，却又像风捉摸不住”（无损音质）", "url": "https://www.bilibili.com/video/BV1Qe411k7SK/"}
+JSON: {"text": "【单曲循环】“你最擅长的不就是逆风翻盘不是吗”‖《Stronger》", "url": "https://www.bilibili.com/video/BV1994y177YK/"}
+JSON: {"text": "循环歌单|“值得单曲循环的宝藏音乐”|《Shots》", "url": "https://www.bilibili.com/video/BV1Zh4y167JL/"}
+JSON: {"text": "【单曲循环】“喝醉后的梦里我往前你退后”", "url": "https://www.bilibili.com/video/BV1Ya4y1d7oS/"}
+JSON: {"text": "【单循推荐】《囍》“你猜她怎么笑着哭来着，哭来着”（无损音质）", "url": "https://www.bilibili.com/video/BV1qz4y1G7VS/"}
+JSON: {"text": "【单循推荐】《下个路口见》“秒针转动滴滴答，小小时差滴滴答，我早茶月光洒在你头发”（无损音质）", "url": "https://www.bilibili.com/video/BV1BP41187v4/"}
+JSON: {"text": "【单曲循环】“这首歌承载了我们太多的回忆”", "url": "https://www.bilibili.com/video/BV1tN4y1a7ZQ/"}
+JSON: {"text": "【单循推荐】《Lemon》“时至今日,你仍是我的光芒”（无损音质）", "url": "https://www.bilibili.com/video/BV1kN411u74L/"}
+JSON: {"text": "【无损音质 高音质歌单】精选100首2023年超好听的中文歌曲合集 值得你单曲循环的经典音乐合集！", "url": "https://www.bilibili.com/video/BV17V4y1k7oB/"}
+JSON: {"text": "【单曲循环】“我站在雾里分不清你是谁”‖《雾里》", "url": "https://www.bilibili.com/video/BV1du4y1L7gP/"}
+JSON: {"text": "【时长7小时】高质量歌单 网易云评论过10W+的歌曲合集 值得收藏 单曲循环中.....", "url": "https://www.bilibili.com/video/BV1Kg4y1J7BR/"}
+JSON: {"text": "循环日推丨“铭记你，好几百年。”《心许百年》无损音质", "url": "https://www.bilibili.com/video/BV1kp4y1E7TB/"}
+JSON: {"text": "【单循推荐】《Melody》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV17j41147ge/"}
+JSON: {"text": "【单循推荐】《Apex》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV12j411E77h/"}
+JSON: {"text": "【推荐循环】《句号》“可惜我们终于来到，一个句号”（无损音质）", "url": "https://www.bilibili.com/video/BV1gQ4y1g7im/"}
+JSON: {"text": "【单曲循环】“据说真的有神是一个孤家寡人”", "url": "https://www.bilibili.com/video/BV1TN4y127Jb/"}
+JSON: {"text": "(加长版)Playlist歌单|这种疯狂的感觉 在午夜更加剧烈|适合暧昧/缠绵/办事/夜晚...", "url": "https://www.bilibili.com/video/BV1kH4y1Q7b4/"}
+JSON: {"text": "【纯音循环】《My Soul》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1bQ4y1g7We/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐！值得你单曲循环的100首纯音乐合集！适合自习看书的轻音乐！", "url": "https://www.bilibili.com/video/BV1AA4y1d7Gq/"}
+JSON: {"text": "【单循推荐】《新地球》“这歌发布的时候都觉得太超前了，现在才听得懂”（无损音质）", "url": "https://www.bilibili.com/video/BV1jh4y1K78Z/"}
+JSON: {"text": "【单曲循环】“或许我们都擅长伪装”‖《好想爱这个世界啊》", "url": "https://www.bilibili.com/video/BV1Ke411o7LB/"}
+JSON: {"text": "值得你单曲循环的100首宝藏热歌合集！每一首都是经典之作！可后台播放", "url": "https://www.bilibili.com/video/BV1NY4y197ut/"}
+JSON: {"text": "循环日推丨“我们看惯了世间的罗生门，变得好像陌生人.”《罗生门》无损音质", "url": "https://www.bilibili.com/video/BV1kz4y1P7jU/"}
+JSON: {"text": "【单循推荐】《Light Particle》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1Mp4y1u76y/"}
+JSON: {"text": "《在你的身边》（单曲循环）", "url": "https://www.bilibili.com/video/BV1tu4y1w7VD/"}
+JSON: {"text": "【单循推荐】《人间惊鸿宴》“远赴人间惊鸿宴,一睹人间盛世颜”（无损音质）", "url": "https://www.bilibili.com/video/BV1yz4y1N7qr/"}
+JSON: {"text": "【单曲循环】“你在身边  在你身边”‖emo神曲《在你的身边0.8x》", "url": "https://www.bilibili.com/video/BV1Eu4y1h7Lx/"}
+JSON: {"text": "【emo循环】《Letting Go》“我终于舍得为你放开手，因为爱你爱到我心痛”（无损音质）", "url": "https://www.bilibili.com/video/BV1q64y1j7qm/"}
+JSON: {"text": "循环日推丨“制止不了就放任，这欲望与绝望之争。”《悬溺》无损音质", "url": "https://www.bilibili.com/video/BV12p4y1773D/"}
+JSON: {"text": "【emo循环】《红色高跟鞋》“你像窝在被子里的舒服，却又像风捉摸不住”（无损音质）", "url": "https://www.bilibili.com/video/BV1Qe411k7SK/"}
+JSON: {"text": "【单曲循环】“南风知我意，吹梦到西洲”", "url": "https://www.bilibili.com/video/BV1S94y1773m/"}
+JSON: {"text": "【单曲循环】“当眼神开始放逐 冷漠略显无辜”‖《清空0.8x》", "url": "https://www.bilibili.com/video/BV18u4y1A7uN/"}
+JSON: {"text": "【单循推荐】《Time to Pretend》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1wC4y1d7kY/"}
+JSON: {"text": "【单曲循环】“当年喊麦神曲”‖《起伏压声0.9x》", "url": "https://www.bilibili.com/video/BV1JH4y117Dg/"}
+JSON: {"text": "英文推歌 || 《Try》是一首超励志的歌，世界上没有一个女生会拒绝的旋律！！！", "url": "https://www.bilibili.com/video/BV11V4y1H7ag/"}
+JSON: {"text": "【高质量韩语歌曲】值得你单曲循环一天的韩语歌曲", "url": "https://www.bilibili.com/video/BV1KY41117gj/"}
+JSON: {"text": "《Down》| 依然是我最喜欢的英文歌，不开心的时候一直单曲循环的歌", "url": "https://www.bilibili.com/video/BV1CS4y127yH/"}
+JSON: {"text": "【单循推荐】【高启强专属】《听》“风浪越大，__________”（无损音质）", "url": "https://www.bilibili.com/video/BV1kN411W7us/"}
+JSON: {"text": "【单曲循环】“撕碎心动的愉快，悲伤装进我口袋 爱与被爱 命运教人释怀”‖《毒药》", "url": "https://www.bilibili.com/video/BV1vP411h7yA/"}
+JSON: {"text": "【单曲循环】“你最擅长的不就是逆风翻盘不是吗”‖《Stronger》", "url": "https://www.bilibili.com/video/BV1994y177YK/"}
+JSON: {"text": "【高质量网易云评论过十万歌曲】值得你单曲循环一天的网易云评论过十万歌曲", "url": "https://www.bilibili.com/video/BV1kT411k7Li/"}
+JSON: {"text": "(加长版)Playlist歌单|这种疯狂的感觉 在午夜更加剧烈|适合暧昧/缠绵/办事/夜晚...", "url": "https://www.bilibili.com/video/BV1kH4y1Q7b4/"}
+JSON: {"text": "循环日推丨“平行的画Didida，几时交叉Didida，下个路口再见吧。”《下个，路口，见》无损音质", "url": "https://www.bilibili.com/video/BV1xm4y1u7QF/"}
+JSON: {"text": "“留不住的东西，用脚踹远点”《If We Ever Broke Up》", "url": "https://www.bilibili.com/video/BV1oh4y1d7BK/"}
+JSON: {"text": "【时长3小时】值得单曲循环百首宝藏音乐合集，全是经典外语歌，专业调音佩戴耳机！", "url": "https://www.bilibili.com/video/BV16N411J7VJ/"}
+JSON: {"text": "终于找到这首《We Are Young》单曲循环了一整天，真的很好听", "url": "https://www.bilibili.com/video/BV1kz4y137qi/"}
+JSON: {"text": "【单曲循环】“听phonk,拒绝emo”", "url": "https://www.bilibili.com/video/BV1hQ4y137hE/"}
+JSON: {"text": "【单循推荐】《下个路口见》“秒针转动滴滴答，小小时差滴滴答，我早茶月光洒在你头发”（无损音质）", "url": "https://www.bilibili.com/video/BV1BP41187v4/"}
+JSON: {"text": "【单曲循环】“落叶两片三片 片片想念”‖《秋殇别恋》", "url": "https://www.bilibili.com/video/BV1Zb4y1N7r2/"}
+JSON: {"text": "【单循推荐】《Lemon》“时至今日,你仍是我的光芒”（无损音质）", "url": "https://www.bilibili.com/video/BV1kN411u74L/"}
+JSON: {"text": "循环日推丨“我从未如此相信，如此确定，谁会是我的宿命，直到你降临.”《直到你降临》无损音质", "url": "https://www.bilibili.com/video/BV1WN411V7N6/"}
+JSON: {"text": "循环日推丨“在这之前别说再见，我已再经不起离别。”《凄美地》无损音质", "url": "https://www.bilibili.com/video/BV1Uh4y1e7jr/"}
+JSON: {"text": "【2023精选热歌榜音乐合集】网易云热评10W+值得你单曲循环的100首中文歌曲合集", "url": "https://www.bilibili.com/video/BV18T411a71B/"}
+JSON: {"text": "【纯音循环】《My Soul》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1bQ4y1g7We/"}
+JSON: {"text": "《In The Shadow Of The Sun》| 这歌有种涅槃重生直冲云霄的感觉。", "url": "https://www.bilibili.com/video/BV1MR4y1P7T3/"}
+JSON: {"text": "【时长7小时】高质量歌单 网易云评论过10W+的歌曲合集 值得收藏 单曲循环中.....", "url": "https://www.bilibili.com/video/BV1Kg4y1J7BR/"}
+JSON: {"text": "【单循推荐】《囍》“你猜她怎么笑着哭来着，哭来着”（无损音质）", "url": "https://www.bilibili.com/video/BV1qz4y1G7VS/"}
+JSON: {"text": "【单循推荐】《Apex》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV12j411E77h/"}
+JSON: {"text": "“好久没听到这么能拿捏住心的歌了~”—《Call of Silence》", "url": "https://www.bilibili.com/video/BV1Qz4y1N7mk/"}
+JSON: {"text": "【单循推荐】《大眠》“都快忘了怎样恋一个爱，我被虚度了的青春，也许还能活过来”（无损音质）", "url": "https://www.bilibili.com/video/BV1zQ4y1t7fw/"}
+JSON: {"text": "值得你单曲循环的100首宝藏热歌合集！每一首都是经典之作！可后台播放", "url": "https://www.bilibili.com/video/BV1NY4y197ut/"}
+JSON: {"text": "只要听10秒，保证你爱上这首歌《7 Years》", "url": "https://www.bilibili.com/video/BV1Na411J7Jh/"}
+JSON: {"text": "【全网最好听的50首热歌】值得单曲循环一整天！哪一首歌勾勒出你的回忆了呢！！！", "url": "https://www.bilibili.com/video/BV1uz4y1T7Zu/"}
+JSON: {"text": "“好听的歌都嫌太短，只好单曲循环。”《出现又离开》— 梁博", "url": "https://www.bilibili.com/video/BV1Ss4y1d7F3/"}
+JSON: {"text": "循环日推丨“铭记你，好几百年。”《心许百年》无损音质", "url": "https://www.bilibili.com/video/BV1kp4y1E7TB/"}
+JSON: {"text": "【单曲循环】“压迫感又强烈起来了”", "url": "https://www.bilibili.com/video/BV1AN4y1h7m9/"}
+JSON: {"text": "【时长6小时 适合开长途车听】超好听的100首中文流行歌曲，值得你单曲循环的宝藏歌单！支持后台播放！", "url": "https://www.bilibili.com/video/BV17o4y1K7m1/"}
+JSON: {"text": "【时长3小时】世界上最好听的50粤语歌曲，值得你单曲循环的50首经典粤语歌曲合集！", "url": "https://www.bilibili.com/video/BV1tv4y127ZC/"}
+JSON: {"text": "【单曲循环】“或许我们都擅长伪装”‖《好想爱这个世界啊》", "url": "https://www.bilibili.com/video/BV1Ke411o7LB/"}
+JSON: {"text": "【单曲循环】“恍然之间已是春去秋来”‖《赐我DJ》", "url": "https://www.bilibili.com/video/BV1FQ4y1h7ZQ/"}
+JSON: {"text": "【时长12小时】世界上最好听的200首纯音乐！值得你单曲循环的轻音乐合集！看书/自习/睡眠", "url": "https://www.bilibili.com/video/BV1pV4y1U7RF/"}
+JSON: {"text": "【单曲循环】压迫感超强的英文歌曲‖纯音乐《RAVE》", "url": "https://www.bilibili.com/video/BV1iw411n76U/"}
+JSON: {"text": "【单循推荐】《Time to Pretend》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1wC4y1d7kY/"}
+JSON: {"text": "【单曲循环】“我只是太想要份爱”‖《精卫》", "url": "https://www.bilibili.com/video/BV14j41177jB/"}
+JSON: {"text": "《Down》| 依然是我最喜欢的英文歌，不开心的时候一直单曲循环的歌", "url": "https://www.bilibili.com/video/BV1CS4y127yH/"}
+JSON: {"text": "【全网最好听的50首2023热歌】首首精选，值得单曲循环 2023流行音乐 经典歌曲合集", "url": "https://www.bilibili.com/video/BV1p24y1j7hL/"}
+JSON: {"text": "【单曲循环】“当眼神开始放逐 冷漠略显无辜”‖《清空0.8x》", "url": "https://www.bilibili.com/video/BV18u4y1A7uN/"}
+JSON: {"text": "【单曲循环】“泥泞开出花朵  就让它生长着”", "url": "https://www.bilibili.com/video/BV1Tw411G7Ks/"}
+JSON: {"text": "【单曲循环】“到底是什么样的结局  才配的上这一路的颠沛流离”", "url": "https://www.bilibili.com/video/BV1s94y1c7yn/"}
+JSON: {"text": "《In The Shadow Of The Sun》| 这歌有种涅槃重生直冲云霄的感觉。", "url": "https://www.bilibili.com/video/BV1MR4y1P7T3/"}
+JSON: {"text": "【戴上耳机 ♪ 原地起飞】值得你单曲循环的100首宝藏热歌合集！开车/作业/运动/必备！", "url": "https://www.bilibili.com/video/BV1VY411p7PJ/"}
+JSON: {"text": "【推荐循环】《shots》“全网超火氛围感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1JN4y147Zq/"}
+JSON: {"text": "【单曲循环】“听phonk,拒绝emo”", "url": "https://www.bilibili.com/video/BV1hQ4y137hE/"}
+JSON: {"text": "【单循推荐】《Apex》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV12j411E77h/"}
+JSON: {"text": "【时长7小时】高质量歌单 网易云评论过10W+的歌曲合集 值得收藏 单曲循环中.....", "url": "https://www.bilibili.com/video/BV1Kg4y1J7BR/"}
+JSON: {"text": "【单曲循环】“我已再经不起离别”‖《凄美地》", "url": "https://www.bilibili.com/video/BV178411k7ue/"}
+JSON: {"text": "“好听的歌都嫌太短，只好单曲循环。”《出现又离开》— 梁博", "url": "https://www.bilibili.com/video/BV1Ss4y1d7F3/"}
+JSON: {"text": "只要听10秒，保证你爱上这首歌《7 Years》", "url": "https://www.bilibili.com/video/BV1Na411J7Jh/"}
+JSON: {"text": "值得你单曲循环的100首宝藏热歌合集！每一首都是经典之作！可后台播放", "url": "https://www.bilibili.com/video/BV1NY4y197ut/"}
+JSON: {"text": "【单循推荐】《大眠》“都快忘了怎样恋一个爱，我被虚度了的青春，也许还能活过来”（无损音质）", "url": "https://www.bilibili.com/video/BV1zQ4y1t7fw/"}
+JSON: {"text": "“好久没听到这么能拿捏住心的歌了~”—《Call of Silence》", "url": "https://www.bilibili.com/video/BV1Qz4y1N7mk/"}
+JSON: {"text": "【时长6小时 适合开长途车听】超好听的100首中文流行歌曲，值得你单曲循环的宝藏歌单！支持后台播放！", "url": "https://www.bilibili.com/video/BV17o4y1K7m1/"}
+JSON: {"text": "Playlist歌单|飘飘欲仙 大概就是和你翻云覆雨时的感觉|适合暧昧/缠绵/办事/夜晚...", "url": "https://www.bilibili.com/video/BV1kH4y1Q7i2/"}
+JSON: {"text": "【单曲循环】“压迫感又强烈起来了”", "url": "https://www.bilibili.com/video/BV1AN4y1h7m9/"}
+JSON: {"text": "【单曲循环】压迫感超强的英文歌曲‖纯音乐《RAVE》", "url": "https://www.bilibili.com/video/BV1iw411n76U/"}
+JSON: {"text": "【单曲循环】“或许我们都擅长伪装”‖《好想爱这个世界啊》", "url": "https://www.bilibili.com/video/BV1Ke411o7LB/"}
+JSON: {"text": "【单曲循环】“我只是太想要份爱”‖《精卫》", "url": "https://www.bilibili.com/video/BV14j41177jB/"}
+JSON: {"text": "阿里郎的《再次爱上你》第一次就上头，单曲循环无数，治愈！！", "url": "https://www.bilibili.com/video/BV1P34y147CX/"}
+JSON: {"text": "有些歌听到前奏就喜欢《Please Don't Go》有些人看上第一眼就喜欢", "url": "https://www.bilibili.com/video/BV1NV4y1j7of/"}
+JSON: {"text": "《高质量夜店酒吧DJ》舞曲串烧，全网笫一DJ神曲。单曲循环不停.", "url": "https://www.bilibili.com/video/BV1m84y1K7Na/"}
+JSON: {"text": "【单曲循环】“泥泞开出花朵  就让它生长着”", "url": "https://www.bilibili.com/video/BV1Tw411G7Ks/"}
+JSON: {"text": "每一首都值得无限单曲循环的粤语歌合集 现场版", "url": "https://www.bilibili.com/video/BV1z7411C7C4/"}
+JSON: {"text": "最近火起来的这首《故事还长》完整版，太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1id4y1v7EN/"}
+JSON: {"text": "【单曲循环】“台下看官攒动只为睹佳人惊鸿”‖《难却DJ》0.9x", "url": "https://www.bilibili.com/video/BV1xC4y1n7pe/"}
+JSON: {"text": "《Just Give Me a Reason》| 记忆中的旋律就这样偶然的被我找到了。", "url": "https://www.bilibili.com/video/BV1FY411N7qE/"}
+JSON: {"text": "【高音质 值得单曲循环播放的100首中文歌曲合集】分P单曲播放 带歌词！", "url": "https://www.bilibili.com/video/BV1xN411A7LS/"}
+JSON: {"text": "适合学习冥想放松的超级惊艳的中国古典音乐。单曲循环，由笛子、古筝等传统乐器演奏的纯音乐。意境绝美！", "url": "https://www.bilibili.com/video/BV1EX4y1M7c8/"}
+JSON: {"text": "那个让你不顾一切的人！《Bleeding Love》", "url": "https://www.bilibili.com/video/BV1mA4y1f74x/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首中文歌曲合集，100首经典音乐合集！开车作业运动", "url": "https://www.bilibili.com/video/BV1XA411f7qi/"}
+JSON: {"text": "“太燃啦！”—《I Want You to Know》", "url": "https://www.bilibili.com/video/BV1oG411o7kZ/"}
+JSON: {"text": "循环日推丨“很难想象，我听这歌能睡着。”《Move Your Body》无损音质", "url": "https://www.bilibili.com/video/BV1T94y1j72e/"}
+JSON: {"text": "第一次听就好上头《Like 1999》，好喜欢", "url": "https://www.bilibili.com/video/BV1CU4y1277K/"}
+JSON: {"text": "【单循推荐】【高启强专属】《听》“风浪越大，__________”（无损音质）", "url": "https://www.bilibili.com/video/BV1kN411W7us/"}
+JSON: {"text": "【单曲循环】“当眼神开始放逐 冷漠略显无辜”‖《清空0.8x》", "url": "https://www.bilibili.com/video/BV18u4y1A7uN/"}
+JSON: {"text": "【单曲循环】“泥泞开出花朵  就让它生长着”", "url": "https://www.bilibili.com/video/BV1Tw411G7Ks/"}
+JSON: {"text": "《Just Give Me a Reason》| 记忆中的旋律就这样偶然的被我找到了。", "url": "https://www.bilibili.com/video/BV1FY411N7qE/"}
+JSON: {"text": "【高音质 值得单曲循环播放的100首中文歌曲合集】分P单曲播放 带歌词！", "url": "https://www.bilibili.com/video/BV1xN411A7LS/"}
+JSON: {"text": "【单曲循环】“恍然之间已是春去秋来”‖《赐我DJ》", "url": "https://www.bilibili.com/video/BV1FQ4y1h7ZQ/"}
+JSON: {"text": "【高质量韩语歌曲】值得你单曲循环一天的韩语歌曲", "url": "https://www.bilibili.com/video/BV1KY41117gj/"}
+JSON: {"text": "【单曲循环】“我只是太想要份爱”‖《精卫》", "url": "https://www.bilibili.com/video/BV14j41177jB/"}
+JSON: {"text": "【电音循环】《GIMME(Version)》“天气凉了，听首硬曲，暖暖身子”（无损音质）", "url": "https://www.bilibili.com/video/BV1Zg4y1Z7Ks/"}
+JSON: {"text": "那个让你不顾一切的人！《Bleeding Love》", "url": "https://www.bilibili.com/video/BV1mA4y1f74x/"}
+JSON: {"text": "《在你的身边》（单曲循环）", "url": "https://www.bilibili.com/video/BV1tu4y1w7VD/"}
+JSON: {"text": "打破幻想的一首歌《童话镇》小时候觉得童话很美好，长大了才知道童话都是骗人的", "url": "https://www.bilibili.com/video/BV1i64y1k79e/"}
+JSON: {"text": "【单曲循环】“你在身边  在你身边”‖emo神曲《在你的身边0.8x》", "url": "https://www.bilibili.com/video/BV1Eu4y1h7Lx/"}
+JSON: {"text": "第一次听就好上头《Like 1999》，好喜欢", "url": "https://www.bilibili.com/video/BV1CU4y1277K/"}
+JSON: {"text": "【单循推荐】《Light Particle》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1Mp4y1u76y/"}
+JSON: {"text": "【无损音质】欧若拉--张韶涵  「爱是一道光 如此美妙  指引我们想要的未来」", "url": "https://www.bilibili.com/video/BV1Fy4y1K7nd/"}
+JSON: {"text": "循环日推丨“很难想象，我听这歌能睡着。”《Move Your Body》无损音质", "url": "https://www.bilibili.com/video/BV1T94y1j72e/"}
+JSON: {"text": "【单曲循环】“初听不识广寒谣  再听句句是高潮”‖《广寒谣DJ》0.9x", "url": "https://www.bilibili.com/video/BV1qu4y1n7UW/"}
+JSON: {"text": "【时长6小时30分】值得你单曲循环的100首宝藏音乐合集！开车/作业/运动", "url": "https://www.bilibili.com/video/BV17P4y1J7U7/"}
+JSON: {"text": "循环日推丨“就借这月光，再与你对望。”《借月（女生版）》无损音质", "url": "https://www.bilibili.com/video/BV1K8411C7N2/"}
+JSON: {"text": "|Hi-Res无损音质| Way down We Go"我们行善无人记得,我们作恶无人忘记"——KALEO", "url": "https://www.bilibili.com/video/BV18w411x7jP/"}
+JSON: {"text": "宝藏歌曲《infinity》高音质单曲循环，无论多久依然热爱", "url": "https://www.bilibili.com/video/BV1wK411o78S/"}
+JSON: {"text": "最近突然火的《是你》太好听了！单曲循环好多遍。是你，绘成了我的山川流溪。", "url": "https://www.bilibili.com/video/BV1ze4y147YW/"}
+JSON: {"text": "循环日推丨“伴你身侧而身侧却是银河.”《水星记》无损音质", "url": "https://www.bilibili.com/video/BV1Ju4y1A7M4/"}
+JSON: {"text": "开口跪的一首歌《Wolves》太值得单曲循环了", "url": "https://www.bilibili.com/video/BV1E44y1Q7nr/"}
+JSON: {"text": "终于找到这首《Рiчка》久违的旋律，单曲循环一整天都不腻！", "url": "https://www.bilibili.com/video/BV1J84y117Mo/"}
+JSON: {"text": "【推荐循环】《句号》“可惜我们终于来到，一个句号”（无损音质）", "url": "https://www.bilibili.com/video/BV1gQ4y1g7im/"}
+JSON: {"text": "【单曲循环】“撕碎心动的愉快，悲伤装进我口袋 爱与被爱 命运教人释怀”‖《毒药》", "url": "https://www.bilibili.com/video/BV1vP411h7yA/"}
+JSON: {"text": "【日推歌单】好听到可以单曲循环！！《Pasta》", "url": "https://www.bilibili.com/video/BV1E34y1L75L/"}
+JSON: {"text": "【时长3小时】值得你单曲循环的50首宝藏热歌合集！可后台播放", "url": "https://www.bilibili.com/video/BV1St4y1J7TA/"}
+JSON: {"text": "“听一遍就上瘾的《Say So》只想单曲循环”｜日推歌单", "url": "https://www.bilibili.com/video/BV1YG4y1Y7cs/"}
+JSON: {"text": "循环日推丨“惊鸿入耳温柔了沧桑，愿喧嚣尘世把我们遗忘。”《听》无损音质", "url": "https://www.bilibili.com/video/BV1Cw411U7sB/"}
+JSON: {"text": "【带上耳机 感受无损民谣】治愈系歌单 百首民谣 单曲循环一亿遍的民谣合集 好歌配好景 放空自己 感受无损", "url": "https://www.bilibili.com/video/BV1i14y1U7xu/"}
+JSON: {"text": "日推歌单|“值得单曲循环的宝藏音乐”|《Shots》", "url": "https://www.bilibili.com/video/BV1ju4y1x7pj/"}
+JSON: {"text": "【单曲循环】“远赴人间惊鸿宴     一睹人间盛世颜”", "url": "https://www.bilibili.com/video/BV1WG411a79G/"}
+JSON: {"text": "【纯音循环】《所念皆星河》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1894y1w7Dx/"}
+JSON: {"text": "【高音质歌单】100首好听到单曲循环一亿次的歌，可分P播放（带歌词字幕）", "url": "https://www.bilibili.com/video/BV1Ro4y1J7cd/"}
+JSON: {"text": "最近突然火起来的《是你》太好听了，《少年》之后又一经典，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1gP411p7mD/"}
+JSON: {"text": "【单曲循环】“初听不知曲中意 再听已是曲中人”‖emo歌曲《阿拉斯加海湾0.9x》", "url": "https://www.bilibili.com/video/BV1iu4y1N7cu/"}
+JSON: {"text": "最近火起来的这首《故事还长》完整版，太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1id4y1v7EN/"}
+JSON: {"text": "【高质量华语女声】值得你单曲循环一天的华语女声", "url": "https://www.bilibili.com/video/BV1kK411q7vL/"}
+JSON: {"text": "“听一遍就上瘾的《Say So》只想单曲循环”｜日推歌单", "url": "https://www.bilibili.com/video/BV1YG4y1Y7cs/"}
+JSON: {"text": "【日推歌单】好听到可以单曲循环！！《Pasta》", "url": "https://www.bilibili.com/video/BV1E34y1L75L/"}
+JSON: {"text": "【时长3小时】值得你单曲循环的50首宝藏热歌合集！可后台播放", "url": "https://www.bilibili.com/video/BV1St4y1J7TA/"}
+JSON: {"text": "有些歌听到前奏就喜欢《Please Don't Go》有些人看上第一眼就喜欢", "url": "https://www.bilibili.com/video/BV1NV4y1j7of/"}
+JSON: {"text": "循环日推丨“惊鸿入耳温柔了沧桑，愿喧嚣尘世把我们遗忘。”《听》无损音质", "url": "https://www.bilibili.com/video/BV1Cw411U7sB/"}
+JSON: {"text": "【带上耳机 感受无损民谣】治愈系歌单 百首民谣 单曲循环一亿遍的民谣合集 好歌配好景 放空自己 感受无损", "url": "https://www.bilibili.com/video/BV1i14y1U7xu/"}
+JSON: {"text": "第一次听就好上头《Like 1999》，好喜欢", "url": "https://www.bilibili.com/video/BV1CU4y1277K/"}
+JSON: {"text": "【单曲循环】“远赴人间惊鸿宴     一睹人间盛世颜”", "url": "https://www.bilibili.com/video/BV1WG411a79G/"}
+JSON: {"text": "【高音质歌单】100首好听到单曲循环一亿次的歌，可分P播放（带歌词字幕）", "url": "https://www.bilibili.com/video/BV1Ro4y1J7cd/"}
+JSON: {"text": "最近突然火起来的《是你》太好听了，《少年》之后又一经典，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1gP411p7mD/"}
+JSON: {"text": "初中单曲循环！《有何不可》最初版翻唱，还原青春最初的味道！", "url": "https://www.bilibili.com/video/BV1vY4y1i7Ri/"}
+JSON: {"text": "【单曲循环】“故事  你真的在听吗”", "url": "https://www.bilibili.com/video/BV19G411a7iZ/"}
+JSON: {"text": "【高质量华语女声】值得你单曲循环一天的华语女声", "url": "https://www.bilibili.com/video/BV1kK411q7vL/"}
+JSON: {"text": "【TOP10】海来阿木最好听的10首歌曲，每一首都值得单曲循环，快来一次听个够", "url": "https://www.bilibili.com/video/BV1v3411v7W2/"}
+JSON: {"text": "最近悄悄爆火的《面具》太好听了，单曲循环，鬼知道我听了多少遍！", "url": "https://www.bilibili.com/video/BV1R34y1378s/"}
+JSON: {"text": "【高质量影视OST歌曲】值得你单曲循环一天的影视OST歌曲", "url": "https://www.bilibili.com/video/BV1QX4y1H7MA/"}
+JSON: {"text": "【电音循环】《PYRO》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1fN4y1z7mv/"}
+JSON: {"text": "“一秒沦陷，单曲循环直接中毒”《アイロニ （反语）》", "url": "https://www.bilibili.com/video/BV1Jh4y1x7bc/"}
+JSON: {"text": "运动神曲《极恶都市》，被歌名耽误的好歌，好听到能单曲循环一天", "url": "https://www.bilibili.com/video/BV1Kh411i7ff/"}
+JSON: {"text": "【单曲循环】“有人不知悔改 迷雾中混淆黑白”‖《出山DJ》", "url": "https://www.bilibili.com/video/BV12H4y1z7wN/"}
+JSON: {"text": "单曲循环！  李荣浩梁咏琪深情合唱【紫荆花盛开】", "url": "https://www.bilibili.com/video/BV15Y411K7rh/"}
+JSON: {"text": "单曲循环《春泥》余超颖版本“漫天纷飞的花雨落在春的泥土里”“滋养了大地开出下一个花季”", "url": "https://www.bilibili.com/video/BV1tc411r75X/"}
+JSON: {"text": "【单曲循环】“佛若不渡  那就有我来渡”‖《忘川彼岸DJ》0.9x", "url": "https://www.bilibili.com/video/BV1aw411q7Sm/"}
+JSON: {"text": "【单曲循环】“我对你又何止是执迷不悟”‖《执迷不悟0.9x》DJ", "url": "https://www.bilibili.com/video/BV19u4y1t7Ms/"}
+JSON: {"text": "最近登上热歌榜第一的《可能》太治愈了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12M411W7tD/"}
+JSON: {"text": "《If》| 这是一首属于自己的歌，一个人听，一个人想，一个人去怀念。", "url": "https://www.bilibili.com/video/BV1TL4y1L7Eo/"}
+JSON: {"text": "【单曲循环】“夏天期待冬天 冬天期待夏天”", "url": "https://www.bilibili.com/video/BV14i4y167xg/"}
+JSON: {"text": "循环日推丨“平行的画Didida，几时交叉Didida，下个路口再见吧。”《下个，路口，见》无损音质", "url": "https://www.bilibili.com/video/BV1xm4y1u7QF/"}
+JSON: {"text": "最近火遍全网的《少年》真的好听，单曲循环ing,我还是从前那个少年  没有一丝丝改变", "url": "https://www.bilibili.com/video/BV1rA41187ao/"}
+JSON: {"text": "欧美金曲《Boulevard of Broken Dreams》越听越好听，单曲循环中", "url": "https://www.bilibili.com/video/BV1uH4y117zR/"}
+JSON: {"text": "【时长6小时30分】一百首音乐完整版合集‖单曲循环百听不厌‖神仙音质耳机党福利♫", "url": "https://www.bilibili.com/video/BV1WM41147NR/"}
+JSON: {"text": "循环日推丨“在这之前别说再见，我已再经不起离别。”《凄美地》无损音质", "url": "https://www.bilibili.com/video/BV1Uh4y1e7jr/"}
+JSON: {"text": "【单曲循环】“我主张制止不了就放任 …”‖《悬溺》", "url": "https://www.bilibili.com/video/BV1mc411R7iA/"}
+JSON: {"text": "【单曲循环】一听就上头的英文歌曲‖《I Wish My Mind Would Shut Up》", "url": "https://www.bilibili.com/video/BV1eu4y1b7CN/"}
+JSON: {"text": "【高质量英文歌】值得你单曲循环一天的英文歌", "url": "https://www.bilibili.com/video/BV1Zg411n7r4/"}
+JSON: {"text": "【单曲循环】治愈神曲《Try》！女孩你本身就很美！", "url": "https://www.bilibili.com/video/BV1wN411F7S5/"}
+JSON: {"text": "【探窗】开口跪！单曲循环停不下来了……", "url": "https://www.bilibili.com/video/BV1dL411M7Se/"}
+JSON: {"text": "【带上耳机 感受无损】精选80首超好听流行歌曲 你喜欢的歌单都在这 治愈一切不美好 每一首都值得你单曲循环", "url": "https://www.bilibili.com/video/BV15N411y7Ba/"}
+JSON: {"text": "最近火遍全网的《少年》真的好听，单曲循环ing,我还是从前那个少年  没有一丝丝改变", "url": "https://www.bilibili.com/video/BV1rA41187ao/"}
+JSON: {"text": "最近突然火的《是你》太好听了！单曲循环好多遍。是你，绘成了我的山川流溪。", "url": "https://www.bilibili.com/video/BV1ze4y147YW/"}
+JSON: {"text": "单曲循环！  李荣浩梁咏琪深情合唱【紫荆花盛开】", "url": "https://www.bilibili.com/video/BV15Y411K7rh/"}
+JSON: {"text": "欧美金曲《Boulevard of Broken Dreams》越听越好听，单曲循环中", "url": "https://www.bilibili.com/video/BV1uH4y117zR/"}
+JSON: {"text": "【单曲循环】“我主张制止不了就放任 …”‖《悬溺》", "url": "https://www.bilibili.com/video/BV1mc411R7iA/"}
+JSON: {"text": "循环日推丨“在这之前别说再见，我已再经不起离别。”《凄美地》无损音质", "url": "https://www.bilibili.com/video/BV1Uh4y1e7jr/"}
+JSON: {"text": "【单曲循环】治愈神曲《Try》！女孩你本身就很美！", "url": "https://www.bilibili.com/video/BV1wN411F7S5/"}
+JSON: {"text": "【时长6小时】精选100首全网最火的DJ歌曲合集、车载舞曲、DJ音乐、爆火好听的情歌DJ、抖音热歌DJ！！", "url": "https://www.bilibili.com/video/BV1Lj411y7LM/"}
+JSON: {"text": "最近登上热歌榜第一的《可能》太治愈了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12M411W7tD/"}
+JSON: {"text": "运动神曲《极恶都市》，被歌名耽误的好歌，好听到能单曲循环一天", "url": "https://www.bilibili.com/video/BV1Kh411i7ff/"}
+JSON: {"text": "《热爱105°C的你》阿肆”Super Idol的笑容 都没你的甜，八月正午的阳光  都没你耀眼”", "url": "https://www.bilibili.com/video/BV17g411S7FF/"}
+JSON: {"text": "【电音循环】《GIMME(Version)》“天气凉了，听首硬曲，暖暖身子”（无损音质）", "url": "https://www.bilibili.com/video/BV1Zg4y1Z7Ks/"}
+JSON: {"text": "【一人一首成名曲】誓言 -《求佛》无损音质，曾经单曲循环一整晚的歌！", "url": "https://www.bilibili.com/video/BV1ai4y117PX/"}
+JSON: {"text": "【单曲循环】“我只是太想要份爱”‖《精卫》", "url": "https://www.bilibili.com/video/BV14j41177jB/"}
+JSON: {"text": "救命！这首歌比猫猫都更令我上瘾《Overdose》", "url": "https://www.bilibili.com/video/BV1Xu4y1h7XZ/"}
+JSON: {"text": "《Just Give Me a Reason》| 记忆中的旋律就这样偶然的被我找到了。", "url": "https://www.bilibili.com/video/BV1FY411N7qE/"}
+JSON: {"text": "“这首歌好轻松，今日的单曲循环！”《As It Was》", "url": "https://www.bilibili.com/video/BV1um4y1h7H6/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首中文歌曲合集，100首经典音乐合集！开车作业运动", "url": "https://www.bilibili.com/video/BV1XA411f7qi/"}
+JSON: {"text": "【NHC TR REMIX _ PHN BI CHNH MNH REMIX, EM ĐAU R X THU CUI REMIX -N】", "url": "https://www.bilibili.com/video/BV1dy4y1P7J8/"}
+JSON: {"text": "【单曲循环】一听就上头的英文歌曲‖《I Wish My Mind Would Shut Up》", "url": "https://www.bilibili.com/video/BV1eu4y1b7CN/"}
+JSON: {"text": "【单曲循环】“过去已成过去 谁都不能更改”", "url": "https://www.bilibili.com/video/BV1QC4y197AA/"}
+JSON: {"text": "循环日推丨“很难想象，我听这歌能睡着。”《Move Your Body》无损音质", "url": "https://www.bilibili.com/video/BV1T94y1j72e/"}
+JSON: {"text": "【高质量英文歌】值得你单曲循环一天的英文歌", "url": "https://www.bilibili.com/video/BV1Zg411n7r4/"}
+JSON: {"text": "一口气听完50首当年炸街的粤语神曲，首首值得单曲循环，哪一首才是你心中的No.1", "url": "https://www.bilibili.com/video/BV1eN411q7Xr/"}
+JSON: {"text": "[时长3小时】世界上最好听的50粤语歌曲，值得你单曲循环的50首经典粤语歌曲合集 、无损音质、循环播放！！", "url": "https://www.bilibili.com/video/BV13Y411r7kG/"}
+JSON: {"text": "一起来听歌啦～超好听热门歌曲1000首合集", "url": "https://www.bilibili.com/video/BV11Q4y1H7eN/"}
+JSON: {"text": "一首超好听的《落日与晚风》温柔的歌声，治愈好听，听完单曲循环了", "url": "https://www.bilibili.com/video/BV1dq4y1T7i8/"}
+JSON: {"text": "【高质量网易云评论过十万歌曲】值得你单曲循环一天的网易云评论过十万歌曲", "url": "https://www.bilibili.com/video/BV1kT411k7Li/"}
+JSON: {"text": "阿里郎的《再次爱上你》第一次就上头，单曲循环无数，治愈！！", "url": "https://www.bilibili.com/video/BV1P34y147CX/"}
+JSON: {"text": "《Good Time》超经典超好听的边走边唱的音乐，几年前的单曲循环。", "url": "https://www.bilibili.com/video/BV1w24y1Q7yS/"}
+JSON: {"text": "【单曲循环】“永远太遥远  明天你还在就足够了”", "url": "https://www.bilibili.com/video/BV1uj411W7NJ/"}
+JSON: {"text": "【时长超5小时30分】值得你单曲循环一整天丨收藏超过一百万❤丨无损音乐纯享版100首", "url": "https://www.bilibili.com/video/BV1bx4y1F7mh/"}
+JSON: {"text": "一首特别治愈的歌曲《Welcome to Wonderland》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1Kh411i7Qb/"}
+JSON: {"text": "出道即巅峰！飞儿乐队音乐合集，无损音质好听又经典，每一首值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1na4y1Q7Q1/"}
+JSON: {"text": "想是一首无法停止 单曲循环的无名歌", "url": "https://www.bilibili.com/video/BV1zu4y1j7m5/"}
+JSON: {"text": "最近突然火起来的《是你》太好听了，《少年》之后又一经典，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1gP411p7mD/"}
+JSON: {"text": "【无损音质-100首】可以单曲循环一整天的宝藏热歌合集 可后台播放", "url": "https://www.bilibili.com/video/BV16N411A7Tc/"}
+JSON: {"text": "林俊杰《是你》神仙翻唱！直接单曲循环！", "url": "https://www.bilibili.com/video/BV1vT411f7Np/"}
+JSON: {"text": "“一秒沦陷，单曲循环直接中毒”《アイロニ （反语）》", "url": "https://www.bilibili.com/video/BV1Jh4y1x7bc/"}
+JSON: {"text": "【带上耳机 感受无损】精选80首超好听流行歌曲 你喜欢的歌单都在这 治愈一切不美好 每一首都值得你单曲循环", "url": "https://www.bilibili.com/video/BV15N411y7Ba/"}
+JSON: {"text": "2022六月全网最火的十首歌，每一首都好听到单曲循环，赶紧收藏", "url": "https://www.bilibili.com/video/BV1S34y157v9/"}
+JSON: {"text": "最近突然火的《是你》太好听了！单曲循环好多遍。是你，绘成了我的山川流溪。", "url": "https://www.bilibili.com/video/BV1ze4y147YW/"}
+JSON: {"text": "【时长6小时30分】一百首音乐完整版合集‖单曲循环百听不厌‖神仙音质耳机党福利♫", "url": "https://www.bilibili.com/video/BV1WM41147NR/"}
+JSON: {"text": "【高质量英文歌】值得你单曲循环一天的英文歌", "url": "https://www.bilibili.com/video/BV1Zg411n7r4/"}
+JSON: {"text": "【时长6小时】精选100首全网最火的DJ歌曲合集、车载舞曲、DJ音乐、爆火好听的情歌DJ、抖音热歌DJ！！", "url": "https://www.bilibili.com/video/BV1Lj411y7LM/"}
+JSON: {"text": "【探窗】开口跪！单曲循环停不下来了……", "url": "https://www.bilibili.com/video/BV1dL411M7Se/"}
+JSON: {"text": "【单曲循环】“夏天期待冬天 冬天期待夏天”", "url": "https://www.bilibili.com/video/BV14i4y167xg/"}
+JSON: {"text": "“高考结束那天，在回家的路上一直单曲循环。”《Need You Now》", "url": "https://www.bilibili.com/video/BV1tu411F7MH/"}
+JSON: {"text": "【高质量说唱歌曲】值得你单曲循环一天的说唱歌曲", "url": "https://www.bilibili.com/video/BV1Rd4y1j7sH/"}
+JSON: {"text": "【单曲循环】“我主张制止不了就放任 …”‖《悬溺》", "url": "https://www.bilibili.com/video/BV1mc411R7iA/"}
+JSON: {"text": "日推歌单|“值得单曲循环的宝藏音乐”|《Shots》", "url": "https://www.bilibili.com/video/BV1ju4y1x7pj/"}
+JSON: {"text": "盘点十首节奏无敌的英文歌 ，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1Wb411R7JA/"}
+JSON: {"text": "出道即巅峰！飞儿乐队音乐合集，无损音质好听又经典，每一首值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1na4y1Q7Q1/"}
+JSON: {"text": "日推单曲丨“平行的画Didida，几时交叉Didida，下个路口再见吧。”《下个，路口，见》无损音质", "url": "https://www.bilibili.com/video/BV1Z14y1C7x4/"}
+JSON: {"text": "【电音循环】《GIMME(Version)》“天气凉了，听首硬曲，暖暖身子”（无损音质）", "url": "https://www.bilibili.com/video/BV1Zg4y1Z7Ks/"}
+JSON: {"text": "I Believe (Original Mix) - Major Domes", "url": "https://www.bilibili.com/video/BV1h24y1F7YE/"}
+JSON: {"text": "【NHC TR REMIX _ PHN BI CHNH MNH REMIX, EM ĐAU R X THU CUI REMIX -N】", "url": "https://www.bilibili.com/video/BV1dy4y1P7J8/"}
+JSON: {"text": "循环日推丨“花有花期 人有时运 怀爱有诚 静待来日.”《一生有你》无损音质", "url": "https://www.bilibili.com/video/BV1Dc411U7rj/"}
+JSON: {"text": "每次失落的时候，也不知道为什么，总会听《反方向的钟》，也许是因为里面有故事吧。", "url": "https://www.bilibili.com/video/BV1vj411Y7Vw/"}
+JSON: {"text": "《Good Time》超经典超好听的边走边唱的音乐，几年前的单曲循环。", "url": "https://www.bilibili.com/video/BV1w24y1Q7yS/"}
+JSON: {"text": "救命！这首歌比猫猫都更令我上瘾《Overdose》", "url": "https://www.bilibili.com/video/BV1Xu4y1h7XZ/"}
+JSON: {"text": "最近火遍全网的《少年》真的好听，单曲循环ing,我还是从前那个少年  没有一丝丝改变", "url": "https://www.bilibili.com/video/BV1rA41187ao/"}
+JSON: {"text": "【网易云宝藏歌单】值得你单曲循环一万遍的100首宝藏热歌合集！", "url": "https://www.bilibili.com/video/BV11M411L7Ry/"}
+JSON: {"text": "大气磅礴热血澎湃的背景纯音乐，每一首都充满着激情和力量，音乐响起，感觉我又行了！", "url": "https://www.bilibili.com/video/BV1z94y1i7QN/"}
+JSON: {"text": "《热爱105°C的你》阿肆”Super Idol的笑容 都没你的甜，八月正午的阳光  都没你耀眼”", "url": "https://www.bilibili.com/video/BV17g411S7FF/"}
+JSON: {"text": "“这首歌好轻松，今日的单曲循环！”《As It Was》", "url": "https://www.bilibili.com/video/BV1um4y1h7H6/"}
+JSON: {"text": "【单曲循环】一听就上头的英文歌曲‖《I Wish My Mind Would Shut Up》", "url": "https://www.bilibili.com/video/BV1eu4y1b7CN/"}
+JSON: {"text": "【时长超5小时30分】值得你单曲循环一整天丨收藏超过一百万❤丨无损音乐纯享版100首", "url": "https://www.bilibili.com/video/BV1bx4y1F7mh/"}
+JSON: {"text": "一口气听完50首当年炸街的粤语神曲，首首值得单曲循环，哪一首才是你心中的No.1", "url": "https://www.bilibili.com/video/BV1eN411q7Xr/"}
+JSON: {"text": "一首超好听的《落日与晚风》温柔的歌声，治愈好听，听完单曲循环了", "url": "https://www.bilibili.com/video/BV1dq4y1T7i8/"}
+JSON: {"text": "【单曲循环】“永远太遥远  明天你还在就足够了”", "url": "https://www.bilibili.com/video/BV1uj411W7NJ/"}
+JSON: {"text": "值得你单曲循环的100首好听的歌曲  长途开车能听一整天", "url": "https://www.bilibili.com/video/BV1yh411g7E5/"}
+JSON: {"text": "【高质量欧美歌曲】值得你单曲循环一天的欧美歌曲", "url": "https://www.bilibili.com/video/BV1m24y1m7GR/"}
+JSON: {"text": "单曲循环⎮三冬暖 春不寒 此生绚丽《求神呐》- 柏鹿  无损音质", "url": "https://www.bilibili.com/video/BV1u34y1g7sm/"}
+JSON: {"text": "大气磅礴热血澎湃的背景纯音乐，每一首都充满着激情和力量，音乐响起，感觉我又行了！", "url": "https://www.bilibili.com/video/BV1z94y1i7QN/"}
+JSON: {"text": "【NHC TR REMIX _ PHN BI CHNH MNH REMIX, EM ĐAU R X THU CUI REMIX -N】", "url": "https://www.bilibili.com/video/BV1dy4y1P7J8/"}
+JSON: {"text": "【全网最好听的50首2023热歌】首首精选，值得单曲循环 2023流行音乐 经典歌曲合集", "url": "https://www.bilibili.com/video/BV1p24y1j7hL/"}
+JSON: {"text": "100首值得你单曲循环歌 这些流淌在岁月长河里的旋律 诉说的是谁的青春 单曲循环一整天的宝藏音乐歌曲歌单", "url": "https://www.bilibili.com/video/BV1DT411X7Qi/"}
+JSON: {"text": "【时长6小时30分】值得你单曲循环的100首宝藏音乐合集！开车/作业/运动", "url": "https://www.bilibili.com/video/BV17P4y1J7U7/"}
+JSON: {"text": "[时长3小时】世界上最好听的50粤语歌曲，值得你单曲循环的50首经典粤语歌曲合集 、无损音质、循环播放！！", "url": "https://www.bilibili.com/video/BV13Y411r7kG/"}
+JSON: {"text": "【高质量欧美歌曲】值得你单曲循环一天的欧美歌曲", "url": "https://www.bilibili.com/video/BV1m24y1m7GR/"}
+JSON: {"text": "【助眠】Marconi Union - Weightless（失重） 一定要闭上眼静静听完！睡前必备单曲循环", "url": "https://www.bilibili.com/video/BV1dp4y1Q78U/"}
+JSON: {"text": "我只想说，这首歌唱到心底里去了《Stitches》", "url": "https://www.bilibili.com/video/BV1iW4y187Df/"}
+JSON: {"text": "【高质量日语歌曲】值得你单曲循环一天的日语歌曲", "url": "https://www.bilibili.com/video/BV19d4y15782/"}
+JSON: {"text": "【单曲循环】治愈神曲《Try》！女孩你本身就很美！", "url": "https://www.bilibili.com/video/BV1wN411F7S5/"}
+JSON: {"text": "【单曲循环】“永远太遥远  明天你还在就足够了”", "url": "https://www.bilibili.com/video/BV1uj411W7NJ/"}
+JSON: {"text": "运动神曲《极恶都市》，被歌名耽误的好歌，好听到能单曲循环一天", "url": "https://www.bilibili.com/video/BV1Kh411i7ff/"}
+JSON: {"text": "【单曲循环】我们看惯了世间的《罗生门》变得好像陌生人…", "url": "https://www.bilibili.com/video/BV19a4y1R7z6/"}
+JSON: {"text": "【电音歌单】《Apex》“全网超火压迫感神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1UC4y1278W/"}
+JSON: {"text": "日推歌单|过来让我吻你|《Tonight》-Ludacris / John Legend", "url": "https://www.bilibili.com/video/BV1MD4y1H7Si/"}
+JSON: {"text": "B站超好听歌曲合集 抖音最火流行歌曲推荐 单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vx4y1K7kV/"}
+JSON: {"text": "【日推歌单】好听到可以单曲循环！！《Pasta》", "url": "https://www.bilibili.com/video/BV1E34y1L75L/"}
+JSON: {"text": "「粤语歌曲」一听就上瘾的高质量粤语歌曲！入耳就想单曲循环！粤语歌合集！", "url": "https://www.bilibili.com/video/BV1u24y1E72Q/"}
+JSON: {"text": "【2023精选热歌榜音乐合集】网易云热评10W+值得你单曲循环的100首中文歌曲合集", "url": "https://www.bilibili.com/video/BV18T411a71B/"}
+JSON: {"text": "“高考结束那天，在回家的路上一直单曲循环。”《Need You Now》", "url": "https://www.bilibili.com/video/BV1tu411F7MH/"}
+JSON: {"text": "30首值得你单曲循环歌 华语经典老歌 诉说的是谁的青春  单曲循环一整天的宝藏音乐歌曲歌单。", "url": "https://www.bilibili.com/video/BV1gG4y1X7QV/"}
+JSON: {"text": "【时长3小时】值得你单曲循环的50首宝藏热歌合集！可后台播放", "url": "https://www.bilibili.com/video/BV1St4y1J7TA/"}
+JSON: {"text": "救命！这首歌也太太太温柔了吧！《everything everywhere always》", "url": "https://www.bilibili.com/video/BV1gu4y1N7u5/"}
+JSON: {"text": "《Dusk Till Dawn》情绪崩溃的时候听这首歌很治愈", "url": "https://www.bilibili.com/video/BV1yV4y1W7T4/"}
+JSON: {"text": "【4K顶级画质】Aimer女神《单相思》现场，单曲循环了好多次！！！", "url": "https://www.bilibili.com/video/BV1U44y1x7Ca/"}
+JSON: {"text": "“听到这首歌人都烧起来了”《Moonlight》｜日推歌单", "url": "https://www.bilibili.com/video/BV1Ru4y1z7RA/"}
+JSON: {"text": "火星哥最美的一首歌《Talking to the Moon》听一遍就爱上了！", "url": "https://www.bilibili.com/video/BV14U4y157a6/"}
+JSON: {"text": "“这首一定要单曲循环~”《Yours》", "url": "https://www.bilibili.com/video/BV1ry4y1w7xs/"}
+JSON: {"text": "【单曲循环】“前奏很长，你愿意等吗”‖《爱人错过0.8x》", "url": "https://www.bilibili.com/video/BV1yb4y1T7qA/"}
+JSON: {"text": "《Whistle》| 这首歌，说唱给人一种很快感的感觉，口哨部分给人一种很悠闲的感觉。好歌", "url": "https://www.bilibili.com/video/BV1S3411n7Uc/"}
+JSON: {"text": "《Falling Down》| 第一次听还是20年的时候，单曲循环好久。", "url": "https://www.bilibili.com/video/BV1yF411T7FK/"}
+JSON: {"text": "《Welcome to Wonderland》| 治愈系的欧美男声搭配这迷人的节奏让人听了沦陷其中。", "url": "https://www.bilibili.com/video/BV14S4y1a7Hc/"}
+JSON: {"text": "想是一首无法停止 单曲循环的无名歌", "url": "https://www.bilibili.com/video/BV1zu4y1j7m5/"}
+JSON: {"text": "【无损音质】欧若拉--张韶涵  「爱是一道光 如此美妙  指引我们想要的未来」", "url": "https://www.bilibili.com/video/BV1Fy4y1K7nd/"}
+JSON: {"text": "【高音质 值得单曲循环播放的100首中文歌曲合集】分P单曲播放 带歌词！", "url": "https://www.bilibili.com/video/BV1xN411A7LS/"}
+JSON: {"text": "[时长6小时年度最好听的100首合集] 00后歌曲合集、二次元动漫混剪、治愈动漫、热门歌曲、经典音乐、华语流行音乐、网络热歌、值得你单曲循环的歌曲合集", "url": "https://www.bilibili.com/video/BV1fK411i7Vq/"}
+JSON: {"text": "【 请神! 】“一路那人事百味，谁能奈何天。” 无损音质《算命人》", "url": "https://www.bilibili.com/video/BV17p4y1E79x/"}
+JSON: {"text": "《就让这大雨全都落下》- 汪苏泷(cover) 单曲循环纯享版合集", "url": "https://www.bilibili.com/video/BV19G4y1R7pU/"}
+JSON: {"text": "非常温柔的歌《Photograph》能一直单曲循环", "url": "https://www.bilibili.com/video/BV1pU4y127yz/"}
+JSON: {"text": "大气磅礴热血澎湃的背景纯音乐，每一首都充满着激情和力量，音乐响起，感觉我又行了！", "url": "https://www.bilibili.com/video/BV1z94y1i7QN/"}
+JSON: {"text": "太美了吧《BLUE》忧郁蓝调", "url": "https://www.bilibili.com/video/BV11v4y137yn/"}
+JSON: {"text": "“听到这首歌人都烧起来了”《Moonlight》｜日推歌单", "url": "https://www.bilibili.com/video/BV1Ru4y1z7RA/"}
+JSON: {"text": "我只想说，这首歌唱到心底里去了《Stitches》", "url": "https://www.bilibili.com/video/BV1iW4y187Df/"}
+JSON: {"text": "十首超好听节奏天花板的日语歌曲，每一首都可以单曲循环很久！", "url": "https://www.bilibili.com/video/BV1Ls4y1o7Ga/"}
+JSON: {"text": "【熟/潮汐】EQG 单曲循环", "url": "https://www.bilibili.com/video/BV127411d7dq/"}
+JSON: {"text": "Rap精选合集 Vol.1", "url": "https://www.bilibili.com/video/BV1UY41177e5/"}
+JSON: {"text": "【高质量华语女声】值得你单曲循环一天的华语女声", "url": "https://www.bilibili.com/video/BV1kK411q7vL/"}
+JSON: {"text": "一首温柔的翻唱《Right Now(Na Na Na)》", "url": "https://www.bilibili.com/video/BV13B4y1R7az/"}
+JSON: {"text": "100首值得你单曲循环歌 这些流淌在岁月长河里的旋律 诉说的是谁的青春 单曲循环一整天的宝藏音乐歌曲歌单", "url": "https://www.bilibili.com/video/BV1DT411X7Qi/"}
+JSON: {"text": "最近火遍全网的《少年》真的好听，单曲循环ing,我还是从前那个少年  没有一丝丝改变", "url": "https://www.bilibili.com/video/BV1rA41187ao/"}
+JSON: {"text": "【戴上耳机 原地起飞】听了后心情就像吃了蜜桃一样甜~甜甜的歌曲送给甜甜的你！", "url": "https://www.bilibili.com/video/BV1J84y1U7CB/"}
+JSON: {"text": "盘点十首节奏无敌的英文歌 ，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1Wb411R7JA/"}
+JSON: {"text": "听前奏就直接能爱上的《Heroes (we could be)》，越听越爱", "url": "https://www.bilibili.com/video/BV1dF411L73H/"}
+JSON: {"text": "【NHC TR REMIX _ PHN BI CHNH MNH REMIX, EM ĐAU R X THU CUI REMIX -N】", "url": "https://www.bilibili.com/video/BV1dy4y1P7J8/"}
+JSON: {"text": "盘点2022年宝藏英文歌，每一首都是单曲循环的存在", "url": "https://www.bilibili.com/video/BV1s84y1x7bz/"}
+JSON: {"text": "神仙嗓音 开口沦陷好听到单曲循环《Living Hell》｜日推歌单", "url": "https://www.bilibili.com/video/BV1A14y1A7Hz/"}
+JSON: {"text": "黄龄《小雨》：滴滴答滴滴的雨下起，浇打我身体烙上红印", "url": "https://www.bilibili.com/video/BV1Uc41197Me/"}
+JSON: {"text": "一首悲伤至极的歌曲《Almost Lover》值得单曲循环", "url": "https://www.bilibili.com/video/BV1Kt4y1b73L/"}
+JSON: {"text": "【单曲循环】“初听不知曲中意 再听已是曲中人”‖emo歌曲《阿拉斯加海湾0.9x》", "url": "https://www.bilibili.com/video/BV1iu4y1N7cu/"}
+JSON: {"text": "《Pasta》| 完了完了，开口脆！！！太爱了！！", "url": "https://www.bilibili.com/video/BV15u411e7Qn/"}
+JSON: {"text": "最近突然火起来的《一样的月光》太好听了，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV13Z4y1z7LA/"}
+JSON: {"text": "“好适合睡觉单曲循环 太太太温柔了！”《maybe tomorrow》", "url": "https://www.bilibili.com/video/BV1wG411v7yB/"}
+JSON: {"text": "【高质量影视OST歌曲】值得你单曲循环一天的影视OST歌曲", "url": "https://www.bilibili.com/video/BV1QX4y1H7MA/"}
+JSON: {"text": "“夜晚听这首 微醺慵懒氛围感拉满”《24 Hours》", "url": "https://www.bilibili.com/video/BV1zu4y1h7m2/"}
+JSON: {"text": "歌声响起《Summer Vibe》我仿佛看见“西瓜，柠檬茶，冰激凌”", "url": "https://www.bilibili.com/video/BV1fF411V7pS/"}
+JSON: {"text": "Slow Down (0.8x 降调版) - Madnap / Pauline Herr", "url": "https://www.bilibili.com/video/BV1CY411v7gf/"}
+JSON: {"text": "《The Saltwater Room》| “你把一枚海螺放在耳边”希望你能够在最好的年纪开心做最好的自己。", "url": "https://www.bilibili.com/video/BV1MR4y1V7Hr/"}
+JSON: {"text": "每一首都值得无限单曲循环的粤语歌合集 现场版", "url": "https://www.bilibili.com/video/BV1z7411C7C4/"}
+JSON: {"text": "电音加上富有节奏的旋律，很难想象一个人能唱出大合唱的感觉《Last Call》", "url": "https://www.bilibili.com/video/BV1PW4y1B7oM/"}
+JSON: {"text": "循环日推丨“原来缘分是用来说明，你突然不爱我这件事情.”《一直很安静》无损音质，粉丝推荐", "url": "https://www.bilibili.com/video/BV1fv411F7Gb/"}
+JSON: {"text": "第一句就破防了《Say Something》听的好有感触", "url": "https://www.bilibili.com/video/BV1414y1h7HB/"}
+JSON: {"text": "【高质量流行音乐合集】每一首都好听 值得单曲循环一万遍 无损音质 精选100首合集 值得收藏！", "url": "https://www.bilibili.com/video/BV12j411E7VF/"}
+JSON: {"text": "现场版终于有了，西班牙语神曲《Despacito》现场版。25亿人中毒的神曲，一直单曲循环！", "url": "https://www.bilibili.com/video/BV1FJ411E7QQ/"}
+JSON: {"text": "“这首歌越听越上头，忍不住单曲循环！”《i walk this earth all by myself》", "url": "https://www.bilibili.com/video/BV1zj41147o6/"}
+JSON: {"text": "《I Wanted You》| 第一遍听就喜欢上了这首歌 ，喜欢了三年了 ，可是远方的你在哪里 ？", "url": "https://www.bilibili.com/video/BV1iu411v7vM/"}
+JSON: {"text": "最近突然火起来的《一样的月光》太好听了，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV13Z4y1z7LA/"}
+JSON: {"text": "一首超好听的《落日与晚风》温柔的歌声，治愈好听，听完单曲循环了", "url": "https://www.bilibili.com/video/BV1dq4y1T7i8/"}
+JSON: {"text": "俄语|“高塔倾焚 我依然爱你”|《В плену（柔擒）》", "url": "https://www.bilibili.com/video/BV1Sg4y1C7MZ/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！可后台播放 可分集播放 治愈心灵的旋律 值得你单曲循环的钢琴曲！", "url": "https://www.bilibili.com/video/BV1QX4y1Q7cB/"}
+JSON: {"text": "一口气听完50首当年炸街的粤语神曲，首首值得单曲循环，哪一首才是你心中的No.1", "url": "https://www.bilibili.com/video/BV1eN411q7Xr/"}
+JSON: {"text": "【时长6小时】超好听的100首经典粤语歌曲合集，值得单曲循环！开车/作业/运动", "url": "https://www.bilibili.com/video/BV1F24y1Q7hz/"}
+JSON: {"text": "救命！这首歌比猫猫都更令我上瘾《Overdose》", "url": "https://www.bilibili.com/video/BV1Xu4y1h7XZ/"}
+JSON: {"text": "歌声响起《Summer Vibe》我仿佛看见“西瓜，柠檬茶，冰激凌”", "url": "https://www.bilibili.com/video/BV1fF411V7pS/"}
+JSON: {"text": "《Pasta》| 完了完了，开口脆！！！太爱了！！", "url": "https://www.bilibili.com/video/BV15u411e7Qn/"}
+JSON: {"text": "最近登上热歌榜第一的《可能》太治愈了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12M411W7tD/"}
+JSON: {"text": "出道即巅峰！飞儿乐队音乐合集，无损音质好听又经典，每一首值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1na4y1Q7Q1/"}
+JSON: {"text": "值得单曲循环500首宝藏英文歌之一《Bye Bye Bye》前奏一响就沦陷！", "url": "https://www.bilibili.com/video/BV19v4y1g7Rp/"}
+JSON: {"text": "【带上耳机 感受无损民谣】治愈系歌单 百首民谣 单曲循环一亿遍的民谣合集 好歌配好景 放空自己 感受无损", "url": "https://www.bilibili.com/video/BV1i14y1U7xu/"}
+JSON: {"text": "这首歌我可以循环一整天，让人欲罢不能的后摇，Athletics《III》", "url": "https://www.bilibili.com/video/BV1sh411N7w9/"}
+JSON: {"text": "【单曲循环】嘘！", "url": "https://www.bilibili.com/video/BV1be411b7ax/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！值得你单曲循环的钢琴曲！（第二辑）", "url": "https://www.bilibili.com/video/BV1E14y1V7oB/"}
+JSON: {"text": "超好听的英文歌曲《Down》仅听前奏就喜欢上了，值得单曲循环", "url": "https://www.bilibili.com/video/BV1ZT4y1q7JJ/"}
+JSON: {"text": "《Good Time》| 这歌听起来真的很愉悦！", "url": "https://www.bilibili.com/video/BV1nu411q7CW/"}
+JSON: {"text": "一首治愈系英文歌《The Flood》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1R3411n7pc/"}
+JSON: {"text": "真的有被惊艳到，唱的太美了，天使吻过的嗓音，触动心弦《Trouble I'm In》", "url": "https://www.bilibili.com/video/BV1WB4y1W7gu/"}
+JSON: {"text": "“这首歌的旋律真的超好听啊！！”《We Can't Stop》", "url": "https://www.bilibili.com/video/BV1dc411274s/"}
+JSON: {"text": "【银临】热门古风精选歌曲合集(分集播放 无损音质 持续更新) 总有一些古风歌曲 忍不住单曲循环 中国风歌曲 古风歌曲 热门戏腔", "url": "https://www.bilibili.com/video/BV1ng4y1s7Di/"}
+JSON: {"text": "日推歌单| 我丢！这是什么甜蜜暴击啊！快听！《Puppy love》", "url": "https://www.bilibili.com/video/BV1ns4y1L7Fg/"}
+JSON: {"text": "【高质量华语摇滚歌曲】"值得你单曲循环一天的摇滚歌曲"", "url": "https://www.bilibili.com/video/BV1nP411m7mP/"}
+JSON: {"text": "琪大媽 - 青衣（新版）「我為你 唱一曲如游絲的氣息」【動態歌詞】♪.mp4", "url": "https://www.bilibili.com/video/BV1P3411M7hU/"}
+JSON: {"text": "【高质量一人一首系列】值得你单曲循环一天的神仙歌曲", "url": "https://www.bilibili.com/video/BV1Xs4y1475L/"}
+JSON: {"text": "“这首歌越听越上头，忍不住单曲循环！”《i walk this earth all by myself》", "url": "https://www.bilibili.com/video/BV1zj41147o6/"}
+JSON: {"text": "2022年即将爆火的八首古风歌曲，值得单曲循环，有没有你喜欢的", "url": "https://www.bilibili.com/video/BV1QZ4y1r7Gf/"}
+JSON: {"text": "“好拽好性感 越听越上头”《YES MOM》｜日推歌单", "url": "https://www.bilibili.com/video/BV1q44y1R7Q8/"}
+JSON: {"text": "《I Wanted You》| 第一遍听就喜欢上了这首歌 ，喜欢了三年了 ，可是远方的你在哪里 ？", "url": "https://www.bilibili.com/video/BV1iu411v7vM/"}
+JSON: {"text": "一首超好听的《落日与晚风》温柔的歌声，治愈好听，听完单曲循环了", "url": "https://www.bilibili.com/video/BV1dq4y1T7i8/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！可后台播放 可分集播放 治愈心灵的旋律 值得你单曲循环的钢琴曲！", "url": "https://www.bilibili.com/video/BV1QX4y1Q7cB/"}
+JSON: {"text": "十首超好听节奏天花板的日语歌曲，每一首都可以单曲循环很久！", "url": "https://www.bilibili.com/video/BV1Ls4y1o7Ga/"}
+JSON: {"text": "【适合开车|运动|学习听的歌单】值得你单曲循环的100首宝藏热歌合集！每一首都是经典之作！", "url": "https://www.bilibili.com/video/BV1XV4y1r7yY/"}
+JSON: {"text": "“夜晚听这首 微醺慵懒氛围感拉满”《24 Hours》", "url": "https://www.bilibili.com/video/BV1zu4y1h7m2/"}
+JSON: {"text": "lll Do lt (PHONK) 0.8", "url": "https://www.bilibili.com/video/BV1zC4y1c7nm/"}
+JSON: {"text": "最近火遍全网的《少年》真的好听，单曲循环ing,我还是从前那个少年  没有一丝丝改变", "url": "https://www.bilibili.com/video/BV1rA41187ao/"}
+JSON: {"text": "最近登上热歌榜第一的《可能》太治愈了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12M411W7tD/"}
+JSON: {"text": "出道即巅峰！飞儿乐队音乐合集，无损音质好听又经典，每一首值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1na4y1Q7Q1/"}
+JSON: {"text": "【NHC TR REMIX _ PHN BI CHNH MNH REMIX, EM ĐAU R X THU CUI REMIX -N】", "url": "https://www.bilibili.com/video/BV1dy4y1P7J8/"}
+JSON: {"text": "黄龄《小雨》：滴滴答滴滴的雨下起，浇打我身体烙上红印", "url": "https://www.bilibili.com/video/BV1Uc41197Me/"}
+JSON: {"text": "【无损音质-100首】可以单曲循环一整天的宝藏热歌合集 可后台播放", "url": "https://www.bilibili.com/video/BV1kh4y1s7QY/"}
+JSON: {"text": "一首悲伤至极的歌曲《Almost Lover》值得单曲循环", "url": "https://www.bilibili.com/video/BV1Kt4y1b73L/"}
+JSON: {"text": "【戴上耳机 原地起飞】听了后心情就像吃了蜜桃一样甜~甜甜的歌曲送给甜甜的你！", "url": "https://www.bilibili.com/video/BV1J84y1U7CB/"}
+JSON: {"text": "【带上耳机 感受无损民谣】治愈系歌单 百首民谣 单曲循环一亿遍的民谣合集 好歌配好景 放空自己 感受无损", "url": "https://www.bilibili.com/video/BV1i14y1U7xu/"}
+JSON: {"text": "【单曲循环】嘘！", "url": "https://www.bilibili.com/video/BV1be411b7ax/"}
+JSON: {"text": "震撼！单曲循环罗马尼亚神曲《I'm Alone》被俄乌战争带火，毫无违和感", "url": "https://www.bilibili.com/video/BV1u14y1779T/"}
+JSON: {"text": "超好听的英文歌曲《Down》仅听前奏就喜欢上了，值得单曲循环", "url": "https://www.bilibili.com/video/BV1ZT4y1q7JJ/"}
+JSON: {"text": "最近悄悄火起来的《姑娘在远方》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Cx4y1P7Uy/"}
+JSON: {"text": "《Pasta》| 完了完了，开口脆！！！太爱了！！", "url": "https://www.bilibili.com/video/BV15u411e7Qn/"}
+JSON: {"text": "最近突然火起来的《一样的月光》太好听了，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV13Z4y1z7LA/"}
+JSON: {"text": "“这首歌的旋律真的超好听啊！！”《We Can't Stop》", "url": "https://www.bilibili.com/video/BV1dc411274s/"}
+JSON: {"text": "【银临】热门古风精选歌曲合集(分集播放 无损音质 持续更新) 总有一些古风歌曲 忍不住单曲循环 中国风歌曲 古风歌曲 热门戏腔", "url": "https://www.bilibili.com/video/BV1ng4y1s7Di/"}
+JSON: {"text": "值得单曲循环500首宝藏英文歌之一《Bye Bye Bye》前奏一响就沦陷！", "url": "https://www.bilibili.com/video/BV19v4y1g7Rp/"}
+JSON: {"text": "琪大媽 - 青衣（新版）「我為你 唱一曲如游絲的氣息」【動態歌詞】♪.mp4", "url": "https://www.bilibili.com/video/BV1P3411M7hU/"}
+JSON: {"text": "最近超火的《少年》单曲循环很久了，你还是曾经那个少年吗？", "url": "https://www.bilibili.com/video/BV1d5411477M/"}
+JSON: {"text": "十多年前单曲循环，现在却记不起名字的英文歌，你还能跟着哼几首", "url": "https://www.bilibili.com/video/BV1TN411p7pH/"}
+JSON: {"text": "《I Wanted You》| 第一遍听就喜欢上了这首歌 ，喜欢了三年了 ，可是远方的你在哪里 ？", "url": "https://www.bilibili.com/video/BV1iu411v7vM/"}
+JSON: {"text": "“这首歌的旋律真的超好听啊！！”《We Can't Stop》", "url": "https://www.bilibili.com/video/BV1dc411274s/"}
+JSON: {"text": "“夜晚听这首 微醺慵懒氛围感拉满”《24 Hours》", "url": "https://www.bilibili.com/video/BV1zu4y1h7m2/"}
+JSON: {"text": "太美了吧《BLUE》忧郁蓝调", "url": "https://www.bilibili.com/video/BV11v4y137yn/"}
+JSON: {"text": "lll Do lt (PHONK) 0.8", "url": "https://www.bilibili.com/video/BV1zC4y1c7nm/"}
+JSON: {"text": "火星哥最美的一首歌《Talking to the Moon》听一遍就爱上了！", "url": "https://www.bilibili.com/video/BV14U4y157a6/"}
+JSON: {"text": "值得单曲循环500首宝藏英文歌之一《Bye Bye Bye》前奏一响就沦陷！", "url": "https://www.bilibili.com/video/BV19v4y1g7Rp/"}
+JSON: {"text": "最近超火的《少年》单曲循环很久了，你还是曾经那个少年吗？", "url": "https://www.bilibili.com/video/BV1d5411477M/"}
+JSON: {"text": "这首古风歌曲《踏山河》霸气好听，热血超燃，听完忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1eK4y1P7rb/"}
+JSON: {"text": "琪大媽 - 青衣（新版）「我為你 唱一曲如游絲的氣息」【動態歌詞】♪.mp4", "url": "https://www.bilibili.com/video/BV1P3411M7hU/"}
+JSON: {"text": "【钢琴】最近爆火的《下山》，配上钢琴让我单曲循环了！", "url": "https://www.bilibili.com/video/BV1oJ41177Ze/"}
+JSON: {"text": "【单曲循环】“旋律一响，就开起了回忆”", "url": "https://www.bilibili.com/video/BV1gN4y1e7bQ/"}
+JSON: {"text": "奥斯卡获奖歌曲《City Of Stars》值得单曲循环的一首歌！", "url": "https://www.bilibili.com/video/BV1d3411E75R/"}
+JSON: {"text": "2022火遍全网的古风歌曲《晚风作酒》，听完前奏就忍不住单曲循环", "url": "https://www.bilibili.com/video/BV13t4y1x7rd/"}
+JSON: {"text": "值得你单曲循环的100首音乐合集开车 作业 运动 都可听", "url": "https://www.bilibili.com/video/BV1fX4y1U7Dk/"}
+JSON: {"text": "【高质量粤语女声】值得你单曲循环一天的粤语女声", "url": "https://www.bilibili.com/video/BV1ZD4y1J7ss/"}
+JSON: {"text": "【高质量华语摇滚歌曲】"值得你单曲循环一天的摇滚歌曲"", "url": "https://www.bilibili.com/video/BV1nP411m7mP/"}
+JSON: {"text": "【 请神! 】“一路那人事百味，谁能奈何天。” 无损音质《算命人》", "url": "https://www.bilibili.com/video/BV17p4y1E79x/"}
+JSON: {"text": "第一次听《丢了你》就喜欢上了这首歌，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1w5411J7ha/"}
+JSON: {"text": "《大眠》又是一个单曲循环的晚上（新海诚动漫高燃混剪）", "url": "https://www.bilibili.com/video/BV1ho4y1h7Ap/"}
+JSON: {"text": "《Adore》| 真的好听，怀念高中时代第一次听这首歌时的惊艳。", "url": "https://www.bilibili.com/video/BV1RS4y117vL/"}
+JSON: {"text": "“好适合睡前单曲循环 慵懒又温柔”《insomnia》", "url": "https://www.bilibili.com/video/BV1cc41197AK/"}
+JSON: {"text": "神仙嗓音 开口沦陷好听到单曲循环《Living Hell》｜日推歌单", "url": "https://www.bilibili.com/video/BV1A14y1A7Hz/"}
+JSON: {"text": "《Good Time》| 这歌听起来真的很愉悦！", "url": "https://www.bilibili.com/video/BV1nu411q7CW/"}
+JSON: {"text": "【钢琴】王菲《如愿》，忍不住单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV17W4y1Z7YZ/"}
+JSON: {"text": "【网易云宝藏歌单】值得你单曲循环一万遍的100首宝藏热歌合集！", "url": "https://www.bilibili.com/video/BV1Hh4y1c7QC/"}
+JSON: {"text": "那 些 不 听 后 悔 ， 听 了 恨 不 得 单 曲 循 环 的 韩 剧 OST ！！！", "url": "https://www.bilibili.com/video/BV17t4y1v719/"}
+JSON: {"text": "一首很安静的英文歌《You are a lover》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1dg411K7UN/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！值得你单曲循环的钢琴曲！（第二辑）", "url": "https://www.bilibili.com/video/BV1E14y1V7oB/"}
+JSON: {"text": "“我在杀你的路上买了只玫瑰” 《Kiss Me, Kill Me》又是单曲循环的一天｜日推歌单", "url": "https://www.bilibili.com/video/BV1CP4y1d72p/"}
+JSON: {"text": "最近悄悄火起来的《姑娘在远方》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1AP411f741/"}
+JSON: {"text": "“涩到我满地乱滚的一首歌”||《Heaven》", "url": "https://www.bilibili.com/video/BV1kg4y1d7nv/"}
+JSON: {"text": "盘点十首越听越上头的节奏天花板英文歌，每首都是值得单曲循环一整天。", "url": "https://www.bilibili.com/video/BV1Z24y1W7nX/"}
+JSON: {"text": "《Fight Song》| 即使生活不如意也不要灰心，戴上耳机听一会。", "url": "https://www.bilibili.com/video/BV1ji4y1C7F3/"}
+JSON: {"text": "十首超好听节奏天花板的日语歌曲，每一首都可以单曲循环很久！", "url": "https://www.bilibili.com/video/BV1Ls4y1o7Ga/"}
+JSON: {"text": "小马国女孩特别篇 单曲循环：寻觅魔力 - 'Find the Magic'", "url": "https://www.bilibili.com/video/BV1Bi4y1P7AG/"}
+JSON: {"text": "【高质量华语女声】值得你单曲循环一天的华语女声", "url": "https://www.bilibili.com/video/BV1kK411q7vL/"}
+JSON: {"text": "最近超火的《少年》单曲循环很久了，你还是曾经那个少年吗？", "url": "https://www.bilibili.com/video/BV1d5411477M/"}
+JSON: {"text": "这首《太想念》太好听了，唱哭多少分手的情侣，单曲循环听不够", "url": "https://www.bilibili.com/video/BV19x4y1j74W/"}
+JSON: {"text": "【钢琴】最近爆火的《下山》，配上钢琴让我单曲循环了！", "url": "https://www.bilibili.com/video/BV1oJ41177Ze/"}
+JSON: {"text": "值得你单曲循环的100首音乐合集开车 作业 运动 都可听", "url": "https://www.bilibili.com/video/BV1fX4y1U7Dk/"}
+JSON: {"text": "“建议戴上耳机，然后单曲循环”||《Escapism.》", "url": "https://www.bilibili.com/video/BV1dg4y1Z72v/"}
+JSON: {"text": "去郊游的路上，车里放《Waving At Cars》太好听了！！！！！！", "url": "https://www.bilibili.com/video/BV1DU4y1i7uf/"}
+JSON: {"text": "飙升榜音乐合集  值得你单曲循环的70首中文歌曲合集 无损音质", "url": "https://www.bilibili.com/video/BV18x4y1N7wQ/"}
+JSON: {"text": "奥斯卡获奖歌曲《City Of Stars》值得单曲循环的一首歌！", "url": "https://www.bilibili.com/video/BV1d3411E75R/"}
+JSON: {"text": "2022火遍全网的古风歌曲《晚风作酒》，听完前奏就忍不住单曲循环", "url": "https://www.bilibili.com/video/BV13t4y1x7rd/"}
+JSON: {"text": "这个节奏感太棒了《This Is the Life》太太太抓我了这个口哨", "url": "https://www.bilibili.com/video/BV1AB4y1k7RT/"}
+JSON: {"text": "单曲循环！刘德华、张学友等百位明星演唱《一起向未来》", "url": "https://www.bilibili.com/video/BV18q4y1F7cA/"}
+JSON: {"text": "【高质量华语摇滚歌曲】"值得你单曲循环一天的摇滚歌曲"", "url": "https://www.bilibili.com/video/BV1nP411m7mP/"}
+JSON: {"text": "俄语|“高塔倾焚 我依然爱你”|《В плену（柔擒）》", "url": "https://www.bilibili.com/video/BV1Sg4y1C7MZ/"}
+JSON: {"text": "超好听的英文歌曲《Down》仅听前奏就喜欢上了，值得单曲循环", "url": "https://www.bilibili.com/video/BV1ZT4y1q7JJ/"}
+JSON: {"text": "俄语超燃神曲《Не плачь》节奏动感十足，单曲循环中", "url": "https://www.bilibili.com/video/BV1aw411K7nk/"}
+JSON: {"text": "第一次听《丢了你》就喜欢上了这首歌，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1w5411J7ha/"}
+JSON: {"text": "慢慢听，你会发现你找到了宝藏《Fire On Fire》", "url": "https://www.bilibili.com/video/BV1Tr4y1b7Hr/"}
+JSON: {"text": "《大眠》又是一个单曲循环的晚上（新海诚动漫高燃混剪）", "url": "https://www.bilibili.com/video/BV1ho4y1h7Ap/"}
+JSON: {"text": "节奏感超棒的《there's nothing holdin' me back》好听到单曲循环｜日推歌单", "url": "https://www.bilibili.com/video/BV1Le4y1M7CS/"}
+JSON: {"text": "“好适合睡前单曲循环 慵懒又温柔”《insomnia》", "url": "https://www.bilibili.com/video/BV1cc41197AK/"}
+JSON: {"text": "盘点全网播放量最高的十首古风歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV18Y4y1k7Ly/"}
+JSON: {"text": "【网易云宝藏歌单】值得你单曲循环一万遍的100首宝藏热歌合集！", "url": "https://www.bilibili.com/video/BV1Hh4y1c7QC/"}
+JSON: {"text": "【高质量影视OST歌曲】值得你单曲循环一天的影视OST歌曲", "url": "https://www.bilibili.com/video/BV1QX4y1H7MA/"}
+JSON: {"text": "那 些 不 听 后 悔 ， 听 了 恨 不 得 单 曲 循 环 的 韩 剧 OST ！！！", "url": "https://www.bilibili.com/video/BV17t4y1v719/"}
+JSON: {"text": "“我在杀你的路上买了只玫瑰” 《Kiss Me, Kill Me》又是单曲循环的一天｜日推歌单", "url": "https://www.bilibili.com/video/BV1CP4y1d72p/"}
+JSON: {"text": "一首很安静的英文歌《You are a lover》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1dg411K7UN/"}
+JSON: {"text": "【TOP10】海来阿木最好听的10首歌曲，每一首都值得单曲循环，快来一次听个够", "url": "https://www.bilibili.com/video/BV1v3411v7W2/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！值得你单曲循环的钢琴曲！（第二辑）", "url": "https://www.bilibili.com/video/BV1E14y1V7oB/"}
+JSON: {"text": "【卓依婷】逍遥叹，从小听到大的单曲循环，百听不厌。", "url": "https://www.bilibili.com/video/BV1Ta411v7DG/"}
+JSON: {"text": "【单曲循环】飞儿乐队《我们的爱》，当年火遍大街小巷的歌，詹文婷好美", "url": "https://www.bilibili.com/video/BV1Z84y1z75M/"}
+JSON: {"text": "最近悄悄火起来的《姑娘在远方》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1AP411f741/"}
+JSON: {"text": "盘点十首越听越上头的节奏天花板英文歌，每首都是值得单曲循环一整天。", "url": "https://www.bilibili.com/video/BV1Z24y1W7nX/"}
+JSON: {"text": "最近的单曲循环，这旋律会让人着迷《Cobarde》｜中西字幕", "url": "https://www.bilibili.com/video/BV1LQ4y1B76U/"}
+JSON: {"text": "【网易云宝藏歌单】值得你单曲循环一万遍的100首宝藏热歌合集！", "url": "https://www.bilibili.com/video/BV1Hh4y1c7QC/"}
+JSON: {"text": "Slow Down (0.8x 降调版) - Madnap / Pauline Herr", "url": "https://www.bilibili.com/video/BV1CY411v7gf/"}
+JSON: {"text": "盘点2022年宝藏英文歌，每一首都是单曲循环的存在", "url": "https://www.bilibili.com/video/BV1s84y1x7bz/"}
+JSON: {"text": "【高质量粤语女声】值得你单曲循环一天的粤语女声", "url": "https://www.bilibili.com/video/BV1ZD4y1J7ss/"}
+JSON: {"text": "循环日推丨“惊鸿入耳温柔了沧桑，愿喧嚣尘世把我们遗忘。”《听》无损音质", "url": "https://www.bilibili.com/video/BV1Cw411U7sB/"}
+JSON: {"text": "刘至佳《时光背面的我》励志又好听，终于找到一首值得我单曲循环的歌了！！！", "url": "https://www.bilibili.com/video/BV1bQ4y1f78i/"}
+JSON: {"text": "【钢琴】王菲《如愿》，忍不住单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV17W4y1Z7YZ/"}
+JSON: {"text": "《大眠》又是一个单曲循环的晚上（新海诚动漫高燃混剪）", "url": "https://www.bilibili.com/video/BV1ho4y1h7Ap/"}
+JSON: {"text": "最近悄悄火起来的《若把你》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1724y1h76y/"}
+JSON: {"text": "单曲循环一亿次的民谣 如果你喜欢听民谣 可以从这开始 唱一首有故事的歌给你 63首唱进心窝里的民谣.歌", "url": "https://www.bilibili.com/video/BV1eA41127Qq/"}
+JSON: {"text": "初中单曲循环的歌！！", "url": "https://www.bilibili.com/video/BV1Sz4y1L7gL/"}
+JSON: {"text": "单曲循环！刘德华、张学友等百位明星演唱《一起向未来》", "url": "https://www.bilibili.com/video/BV18q4y1F7cA/"}
+JSON: {"text": "再度爆火全网的《面具》太好听了，单曲循环，鬼知道我听了多少遍！", "url": "https://www.bilibili.com/video/BV1Ve411Z7UA/"}
+JSON: {"text": "遇到那个给你唱《Love Story》的人了吗？", "url": "https://www.bilibili.com/video/BV1Bc411N7hd/"}
+JSON: {"text": "【2023精选热歌榜音乐合集】网易云热评10W+值得你单曲循环的100首中文歌曲合集", "url": "https://www.bilibili.com/video/BV1hg4y1478L/"}
+JSON: {"text": "最近风靡全网的《Everytime We Touch》太好听了，单曲循环了很多遍！！", "url": "https://www.bilibili.com/video/BV1c34y1H7oA/"}
+JSON: {"text": "最近突然火的《Astronomia》太好听了！旋律洗脑，单曲循环好多遍", "url": "https://www.bilibili.com/video/BV1cg4y187SW/"}
+JSON: {"text": "一首很安静的英文歌《You are a lover》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1dg411K7UN/"}
+JSON: {"text": "值得你单曲循环的100首音乐合集开车 作业 运动 都可听", "url": "https://www.bilibili.com/video/BV1fX4y1U7Dk/"}
+JSON: {"text": "“太太太好听了吧 是听起来很开心的歌”《love is》", "url": "https://www.bilibili.com/video/BV1db4y1G7UB/"}
+JSON: {"text": "2021酷狗最火十首热歌，每一首都值得你单曲循环！！！", "url": "https://www.bilibili.com/video/BV1KF411x7iZ/"}
+JSON: {"text": "一首好听的爱尔兰民谣《Daily Growing》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1Ld4y1V7dM/"}
+JSON: {"text": "一直听都有感觉《We Can't Stop》都会爱的歌", "url": "https://www.bilibili.com/video/BV11B4y1L75N/"}
+JSON: {"text": "终于找到这首“哦哦哦”的歌了，旋律太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1A5411x777/"}
+JSON: {"text": "Ghazali & Likenet Omri 单曲循环，超动听的阿语歌曲 | 好听的歌，动听的音乐，歌曲推荐，好歌推荐，小语种歌曲", "url": "https://www.bilibili.com/video/BV1im4y1L7kz/"}
+JSON: {"text": "日推歌单｜节奏感很强，好听到单曲循环的英文歌《Gravity (feat. JMR）》", "url": "https://www.bilibili.com/video/BV1DB4y1e7RF/"}
+JSON: {"text": "【异人Disco】真就，单曲循环了亿遍……而已", "url": "https://www.bilibili.com/video/BV1wQ4y1S7Sp/"}
+JSON: {"text": "小众但是好听到极致的宝藏歌曲《Raindrops》，单曲循环的节奏。", "url": "https://www.bilibili.com/video/BV1r8411b7Xk/"}
+JSON: {"text": "《Love The Way You Lie》| 当哈娜遇上啊姆、不羁和放纵就已经深入骨子里.。", "url": "https://www.bilibili.com/video/BV1DF41147ZJ/"}
+JSON: {"text": "《Read All About It, Pt. III》| 第一次听这首歌是大学看的一个影子舞视频，英国达人秀上，看哭了，一直听到如今。", "url": "https://www.bilibili.com/video/BV1e34y1v7xL/"}
+JSON: {"text": "4minute经典大热单曲《Hate》忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1CB4y1u7k2/"}
+JSON: {"text": "刘至佳《时光背面的我》励志又好听，终于找到一首值得我单曲循环的歌了！！！", "url": "https://www.bilibili.com/video/BV1bQ4y1f78i/"}
+JSON: {"text": "盘点2022年宝藏英文歌，每一首都是单曲循环的存在", "url": "https://www.bilibili.com/video/BV1s84y1x7bz/"}
+JSON: {"text": "夜愿乐队《Eramaan Viimeinen》仅听前奏就注定要单曲循环", "url": "https://www.bilibili.com/video/BV1734y1g7nL/"}
+JSON: {"text": "《大眠》又是一个单曲循环的晚上（新海诚动漫高燃混剪）", "url": "https://www.bilibili.com/video/BV1ho4y1h7Ap/"}
+JSON: {"text": "⚡️Lone Ranger/超燃混剪/纵享丝滑⚡️全程高燃！上头小精灵，忍不住单曲循环【精灵王座/龙之谷破晓奇兵】", "url": "https://www.bilibili.com/video/BV1Pc411n7dB/"}
+JSON: {"text": "最近悄悄火起来的《若把你》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1724y1h76y/"}
+JSON: {"text": "单曲循环一亿次的民谣 如果你喜欢听民谣 可以从这开始 唱一首有故事的歌给你 63首唱进心窝里的民谣.歌", "url": "https://www.bilibili.com/video/BV1eA41127Qq/"}
+JSON: {"text": "【异人Disco】真就，单曲循环了亿遍……而已", "url": "https://www.bilibili.com/video/BV1wQ4y1S7Sp/"}
+JSON: {"text": "享誉全球的30首欧美乡村音乐，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1AN4y1U7u4/"}
+JSON: {"text": "【精选2023年最受欢迎的50首歌曲】值得你单曲循环的50首音乐  经典流行 值得收藏", "url": "https://www.bilibili.com/video/BV1PV4y1Z7hL/"}
+JSON: {"text": "初中单曲循环的歌！！", "url": "https://www.bilibili.com/video/BV1Sz4y1L7gL/"}
+JSON: {"text": "最近风靡全网的《Everytime We Touch》太好听了，单曲循环了很多遍！！", "url": "https://www.bilibili.com/video/BV1c34y1H7oA/"}
+JSON: {"text": "再度爆火全网的《面具》太好听了，单曲循环，鬼知道我听了多少遍！", "url": "https://www.bilibili.com/video/BV1Ve411Z7UA/"}
+JSON: {"text": "【2023精选热歌榜音乐合集】网易云热评10W+值得你单曲循环的100首中文歌曲合集", "url": "https://www.bilibili.com/video/BV1hg4y1478L/"}
+JSON: {"text": "单曲循环！刘德华、张学友等百位明星演唱《一起向未来》", "url": "https://www.bilibili.com/video/BV18q4y1F7cA/"}
+JSON: {"text": "【全网超好听古风戏腔100首歌曲】古风戏腔音乐歌曲合集、经典音乐单曲循环播放、热门古风音乐推荐 无损音质！！", "url": "https://www.bilibili.com/video/BV1Ug4y1n7Pm/"}
+JSON: {"text": "一首很安静的英文歌《You are a lover》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1dg411K7UN/"}
+JSON: {"text": "值得你单曲循环的100首音乐合集开车 作业 运动 都可听", "url": "https://www.bilibili.com/video/BV1fX4y1U7Dk/"}
+JSON: {"text": "【卓依婷】逍遥叹，从小听到大的单曲循环，百听不厌。", "url": "https://www.bilibili.com/video/BV1Ta411v7DG/"}
+JSON: {"text": "盘点全网播放量最高的十首古风歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV18Y4y1k7Ly/"}
+JSON: {"text": "“太太太好听了吧 是听起来很开心的歌”《love is》", "url": "https://www.bilibili.com/video/BV1db4y1G7UB/"}
+JSON: {"text": "飙升榜音乐合集  值得你单曲循环的70首中文歌曲合集 无损音质", "url": "https://www.bilibili.com/video/BV18x4y1N7wQ/"}
+JSON: {"text": "2021酷狗最火十首热歌，每一首都值得你单曲循环！！！", "url": "https://www.bilibili.com/video/BV1KF411x7iZ/"}
+JSON: {"text": "最喜欢六公主的这首《The Story Never Ends》单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1Di4y1K7VX/"}
+JSON: {"text": "遇到那个给你唱《Love Story》的人了吗？", "url": "https://www.bilibili.com/video/BV1Bc411N7hd/"}
+JSON: {"text": "Ghazali & Likenet Omri 单曲循环，超动听的阿语歌曲 | 好听的歌，动听的音乐，歌曲推荐，好歌推荐，小语种歌曲", "url": "https://www.bilibili.com/video/BV1im4y1L7kz/"}
+JSON: {"text": "小众但是好听到极致的宝藏歌曲《Raindrops》，单曲循环的节奏。", "url": "https://www.bilibili.com/video/BV1r8411b7Xk/"}
+JSON: {"text": "《Love The Way You Lie》| 当哈娜遇上啊姆、不羁和放纵就已经深入骨子里.。", "url": "https://www.bilibili.com/video/BV1DF41147ZJ/"}
+JSON: {"text": "“涩到我满地乱滚的一首歌”||《Heaven》", "url": "https://www.bilibili.com/video/BV1kg4y1d7nv/"}
+JSON: {"text": "这十首越听越上瘾的英文歌简直是开口跪让你忍不住单曲循环一整天", "url": "https://www.bilibili.com/video/BV1qa4y1U7qX/"}
+JSON: {"text": "电音加上富有节奏的旋律，很难想象一个人能唱出大合唱的感觉《Last Call》", "url": "https://www.bilibili.com/video/BV1PW4y1B7oM/"}
+JSON: {"text": "终于找到这首“哦哦哦”的歌了，旋律太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1A5411x777/"}
+JSON: {"text": "4minute经典大热单曲《Hate》忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1CB4y1u7k2/"}
+JSON: {"text": "【无损音质-100首】可以单曲循环一整天的宝藏热歌合集 可后台播放", "url": "https://www.bilibili.com/video/BV16N411A7Tc/"}
+JSON: {"text": "把「夜に駆ける」单曲循环一天能唱成什么样？！", "url": "https://www.bilibili.com/video/BV19g411N724/"}
+JSON: {"text": "爆火的古风神曲《赐我》，戏腔绝美，让人忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1B14y1M7eW/"}
+JSON: {"text": "盘点2022年宝藏英文歌，每一首都是单曲循环的存在", "url": "https://www.bilibili.com/video/BV1s84y1x7bz/"}
+JSON: {"text": "【2023年网易云热评10W+ 的歌单】飙升榜音乐合集 值得你单曲循环的100首中文歌曲合集，无损分P单曲播放！", "url": "https://www.bilibili.com/video/BV19a4y1N7Ya/"}
+JSON: {"text": "《Hotel Walls》宏大而深邃，震撼的合唱", "url": "https://www.bilibili.com/video/BV1kP411G7Yr/"}
+JSON: {"text": "30首值得你单曲循环歌 华语经典老歌 诉说的是谁的青春  单曲循环一整天的宝藏音乐歌曲歌单。", "url": "https://www.bilibili.com/video/BV1gG4y1X7QV/"}
+JSON: {"text": "风靡全球的20首欧美乡村民谣，每一首都值得单曲循环一整天", "url": "https://www.bilibili.com/video/BV1F94y1z72K/"}
+JSON: {"text": "正如这首歌名一样《Hooked》当第一次听这首歌就为其深深入迷", "url": "https://www.bilibili.com/video/BV1xP4y1o7AX/"}
+JSON: {"text": "20首值得单曲循环的动漫神曲！一首听一天！！【安利向】", "url": "https://www.bilibili.com/video/BV1L64y1Q7JK/"}
+JSON: {"text": "电音加上富有节奏的旋律，很难想象一个人能唱出大合唱的感觉《Last Call》", "url": "https://www.bilibili.com/video/BV1PW4y1B7oM/"}
+JSON: {"text": "《Adore》| 真的好听，怀念高中时代第一次听这首歌时的惊艳。", "url": "https://www.bilibili.com/video/BV1RS4y117vL/"}
+JSON: {"text": "一起来听歌啦～超好听热门歌曲1000首合集", "url": "https://www.bilibili.com/video/BV11Q4y1H7eN/"}
+JSON: {"text": "高考结束那天，在回家的路上单曲循环这首歌！All We Know", "url": "https://www.bilibili.com/video/BV15u4y1w7bJ/"}
+JSON: {"text": "【时长6小时-可后台播放】世界上最好听的纯音乐 值得你单曲循环的99首好听轻音乐 治愈 助眠", "url": "https://www.bilibili.com/video/BV1kj411c7f5/"}
+JSON: {"text": "【时长6小时30分】一百首音乐完整版合集‖单曲循环百听不厌‖神仙音质耳机党福利♫", "url": "https://www.bilibili.com/video/BV1WM41147NR/"}
+JSON: {"text": "【日推歌单】好听到可以单曲循环！！！《Free Loop》", "url": "https://www.bilibili.com/video/BV1MB4y1W79g/"}
+JSON: {"text": "【唱进心的民谣合集】2023年播放量最高的60首民谣 单曲循环一亿次！", "url": "https://www.bilibili.com/video/BV1cM4y117bF/"}
+JSON: {"text": "那些年来自台湾的炸街金曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV18a4y1G7yw/"}
+JSON: {"text": "值得你单曲循环的100首好听的歌曲  长途开车能听一整天", "url": "https://www.bilibili.com/video/BV1yh411g7E5/"}
+JSON: {"text": "马赛克乐队《霓虹甜心》现场蹦迪，复古迪斯科，单曲循环", "url": "https://www.bilibili.com/video/BV1WK4y1n7st/"}
+JSON: {"text": "最近火的《樱花树下的约定》太好听了，单曲循环了好多遍！", "url": "https://www.bilibili.com/video/BV1gB4y1y71U/"}
+JSON: {"text": "【高质量欧美歌曲】值得你单曲循环一天的欧美歌曲", "url": "https://www.bilibili.com/video/BV1m24y1m7GR/"}
+JSON: {"text": "【歌荒请举手】7月十首人气好歌推荐，三秒即可沦陷，每一首都能单曲循环一整天！", "url": "https://www.bilibili.com/video/BV18U4y1q7X8/"}
+JSON: {"text": "黄老板冠军单曲《Shape of You》，旋律动感洗脑，单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vy4y1G711/"}
+JSON: {"text": "【好听到单曲循环的古风歌曲】热门古风音乐推荐音乐合集戏腔歌曲合集中国风音乐好听到停不下来可后台播放", "url": "https://www.bilibili.com/video/BV1AY411k7BH/"}
+JSON: {"text": "经典就是不管何时听到《Until You》依然会很喜欢", "url": "https://www.bilibili.com/video/BV1gY4y1479v/"}
+JSON: {"text": "正如这首歌名一样《Hooked》当第一次听这首歌就为其深深入迷", "url": "https://www.bilibili.com/video/BV1xP4y1o7AX/"}
+JSON: {"text": "爆火的古风神曲《赐我》，戏腔绝美，让人忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1B14y1M7eW/"}
+JSON: {"text": "听过的人都单曲循环了~开口即苏妈问跪，仙气飘飘【谪仙】翻唱", "url": "https://www.bilibili.com/video/BV1k54y1i7L9/"}
+JSON: {"text": "【经典粤语】精选200首大合集(带歌词 分集播放 持续更新) 粤语可以不会说 但粤语歌不可以不会唱 每一首都是曾经的单曲循环  开车必备 经典老歌", "url": "https://www.bilibili.com/video/BV1mY4y1R7XU/"}
+JSON: {"text": "最近风靡全网的《Everytime We Touch》太好听了，单曲循环了很多遍！！", "url": "https://www.bilibili.com/video/BV1c34y1H7oA/"}
+JSON: {"text": "最近火的《樱花树下的约定》太好听了，单曲循环了好多遍！", "url": "https://www.bilibili.com/video/BV1gB4y1y71U/"}
+JSON: {"text": "终于找到这首“哦哦哦”的歌了，旋律太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1A5411x777/"}
+JSON: {"text": "【2023年网易云热评10W+ 的歌单】飙升榜音乐合集 值得你单曲循环的100首中文歌曲合集，无损分P单曲播放！", "url": "https://www.bilibili.com/video/BV19a4y1N7Ya/"}
+JSON: {"text": "【单曲循环一亿次的民谣歌单】唱进心窝里的民谣  如果你也喜欢听民谣 可以听听这个歌单！", "url": "https://www.bilibili.com/video/BV1s14y1Z7qD/"}
+JSON: {"text": "享誉全球的30首欧美乡村音乐，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1AN4y1U7u4/"}
+JSON: {"text": "粉墨全新所有歌曲更新BLACKPINK ALL SONGS PLAYLIST 2022 UPDATED", "url": "https://www.bilibili.com/video/BV1d24y1d7R7/"}
+JSON: {"text": "《Hotel Walls》宏大而深邃，震撼的合唱", "url": "https://www.bilibili.com/video/BV1kP411G7Yr/"}
+JSON: {"text": "【官方完整版】张一山&孙萍《声声慢》，太值得单曲循环了", "url": "https://www.bilibili.com/video/BV1fa411c7dw/"}
+JSON: {"text": "最近突然火的《武家坡》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1fK411D775/"}
+JSON: {"text": "【怀旧老歌曲大全十】那些年，我们单曲循环的经典老歌", "url": "https://www.bilibili.com/video/BV1Zk4y1L7Y5/"}
+JSON: {"text": "电音加上富有节奏的旋律，很难想象一个人能唱出大合唱的感觉《Last Call》", "url": "https://www.bilibili.com/video/BV1PW4y1B7oM/"}
+JSON: {"text": "盘点2023最新火起来的10首“破亿神曲”，每首都值得单曲循环！", "url": "https://www.bilibili.com/video/BV1dj41157Yu/"}
+JSON: {"text": "《Adore》| 真的好听，怀念高中时代第一次听这首歌时的惊艳。", "url": "https://www.bilibili.com/video/BV1RS4y117vL/"}
+JSON: {"text": "【叶里】热门古风精选歌曲合集(分集播放 带歌词 持续更新) 总有一首会惊艳你 然后忍不住单曲循环 中国风歌曲 古风歌曲 热门", "url": "https://www.bilibili.com/video/BV1TL411D7sg/"}
+JSON: {"text": "盘点王靖雯七首超好听的歌曲，每一首都值得单曲循环。", "url": "https://www.bilibili.com/video/BV1rQ4y1D7QX/"}
+JSON: {"text": "高考结束那天，在回家的路上单曲循环这首歌！All We Know", "url": "https://www.bilibili.com/video/BV15u4y1w7bJ/"}
+JSON: {"text": "【时长6小时-可后台播放】世界上最好听的纯音乐 值得你单曲循环的99首好听轻音乐 治愈 助眠", "url": "https://www.bilibili.com/video/BV1kj411c7f5/"}
+JSON: {"text": "2020最火的十首网络歌曲，每首都可以单曲循环，简直太好听了！", "url": "https://www.bilibili.com/video/BV1fD4y197cX/"}
+JSON: {"text": "【唱进心的民谣合集】2023年播放量最高的60首民谣 单曲循环一亿次！", "url": "https://www.bilibili.com/video/BV1cM4y117bF/"}
+JSON: {"text": "这首冬日情歌我直接一个单曲循环！！！❄️冻结那时间，冻结初遇那一天❄️", "url": "https://www.bilibili.com/video/BV1JN4y1x7Lc/"}
+JSON: {"text": "这十首越听越上瘾的英文歌简直是开口跪让你忍不住单曲循环一整天", "url": "https://www.bilibili.com/video/BV1qa4y1U7qX/"}
+JSON: {"text": "异域风情最棒！蜜嗓女高中生翻唱超火单曲《Señorita》，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1hF411g7fQ/"}
+JSON: {"text": "2021上半年最火的10首古风歌曲，戏腔一出太惊艳了，值得单曲循环", "url": "https://www.bilibili.com/video/BV13b4y127oS/"}
+JSON: {"text": "很振奋的一首歌！《Battle Symphony》听着听着就单曲循环了", "url": "https://www.bilibili.com/video/BV1c94y1Q7rR/"}
+JSON: {"text": "【高质量一人一首系列】值得你单曲循环一天的神仙歌曲", "url": "https://www.bilibili.com/video/BV1Xs4y1475L/"}
+JSON: {"text": "一首唯美的欧美民谣《Sleepyhead》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1Ky4y1e733/"}
+JSON: {"text": "光前奏就震撼了无数歌迷的《Everglow》Coldplay， 今天单曲循环了吗？【吉他指弹】", "url": "https://www.bilibili.com/video/BV1Uh411Q7zA/"}
+JSON: {"text": "【戴上耳机 原地起飞】听了后心情就像吃了蜜桃一样甜~甜甜的歌曲送给甜甜的你！", "url": "https://www.bilibili.com/video/BV1J84y1U7CB/"}
+JSON: {"text": "孙燕姿代表作《开始懂了》，一首超好听的歌，曾经无数次单曲循环", "url": "https://www.bilibili.com/video/BV1MP411v7ej/"}
+JSON: {"text": "【戴上耳机 感受无损】值得你单曲循环的100首宝藏歌曲！！！", "url": "https://www.bilibili.com/video/BV1nh4y1k7pw/"}
+JSON: {"text": "好听到炸裂，嗓音绝美，忍不住单曲循环《control》", "url": "https://www.bilibili.com/video/BV1n14y1D7EQ/"}
+JSON: {"text": "2022年六大emo神曲，每首都能单曲循环，你果然还是忘不掉她吗？", "url": "https://www.bilibili.com/video/BV16L4y1T7Cr/"}
+JSON: {"text": "最近火的《樱花树下的约定》太好听了，单曲循环了好多遍！", "url": "https://www.bilibili.com/video/BV1gB4y1y71U/"}
+JSON: {"text": "【时长6小时】世界上最好听的100首纯音乐合集！可后台播放 可分集播放 治愈心灵的旋律 值得你单曲循环的钢琴曲！", "url": "https://www.bilibili.com/video/BV1QX4y1Q7cB/"}
+JSON: {"text": "黄老板冠军单曲《Shape of You》，旋律动感洗脑，单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vy4y1G711/"}
+JSON: {"text": "【带上耳机 感受无损】精选80首超好听流行歌曲 你喜欢的歌单都在这 治愈一切不美好 每一首都值得你单曲循环", "url": "https://www.bilibili.com/video/BV15N411y7Ba/"}
+JSON: {"text": "单曲循环！3D环绕【时光代理人】×戴上耳机进入时光相册", "url": "https://www.bilibili.com/video/BV1sV411J7VT/"}
+JSON: {"text": "欧美金曲《Don't Cry》无人超越的经典，曾风靡世界无限单曲循环", "url": "https://www.bilibili.com/video/BV1nY4y1w7i9/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首纯音乐合集！ 放松空灵的音乐，净化大脑，消除疲惫 轻音乐 解压 学习 刷题 睡觉御用合集", "url": "https://www.bilibili.com/video/BV1i24y1x7HJ/"}
+JSON: {"text": "开口醉英伦歌《Someone You Loved》这孤注一掷的爱令我心力憔悴", "url": "https://www.bilibili.com/video/BV1464y1Z7Xa/"}
+JSON: {"text": "经典就是不管何时听到《Until You》依然会很喜欢", "url": "https://www.bilibili.com/video/BV1gY4y1479v/"}
+JSON: {"text": "单曲循环⎮我对你何止是执迷不悟《执迷不悟》DJ版 - 小乐哥 无损音质", "url": "https://www.bilibili.com/video/BV1CN41147NH/"}
+JSON: {"text": "【时长6个小时完整版】值得单曲循环宝藏音乐大合集！1080P无损音质，可后台播放带歌词，超好听先收藏起来吧！", "url": "https://www.bilibili.com/video/BV1ns4y1T78c/"}
+JSON: {"text": "最近突然火起来的《Hey》太好听了吧！旋律洗脑，单曲循环很多遍！", "url": "https://www.bilibili.com/video/BV1HJ41187k9/"}
+JSON: {"text": "2022年最火的50首破亿宝藏歌曲 值得单曲循环！开车/作业/运动", "url": "https://www.bilibili.com/video/BV1ej411F7UN/"}
+JSON: {"text": "粉丝推荐《快乐阿拉蕾》洗脑又好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1F94y1b7Nq/"}
+JSON: {"text": "自己单曲循环", "url": "https://www.bilibili.com/video/BV1Sz4y197dK/"}
+JSON: {"text": "好听的歌《Let Her Go》，总是令我心头一颤", "url": "https://www.bilibili.com/video/BV13S4y1z7e4/"}
+JSON: {"text": "循环日推丨“原来缘分是用来说明，你突然不爱我这件事情.”《一直很安静》无损音质，粉丝推荐", "url": "https://www.bilibili.com/video/BV1fv411F7Gb/"}
+JSON: {"text": "2021酷狗最火十首热歌，每一首都值得你单曲循环！！！", "url": "https://www.bilibili.com/video/BV1KF411x7iZ/"}
+JSON: {"text": "【高质量70首无损音乐]  全网最好听的歌曲合集 无损音质  单曲循环  百听不厌 经典歌曲适合80后的经典歌曲  值得收藏", "url": "https://www.bilibili.com/video/BV1vz4y1h7yf/"}
+JSON: {"text": "第一次听《丢了你》就喜欢上了这首歌，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1w5411J7ha/"}
+JSON: {"text": "最近的单曲循环，这旋律会让人着迷《Cobarde》｜中西字幕", "url": "https://www.bilibili.com/video/BV1LQ4y1B76U/"}
+JSON: {"text": "这首冬日情歌我直接一个单曲循环！！！❄️冻结那时间，冻结初遇那一天❄️", "url": "https://www.bilibili.com/video/BV1JN4y1x7Lc/"}
+JSON: {"text": "第六弹[超高音质][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1cg411f7XP/"}
+JSON: {"text": "刘至佳《时光背面的我》励志又好听，终于找到一首值得我单曲循环的歌了！！！", "url": "https://www.bilibili.com/video/BV1bQ4y1f78i/"}
+JSON: {"text": "【时长100分钟】值得你单曲循环的100首宝藏热歌，2022音乐合集持续更新中！", "url": "https://www.bilibili.com/video/BV1qP411J7Q3/"}
+JSON: {"text": "【时长超5小时30分】值得你单曲循环一整天丨收藏超过一百万❤丨无损音乐纯享版100首", "url": "https://www.bilibili.com/video/BV1bx4y1F7mh/"}
+JSON: {"text": "异域风情最棒！蜜嗓女高中生翻唱超火单曲《Señorita》，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1hF411g7fQ/"}
+JSON: {"text": "【李荣浩歌曲】精选100首李荣浩歌曲音乐合集、经典歌曲、无损音乐、热门歌曲、热门音乐、流行歌曲、适合单曲循环播放！", "url": "https://www.bilibili.com/video/BV19M411h7dt/"}
+JSON: {"text": "欧美歌曲推荐，有没有你的歌单（单曲循环）", "url": "https://www.bilibili.com/video/BV1h3411v7r6/"}
+JSON: {"text": "黄老板冠军单曲《Shape of You》，旋律动感洗脑，单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vy4y1G711/"}
+JSON: {"text": "最近突然火起来《沦陷》太好听了！单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1QZ4y1c7mX/"}
+JSON: {"text": "1分钟打击乐演奏5首超燃金属英文歌曲，每一首都能单曲循环！", "url": "https://www.bilibili.com/video/BV1i3411M7cR/"}
+JSON: {"text": "【4K珍藏】汪苏泷《我想念》！绝对单曲循环的一首！", "url": "https://www.bilibili.com/video/BV1Nj411H7eV/"}
+JSON: {"text": "【歌荒请举手】7月十首人气好歌推荐，三秒即可沦陷，每一首都能单曲循环一整天！", "url": "https://www.bilibili.com/video/BV18U4y1q7X8/"}
+JSON: {"text": "很振奋的一首歌！《Battle Symphony》听着听着就单曲循环了", "url": "https://www.bilibili.com/video/BV1c94y1Q7rR/"}
+JSON: {"text": "2021年最火流行歌单top 16，值得单曲循环的宝藏歌曲合集（可后台播放）", "url": "https://www.bilibili.com/video/BV1C44y1p7Un/"}
+JSON: {"text": "20首值得单曲循环的动漫神曲！一首听一天！！【安利向】", "url": "https://www.bilibili.com/video/BV1L64y1Q7JK/"}
+JSON: {"text": "一首唯美的欧美民谣《Sleepyhead》又是单曲循环的一天！", "url": "https://www.bilibili.com/video/BV1Ky4y1e733/"}
+JSON: {"text": "盘点程响最火的十首歌，每一首都值得单曲循环，太好听了！", "url": "https://www.bilibili.com/video/BV16Y4y1Q75B/"}
+JSON: {"text": "2023年度热门歌曲Top30，哪首歌是你的单曲循环？", "url": "https://www.bilibili.com/video/BV1jp4y1d7aM/"}
+JSON: {"text": "2022年最火的50首破亿宝藏歌曲 值得单曲循环！开车/作业/运动", "url": "https://www.bilibili.com/video/BV1ej411F7UN/"}
+JSON: {"text": "开启单曲循环！是今日份温柔少年《夜记梦》，“十年生死两茫茫”，绝美分裂和声", "url": "https://www.bilibili.com/video/BV1tg411Q71T/"}
+JSON: {"text": ""超好听的旋律加敲可爱的少女音等于单曲循环！" | 《ハナタバ》| 日推歌单", "url": "https://www.bilibili.com/video/BV1qu4y167Gr/"}
+JSON: {"text": "这美妙的旋律，我可以单曲循环一整天《Go Solo》", "url": "https://www.bilibili.com/video/BV1M3411e71U/"}
+JSON: {"text": "Ghazali & Likenet Omri 单曲循环，超动听的阿语歌曲 | 好听的歌，动听的音乐，歌曲推荐，好歌推荐，小语种歌曲", "url": "https://www.bilibili.com/video/BV1im4y1L7kz/"}
+JSON: {"text": "好听到炸裂，嗓音绝美，忍不住单曲循环《control》", "url": "https://www.bilibili.com/video/BV1n14y1D7EQ/"}
+JSON: {"text": "终于找到这首“哦哦哦”的歌了，旋律太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1A5411x777/"}
+JSON: {"text": "盘点七月十首热门歌曲，每一首都值得单曲循环！", "url": "https://www.bilibili.com/video/BV1Mf4y1L7Hf/"}
+JSON: {"text": "单曲循环⎮我对你何止是执迷不悟《执迷不悟》DJ版 - 小乐哥 无损音质", "url": "https://www.bilibili.com/video/BV1CN41147NH/"}
+JSON: {"text": "【时长6个小时完整版】值得单曲循环宝藏音乐大合集！1080P无损音质，可后台播放带歌词，超好听先收藏起来吧！", "url": "https://www.bilibili.com/video/BV1ns4y1T78c/"}
+JSON: {"text": ""超好听的旋律加敲可爱的少女音等于单曲循环！" | 《ハナタバ》| 日推歌单", "url": "https://www.bilibili.com/video/BV1qu4y167Gr/"}
+JSON: {"text": "这十首越听越上瘾的英文歌简直是开口跪让你忍不住单曲循环一整天", "url": "https://www.bilibili.com/video/BV1qa4y1U7qX/"}
+JSON: {"text": "风靡全球的20首欧美乡村民谣，每一首都值得单曲循环一整天", "url": "https://www.bilibili.com/video/BV1F94y1z72K/"}
+JSON: {"text": "黄老板冠军单曲《Shape of You》，旋律动感洗脑，单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vy4y1G711/"}
+JSON: {"text": "2022年最火的50首破亿宝藏歌曲 值得单曲循环！开车/作业/运动", "url": "https://www.bilibili.com/video/BV1ej411F7UN/"}
+JSON: {"text": "自己单曲循环", "url": "https://www.bilibili.com/video/BV1Sz4y197dK/"}
+JSON: {"text": "【日推歌单】好听到可以单曲循环！！！《Free Loop》", "url": "https://www.bilibili.com/video/BV1MB4y1W79g/"}
+JSON: {"text": "世界上最好听的西语音乐合集！值得你单曲循环", "url": "https://www.bilibili.com/video/BV1mG4y1g7VE/"}
+JSON: {"text": "孙燕姿代表作《开始懂了》，一首超好听的歌，曾经无数次单曲循环", "url": "https://www.bilibili.com/video/BV1MP411v7ej/"}
+JSON: {"text": "最近火起来的这首《木偶戏》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1od4y1F7ZF/"}
+JSON: {"text": "最近超火的《少年》单曲循环很久了，你还是曾经那个少年吗？", "url": "https://www.bilibili.com/video/BV1d5411477M/"}
+JSON: {"text": "Ghazali & Likenet Omri 单曲循环，超动听的阿语歌曲 | 好听的歌，动听的音乐，歌曲推荐，好歌推荐，小语种歌曲", "url": "https://www.bilibili.com/video/BV1im4y1L7kz/"}
+JSON: {"text": "每天一首歌的时间，轻松瘦全身，活力燃脂健身操《单曲循环》", "url": "https://www.bilibili.com/video/BV1nP411c7zy/"}
+JSON: {"text": "50首火爆全网的欧美神曲，首首好听到炸，每一首都可以单曲循环一整天【弹幕破万 | 蓝光无损 | 值得收藏】", "url": "https://www.bilibili.com/video/BV1kg4y1M738/"}
+JSON: {"text": "巨人最终季究极上头版OP！可单曲循环！越听越上瘾！鬼知道我听了多少遍！", "url": "https://www.bilibili.com/video/BV1e5411G7o7/"}
+JSON: {"text": "最近突然火起来《沦陷》太好听了！单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1QZ4y1c7mX/"}
+JSON: {"text": "异域风情最棒！蜜嗓女高中生翻唱超火单曲《Señorita》，忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1hF411g7fQ/"}
+JSON: {"text": "2021上半年最火的10首古风歌曲，戏腔一出太惊艳了，值得单曲循环", "url": "https://www.bilibili.com/video/BV13b4y127oS/"}
+JSON: {"text": "【华夏】燃起来了！单曲循环根本停不下来 >>", "url": "https://www.bilibili.com/video/BV17C4y1o7x9/"}
+JSON: {"text": "一首常常单曲循环的英文歌《You're Somebody Else》男声真的太温柔了", "url": "https://www.bilibili.com/video/BV1qY4y1w7X7/"}
+JSON: {"text": "“单曲循环停不下来”《Stuck In Love》", "url": "https://www.bilibili.com/video/BV1RY4y1f7GA/"}
+JSON: {"text": "街头翻唱杨丞琳经典情歌《左边》，情深意浓，一听心就疼的一首歌，当年很多人都单曲循环了，你还记得这首歌吗？", "url": "https://www.bilibili.com/video/BV1bK4y1f7qw/"}
+JSON: {"text": "平静的惊艳《Title Guide to the Talkies》听起来很舒适", "url": "https://www.bilibili.com/video/BV1pN4y1G7Bf/"}
+JSON: {"text": "值得单曲循环的96首流行歌曲 精选爆款音乐 深夜洗脑", "url": "https://www.bilibili.com/video/BV1nK411k74a/"}
+JSON: {"text": "盘点2023年爆火全网的30首热门歌曲 哪一首值得让你单曲循环呢", "url": "https://www.bilibili.com/video/BV1Qe411z7C3/"}
+JSON: {"text": "粉丝推荐《快乐阿拉蕾》洗脑又好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1F94y1b7Nq/"}
+JSON: {"text": "4minute经典大热单曲《Hate》忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1CB4y1u7k2/"}
+JSON: {"text": "“单曲循环停不下来”《Stuck In Love》", "url": "https://www.bilibili.com/video/BV1RY4y1f7GA/"}
+JSON: {"text": "《山河令》里的插曲有多好听？旋律好听上头，每首都能单曲循环！", "url": "https://www.bilibili.com/video/BV18Y4y1w7Wn/"}
+JSON: {"text": "原唱VS翻唱《遗失的心跳》，单曲循环到天明，高手在民间", "url": "https://www.bilibili.com/video/BV1ke4y1s7UP/"}
+JSON: {"text": "最近这首《故里逢春》火了，到底有多好听？忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1hh411y7LU/"}
+JSON: {"text": "孙燕姿代表作《开始懂了》，一首超好听的歌，曾经无数次单曲循环", "url": "https://www.bilibili.com/video/BV1MP411v7ej/"}
+JSON: {"text": "盘点2022年10月火起来的8首破“亿”神曲，每首都值得单曲循环!", "url": "https://www.bilibili.com/video/BV1uP411A7Y1/"}
+JSON: {"text": "巨人最终季究极上头版OP！可单曲循环！越听越上瘾！鬼知道我听了多少遍！", "url": "https://www.bilibili.com/video/BV1e5411G7o7/"}
+JSON: {"text": "一首常常单曲循环的英文歌《You're Somebody Else》男声真的太温柔了", "url": "https://www.bilibili.com/video/BV1qY4y1w7X7/"}
+JSON: {"text": "盘点2023年爆火全网的30首热门歌曲 哪一首值得让你单曲循环呢", "url": "https://www.bilibili.com/video/BV1Qe411z7C3/"}
+JSON: {"text": "男孩子单曲循环的五首歌曲谁要是全部听过你这个月的奶茶我包了", "url": "https://www.bilibili.com/video/BV1mk4y1s7Lf/"}
+JSON: {"text": "《Love The Way You Lie》| 当哈娜遇上啊姆、不羁和放纵就已经深入骨子里.。", "url": "https://www.bilibili.com/video/BV1DF41147ZJ/"}
+JSON: {"text": "《Trail Of Broken Hearts》| 我相信这首歌，总有一天会火的！", "url": "https://www.bilibili.com/video/BV1T44y1T7xx/"}
+JSON: {"text": "最近突然火起来的《失控》太好听了！单曲循环了好多遍", "url": "https://www.bilibili.com/video/BV1xK4y1W75V/"}
+JSON: {"text": "单曲循环⎮我对你何止是执迷不悟《执迷不悟》DJ版 - 小乐哥 无损音质", "url": "https://www.bilibili.com/video/BV1CN41147NH/"}
+JSON: {"text": "这首歌很温暖《And the Winner Is》我听了一遍 陷入单曲循环", "url": "https://www.bilibili.com/video/BV1zV4y1E726/"}
+JSON: {"text": "盘点2022年4月份火起来的十首破“亿”神曲，每首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1xr4y1n7Zo/"}
+JSON: {"text": "[时长6小时年度最好听的100首合集] 00后歌曲合集、二次元动漫混剪、治愈动漫、热门歌曲、经典音乐、华语流行音乐、网络热歌、值得你单曲循环的歌曲合集", "url": "https://www.bilibili.com/video/BV1fK411i7Vq/"}
+JSON: {"text": "最近突然火起来的《Hey》太好听了吧！旋律洗脑，单曲循环很多遍！", "url": "https://www.bilibili.com/video/BV1HJ41187k9/"}
+JSON: {"text": "值得你单曲循环的100首音乐合集开车 作业 运动 都可听", "url": "https://www.bilibili.com/video/BV1fX4y1U7Dk/"}
+JSON: {"text": "【时光音乐会】重塑回忆里的经典 老歌新唱 刷新记忆 经典歌曲100首 无损音质 分集播放 单曲循环一整体", "url": "https://www.bilibili.com/video/BV1h24y1A7p6/"}
+JSON: {"text": "张碧晨一首《渡红尘》，唱的太催泪了，单曲循环好多遍！", "url": "https://www.bilibili.com/video/BV1wr4y1v7Ce/"}
+JSON: {"text": "因为这首歌才知道《Yellow》原来还有胆怯的意思", "url": "https://www.bilibili.com/video/BV1cY4y157nE/"}
+JSON: {"text": "《大眠》- 汪苏泷（cover）单曲循环纯享版", "url": "https://www.bilibili.com/video/BV1m14y1p72p/"}
+JSON: {"text": "终于找到这首一直喊“哒哒哒”的歌了！旋律洗脑，单曲循环好多遍", "url": "https://www.bilibili.com/video/BV147411a7DQ/"}
+JSON: {"text": "2023伍佰《枫叶》再次火遍全网，单曲循环！！", "url": "https://www.bilibili.com/video/BV18h4y1J7Dm/"}
+JSON: {"text": "《就让这大雨全都落下》- 汪苏泷(cover) 单曲循环纯享版合集", "url": "https://www.bilibili.com/video/BV19G4y1R7pU/"}
+JSON: {"text": "一首旋律超轻快的日文歌  “我漫无目的地 一直寻找着”《さがしもの》| Humbert Humbert|众里寻他千百度，蓦然回首，那人却在灯火阑珊处", "url": "https://www.bilibili.com/video/BV1av4y147HL/"}
+JSON: {"text": "程响一首播放量破50亿的神曲《等你归来》，磁性的嗓音，单曲循环", "url": "https://www.bilibili.com/video/BV1cs4y1c7ie/"}
+JSON: {"text": "最近突然火起来的《take it off》太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1DT4y1g7nw/"}
+JSON: {"text": "《天公不作美》(DJ版)这首歌太上头了，单曲循环", "url": "https://www.bilibili.com/video/BV18p4y1t74i/"}
+JSON: {"text": "油管播放破亿的《Wellerman》单曲循环，太上头了！", "url": "https://www.bilibili.com/video/BV15W4y1a7y3/"}
+JSON: {"text": "2023伍佰《枫叶》再次火遍全网，单曲循环！！", "url": "https://www.bilibili.com/video/BV18h4y1J7Dm/"}
+JSON: {"text": "盘点2023最新火起来的10首“破亿神曲”，每首都值得单曲循环！", "url": "https://www.bilibili.com/video/BV1dj41157Yu/"}
+JSON: {"text": "一首旋律超轻快的日文歌  “我漫无目的地 一直寻找着”《さがしもの》| Humbert Humbert|众里寻他千百度，蓦然回首，那人却在灯火阑珊处", "url": "https://www.bilibili.com/video/BV1av4y147HL/"}
+JSON: {"text": "2022年六大emo神曲，每首都能单曲循环，你果然还是忘不掉她吗？", "url": "https://www.bilibili.com/video/BV16L4y1T7Cr/"}
+JSON: {"text": "张碧晨一首《渡红尘》，唱的太催泪了，单曲循环好多遍！", "url": "https://www.bilibili.com/video/BV1wr4y1v7Ce/"}
+JSON: {"text": "马赛克乐队《霓虹甜心》现场蹦迪，复古迪斯科，单曲循环", "url": "https://www.bilibili.com/video/BV1WK4y1n7st/"}
+JSON: {"text": "盘点2022年10月火起来的8首破“亿”神曲，每首都值得单曲循环!", "url": "https://www.bilibili.com/video/BV1uP411A7Y1/"}
+JSON: {"text": "【日漫歌曲】[精选100首值得单曲循环的经典日漫音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1C14y1s7sA/"}
+JSON: {"text": "2019年至2023年一年一首emo神曲，每一首都值得在深夜单曲循环！", "url": "https://www.bilibili.com/video/BV1PA411U77j/"}
+JSON: {"text": "最近突然火起来的《take it off》太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1DT4y1g7nw/"}
+JSON: {"text": "#自学舞蹈日常 又是一首单曲循环的经典神曲，刘宪华的《Trap》，这首破亿播放量的神曲真的太好听啦~~", "url": "https://www.bilibili.com/video/BV1GZ4y1r7h9/"}
+JSON: {"text": "【银临】热门古风精选歌曲合集(分集播放 无损音质 持续更新) 总有一些古风歌曲 忍不住单曲循环 中国风歌曲 古风歌曲 热门戏腔", "url": "https://www.bilibili.com/video/BV1ng4y1s7Di/"}
+JSON: {"text": "{欧美必听&循环}那些年我们单曲循环无数次的欧美歌曲 ，旋律一响我的DNA就动起来了，无限循环播放", "url": "https://www.bilibili.com/video/BV19d4y1E7Cw/"}
+JSON: {"text": "单曲循环！武警原创Rap《忠诚誓言》", "url": "https://www.bilibili.com/video/BV1sc411G7XP/"}
+JSON: {"text": "【全网超好听古风戏腔100首歌曲】古风戏腔音乐歌曲合集、经典音乐单曲循环播放、热门古风音乐推荐 无损音质！！", "url": "https://www.bilibili.com/video/BV1Ug4y1n7Pm/"}
+JSON: {"text": "一口气带你听完25年前的40首炸街神曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1Rs4y1q7di/"}
+JSON: {"text": "“这首歌是未来一周的单曲循环吧”||《six weeks》", "url": "https://www.bilibili.com/video/BV1Tj41117fJ/"}
+JSON: {"text": "【华夏】燃起来了！单曲循环根本停不下来 >>", "url": "https://www.bilibili.com/video/BV17C4y1o7x9/"}
+JSON: {"text": "10首火遍全国的闽南语歌曲，即使听不懂歌词，也要一直单曲循环", "url": "https://www.bilibili.com/video/BV1or4y1C7Wz/"}
+JSON: {"text": "最近突然火的《漠河舞厅》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Mv411M7Jb/"}
+JSON: {"text": "「Brave Blazar」单曲循环两万遍 布莱泽奥特曼ED2  我们同样闪耀！！！！！", "url": "https://www.bilibili.com/video/BV1Gj411p78B/"}
+JSON: {"text": "最近这首《故里逢春》火了，到底有多好听？忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1hh411y7LU/"}
+JSON: {"text": "全网最燃！！指弹吉他版《曹操》可以单曲循环的高质量吉他演奏", "url": "https://www.bilibili.com/video/BV1s34y1R7BE/"}
+JSON: {"text": "值得单曲循环的英文歌曲《Go Solo》在路上，我们永远年轻，永远热泪盈眶！", "url": "https://www.bilibili.com/video/BV1PP4y1j7jD/"}
+JSON: {"text": "盘点全网播放量最高的十首古风歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV18Y4y1k7Ly/"}
+JSON: {"text": "【单曲循环一亿次的民谣歌单】唱进心窝里的民谣  如果你也喜欢听民谣 可以听听这个歌单！", "url": "https://www.bilibili.com/video/BV1s14y1Z7qD/"}
+JSON: {"text": "超市连续10天单曲循环一首歌，被投诉后…这家超市改成了三首循环…", "url": "https://www.bilibili.com/video/BV1rz4y197KM/"}
+JSON: {"text": "韩剧OST | 那些年单曲循环的神级战歌（持更）", "url": "https://www.bilibili.com/video/BV1x84y1V7Xb/"}
+JSON: {"text": "粤语版的《兄弟想你了》你听过吗，很有味道，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1ca411w7xj/"}
+JSON: {"text": "冬日的第一缕光，适合午后单曲循环——《第一缕光》", "url": "https://www.bilibili.com/video/BV1b94y1c7Y3/"}
+JSON: {"text": "10首火遍全国的闽南语歌曲，即使听不懂歌词，也要一直单曲循环", "url": "https://www.bilibili.com/video/BV1or4y1C7Wz/"}
+JSON: {"text": "盘点程响最火的十首歌，每一首都值得单曲循环，太好听了！", "url": "https://www.bilibili.com/video/BV16Y4y1Q75B/"}
+JSON: {"text": "2022一夜封神的5首歌，到底有多好听，网友：已经单曲循环好多天了", "url": "https://www.bilibili.com/video/BV1dY411g7ej/"}
+JSON: {"text": "那 些 不 听 后 悔 ， 听 了 恨 不 得 单 曲 循 环 的 韩 剧 OST ！！！", "url": "https://www.bilibili.com/video/BV17t4y1v719/"}
+JSON: {"text": "粤语版的《兄弟想你了》你听过吗，很有味道，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1ca411w7xj/"}
+JSON: {"text": "“一念成佛，一念成魔”，这首《佛说》喊麦太好听，单曲循环了", "url": "https://www.bilibili.com/video/BV11t4y1C7ME/"}
+JSON: {"text": "原唱VS翻唱《遗失的心跳》，单曲循环到天明，高手在民间", "url": "https://www.bilibili.com/video/BV1ke4y1s7UP/"}
+JSON: {"text": "周思涵《过客》无损音质完整版饭制MV，太经典了，不知道单曲循环了多少遍", "url": "https://www.bilibili.com/video/BV17841157DL/"}
+JSON: {"text": "【精选2023年最受欢迎的50首歌曲】值得你单曲循环的50首音乐  经典流行 值得收藏", "url": "https://www.bilibili.com/video/BV1PV4y1Z7hL/"}
+JSON: {"text": "盘点3月最热门的八首歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1ob4y1H7pY/"}
+JSON: {"text": "【经典粤语】精选200首大合集(带歌词 分集播放 持续更新) 粤语可以不会说 但粤语歌不可以不会唱 每一首都是曾经的单曲循环  开车必备 经典老歌", "url": "https://www.bilibili.com/video/BV1mY4y1R7XU/"}
+JSON: {"text": "欧美听歌识曲榜前十歌曲，每首都能单曲循环，哪一首你还没听过？", "url": "https://www.bilibili.com/video/BV1RT4y1X7hw/"}
+JSON: {"text": "那些火出圈的神仙翻唱！一首比一首绝，想单曲循环一万遍！", "url": "https://www.bilibili.com/video/BV1Wd4y1m7g6/"}
+JSON: {"text": "2023年度热门歌曲Top30，哪首歌是你的单曲循环？", "url": "https://www.bilibili.com/video/BV1jp4y1d7aM/"}
+JSON: {"text": "【周深】深深站着唱《左手指月》了！！！单曲循环走起！！！", "url": "https://www.bilibili.com/video/BV1G7411v7nG/"}
+JSON: {"text": "【明日方舟/高音质】危机合约—破碎大道BGM【单曲循环】", "url": "https://www.bilibili.com/video/BV1n7411R7AE/"}
+JSON: {"text": "【AA编舞】Streets 一首单曲循环三天的歌终于下手了！基础延伸控制系", "url": "https://www.bilibili.com/video/BV1Ep4y1t7xa/"}
+JSON: {"text": "一开口就注定要单曲循环", "url": "https://www.bilibili.com/video/BV1dV4y1a74f/"}
+JSON: {"text": "【网易云宝藏歌单】值得你单曲循环一万遍的100首宝藏热歌合集！", "url": "https://www.bilibili.com/video/BV1Hh4y1c7QC/"}
+JSON: {"text": "听到前奏就瞬间喜欢的一首歌《Undo》然后开始单曲循环", "url": "https://www.bilibili.com/video/BV1w14y1t74o/"}
+JSON: {"text": "飙升榜音乐合集  值得你单曲循环的70首中文歌曲合集 无损音质", "url": "https://www.bilibili.com/video/BV18x4y1N7wQ/"}
+JSON: {"text": "最近突然火起来的《Wake》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1i44y1v7Ky/"}
+JSON: {"text": "【回忆杀】那些年单曲循环过的K-POP(男团版)", "url": "https://www.bilibili.com/video/BV12j411s7bb/"}
+JSON: {"text": "盘点2022年4月份火起来的十首破“亿”神曲，每首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1xr4y1n7Zo/"}
+JSON: {"text": "“这首歌是未来一周的单曲循环吧”||《six weeks》", "url": "https://www.bilibili.com/video/BV1Tj41117fJ/"}
+JSON: {"text": "【大司马唱歌】马老师唱得最好听的几首歌曲，最后一首忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1g7411V7hA/"}
+JSON: {"text": "【单曲循环一亿次的民谣歌单】唱进心窝里的民谣  如果你也喜欢听民谣 可以听听这个歌单！", "url": "https://www.bilibili.com/video/BV1s14y1Z7qD/"}
+JSON: {"text": "冬日的第一缕光，适合午后单曲循环——《第一缕光》", "url": "https://www.bilibili.com/video/BV1b94y1c7Y3/"}
+JSON: {"text": "《Sweet Liar》| 听了N次，还是这歌好听，让我一直想着她！", "url": "https://www.bilibili.com/video/BV1Yr4y1q7st/"}
+JSON: {"text": "最近突然火起来的《Wake》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1i44y1v7Ky/"}
+JSON: {"text": "最近突然火起来的《ring ring ring》太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1VU4y1E7Lc/"}
+JSON: {"text": "盘点王靖雯七首超好听的歌曲，每一首都值得单曲循环。", "url": "https://www.bilibili.com/video/BV1rQ4y1D7QX/"}
+JSON: {"text": "【回忆杀】那些年单曲循环过的K-POP(男团版)", "url": "https://www.bilibili.com/video/BV12j411s7bb/"}
+JSON: {"text": "【AA编舞】Streets 一首单曲循环三天的歌终于下手了！基础延伸控制系", "url": "https://www.bilibili.com/video/BV1Ep4y1t7xa/"}
+JSON: {"text": "【周深】深深站着唱《左手指月》了！！！单曲循环走起！！！", "url": "https://www.bilibili.com/video/BV1G7411v7nG/"}
+JSON: {"text": "最近超火的4首古风宝藏歌曲，戏腔一出太惊艳了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Pi4y1t7uW/"}
+JSON: {"text": "好听的华语金曲TOP100 那些年我们听过的华语金曲 每一首都值得单曲循环 无损音质", "url": "https://www.bilibili.com/video/BV1eg4y1b7Tm/"}
+JSON: {"text": "单曲循环把你拿下！一些好听又听不腻的歌曲们~神仙歌单分享2.0！i人捕获器吧嘻嘻", "url": "https://www.bilibili.com/video/BV1NC4y157u5/"}
+JSON: {"text": "第三弹[杜比音效][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1tU4y1R7gW/"}
+JSON: {"text": "原唱VS翻唱《遗失的心跳》，单曲循环到天明，高手在民间", "url": "https://www.bilibili.com/video/BV1ke4y1s7UP/"}
+JSON: {"text": "粉丝推荐《快乐阿拉蕾》洗脑又好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1F94y1b7Nq/"}
+JSON: {"text": "盘点最近火爆全网的五首神仙歌曲，每一首都值得你单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1y8411876N/"}
+JSON: {"text": "【文爱】某云下架版本", "url": "https://www.bilibili.com/video/BV1wE411A7J1/"}
+JSON: {"text": "1分钟打击乐演奏5首超燃金属英文歌曲，每一首都能单曲循环！", "url": "https://www.bilibili.com/video/BV1i3411M7cR/"}
+JSON: {"text": "【单曲循环】忘れじの言の葉", "url": "https://www.bilibili.com/video/BV1pE411n7QY/"}
+JSON: {"text": "最近火起来的《Lone Ranger》太好听了！忍不住单曲循环！", "url": "https://www.bilibili.com/video/BV1734y1Z7jR/"}
+JSON: {"text": "歌单分享｜超好听！单曲循环了很多年的歌！", "url": "https://www.bilibili.com/video/BV1wD4y1m7PV/"}
+JSON: {"text": "值得单曲循环的夏日曲目《Summer Vibe》轻快的旋律，拯救不开心！", "url": "https://www.bilibili.com/video/BV1SK4y1L79X/"}
+JSON: {"text": "爆火的古风神曲《赐我》，戏腔绝美，让人忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1B14y1M7eW/"}
+JSON: {"text": "#自学舞蹈日常 又是一首单曲循环的经典神曲，刘宪华的《Trap》，这首破亿播放量的神曲真的太好听啦~~", "url": "https://www.bilibili.com/video/BV1GZ4y1r7h9/"}
+JSON: {"text": "欧美听歌识曲榜前十歌曲，每首都能单曲循环，哪一首你还没听过？", "url": "https://www.bilibili.com/video/BV1RT4y1X7hw/"}
+JSON: {"text": "最近突然火起来的日语歌《千年的祈祷》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV177411V7pH/"}
+JSON: {"text": "歌单分享｜超好听！单曲循环了很多年的歌！", "url": "https://www.bilibili.com/video/BV1wD4y1m7PV/"}
+JSON: {"text": "爆火的古风神曲《赐我》，戏腔绝美，让人忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1B14y1M7eW/"}
+JSON: {"text": "#自学舞蹈日常 又是一首单曲循环的经典神曲，刘宪华的《Trap》，这首破亿播放量的神曲真的太好听啦~~", "url": "https://www.bilibili.com/video/BV1GZ4y1r7h9/"}
+JSON: {"text": "2022最带劲的“破亿”神曲！到底有多上头，网友：单曲循环一整夜", "url": "https://www.bilibili.com/video/BV1sY4y1p7ub/"}
+JSON: {"text": "听到前奏就瞬间喜欢的一首歌《Undo》然后开始单曲循环", "url": "https://www.bilibili.com/video/BV1w14y1t74o/"}
+JSON: {"text": "单曲循环把你拿下！一些好听又听不腻的歌曲们~神仙歌单分享2.0！i人捕获器吧嘻嘻", "url": "https://www.bilibili.com/video/BV1NC4y157u5/"}
+JSON: {"text": "那些年来自台湾的炸街金曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV18a4y1G7yw/"}
+JSON: {"text": "真好听的一首歌《Angel Baby》陶醉，真甜", "url": "https://www.bilibili.com/video/BV1V94y1Q7oj/"}
+JSON: {"text": "每天一首歌的时间，轻松瘦全身，活力燃脂健身操《单曲循环》", "url": "https://www.bilibili.com/video/BV1nP411c7zy/"}
+JSON: {"text": "【灵感爆发】如何快速做出让人忍不住单曲循环的Beat？| 新手零基础入门编曲教程 | 音乐制作教学 | 旋律和弦鼓组", "url": "https://www.bilibili.com/video/BV1AQ4y1M7xt/"}
+JSON: {"text": "值得单曲循环的夏日曲目《Summer Vibe》轻快的旋律，拯救不开心！", "url": "https://www.bilibili.com/video/BV1SK4y1L79X/"}
+JSON: {"text": "《Trail Of Broken Hearts》| 我相信这首歌，总有一天会火的！", "url": "https://www.bilibili.com/video/BV1T44y1T7xx/"}
+JSON: {"text": "最近这首《故里逢春》火了，到底有多好听？忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1hh411y7LU/"}
+JSON: {"text": "20首值得单曲循环的动漫ED！一首听一天！！", "url": "https://www.bilibili.com/video/BV1HA411L799/"}
+JSON: {"text": "最近突然火起来的《后会无期》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1XE411w7yv/"}
+JSON: {"text": "值得单曲循环的英文歌曲《Go Solo》在路上，我们永远年轻，永远热泪盈眶！", "url": "https://www.bilibili.com/video/BV1PP4y1j7jD/"}
+JSON: {"text": "单曲循环预警！《不屈的信仰》奋斗的青春 一起努力努力再努力！", "url": "https://www.bilibili.com/video/BV15p4y1Q7x2/"}
+JSON: {"text": "2021年最火的四首热门歌曲，每首都忍不住单曲循环，太洗脑了", "url": "https://www.bilibili.com/video/BV1Gf4y1s7ZH/"}
+JSON: {"text": "【经典粤语】精选200首大合集(带歌词 分集播放 持续更新) 粤语可以不会说 但粤语歌不可以不会唱 每一首都是曾经的单曲循环  开车必备 经典老歌", "url": "https://www.bilibili.com/video/BV1mY4y1R7XU/"}
+JSON: {"text": "让翻唱彻底“绝望”的歌手！一开嗓堪比妖仙，单曲循环都听不过瘾", "url": "https://www.bilibili.com/video/BV1GS4y197U7/"}
+JSON: {"text": "正如这首歌名一样《Hooked》当第一次听这首歌就为其深深入迷", "url": "https://www.bilibili.com/video/BV1xP4y1o7AX/"}
+JSON: {"text": "“这首好绝 近期单曲循环”《Pain》|日推歌单", "url": "https://www.bilibili.com/video/BV1ux4y1E7kt/"}
+JSON: {"text": "一开口就注定要单曲循环", "url": "https://www.bilibili.com/video/BV1dV4y1a74f/"}
+JSON: {"text": "最近突然火起来的《ring ring ring》太洗脑了，单曲循环了很多遍", "url": "https://www.bilibili.com/video/BV1VU4y1E7Lc/"}
+JSON: {"text": "【明日方舟/钢琴】Hunter’s Song单曲循环一天，太好听了！三周年直播片尾曲（三个猎人走上岸♪）", "url": "https://www.bilibili.com/video/BV1zA4y1D7o8/"}
+JSON: {"text": "「Brave Blazar」单曲循环两万遍 布莱泽奥特曼ED2  我们同样闪耀！！！！！", "url": "https://www.bilibili.com/video/BV1Gj411p78B/"}
+JSON: {"text": "【高品质音乐】网易云评论过10W+精选歌单 每一首都值得你单曲循环", "url": "https://www.bilibili.com/video/BV1sj411g7wP/"}
+JSON: {"text": "【魔性演唱】大家一起喜羊羊丨建议单曲循环", "url": "https://www.bilibili.com/video/BV13741157vH/"}
+JSON: {"text": "盘点3月最热门的八首歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1ob4y1H7pY/"}
+JSON: {"text": "最近超火的4首古风宝藏歌曲，戏腔一出太惊艳了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Pi4y1t7uW/"}
+JSON: {"text": "单曲循环把你拿下！一些好听又听不腻的歌曲们~神仙歌单分享2.0！i人捕获器吧嘻嘻", "url": "https://www.bilibili.com/video/BV1NC4y157u5/"}
+JSON: {"text": "第三弹[杜比音效][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1tU4y1R7gW/"}
+JSON: {"text": "10首火遍全国的闽南语歌曲，即使听不懂歌词，也要一直单曲循环", "url": "https://www.bilibili.com/video/BV1or4y1C7Wz/"}
+JSON: {"text": "盘点最近火爆全网的五首神仙歌曲，每一首都值得你单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1y8411876N/"}
+JSON: {"text": "【单曲循环】忘れじの言の葉", "url": "https://www.bilibili.com/video/BV1pE411n7QY/"}
+JSON: {"text": "好听的华语金曲TOP100 那些年我们听过的华语金曲 每一首都值得单曲循环 无损音质", "url": "https://www.bilibili.com/video/BV1eg4y1b7Tm/"}
+JSON: {"text": "粤语版的《兄弟想你了》你听过吗，很有味道，忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1ca411w7xj/"}
+JSON: {"text": "歌单分享｜超好听！单曲循环了很多年的歌！", "url": "https://www.bilibili.com/video/BV1wD4y1m7PV/"}
+JSON: {"text": "值得单曲循环的夏日曲目《Summer Vibe》轻快的旋律，拯救不开心！", "url": "https://www.bilibili.com/video/BV1SK4y1L79X/"}
+JSON: {"text": "2022最带劲的“破亿”神曲！到底有多上头，网友：单曲循环一整夜", "url": "https://www.bilibili.com/video/BV1sY4y1p7ub/"}
+JSON: {"text": "欧美听歌识曲榜前十歌曲，每首都能单曲循环，哪一首你还没听过？", "url": "https://www.bilibili.com/video/BV1RT4y1X7hw/"}
+JSON: {"text": "最近突然火起来的日语歌《千年的祈祷》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV177411V7pH/"}
+JSON: {"text": "【大司马唱歌】马老师唱得最好听的几首歌曲，最后一首忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1g7411V7hA/"}
+JSON: {"text": "听到前奏就瞬间喜欢的一首歌《Undo》然后开始单曲循环", "url": "https://www.bilibili.com/video/BV1w14y1t74o/"}
+JSON: {"text": "【文爱】某云下架版本", "url": "https://www.bilibili.com/video/BV1wE411A7J1/"}
+JSON: {"text": "【回忆杀】那些年单曲循环过的K-POP(男团版)", "url": "https://www.bilibili.com/video/BV12j411s7bb/"}
+JSON: {"text": "一开口就注定要单曲循环", "url": "https://www.bilibili.com/video/BV1dV4y1a74f/"}
+JSON: {"text": "最近突然火的《漠河舞厅》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Mv411M7Jb/"}
+JSON: {"text": "最近突然火起来的《后会无期》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1XE411w7yv/"}
+JSON: {"text": "你单曲循环的歌是什么？", "url": "https://www.bilibili.com/video/BV1fp4y1N7ms/"}
+JSON: {"text": "2022年最火歌曲串烧，每一首都火遍全网，听完就想单曲循环", "url": "https://www.bilibili.com/video/BV1KL411A789/"}
+JSON: {"text": "一开口就注定要单曲循环", "url": "https://www.bilibili.com/video/BV1dV4y1a74f/"}
+JSON: {"text": "【周深】深深站着唱《左手指月》了！！！单曲循环走起！！！", "url": "https://www.bilibili.com/video/BV1G7411v7nG/"}
+JSON: {"text": "最近突然火起来的《后会无期》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1XE411w7yv/"}
+JSON: {"text": "一口气带你听完25年前的40首炸街神曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1Rs4y1q7di/"}
+JSON: {"text": "20首值得单曲循环的动漫ED！一首听一天！！", "url": "https://www.bilibili.com/video/BV1HA411L799/"}
+JSON: {"text": "第三弹[杜比音效][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1tU4y1R7gW/"}
+JSON: {"text": "最近超火的4首古风宝藏歌曲，戏腔一出太惊艳了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Pi4y1t7uW/"}
+JSON: {"text": "单曲循环预警！《不屈的信仰》奋斗的青春 一起努力努力再努力！", "url": "https://www.bilibili.com/video/BV15p4y1Q7x2/"}
+JSON: {"text": "2021年最火的四首热门歌曲，每首都忍不住单曲循环，太洗脑了", "url": "https://www.bilibili.com/video/BV1Gf4y1s7ZH/"}
+JSON: {"text": "欧美听歌识曲榜前十歌曲，每首都能单曲循环，哪一首你还没听过？", "url": "https://www.bilibili.com/video/BV1RT4y1X7hw/"}
+JSON: {"text": "一首超好听的古风,郑国锋的《倾城一笑》，果断单曲循环", "url": "https://www.bilibili.com/video/BV11Z4y1M733/"}
+JSON: {"text": "你单曲循环的歌是什么？", "url": "https://www.bilibili.com/video/BV1fp4y1N7ms/"}
+JSON: {"text": "十几年前单曲循环，如今却想不起名字的英文歌，你还能通关几首？", "url": "https://www.bilibili.com/video/BV14N411i7NN/"}
+JSON: {"text": "让翻唱彻底“绝望”的歌手！一开嗓堪比妖仙，单曲循环都听不过瘾", "url": "https://www.bilibili.com/video/BV1GS4y197U7/"}
+JSON: {"text": "【高质量粤语歌单】精选100首经典粤语金曲，每一首都值得单曲循环一万遍！", "url": "https://www.bilibili.com/video/BV1qm4y1C7XM/"}
+JSON: {"text": "【魔性演唱】大家一起喜羊羊丨建议单曲循环", "url": "https://www.bilibili.com/video/BV13741157vH/"}
+JSON: {"text": "“这首好绝 近期单曲循环”《Pain》|日推歌单", "url": "https://www.bilibili.com/video/BV1ux4y1E7kt/"}
+JSON: {"text": "像是一首 无法停止单曲循环的无名歌", "url": "https://www.bilibili.com/video/BV1S34y1g7T6/"}
+JSON: {"text": "【明日方舟/钢琴】Hunter’s Song单曲循环一天，太好听了！三周年直播片尾曲（三个猎人走上岸♪）", "url": "https://www.bilibili.com/video/BV1zA4y1D7o8/"}
+JSON: {"text": "【灵感爆发】如何快速做出让人忍不住单曲循环的Beat？| 新手零基础入门编曲教程 | 音乐制作教学 | 旋律和弦鼓组", "url": "https://www.bilibili.com/video/BV1AQ4y1M7xt/"}
+JSON: {"text": "原来这些歌都是李荣浩创作的，单曲循环好听到不行！", "url": "https://www.bilibili.com/video/BV1ZY411W7jd/"}
+JSON: {"text": "【明日方舟/高音质】危机合约—破碎大道BGM【单曲循环】", "url": "https://www.bilibili.com/video/BV1n7411R7AE/"}
+JSON: {"text": "盘点2021上半年最火的十首热歌，每首都能单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1SV411p7RD/"}
+JSON: {"text": "每首都单曲循环！2022超绝广播剧主役曲盘点---一出主题曲就催主役不是没有原因的", "url": "https://www.bilibili.com/video/BV1MG4y1y7uR/"}
+JSON: {"text": "BTS Butter燃脂舞，单曲循环 快乐就完！", "url": "https://www.bilibili.com/video/BV1w64y167id/"}
+JSON: {"text": "盘点最近火起来的10首破“亿”神曲，每首都值得单曲循环！", "url": "https://www.bilibili.com/video/BV16Q4y1h7F2/"}
+JSON: {"text": "盘点最近火爆全网的五首神仙歌曲，每一首都值得你单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1y8411876N/"}
+JSON: {"text": "樱花树下的约定这首歌就是他唱火的，一开口就单曲循环了#热歌热门分享", "url": "https://www.bilibili.com/video/BV1qK4y1d7d7/"}
+JSON: {"text": "“好听到单曲循环的宝藏音乐。”—《Outta Sight (Outta Mind)》", "url": "https://www.bilibili.com/video/BV1FG411K7mF/"}
+JSON: {"text": "【时长6个小时完整版】值得单曲循环宝藏音乐大合集！1080P无损音质，可后台播放带歌词，超好听先收藏起来吧！", "url": "https://www.bilibili.com/video/BV1ns4y1T78c/"}
+JSON: {"text": "【明日方舟/钢琴】Hunter’s Song单曲循环一天，太好听了！三周年直播片尾曲（三个猎人走上岸♪）", "url": "https://www.bilibili.com/video/BV1zA4y1D7o8/"}
+JSON: {"text": "总有一首歌，从当时的单曲循环，到现在连前奏都听不了。。。。", "url": "https://www.bilibili.com/video/BV1rr4y137YD/"}
+JSON: {"text": "最近突然火起来的《Every time we touch》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12r4y137qg/"}
+JSON: {"text": "【4K修复】谢谢跳地！谢谢黄子！谁懂啊，14天过去了我还在单曲循环出不来。", "url": "https://www.bilibili.com/video/BV15z4y177bA/"}
+JSON: {"text": "盘点2023年爆火全网的30首热门歌曲 哪一首值得让你单曲循环呢", "url": "https://www.bilibili.com/video/BV1Qe411z7C3/"}
+JSON: {"text": "程响一首播放量破50亿的神曲《等你归来》，磁性的嗓音，单曲循环", "url": "https://www.bilibili.com/video/BV1cs4y1c7ie/"}
+JSON: {"text": "你也在单曲循环《红颜如霜》吗？｜翻唱Live 未修音版", "url": "https://www.bilibili.com/video/BV1Dg411Z7AD/"}
+JSON: {"text": "《大眠》- 汪苏泷（cover）单曲循环纯享版", "url": "https://www.bilibili.com/video/BV1m14y1p72p/"}
+JSON: {"text": "【魔性演唱】大家一起喜羊羊丨建议单曲循环", "url": "https://www.bilibili.com/video/BV13741157vH/"}
+JSON: {"text": "原来这些歌都是李荣浩创作的，单曲循环好听到不行！", "url": "https://www.bilibili.com/video/BV1ZY411W7jd/"}
+JSON: {"text": "七叔最新古风歌曲《半生雪》开口脆这几天已经单曲循环", "url": "https://www.bilibili.com/video/BV1co4y117H7/"}
+JSON: {"text": "谁能想到这么洗脑的旋律竟然是胡彦斌带着学员现场写出来的。网友：给我单曲循环一百遍！", "url": "https://www.bilibili.com/video/BV1xo4y1h7dw/"}
+JSON: {"text": "看完综艺单曲循环的却是这首？巨好听！——许嵩2017演唱会改编版本", "url": "https://www.bilibili.com/video/BV13Q4y1y7R3/"}
+JSON: {"text": "真好听的一首歌《Angel Baby》陶醉，真甜", "url": "https://www.bilibili.com/video/BV1V94y1Q7oj/"}
+JSON: {"text": "谁懂突然听见单依纯唱了说爱你！！！我直接摇摆起来 就让我单曲循环一百遍吧别管我了", "url": "https://www.bilibili.com/video/BV1FN411g7wR/"}
+JSON: {"text": "# 直观感受到了汪苏泷的实力 原来自己单曲循环的歌都是汪苏泷写的", "url": "https://www.bilibili.com/video/BV1Ta4y1M77m/"}
+JSON: {"text": "【灵感爆发】如何快速做出让人忍不住单曲循环的Beat？| 新手零基础入门编曲教程 | 音乐制作教学 | 旋律和弦鼓组", "url": "https://www.bilibili.com/video/BV1AQ4y1M7xt/"}
+JSON: {"text": "【✨幸运配比✨】已经开始单曲循环~", "url": "https://www.bilibili.com/video/BV1aV411L7FX/"}
+JSON: {"text": "2022最带劲的“破亿”神曲！到底有多上头，网友：单曲循环一整夜", "url": "https://www.bilibili.com/video/BV1sY4y1p7ub/"}
+JSON: {"text": "2023春晚杀疯了!《一路生花》一夜封神刷爆全网，网友：单曲循环", "url": "https://www.bilibili.com/video/BV1dD4y1n7Pt/"}
+JSON: {"text": "BTS Butter燃脂舞，单曲循环 快乐就完！", "url": "https://www.bilibili.com/video/BV1w64y167id/"}
+JSON: {"text": "你单曲循环过的trap是哪首？", "url": "https://www.bilibili.com/video/BV1tG411t7sd/"}
+JSON: {"text": "《绝区零》官网BGM | 单曲循环，让腿抖个不停！", "url": "https://www.bilibili.com/video/BV1BL4y1F7wJ/"}
+JSON: {"text": "百万中文填词版《打上花火》！建议单曲循环！", "url": "https://www.bilibili.com/video/BV1b44y1x7WH/"}
+JSON: {"text": "谁能想到《活着viva》是20年前的歌呢  女版是我最近的单曲循环", "url": "https://www.bilibili.com/video/BV1dW4y1z7wQ/"}
+JSON: {"text": "从顺序到单曲循环，从免费到付费...", "url": "https://www.bilibili.com/video/BV1Gw411x7pJ/"}
+JSON: {"text": "2022一夜破亿的中文歌！到底有多好听？网友：单曲循环100遍！", "url": "https://www.bilibili.com/video/BV1V84y1C7jy/"}
+JSON: {"text": "【李荣浩歌曲】精选100首李荣浩歌曲音乐合集、经典歌曲、无损音乐、热门歌曲、热门音乐、流行歌曲、适合单曲循环播放！", "url": "https://www.bilibili.com/video/BV19M411h7dt/"}
+JSON: {"text": "2019年至2023年一年一首emo神曲，每一首都值得在深夜单曲循环！", "url": "https://www.bilibili.com/video/BV1PA411U77j/"}
+JSON: {"text": "最近突然火的《malumup》太好听了！旋律洗脑，单曲循环好多遍", "url": "https://www.bilibili.com/video/BV1qa4y1h7KT/"}
+JSON: {"text": "总有一首歌，从当时的单曲循环，到现在连前奏都听不了。。。。", "url": "https://www.bilibili.com/video/BV1rr4y137YD/"}
+JSON: {"text": "“好听到单曲循环的宝藏音乐。”—《Outta Sight (Outta Mind)》", "url": "https://www.bilibili.com/video/BV1FG411K7mF/"}
+JSON: {"text": "当我睡觉时忘了打开单曲循环", "url": "https://www.bilibili.com/video/BV1FN41117De/"}
+JSON: {"text": "【4K修复】谢谢跳地！谢谢黄子！谁懂啊，14天过去了我还在单曲循环出不来。", "url": "https://www.bilibili.com/video/BV15z4y177bA/"}
+JSON: {"text": "盘点七月十首热门歌曲，每一首都值得单曲循环！", "url": "https://www.bilibili.com/video/BV1Mf4y1L7Hf/"}
+JSON: {"text": "终于找到这首一直“嗯嗯嗯”的歌了，旋律太洗脑了，单曲循环了好多遍！", "url": "https://www.bilibili.com/video/BV1Ba4y1J7rj/"}
+JSON: {"text": "最近突然火的《清空》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1io4y197N4/"}
+JSON: {"text": "你也在单曲循环《红颜如霜》吗？｜翻唱Live 未修音版", "url": "https://www.bilibili.com/video/BV1Dg411Z7AD/"}
+JSON: {"text": "50首火爆全网的欧美神曲，首首好听到炸，每一首都可以单曲循环一整天【弹幕破万 | 蓝光无损 | 值得收藏】", "url": "https://www.bilibili.com/video/BV1kg4y1M738/"}
+JSON: {"text": "最近突然火起来的《Every time we touch》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12r4y137qg/"}
+JSON: {"text": "智秀solo我已经单曲循环了，你们呢", "url": "https://www.bilibili.com/video/BV1rm4y1z7ik/"}
+JSON: {"text": "中国人的血脉觉醒，小时候不爱听的戏曲，现在忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1v94y147HX/"}
+JSON: {"text": "松隆子这首最经典日本歌曲《花样》，听了一次就忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1vs4y1w7jY/"}
+JSON: {"text": "谁能想到这么洗脑的旋律竟然是胡彦斌带着学员现场写出来的。网友：给我单曲循环一百遍！", "url": "https://www.bilibili.com/video/BV1xo4y1h7dw/"}
+JSON: {"text": "最近超火的4首古风宝藏歌曲，戏腔一出太惊艳了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1Pi4y1t7uW/"}
+JSON: {"text": "七叔最新古风歌曲《半生雪》开口脆这几天已经单曲循环", "url": "https://www.bilibili.com/video/BV1co4y117H7/"}
+JSON: {"text": "【整活向】30秒带你看完【单曲循环】", "url": "https://www.bilibili.com/video/BV1XF411R7uc/"}
+JSON: {"text": "# 直观感受到了汪苏泷的实力 原来自己单曲循环的歌都是汪苏泷写的", "url": "https://www.bilibili.com/video/BV1Ta4y1M77m/"}
+JSON: {"text": "看完综艺单曲循环的却是这首？巨好听！——许嵩2017演唱会改编版本", "url": "https://www.bilibili.com/video/BV13Q4y1y7R3/"}
+JSON: {"text": "【高质量70首无损音乐]  全网最好听的歌曲合集 无损音质  单曲循环  百听不厌 经典歌曲适合80后的经典歌曲  值得收藏", "url": "https://www.bilibili.com/video/BV1vz4y1h7yf/"}
+JSON: {"text": "【切片/Ren】吉他弹唱出道曲 BLUE SUGAR（单曲循环用）", "url": "https://www.bilibili.com/video/BV11W4y1h7Jd/"}
+JSON: {"text": "【✨幸运配比✨】已经开始单曲循环~", "url": "https://www.bilibili.com/video/BV1aV411L7FX/"}
+JSON: {"text": "最近突然火的《清空》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1io4y197N4/"}
+JSON: {"text": "【整活向】30秒带你看完【单曲循环】", "url": "https://www.bilibili.com/video/BV1XF411R7uc/"}
+JSON: {"text": "七叔最新古风歌曲《半生雪》开口脆这几天已经单曲循环", "url": "https://www.bilibili.com/video/BV1co4y117H7/"}
+JSON: {"text": "智秀solo我已经单曲循环了，你们呢", "url": "https://www.bilibili.com/video/BV1rm4y1z7ik/"}
+JSON: {"text": "看完综艺单曲循环的却是这首？巨好听！——许嵩2017演唱会改编版本", "url": "https://www.bilibili.com/video/BV13Q4y1y7R3/"}
+JSON: {"text": "歌单分享｜超好听！单曲循环了很多年的歌！", "url": "https://www.bilibili.com/video/BV1wD4y1m7PV/"}
+JSON: {"text": "时长3小时】值得你单曲循环的50首中文歌曲合集，超好听的50首华语歌曲，开车/作业/运动", "url": "https://www.bilibili.com/video/BV1UR4y1y7ba/"}
+JSON: {"text": "最近这首《丢了你》太火了，越听越想哭，必须单曲循环", "url": "https://www.bilibili.com/video/BV1Bf4y1y7yk/"}
+JSON: {"text": "你也在单曲循环《红颜如霜》吗？｜翻唱Live 未修音版", "url": "https://www.bilibili.com/video/BV1Dg411Z7AD/"}
+JSON: {"text": "谁能想到这么洗脑的旋律竟然是胡彦斌带着学员现场写出来的。网友：给我单曲循环一百遍！", "url": "https://www.bilibili.com/video/BV1xo4y1h7dw/"}
+JSON: {"text": "# 直观感受到了汪苏泷的实力 原来自己单曲循环的歌都是汪苏泷写的", "url": "https://www.bilibili.com/video/BV1Ta4y1M77m/"}
+JSON: {"text": "【✨幸运配比✨】已经开始单曲循环~", "url": "https://www.bilibili.com/video/BV1aV411L7FX/"}
+JSON: {"text": "松隆子这首最经典日本歌曲《花样》，听了一次就忍不住单曲循环", "url": "https://www.bilibili.com/video/BV1vs4y1w7jY/"}
+JSON: {"text": "【切片/Ren】吉他弹唱出道曲 BLUE SUGAR（单曲循环用）", "url": "https://www.bilibili.com/video/BV11W4y1h7Jd/"}
+JSON: {"text": "【时光音乐会】重塑回忆里的经典 老歌新唱 刷新记忆 经典歌曲100首 无损音质 分集播放 单曲循环一整体", "url": "https://www.bilibili.com/video/BV1h24y1A7p6/"}
+JSON: {"text": "最近突然火起来的《Every time we touch》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV12r4y137qg/"}
+JSON: {"text": "你单曲循环过的trap是哪首？", "url": "https://www.bilibili.com/video/BV1tG411t7sd/"}
+JSON: {"text": "2023春晚杀疯了!《一路生花》一夜封神刷爆全网，网友：单曲循环", "url": "https://www.bilibili.com/video/BV1dD4y1n7Pt/"}
+JSON: {"text": "第六弹[超高音质][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1cg411f7XP/"}
+JSON: {"text": "《绝区零》官网BGM | 单曲循环，让腿抖个不停！", "url": "https://www.bilibili.com/video/BV1BL4y1F7wJ/"}
+JSON: {"text": "如果这辈子只能谈一场恋爱，我只想跟你单曲循环", "url": "https://www.bilibili.com/video/BV1Ug411j7zF/"}
+JSON: {"text": "【翻唱】两个外国小哥翻唱中国仙侠剧主题曲！必须单曲循环！", "url": "https://www.bilibili.com/video/BV16Z4y1g7iz/"}
+JSON: {"text": "周思涵《过客》无损音质完整版饭制MV，太经典了，不知道单曲循环了多少遍", "url": "https://www.bilibili.com/video/BV17841157DL/"}
+JSON: {"text": "【都市传说】一首歌的LY传说，商场常年单曲循环是放给谁听的？", "url": "https://www.bilibili.com/video/BV1iK4y1K726/"}
+JSON: {"text": "终于找到这首一直“嗯嗯嗯”的歌了，旋律太洗脑了，单曲循环了好多遍！", "url": "https://www.bilibili.com/video/BV1Ba4y1J7rj/"}
+JSON: {"text": "樱花树下的约定这首歌就是他唱火的，一开口就单曲循环了#热歌热门分享", "url": "https://www.bilibili.com/video/BV1qK4y1d7d7/"}
+JSON: {"text": "【明日方舟/高音质】危机合约—破碎大道BGM【单曲循环】", "url": "https://www.bilibili.com/video/BV1n7411R7AE/"}
+JSON: {"text": "【✨幸运配比✨】已经开始单曲循环~", "url": "https://www.bilibili.com/video/BV1aV411L7FX/"}
+JSON: {"text": "最近地铁小哥演唱《丢了你》 火了，单曲循环了很多遍，太扎心了", "url": "https://www.bilibili.com/video/BV12A411t71n/"}
+JSON: {"text": "ququ和水晶哥solo玩csgo把他爆锤，水晶哥直接单曲循环死亡舞曲（第二局马斯托主场局）", "url": "https://www.bilibili.com/video/BV19a4y1W7yk/"}
+JSON: {"text": "他说他在跳一种很忙的舞哈哈哈，这首歌真的可以单曲循环N遍啊", "url": "https://www.bilibili.com/video/BV1Nj411d7LG/"}
+JSON: {"text": "去年爆冷摘下美国billboard音乐奖最佳新人奖的越南裔R&B鬼才Keshi（凯西）单曲循环国际神曲《beside you（在你身边）》", "url": "https://www.bilibili.com/video/BV1mg4y197ah/"}
+JSON: {"text": "【翻唱】两个外国小哥翻唱中国仙侠剧主题曲！必须单曲循环！", "url": "https://www.bilibili.com/video/BV16Z4y1g7iz/"}
+JSON: {"text": "你单曲循环过的trap是哪首？", "url": "https://www.bilibili.com/video/BV1tG411t7sd/"}
+JSON: {"text": "【杭州街头】最近让你单曲循环的歌是哪一首？（1）", "url": "https://www.bilibili.com/video/BV1714y1x7xM/"}
+JSON: {"text": "第三弹[杜比音效][100首值得单曲循环的音乐合集][带上耳机，静静聆听]开启体验音乐的魅力（6小时50分）", "url": "https://www.bilibili.com/video/BV1tU4y1R7gW/"}
+JSON: {"text": "19年前单曲循环无数次的轨迹，现在还有人听吗", "url": "https://www.bilibili.com/video/BV1Pe4y1H743/"}
+JSON: {"text": "杭州街头|最近单曲循环的歌是哪一首?(2）", "url": "https://www.bilibili.com/video/BV1HY4y1F79Y/"}
+JSON: {"text": "最近这首《丢了你》太火了，越听越想哭，必须单曲循环", "url": "https://www.bilibili.com/video/BV1Bf4y1y7yk/"}
+JSON: {"text": "【都市传说】一首歌的LY传说，商场常年单曲循环是放给谁听的？", "url": "https://www.bilibili.com/video/BV1iK4y1K726/"}
+JSON: {"text": "我宣布！《活该》成为我近期唯一一首单曲循环！", "url": "https://www.bilibili.com/video/BV1jS4y147py/"}
+JSON: {"text": "问题解答：怎么换极限国度电台，for ya怎么单曲循环", "url": "https://www.bilibili.com/video/BV1sm4y1n7ua/"}
+JSON: {"text": "【星穹铁道/熟肉】Sweetily看EP「水龙吟」，绝对的单曲循环！", "url": "https://www.bilibili.com/video/BV1Qh4y1L73E/"}
+JSON: {"text": "《Midnight》副歌部分声音好戳人，整首歌都很给人力量。", "url": "https://www.bilibili.com/video/BV1Bt4y1L7px/"}
+JSON: {"text": "“享受高饱和度的视觉洗礼吧！”——《Past Lives》", "url": "https://www.bilibili.com/video/BV1Zd4y1G7Ef/"}
+JSON: {"text": "这首歌好绝啊，也太好听了吧，这和声听的人直起鸡皮疙瘩《exile》", "url": "https://www.bilibili.com/video/BV1c5411d7CJ/"}
+JSON: {"text": "【星穹铁道/熟肉】Sweetily看EP「水龙吟」，绝对的单曲循环！", "url": "https://www.bilibili.com/video/BV1Qh4y1L73E/"}
+JSON: {"text": "【杭州街头】最近让你单曲循环的歌是哪一首？（1）", "url": "https://www.bilibili.com/video/BV1714y1x7xM/"}
+JSON: {"text": "19年前单曲循环无数次的轨迹，现在还有人听吗", "url": "https://www.bilibili.com/video/BV1Pe4y1H743/"}
+JSON: {"text": "我宣布！《活该》成为我近期唯一一首单曲循环！", "url": "https://www.bilibili.com/video/BV1jS4y147py/"}
+JSON: {"text": "《Midnight》副歌部分声音好戳人，整首歌都很给人力量。", "url": "https://www.bilibili.com/video/BV1Bt4y1L7px/"}
+JSON: {"text": "“享受高饱和度的视觉洗礼吧！”——《Past Lives》", "url": "https://www.bilibili.com/video/BV1Zd4y1G7Ef/"}
+JSON: {"text": "这首歌好绝啊，也太好听了吧，这和声听的人直起鸡皮疙瘩《exile》", "url": "https://www.bilibili.com/video/BV1c5411d7CJ/"}
+JSON: {"text": "【可视化音频】非常值得单曲循环的一首歌《凄美地》郭顶 太好听了  芜湖！！", "url": "https://www.bilibili.com/video/BV1dL411i7jq/"}
+JSON: {"text": "这两人合唱这首“奢香夫人”实在太好听了，我已经开始单曲循环了", "url": "https://www.bilibili.com/video/BV18B4y1i7VG/"}
+JSON: {"text": "“坏人的血才是黑色的，我们永远万紫千红”｜《花桥》｜日推歌单", "url": "https://www.bilibili.com/video/BV1ku4y137FC/"}
+JSON: {"text": "不耐听！《Out Of Time》我才单曲循环了308天", "url": "https://www.bilibili.com/video/BV13d4y1F7JW/"}
+JSON: {"text": "梦然《是你》完整版，天籁之音青涩的模样，唱法新突破，单曲循环", "url": "https://www.bilibili.com/video/BV1gY4y1g7nT/"}
+JSON: {"text": "2022年最火十首破亿神曲，每首都单曲循环，你能通到几关", "url": "https://www.bilibili.com/video/BV1gY4y1H78P/"}
+JSON: {"text": "【EQG】时间循环⚡️神曲教学（余晖派）", "url": "https://www.bilibili.com/video/BV1TT4y1s7su/"}
+JSON: {"text": "全网爆红的《这就是爱吗》原唱容祖儿终于来了！好听到单曲循环！", "url": "https://www.bilibili.com/video/BV1b7411z79d/"}
+JSON: {"text": "【民乐也疯狂x春节串烧】今日最佳！单曲循环，年味儿就来了！", "url": "https://www.bilibili.com/video/BV1uL4y147vH/"}
+JSON: {"text": "【2023热歌榜合集】精选100首超好听的热歌、流行歌曲、华语经典歌曲、值得你单曲循环的100首高质量歌单！", "url": "https://www.bilibili.com/video/BV1y24y1A736/"}
+JSON: {"text": "【周深音乐集】宝藏男孩周深歌曲合集 天籁歌喉 诠释一切 无损音质 分集播放 单曲循环一次性听个够", "url": "https://www.bilibili.com/video/BV1Mz4y1E7bR/"}
+JSON: {"text": "最近火爆全网的五首神仙歌曲，每一首都值得你单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1EA411X7oe/"}
+JSON: {"text": "又甜又脆《Better Now》像夏天喝了橘子汽水", "url": "https://www.bilibili.com/video/BV1sv4y1M7sf/"}
+JSON: {"text": "【单循推荐】《青鸟》“当展翅飞翔之际 请下定决心不再回头”（无损音质）", "url": "https://www.bilibili.com/video/BV1gp4y1N7oj/"}
+JSON: {"text": "梦然《是你》完整版，天籁之音青涩的模样，唱法新突破，单曲循环", "url": "https://www.bilibili.com/video/BV1gY4y1g7nT/"}
+JSON: {"text": "2022年最火十首破亿神曲，每首都单曲循环，你能通到几关", "url": "https://www.bilibili.com/video/BV1gY4y1H78P/"}
+JSON: {"text": "【EQG】时间循环⚡️神曲教学（余晖派）", "url": "https://www.bilibili.com/video/BV1TT4y1s7su/"}
+JSON: {"text": "全网爆红的《这就是爱吗》原唱容祖儿终于来了！好听到单曲循环！", "url": "https://www.bilibili.com/video/BV1b7411z79d/"}
+JSON: {"text": "【民乐也疯狂x春节串烧】今日最佳！单曲循环，年味儿就来了！", "url": "https://www.bilibili.com/video/BV1uL4y147vH/"}
+JSON: {"text": "【2023热歌榜合集】精选100首超好听的热歌、流行歌曲、华语经典歌曲、值得你单曲循环的100首高质量歌单！", "url": "https://www.bilibili.com/video/BV1y24y1A736/"}
+JSON: {"text": "【周深音乐集】宝藏男孩周深歌曲合集 天籁歌喉 诠释一切 无损音质 分集播放 单曲循环一次性听个够", "url": "https://www.bilibili.com/video/BV1Mz4y1E7bR/"}
+JSON: {"text": "最近火爆全网的五首神仙歌曲，每一首都值得你单曲循环，太好听了", "url": "https://www.bilibili.com/video/BV1EA411X7oe/"}
+JSON: {"text": "又甜又脆《Better Now》像夏天喝了橘子汽水", "url": "https://www.bilibili.com/video/BV1sv4y1M7sf/"}
+JSON: {"text": "【单循推荐】《青鸟》“当展翅飞翔之际 请下定决心不再回头”（无损音质）", "url": "https://www.bilibili.com/video/BV1gp4y1N7oj/"}
+JSON: {"text": "【单循推荐】《谁》“在你眼中我是谁，你想我代替谁”（无损音质）", "url": "https://www.bilibili.com/video/BV11w411Y7yM/"}
+JSON: {"text": "张主任这首信仰 唱出了多少人的心声，听到单曲循环 杨幂 邓伦 杨幂被", "url": "https://www.bilibili.com/video/BV1uy4y187eG/"}
+JSON: {"text": "【时长6小时】精选100首全网最好听的歌曲合集、流行音乐、抖音热歌榜、经典音乐、值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1ao4y1a73d/"}
+JSON: {"text": "【值得单曲循环的纯音乐合集】世界上最受欢迎的50首纯音乐！适合自习看书的轻音乐！", "url": "https://www.bilibili.com/video/BV1sz4y1K7sE/"}
+JSON: {"text": "【单循推荐】《执迷不悟》“我对你又何止是执迷不悟，眼泪偶尔会莫名的光顾”（无损音质）", "url": "https://www.bilibili.com/video/BV11N411s7oE/"}
+JSON: {"text": "每次听这首《Free Loop》时都会思绪万千~", "url": "https://www.bilibili.com/video/BV1Jh4y1h7is/"}
+JSON: {"text": "日推歌单｜𝑰 𝒄𝒂𝒏 𝒈𝒊𝒗𝒆 𝒚𝒐𝒖 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕.｜《Checklist》", "url": "https://www.bilibili.com/video/BV1av4y127bB/"}
+JSON: {"text": "【4K顶级画质】Aimer女神《Ref:rain》现场，开始单曲循环了！！！", "url": "https://www.bilibili.com/video/BV1ev411T7av/"}
+JSON: {"text": "【单循推荐】《Slow Down》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1gN411G7uR/"}
+JSON: {"text": "【推荐循环】《离别开出花》“当离别开出花，它生长在悬崖，在最高的山顶，才听得见回答”（无损音质）", "url": "https://www.bilibili.com/video/BV1ac411r7yU/"}
+JSON: {"text": "盘点九月份十首最火的歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1eQ4y167y8/"}
+JSON: {"text": "一首值得单曲循环的歌曲《Old Money》落日余晖,晚霞醉人！", "url": "https://www.bilibili.com/video/BV1NB4y1m7JW/"}
+JSON: {"text": "盘点好听到单曲循环的歌曲", "url": "https://www.bilibili.com/video/BV1P3411o7Zm/"}
+JSON: {"text": "戏腔开口脆 每一首都是王炸 最火的33首古风歌曲 单曲循环停不下来", "url": "https://www.bilibili.com/video/BV1ev4y1n75q/"}
+JSON: {"text": "【单循推荐】《执迷不悟》“我对你又何止是执迷不悟，眼泪偶尔会莫名的光顾”（无损音质）", "url": "https://www.bilibili.com/video/BV11N411s7oE/"}
+JSON: {"text": "每次听这首《Free Loop》时都会思绪万千~", "url": "https://www.bilibili.com/video/BV1Jh4y1h7is/"}
+JSON: {"text": "日推歌单｜𝑰 𝒄𝒂𝒏 𝒈𝒊𝒗𝒆 𝒚𝒐𝒖 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕.｜《Checklist》", "url": "https://www.bilibili.com/video/BV1av4y127bB/"}
+JSON: {"text": "【4K顶级画质】Aimer女神《Ref:rain》现场，开始单曲循环了！！！", "url": "https://www.bilibili.com/video/BV1ev411T7av/"}
+JSON: {"text": "【单循推荐】《Slow Down》“全网超火卡点神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1gN411G7uR/"}
+JSON: {"text": "【推荐循环】《离别开出花》“当离别开出花，它生长在悬崖，在最高的山顶，才听得见回答”（无损音质）", "url": "https://www.bilibili.com/video/BV1ac411r7yU/"}
+JSON: {"text": "盘点九月份十首最火的歌曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1eQ4y167y8/"}
+JSON: {"text": "一首值得单曲循环的歌曲《Old Money》落日余晖,晚霞醉人！", "url": "https://www.bilibili.com/video/BV1NB4y1m7JW/"}
+JSON: {"text": "盘点好听到单曲循环的歌曲", "url": "https://www.bilibili.com/video/BV1P3411o7Zm/"}
+JSON: {"text": "戏腔开口脆 每一首都是王炸 最火的33首古风歌曲 单曲循环停不下来", "url": "https://www.bilibili.com/video/BV1ev4y1n75q/"}
+JSON: {"text": "循环日推丨“接下来就是卫衣 秋落 圣诞 烟花 下雪 新年 没有我们。”《Every Time We Touch (Remix)》无损音质", "url": "https://www.bilibili.com/video/BV1tN4y167ap/"}
+JSON: {"text": "循环日推丨“在爱与被爱过程中，命运都在教人释怀。”《毒药》无损音质", "url": "https://www.bilibili.com/video/BV18G411Z7HL/"}
+JSON: {"text": "能够勾起你回忆的歌 《I Miss You》 你想起了什么？", "url": "https://www.bilibili.com/video/BV13u411k7h9/"}
+JSON: {"text": "#披荆斩棘 范世錡唱《海芋恋》，超好听，已经单曲循环一天了(*´I`*)", "url": "https://www.bilibili.com/video/BV1Qa411g77E/"}
+JSON: {"text": "【纯音循环】《Summer》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1eH4y1y788/"}
+JSON: {"text": "【无损音质 高音质歌单】2023年宝藏流行热门歌曲~ 沦陷入热潮心动的感官~~值得你单曲循环！！！", "url": "https://www.bilibili.com/video/BV1Xu4y1P7CK/"}
+JSON: {"text": "【时长6小时超好听的DJ歌曲合集】2023最劲爆的dj歌曲、酒吧最火的dj舞曲、车载dj、值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1sg4y1579u/"}
+JSON: {"text": "听这首歌《So Far Away》不管听多少遍，都是伤感的", "url": "https://www.bilibili.com/video/BV1Ev4y1D76J/"}
+JSON: {"text": "一首听了思绪会飘走的歌《six speed》，只想一个人听着歌发发呆而已。", "url": "https://www.bilibili.com/video/BV1ma411E7hd/"}
+JSON: {"text": "【4K·无损】《Dạ Vũ夜舞》超火的越南神曲，单曲循环很多遍。", "url": "https://www.bilibili.com/video/BV1BP411j7ac/"}
+JSON: {"text": "循环日推丨“在爱与被爱过程中，命运都在教人释怀。”《毒药》无损音质", "url": "https://www.bilibili.com/video/BV18G411Z7HL/"}
+JSON: {"text": "能够勾起你回忆的歌 《I Miss You》 你想起了什么？", "url": "https://www.bilibili.com/video/BV13u411k7h9/"}
+JSON: {"text": "#披荆斩棘 范世錡唱《海芋恋》，超好听，已经单曲循环一天了(*´I`*)", "url": "https://www.bilibili.com/video/BV1Qa411g77E/"}
+JSON: {"text": "【纯音循环】《Summer》“全网超火纯音乐神曲”（无损音质）", "url": "https://www.bilibili.com/video/BV1eH4y1y788/"}
+JSON: {"text": "【无损音质 高音质歌单】2023年宝藏流行热门歌曲~ 沦陷入热潮心动的感官~~值得你单曲循环！！！", "url": "https://www.bilibili.com/video/BV1Xu4y1P7CK/"}
+JSON: {"text": "【时长6小时超好听的DJ歌曲合集】2023最劲爆的dj歌曲、酒吧最火的dj舞曲、车载dj、值得你单曲循环！", "url": "https://www.bilibili.com/video/BV1sg4y1579u/"}
+JSON: {"text": "听这首歌《So Far Away》不管听多少遍，都是伤感的", "url": "https://www.bilibili.com/video/BV1Ev4y1D76J/"}
+JSON: {"text": "一首听了思绪会飘走的歌《six speed》，只想一个人听着歌发发呆而已。", "url": "https://www.bilibili.com/video/BV1ma411E7hd/"}
+JSON: {"text": "【4K·无损】《Dạ Vũ夜舞》超火的越南神曲，单曲循环很多遍。", "url": "https://www.bilibili.com/video/BV1BP411j7ac/"}
+JSON: {"text": "《爱江山更爱美人》李丽芬经典老歌，叶全真混剪，好听到单曲循环", "url": "https://www.bilibili.com/video/BV18q4y1q7qv/"}
+JSON: {"text": "⚡𝐃 𝐄 𝐅 𝐄 𝐀 𝐓⚡", "url": "https://www.bilibili.com/video/BV1WM4y1J7Jo/"}
+JSON: {"text": "心情不好时会单曲循环的一首歌~燕姿版本的，真的好“温柔”", "url": "https://www.bilibili.com/video/BV1co4y1B7Q6/"}
+JSON: {"text": "【钢琴】被这首神级歌曲震撼到了，无限单曲循环的《Love Is Gone》钢琴演奏(feat. Dylan Matthew)", "url": "https://www.bilibili.com/video/BV1xy4y1t7r9/"}
+JSON: {"text": "《断背山》插曲《I Don't Want To Say Goodbye》值得单曲循环的一首歌！", "url": "https://www.bilibili.com/video/BV1XV411J7Zb/"}
+JSON: {"text": "清新的曲调《Hand Me Down》舒缓的嗓音，狠狠的把我抓住", "url": "https://www.bilibili.com/video/BV19S4y1q7ey/"}
+JSON: {"text": "循环日推丨“希望你自由 勇敢 松弛 体验一切 感受今天.”《やわらかな光（柔和之光））》无损音质", "url": "https://www.bilibili.com/video/BV1eC4y1S7MT/"}
+JSON: {"text": "一口气听完当年炸街的50首粤语神曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1mc411T79B/"}
+JSON: {"text": "这歌好听到我特意去买了一副头戴式耳机，体验极致和单曲循环！I DO - (G)I-DLE02", "url": "https://www.bilibili.com/video/BV1fe41197Kw/"}
+JSON: {"text": "【单循推荐】《姑娘别哭泣》“突来的消息，那个人是你”（无损音质）", "url": "https://www.bilibili.com/video/BV1Du4y1L75n/"}
+JSON: {"text": "【罗伊x伊莎贝拉】溯（Reverse）开启单曲循环模式！", "url": "https://www.bilibili.com/video/BV1kP4y1x7kX/"}
+JSON: {"text": "【单循推荐】《在你的身边》“爱就爱了不怕没来过，恨就恨了我从没想过”（无损音质）", "url": "https://www.bilibili.com/video/BV1QN411W7aC/"}
+JSON: {"text": "自古综艺出神曲！盘点那些年在综艺里出现的爆款单曲（第一期），你单曲循环了吗", "url": "https://www.bilibili.com/video/BV133411B7rC/"}
+JSON: {"text": "单曲循环无数遍也听不腻的旋律《云水禅心》，这琴声似在远方也似在心间", "url": "https://www.bilibili.com/video/BV1Hm4y1U7P8/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首中文歌曲合集，好听热门歌曲100首合集", "url": "https://www.bilibili.com/video/BV1u8411u7Tt/"}
+JSON: {"text": "《断背山》插曲《I Don't Want To Say Goodbye》值得单曲循环的一首歌！", "url": "https://www.bilibili.com/video/BV1XV411J7Zb/"}
+JSON: {"text": "清新的曲调《Hand Me Down》舒缓的嗓音，狠狠的把我抓住", "url": "https://www.bilibili.com/video/BV19S4y1q7ey/"}
+JSON: {"text": "循环日推丨“希望你自由 勇敢 松弛 体验一切 感受今天.”《やわらかな光（柔和之光））》无损音质", "url": "https://www.bilibili.com/video/BV1eC4y1S7MT/"}
+JSON: {"text": "一口气听完当年炸街的50首粤语神曲，每一首都值得单曲循环，建议收藏", "url": "https://www.bilibili.com/video/BV1mc411T79B/"}
+JSON: {"text": "这歌好听到我特意去买了一副头戴式耳机，体验极致和单曲循环！I DO - (G)I-DLE02", "url": "https://www.bilibili.com/video/BV1fe41197Kw/"}
+JSON: {"text": "【单循推荐】《姑娘别哭泣》“突来的消息，那个人是你”（无损音质）", "url": "https://www.bilibili.com/video/BV1Du4y1L75n/"}
+JSON: {"text": "【罗伊x伊莎贝拉】溯（Reverse）开启单曲循环模式！", "url": "https://www.bilibili.com/video/BV1kP4y1x7kX/"}
+JSON: {"text": "【单循推荐】《在你的身边》“爱就爱了不怕没来过，恨就恨了我从没想过”（无损音质）", "url": "https://www.bilibili.com/video/BV1QN411W7aC/"}
+JSON: {"text": "自古综艺出神曲！盘点那些年在综艺里出现的爆款单曲（第一期），你单曲循环了吗", "url": "https://www.bilibili.com/video/BV133411B7rC/"}
+JSON: {"text": "单曲循环无数遍也听不腻的旋律《云水禅心》，这琴声似在远方也似在心间", "url": "https://www.bilibili.com/video/BV1Hm4y1U7P8/"}
+JSON: {"text": "【时长6小时】值得你单曲循环的100首中文歌曲合集，好听热门歌曲100首合集", "url": "https://www.bilibili.com/video/BV1u8411u7Tt/"}
+JSON: {"text": "汪苏泷《就让这大雨全都落下》单曲循环", "url": "https://www.bilibili.com/video/BV1cA411r7PB/"}
+JSON: {"text": "《Right Now (Na Na Na)》，"I can't lie，I miss you much"", "url": "https://www.bilibili.com/video/BV1h84y1V7iQ/"}
+JSON: {"text": "2022最惊艳的“破亿”神曲！有多洗脑？网友：单曲循环整夜听不够", "url": "https://www.bilibili.com/video/BV1WY4y1q7jM/"}
+JSON: {"text": "最近突然火的《海底》太好听了！第一秒就彻底沦陷，单曲循环了好多遍", "url": "https://www.bilibili.com/video/BV1RV411679P/"}
+JSON: {"text": "盘点你一定听过，但是叫不出名字的BGM，听完能循环一整天", "url": "https://www.bilibili.com/video/BV1Fu4y1t723/"}
+JSON: {"text": "《ただ声一つ》有些歌是听五秒前奏就会爱上的", "url": "https://www.bilibili.com/video/BV1Qs4y1c7Q5/"}
+JSON: {"text": "播放量过亿的神级翻唱：一开口惊艳全网，每首都能单曲循环", "url": "https://www.bilibili.com/video/BV1Ry4y1X76Z/"}
+JSON: {"text": "高睿 - 独到 《Normal No More》中文版「 我只想要自我的独到 我不想要卑微的落逃」【动态歌词】", "url": "https://www.bilibili.com/video/BV1HY4y1g7MB/"}
+JSON: {"text": "2022最惊艳的“破亿”神曲！有多洗脑？网友：单曲循环整夜听不够", "url": "https://www.bilibili.com/video/BV1WY4y1q7jM/"}
+JSON: {"text": "最近突然火的《海底》太好听了！第一秒就彻底沦陷，单曲循环了好多遍", "url": "https://www.bilibili.com/video/BV1RV411679P/"}
+JSON: {"text": "盘点你一定听过，但是叫不出名字的BGM，听完能循环一整天", "url": "https://www.bilibili.com/video/BV1Fu4y1t723/"}
+JSON: {"text": "《ただ声一つ》有些歌是听五秒前奏就会爱上的", "url": "https://www.bilibili.com/video/BV1Qs4y1c7Q5/"}
+JSON: {"text": "播放量过亿的神级翻唱：一开口惊艳全网，每首都能单曲循环", "url": "https://www.bilibili.com/video/BV1Ry4y1X76Z/"}
+JSON: {"text": "高睿 - 独到 《Normal No More》中文版「 我只想要自我的独到 我不想要卑微的落逃」【动态歌词】", "url": "https://www.bilibili.com/video/BV1HY4y1g7MB/"}
+JSON: {"text": "前奏响起，我又开始想她了《The Way I Still Love》", "url": "https://www.bilibili.com/video/BV1aP4y197ih/"}
+JSON: {"text": "盘点2023最新火起来的十首破亿神曲，每一首都值得单曲循环", "url": "https://www.bilibili.com/video/BV1xC4y1n7QR/"}
+JSON: {"text": "【时长3小时】值得你单曲循环的100首纯音乐合集！适合自习室看书、考研、写作业、静心的轻音乐（上）", "url": "https://www.bilibili.com/video/BV1Kv4y137mR/"}
+JSON: {"text": "这是你肯定没听过的《Flower Dance》 超高音质 柔美纯钢琴 适合一个人静静单曲循环", "url": "https://www.bilibili.com/video/BV1RN411Q7nv/"}
+JSON: {"text": "【歌单分享】听歌向∣近期循环歌单♬ 适合女生听的温柔&偏小众&治愈系&音乐", "url": "https://www.bilibili.com/video/BV1454y1B7gj/"}
+JSON: {"text": "浅唱一下最近的单曲循环", "url": "https://www.bilibili.com/video/BV1it4y1F7Z4/"}
+JSON: {"text": "【单循推荐】《清空》“是我爱的太蠢太过天真，才会把你的寂寞当作契合的灵魂”（无损音质）", "url": "https://www.bilibili.com/video/BV1ou411K7oL/"}
+JSON: {"text": "诙谐有趣的歌词加上令人着迷的节奏《Rude》让人无法不爱上它", "url": "https://www.bilibili.com/video/BV1ZW4y1k7H5/"}
+JSON: {"text": "<单曲循环>pure imagination-ROOK1E/J'san", "url": "https://www.bilibili.com/video/BV1Lb4y1X77u/"}
+JSON: {"text": "盘点最近很火的洗脑神曲，最后一个杀伤力太大了，我单曲循环了一晚上", "url": "https://www.bilibili.com/video/BV19m4y177nF/"}
+JSON: {"text": "最近突然火的《New Boy》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1yu411q7br/"}
+JSON: {"text": "【时代少年团】有用的花姐出现了！好听到李飞都要单曲循环!收听完男友版渐暖后不妨点进来收获高质女友！!", "url": "https://www.bilibili.com/video/BV1S5411o78J/"}
+JSON: {"text": "【张碧晨】华语乐坛仙女唱将 经典歌曲合集100首 分集+歌词+最高音质 每首都炸裂好听 单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vk4y1G7qt/"}
+JSON: {"text": "这是你肯定没听过的《Flower Dance》 超高音质 柔美纯钢琴 适合一个人静静单曲循环", "url": "https://www.bilibili.com/video/BV1RN411Q7nv/"}
+JSON: {"text": "【歌单分享】听歌向∣近期循环歌单♬ 适合女生听的温柔&偏小众&治愈系&音乐", "url": "https://www.bilibili.com/video/BV1454y1B7gj/"}
+JSON: {"text": "浅唱一下最近的单曲循环", "url": "https://www.bilibili.com/video/BV1it4y1F7Z4/"}
+JSON: {"text": "【单循推荐】《清空》“是我爱的太蠢太过天真，才会把你的寂寞当作契合的灵魂”（无损音质）", "url": "https://www.bilibili.com/video/BV1ou411K7oL/"}
+JSON: {"text": "诙谐有趣的歌词加上令人着迷的节奏《Rude》让人无法不爱上它", "url": "https://www.bilibili.com/video/BV1ZW4y1k7H5/"}
+JSON: {"text": "<单曲循环>pure imagination-ROOK1E/J'san", "url": "https://www.bilibili.com/video/BV1Lb4y1X77u/"}
+JSON: {"text": "盘点最近很火的洗脑神曲，最后一个杀伤力太大了，我单曲循环了一晚上", "url": "https://www.bilibili.com/video/BV19m4y177nF/"}
+JSON: {"text": "最近突然火的《New Boy》太好听了，单曲循环了很多遍！", "url": "https://www.bilibili.com/video/BV1yu411q7br/"}
+JSON: {"text": "【时代少年团】有用的花姐出现了！好听到李飞都要单曲循环!收听完男友版渐暖后不妨点进来收获高质女友！!", "url": "https://www.bilibili.com/video/BV1S5411o78J/"}
+JSON: {"text": "【张碧晨】华语乐坛仙女唱将 经典歌曲合集100首 分集+歌词+最高音质 每首都炸裂好听 单曲循环一整天", "url": "https://www.bilibili.com/video/BV1Vk4y1G7qt/"}
+JSON: {"text": "好听到单曲循环~《悬溺》吉他泛音版~", "url": "https://www.bilibili.com/video/BV13B4y1J7Tg/"}
+JSON: {"text": "【鑫仔】哼｜单曲循环的那晚，你在想些什么？", "url": "https://www.bilibili.com/video/BV1Vx4y1772f/"}
+JSON: {"text": "好听到单曲循环~《悬溺》吉他泛音版~", "url": "https://www.bilibili.com/video/BV13B4y1J7Tg/"}
+JSON: {"text": "【鑫仔】哼｜单曲循环的那晚，你在想些什么？", "url": "https://www.bilibili.com/video/BV1Vx4y1772f/"}

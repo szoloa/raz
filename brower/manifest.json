@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Random Website Opener",
+  "description": "Open a random website from a list in the current tab.",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    }
+  },
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "host_permissions": ["<all_urls>"],
+  "commands": {
+    "open-random-website": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+1"
+      },
+      "description": "Open a random website"
+    }
+  }
+}
