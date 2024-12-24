@@ -9,15 +9,15 @@ import time
 
 
 class vedioSpider:
-    def __init__(self, key, handle = print, year1 = 2009, yaer2 = 2025):
+    def __init__(self, key, handle = print, type_opt = 'json' ,year1 = 2009, year2 = 2025):
         # Bilibili base URL
         self.host = 'https:'
-        self.opt = './data/%s.txt' % (key)
-
+        self.opt = './data/%s_%s_%s.txt' % (key, year2, year1)
+        self.type_opt = type_opt
         self.handle = handle
 
         a1 = f"{year1}-1-1 00:00:00" 
-        a2 = f"{yaer2}-12-31 00:00:00"
+        a2 = f"{year2}-12-31 00:00:00"
         # 先转换为时间数组
         timeArray1 = time.strptime(a1, "%Y-%m-%d %H:%M:%S")
         timeArray2 = time.strptime(a2, "%Y-%m-%d %H:%M:%S")
@@ -35,7 +35,7 @@ class vedioSpider:
         # Uncomment below line to run in headless mode
         # chrome_options.add_argument('--headless')
         # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-        self.driver = webdriver.Chrome(service=ChromeService('./chromedriver.exe'), options=chrome_options)
+        self.driver = webdriver.Chrome(service=ChromeService('./chromedriver'), options=chrome_options)
         # driver = webdriver.Chrome(options=chrome_options)
         self.driver.get(self.url)
         # Start scraping
@@ -68,7 +68,10 @@ class vedioSpider:
                             for t in i.find_all('a'):
                                 video_link = self.host + t.get('href')
                                 if 'www.bilibili.com/video' in video_link:
-                                    f.write("""JSON: {"text": "%s", "url": "%s"}\n""" % (title, video_link))
+                                    if self.type_opt == 'json':
+                                        f.write("""JSON: {"text": "%s", "url": "%s"}\n""" % (title, video_link))
+                                    elif self.type_opt == 'url':
+                                        f.write("%s\n" % (video_link))
                                     self.handle(f"Saved: {title}")
                                     break
 
@@ -97,4 +100,4 @@ class vedioSpider:
                 print(f"Error navigating to the next page: {e}")
                 break
 if __name__ == '__main__':
-    vedioSpider('生物学')
+    vedioSpider('amv', year1 = 2020, year2 = 2023)

@@ -5,5 +5,6 @@ en_zh.argosmodel
 translate-zh_en-1_1.argosmodel
 history.txt
 setting.json
-chromedriver.exe
+chromedriver*
 data/
+*.txt
