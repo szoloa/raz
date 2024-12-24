@@ -100,4 +100,4 @@ class vedioSpider:
                 print(f"Error navigating to the next page: {e}")
                 break
 if __name__ == '__main__':
-    vedioSpider('单曲循环', year1 = 2020, year2 = 2023)
+    vedioSpider('amv', year1 = 2020, year2 = 2023)

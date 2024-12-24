@@ -7,3 +7,4 @@ history.txt
 setting.json
 chromedriver.exe
 data/
+*.txt
