@@ -51,7 +51,7 @@ class vedioSpider:
         """
         This function scrapes the current page and writes video information to a file.
         """
-        with open(self.opt, 'a+') as f:
+        with open(self.opt, 'a+', encoding='utf-8') as f:
             try:
                 # Parse the current page source with BeautifulSoup
                 soup_mainpage = soup(self.driver.page_source, features='lxml')
