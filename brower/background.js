@@ -30,7 +30,7 @@ chrome.commands.onCommand.addListener((command) => {
 
 // Fetch and return a random website from the list
 function getRandomWebsite() {
-  return fetch(chrome.runtime.getURL('rurl_2023.txt'))
+  return fetch(chrome.runtime.getURL('rurlamv_2025.txt'))
     .then(response => response.text())
     .then(data => {
       const websites = data.split('\n').filter(line => line.trim() !== '');
