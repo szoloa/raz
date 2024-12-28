@@ -5,7 +5,6 @@ import json
 from translate import Translator
 import threading
 
-
 opti = False
 if opti:
     from .optional import Translator

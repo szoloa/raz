@@ -5,8 +5,9 @@ chrome.runtime.onInstalled.addListener(() => {
 // Listen for the message from popup.js
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.action === 'openRandomWebsite') {
+    const { filename } = message.params;
     // Get the random website and open it
-    getRandomWebsite().then(url => {
+    getRandomWebsite(filename).then(url => {
       chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
         chrome.tabs.update(tabs[0].id, { url: url });
       });
@@ -29,8 +30,9 @@ chrome.commands.onCommand.addListener((command) => {
 });
 
 // Fetch and return a random website from the list
-function getRandomWebsite() {
-  return fetch(chrome.runtime.getURL('rurlamv_2025.txt'))
+function getRandomWebsite(filename) {
+  console.log(filename)
+  return fetch(chrome.runtime.getURL(filename.toString()))
     .then(response => response.text())
     .then(data => {
       const websites = data.split('\n').filter(line => line.trim() !== '');
