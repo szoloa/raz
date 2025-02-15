@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from window.custom import *
 from window.Appliction import appliction
 import tkinter as tk
@@ -19,7 +21,7 @@ y = (hs/2) - (h/2)
 
 sv_ttk.set_theme(darkdetect.theme())
 
-root.resizable(False, False)
+root.resizable(True, True)
 root.geometry('%dx%d+%d+%d' % (w, h, x, y))
 root.title("开启随机主题")
 root.iconphoto(True, PhotoImage(file='logo.png'))

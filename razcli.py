@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from window.custom import custom
 import sys 
 import getopt

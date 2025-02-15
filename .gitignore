@@ -8,3 +8,4 @@ setting.json
 chromedriver*
 data/
 *.txt
+.venv/*
