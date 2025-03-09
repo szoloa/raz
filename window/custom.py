@@ -4,6 +4,7 @@ import os
 import json
 from translate import Translator
 import threading
+import re
 
 opti = False
 if opti:
@@ -12,9 +13,13 @@ else:
     from translate import Translator
 
 class chioce:
+    '''
+
+    '''
     def __init__(self, content, type='theme'):
         self.content = content
-        if content[:5] == 'JSON:':
+        # if content[:5] == 'JSON:':
+        if re.match('JSON:', content).span():
             temj = json.loads(content[6:])
             self.text = temj['text']
             if type == 'url':
@@ -104,7 +109,18 @@ class Custom():
                 'Riddit' : 'https://www.reddit.com/search/?q=%s', 
                 'E-hentai' : 'https://e-hentai.org/?f_search=%s',
             }
-        
+     
+    def __openWeb(self, theme):
+        if self.__search_type_s == 'url':
+                webbrowser.open(theme)
+        elif self.__search_type == 'random':
+            rweb = random.choice(list(self.__web_dict.values()))
+            webbrowser.open(rweb % (theme))
+        elif self.__search_type == 'single':
+            if self.__search_type_s == 'theme':
+                rweb = self.__web
+                webbrowser.open(rweb % (theme))
+                   
     def handle_theme(self, theme_ipt, obj):
         if self.__language == 0:
                 theme = theme_ipt
@@ -124,19 +140,7 @@ class Custom():
                 self.__openWeb(theme)
                 obj.after(0, obj.upUiGoto())
             thread_trans = threading.Thread(target=Translate)
-            thread_trans.start()
-
-    def __openWeb(self, theme):
-        if self.__search_type_s == 'url':
-                webbrowser.open(theme)
-        elif self.__search_type == 'random':
-            rweb = random.choice(list(self.__web_dict.values()))
-            webbrowser.open(rweb % (theme))
-        elif self.__search_type == 'single':
-            if self.__search_type_s == 'theme':
-                rweb = self.__web
-                webbrowser.open(rweb % (theme))
-            
+            thread_trans.start()            
 
     def openWeb(self, theme_ipt, obj = None):
         self.handle_theme(theme_ipt, obj)
@@ -152,7 +156,6 @@ class Custom():
             'search_type_s' : self.__search_type_s,
             'width' : self.__width,
             'height' : self.__height,
-            'theme' : self.__theme
         }
 
         f.write(json.dumps(setting_user))
@@ -214,3 +217,6 @@ global listener_v
 listener_v = None
 
 custom = Custom()
+
+if __name__ == '__main__':
+    print(chioce('JSON: {"text": "云南这个“复古小城”，好像停在了旧时光里", "url": "https://www.bilibili.com/video/BV1Hj1jYKECK/"}').text)

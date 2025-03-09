@@ -1,3 +1,5 @@
-cd $HOME/temp/raz
-source ../raz-python/bin/activate
-python main.py
+#!/usr/bin/bash
+
+cd ~/temp/raz
+
+.venv/bin/python main.py

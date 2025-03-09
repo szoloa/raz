@@ -1,3 +1,0 @@
-cd $HOME/temp/raz
-source .venv/bin/activate
-python razcli.py
