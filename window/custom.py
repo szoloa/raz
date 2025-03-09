@@ -19,7 +19,7 @@ class chioce:
     def __init__(self, content, type='theme'):
         self.content = content
         # if content[:5] == 'JSON:':
-        if re.match('JSON:', content).span():
+        if re.match('JSON:', content):
             temj = json.loads(content[6:])
             self.text = temj['text']
             if type == 'url':
@@ -219,4 +219,4 @@ listener_v = None
 custom = Custom()
 
 if __name__ == '__main__':
-    print(chioce('JSON: {"text": "云南这个“复古小城”，好像停在了旧时光里", "url": "https://www.bilibili.com/video/BV1Hj1jYKECK/"}').text)
+    print(chioce('{"text": "云南这个“复古小城”，好像停在了旧时光里", "url": "https://www.bilibili.com/video/BV1Hj1jYKECK/"}').url)
