@@ -23,26 +23,21 @@ class vedioSpider:
         timeArray2 = time.strptime(a2, "%Y-%m-%d %H:%M:%S")
 
         sjc1 = max(int(time.mktime(timeArray1)), 1245945600)
-
         sjc2 = min(int(time.mktime(timeArray2)), time.time())
 
         self.url = f'https://search.bilibili.com/all?keyword={key}&pubtime_begin_s={sjc1}&pubtime_end_s={sjc2}'
 
         # url = 'https://space.bilibili.com/3493277087042285/video'
 
-        # Chrome driver configuration with headless mode disabled for debugging
         chrome_options = Options()
         # Uncomment below line to run in headless mode
         # chrome_options.add_argument('--headless')
         # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-        self.driver = webdriver.Chrome(service=ChromeService('./chromedriver'), options=chrome_options)
-        # driver = webdriver.Chrome(options=chrome_options)
+        self.driver = webdriver.Chrome(service=ChromeService("/usr/local/bin/chromedriver"), options=chrome_options)
         self.driver.get(self.url)
-        # Start scraping
 
         self.navigate_and_scrape()
 
-        # Close the driver after scraping is complete 
         self.driver.quit()
 
     
@@ -64,7 +59,7 @@ class vedioSpider:
                         duration = i.find(class_='bili-video-card__stats__duration').text.strip()
 
                         # Extract view count and filter for videos with more than 5万 views
-                        if '万' in item_times and float(item_times.replace('万', '')) > 5:
+                        if '万' in item_times and float(item_times.replace('万', '')) > 5 and int(duration[:2]) >= 1  :
                             for t in i.find_all('a'):
                                 video_link = self.host + t.get('href')
                                 if 'www.bilibili.com/video' in video_link:
