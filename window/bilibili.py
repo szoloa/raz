@@ -81,9 +81,9 @@ class VideoSpider:
                             video_path = link_elem['href']
                             video_link = urljoin(self.host, video_path)
                             if self.type_opt == 'json':
-                                # f.write(f'{{"text": "{title}", "url": "{video_link}"}}\n')
+                                f.write(f'{{"text": "{title}", "url": "{video_link}"}}\n')
                             else:
-                                # f.write(f'{video_link}\n')
+                                f.write(f'{video_link}\n')
                             self.handle(f"Saved: {title}")
             except Exception as e:
                 self.handle(f"解析视频出错: {e}")
